@@ -177,15 +177,15 @@ GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la tu
 				El fantasma describiÓ lo incÓmodo que era ese proceso, ¡pero nos dijo que le permitiÓ influir en las fases lunares!	幽霊によれば、このやり口はそれなりの;~「代償」も払うことになるが、;~月の満ち欠けは自在に操れるらしい。				
 				"""La cosa es que, desde que hice trampas, sufrÍ siempre ansiedad severa de rata y me morÍ de la vergÜenza."""	「思わずいじってしまって以来;~ビビっちゃってね、;死ぬほど恥ずかしがってたら、;~本当に死んじまったよ」				
 GRAVE_HOLLOW	The Scythian			Dentro de un Árbol hueco titÁnico vimos una tumba solitaria, y eso nos despertÓ un poco la curiosidad.	巨大樹は空洞化しており、中にはポツンと;~墓があった。;誰が眠っているのだろうか。				
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de un Árbol hueco titÁnico nos acercamos a una tumba solitaria y un fantasma cabrÓn comenzÓ a recitarnos una rima alocada.	巨大樹の内側にさびしげな墓がある。;~ここに眠るいかつい幽霊が;有用な情報を~教えてくれた。		117	028.jpg	E2A80
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de un Árbol hueco titÁnico nos acercamos a una tumba solitaria y un fantasma pÍcaro comenzÓ a recitarnos una rima alocada.	巨大樹の内側にさびしげな墓がある。;~ここに眠るいかつい幽霊が;有用な情報を~教えてくれた。		117	028.jpg	E2A80
 				"""Monitorea los estados de Ánimo de la luna y aprenderÁs cuÁndo estar dÓnde y cÓmo."""	「月の満ち欠け、お前気にかけ、;~それがきっかけ、未来への道行け♪」				
-				"""TambiÉn quiero que sepas que no estoy intentando asustaros deliberadamente mirando tan cabronamente como lo hago."""	「俺の見かけ、普段着なだけ、;~怖がらせるわけないわけ、;~それだけは知っとけ♪」				
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un Árbol hueco titÁnico nos acercamos a una tumba solitaria y un fantasma cabrÓn comenzÓ a recitarnos una rima alocada.	空洞化した巨大樹の中にある;寂しげな墓に~近寄ると、;ドープな幽霊が現れて;~イルなライムを届けてくれた。		117	028.jpg	E2A80
+				"""TambiÉn quiero que sepas que no estoy intentando asustaros deliberadamente luciendo tan increÍble como lo hago."""	「俺の見かけ、普段着なだけ、;~怖がらせるわけないわけ、;~それだけは知っとけ♪」				
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un Árbol hueco titÁnico nos acercamos a una tumba solitaria y un fantasma pÍcaro comenzÓ a recitarnos una rima alocada.	空洞化した巨大樹の中にある;寂しげな墓に~近寄ると、;ドープな幽霊が現れて;~イルなライムを届けてくれた。		117	028.jpg	E2A80
 				"""Busca a los duendes silvanos en el camino tras de ti con los ojos y las orejas abiertas a su espumoso sonido."""	「ここに来るまでの道、探し出して吉、;~目と耳使えばこだまの泡キャッチ♪」				
 				"""EnvÍa a los cinco duendes silvanos a los cielos para provocar un milagro que atraerÁ al Trigon que buscas."""	トータル５匹の森の精、;~皆、空へ還せば奇跡 you say、;~んでトライゴン発見、冒険発展♪				
-GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un Árbol hueco titÁnico nos acercamos a una tumba solitaria y un fantasma cabrÓn se apareciÓ y nos contÓ algunas cosas.	空洞化した巨大樹の中にある;寂しげな墓に~近寄ると、;ドープな幽霊が現れて;~イルなライムを届けてくれた。		117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un Árbol hueco titÁnico nos acercamos a una tumba solitaria y un fantasma pÍcaro se apareciÓ y nos contÓ algunas cosas.	空洞化した巨大樹の中にある;寂しげな墓に~近寄ると、;ドープな幽霊が現れて;~イルなライムを届けてくれた。		117	028.jpg	E2A80
 				"""Busca una seÑal de los duendes silvanos y canta una CanciÓn de EspadachicerÍa allÍ para revelear un Trigon escondido."""	「お前トライゴンにご執心、;~森の精を全員見つけりゃ躍進、;~そしたらソーサリーの歌を sing♪」				
-GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un Árbol hueco titÁnico nos acercamos a una tumba solitaria y un fantasma cabrÓn se apareciÓ y nos contÓ algunas cosas.	空洞化した巨大樹の中にある;寂しげな墓に~近寄ると、;ドープな幽霊が現れて;~イルなライムを届けてくれた。		117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un Árbol hueco titÁnico nos acercamos a una tumba solitaria y un fantasma pÍcaro se apareciÓ y nos contÓ algunas cosas.	空洞化した巨大樹の中にある;寂しげな墓に~近寄ると、;ドープな幽霊が現れて;~イルなライムを届けてくれた。		117	028.jpg	E2A80
 				"""AsÍ que la CanciÓn Trigon se ha acabado por ahora. ¿CuÁndo volveremos a escucharla, me pregunto?"""	「トライゴンの歌、今回はもう終了、;~次の機会を待ち続けている YO♪」				
 LOGFELLA_LOSTKEY	The Scythian			El afligido leÑador conocido como Tronco estaba totalmente fuera de sÍ por algo.	丸太さんは、やたら取り乱している。;~どうしたのだろうか。				
 			AdventureUI/keyItem	Al parecer, Tronco habÍa perdido la llave de la puerta del muro de piedra que bloqueaba el viejo camino al Mingi Taw.	どうやら丸太さんは;ミンギ・トウへ通じる~石壁の扉の鍵を;なくしてしまったようだ。				
