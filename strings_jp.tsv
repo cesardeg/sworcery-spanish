@@ -1,0 +1,111 @@
+id	English	Japanese
+GAME_NAME		スキタイのムスメ：音響的冒剣劇
+GAME_MOTTO		インプット・アウトプット・シネマ実験
+GAME_NAME_SHORT		スキタイ響剣
+WITH_SONGS		楽曲 & サウンド:
+JIM_GUTHRIE		ジム・ガスリー
+FOR_DEMO		体験版専用
+END_DEMO		これにて体験版終劇:
+SIDE_A		A面
+SIDE_B		B面
+ROTATE		回転してみる？
+INVENTORY_ROTATE		回転してみる？
+LOOK		見て
+LISTEN		聞いて
+TOUCH		触れて
+DREAM		夢
+TOUCH_ARROW_LEFT		< <触れて
+TOUCH_ARROW_RIGHT		触れて> >
+GUIDE_ARROW_LEFT		< <こっちへ
+GUIDE_ARROW_RIGHT		こっちへ> >
+OBSERVE		観察して
+INVESTIGATE		よく見て
+SHAKE		振ってみる？
+REFLECT		反射を
+BELIEVE		信じて
+BEWARE		気をつけて
+FOLLOW		ついていく？
+ROTATE_UNSHEATHE		縦持ちで抜刀
+GO_HOME		家に帰る？
+START_ARROW_RIGHT		スタート >>
+TRESPASS		侵入
+AVOID		避ける
+CONSIDER		よく考える
+PERSEVERE		がんばる
+START_OVER		やり直す？
+PROMPT_YES		はい
+PROMPT_NO		いいえ
+PROMPT_CANCEL		キャンセル
+PROMPT_SUBMIT		送信
+TWITTER_BROADCAST		ゲームの進捗はTwitterで実況できます
+TWITTER_SETTINGS		設定
+TWITTER_TWEET		ツイートする？
+TWITTER_SIGN_IN		Twitterにサインイン
+TWITTER_USERNAME		ユーザー名/メールアドレス
+TWITTER_PASSWORD		パスワード
+TWITTER_NEVERMIND		やっぱやめる
+TWITTER_TWEETING		ツイート中...
+TWITTER_SIGNING_IN		サインイン中...
+TWITTER_SUCCESS		完了！
+TWITTER_FAILED		失敗...
+TWITTER_WRONG_LOGIN		ユーザー名かパスワードが間違っています
+TWITTER_CONNECT_FAIL		接続に失敗しました
+TWITTER_SIGN_IN_ONLY		サインイン
+TWITTER_SIGN_OUT_ONLY		サインアウト
+TWITTER_SIGNED_IN		Twitterにサインインしています
+TWITTER_SIGNED_OUT		Twitterにサインインしていません
+TWITTER_FILL_OUT		すべてのフィールドに入力してください
+TWITTER_SELECT_BUTTON		選択
+TWITTER_SELECT_MSG		Twitterアカウントを選んでください
+TWITTER_NO_ACCOUNTS		こちらのデバイスでTwitterの;アカウント登録をしていないようです。;iOSデバイスの設定で新しく作成、;もしくは追加することができます
+TWITTER_REQUESTING		アクセス中...
+EPITAPH		かのマイオティス湿地にはもはや秘密など残されていない
+FIGHT		戦う？
+DARKMOON_COUNT_9		暗月まであと9日
+DARKMOON		暗月
+BRIGHTMOON		明月
+DARKMOON_BEFORE_NUM		暗月まであと
+DARKMOON_AFTER_1		日
+DARKMOON_AFTER_MORE		日
+BRIGHTMOON_BEFORE_NUM		明月まであと
+BRIGHTMOON_AFTER_1		日
+BRIGHTMOON_AFTER_MORE		日
+TIME_PARADOX		* タイム パラドックス *
+ERRAND_END		使命はついに果たされた
+BEWARE_BOOR		クマズリーに注意
+MOVE_CONTROLS		タッチし続けると移動
+STOP_CONTROLS		トントンして立ち止まる？
+STOP_CONTROLS_ARROW		< <トントンして立ち止まる？
+SLAY		息の根を止める？
+ZOOM_CONTROLS		< < <  ピンチでズーム？ > > >
+LOOK_CONTROLS		< < タッチし続けて移動させて見渡す
+LOOK_CONTROLS_2		スワイプで見渡す
+TONGUE_TEXT		傾け、抜刀し、スキタイの剣を幾秒か、;虹に向けて掲げよ。;意志あるところに道は通ず
+TOUCH_HOLD		タッチし続ける
+TOUCH_HOLD_ARROW_LEFT		< <タッチし続ける
+TOUCH_HOLD_ARROW_RIGHT		タッチし続ける> >
+TIP_TAP_QUESTION		トントンする？
+TIP_TAP_ARROW_LEFT		< <トントンする
+TIP_TAP_ARROW_LEFT_Q		< <トントンする？
+TIP_TAP_ARROW_RIGHT		トントンする> >
+RUB		こする
+QUIT		やめる？
+TAP_ARROW_LEFT		< <タップする
+TAP_QUESTION		タップする？
+MOON_TIME_1		さっき
+MOON_TIME_2		ちょっと前
+MOON_TIME_3		けっこう前
+MOON_TIME_4		ずいぶん前
+MOON_TIME_5		かなり前
+MOON_TIME_6		ずっとずっと前
+COSMIC_FRIENDS		さて、これで僕らは永遠にコズミックフレンドだ…いいね？
+The Scythian		スキタイのムスメ
+Girl		オトメちゃん
+Logfella		丸太さん
+Dogfella		イヌさん
+The Archetype		アーキタイプ
+EXIT		終了
+RESOLUTION		解像度
+RESET		リセット
+HASHTAG_SWORCERY		#スキムス
+DIGIT_STRING		０１２３４５６７８９

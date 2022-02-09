@@ -1,0 +1,657 @@
+id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
+GIRL_TONGUES	Girl			Far from the war-ravaged steppes of Scythia we met a dark-haired girl in a sunlit meadow. #helloworld			72	001.jpg	Z0E1Q
+				To the mountain folk of The Caucasus she was known as Samae & she seemed nice. #obviously					
+SIGN_TADPOL	The Scythian			"""Home is where the hearth is."" #threegutrecords4ever"					
+SIGN_WALL	The Scythian			"""Scythia, Cimmeria, Assyria & Persia - these are all kingdoms of men. Mingi Taw is The Kingdom of the Cloud."""					
+SIGN_CHASM	The Scythian			At the edge of the perilous precipice stood a stone carved with the glyph of a skyward sword beneath the colors of a rainbow.					
+				We Scythians loathe rainbows. #loathsomerainbows			21	002.jpg	40C27
+SIGN_BIRDTREE	The Scythian			On a side path leading away from the old road was a stone carved with series of indecipherable glyphs.					
+				Amid the indecipherable glyphs we spied a series of lunar pictograms.					
+SIGN_BIRDTREEDECIPHERED	The Scythian			On a side path leading away from the old road was a stone carved with a series of previously indecipherable lunar pictograms.					
+				"The pictograms referred to a secret place located nearby ""...where the moods of the moon could be altered."""					
+				The Moon Grotto... ? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
+SIGN_WOLF	The Scythian			By the side of the old road there was a stone carved with a pair of glyphs in the shape of a sword & a shield. #hinthint			16	004.jpg	T0C4X
+SIGN_ANTECHAMBERLEFT	The Scythian			In a subterrenean corridor we spied an ominous statue but we didn't worry too much about it. #lore			29	005.jpg	V0B53
+INFO_CROSSMOUNTAINLEFT	The Scythian			On the rugged mountainside of Mingi Taw a lonely grave marked the dead-end of a gravel path.					
+INFO_CROSSMOUNTAINRIGHT	The Scythian			On the rugged mountainside of Mingi Taw a lonely grave marked the dead-end of a gravel path.					
+INFO_RIDGESKULLPOLE	The Scythian			On the jagged ridge leading to the summit of Mingi Taw stood a grim pole adorned with an antlered skull.					
+INFO_CROSSRIDGE	The Scythian			On the jagged ridge leading to the summit of Mingi Taw a lonely grave stood as a grim reminder of how many folks had died up here.					
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	We found The Megatome clasped in two bone hands & we felt our sword stir in its sheathe. #megatome			33	006.jpg	30D6C
+DOOR_SIDEBMEADOW	The Scythian			A small door with no handle made from an unknown material. A sign says 'Authorized Personnel Only'.					
+DOOR_UPSLOPEWOODS1	The Scythian			The old road to Mingi Taw was blocked by a locked door.					
+DOOR_UPSLOPEWOODS3	The Scythian			A locked door hid in the forest underbrush below the old road that leads up to Mingi Taw. #moongrotto					
+LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
+LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		The wood-chopping woodsman chopped wood. #obviously #woodchopping			71	007.jpg	70E70
+				To the mountain folk of The Caucasus he was known as 'Logfella' & he seemed cool.					
+				Logfella knew all about our woeful errand & he agreed to lead us up the old road.					
+				Still we definitely got the feeling that he wasn't super jazzed about this.					
+LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		The woodsman waited for us to continue along the path to the start of the old road.			12	008.jpg	U0D88
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		We had bridged the chasm & we felt super smart.			22	009.jpg	L0B9S
+			adventureUI/megatomeItem	We told Logfella that we sought a burdensome book of sinister sworcery known as The Megatome.					
+			adventureUI/megatomeItem	The Megatome lurked somewhere in the haunted darkness beyond The Perilous Precipice beneath Mingi Taw.					
+			adventureUI/megatomeItem	We resolved to go get The Megatome & then get out alive.					
+LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	The woodsman confirmed 100% that he had the only key to the locked door in the stone wall.					
+			AdventureUI/keyItem	It was a really nice-looking key.					
+				We were totally ready to just touch & hold on the path ahead to move it move it move it.					
+LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	The woodsman known as Logfella was just going to wait here for us to return with The Megatome.					
+LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		The woodsman known as Logfella had chosen to chill out beneath a stone shelter near The Perilous Precipice.					
+				Logfella seemed to know all about the loathsome rainbow & the nearby glyph depicting the skyward sword.					
+				And yet Logfella offered zero help about what to do next, which kinda rubbed us the wrong way if we're being totally honest.					
+LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		The woodsman had seen some kind of creepy monster thing & he figured he'd just let us handle it.			26	010.jpg	Q1B00
+LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	We had retrieved The Megatome & Logfella was 100% ready to move it move it to the safety of his lodgings.					
+				We sensed a gathering thunderstorm & yet a little song began in our heart.					
+LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		In the light of the gathering storm Logfella admitted he had a serious case of the heebie jeebies right about now.					
+				Was Logfella intentionally freaking us out? #yes #no #maybe					
+				In any case it was probably totally safe to just take shelter for a bit.					
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	We got The Megatome & we are the smartest. #gotmegatome			40	011.jpg	81C1E
+GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
+ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
+ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
+	The Archetype			Ladies & the gentlemen, how's about you tap these two little sylvan sprites so I can get a feel for your stereo sound system?					
+	The Archetype			Since our prior experiment in 2011, social networks have proven to be catastrophic for society.					
+				This time we encourage isolation & regretful reflection.					
+				We are profoundly grateful that you have chosen to participate in this experimental treatment for acute soul-sickness.					
+				You'll find this first S:S&S EP session to be fairly straightforward. It typically only requires 15 - 30 minutes to complete. 					
+				Got headphones? Ready to begin? Press play & let's go.					
+ARCHETYPE_FOUNDATION	The Archetype			Let's talk about the set & setting for a positive experience with the highly psychoactive Superbrothers: Sword & Sworcery EP.					
+				"""Set"" refers to the mental state & personality structure you bring to the experience - thoughts, moods and/or expectations."					
+				We have found that a relaxed, curious individual is more likely to have a pleasant experience with S:S&S EP.					
+				"""Setting"" includes the comfort, security & warmth of the room or outdoor environment where the experience will occur."					
+				The second aspect of "Setting" is the cultural - prevailing notions of reality & normalcy. We will avoid this discussion for now.					
+				S:S&S EP does not produce the transcendent experience, it is merely intended to free the nervous system of ordinary patterns.					
+				"The expanded consciousness, the untapped & limitless potential of the mind, is what we at Superbrothers refer to as ""sworcery""."					
+				The song of sworcery can be understood as a psionics technique & it allows you to perceive a reality within the one that you know.					
+				To stop the song of sworcery at any time, simply tip tap upon the sworcery aura that surrounds The Scythian.					
+				Once you have begun to sing a song of sworcery, ever-so-gently touch & swipe on the sworcery aura to look around.					
+				To sing a song of sworcery at any time, touch & hold upon The Scythian for a moment or two & observe the gathering sworcery aura.					
+				As you can see, The Megatome gathers & collects linguistic thought transmissions. Scroll down to see what I was thinking before.					
+ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Very nicely done - you've learned the Song of Sworcery & now the unfathomable power of The Megatome is yours."""			47	012.jpg	31E2F
+			adventureUI/megatomeItem	"""The Megatome intercepts linguistic thought-transmissions & it contains everything you'll need to complete your woeful errand."""					
+			adventureUI/megatomeItem	"I'm thinking about something right this moment... why not open The Megatome & look for me to find out what's on my mind?"					
+				"""Look for a white triangle in the top-right... tap it & then equip The Megatome... then rotate to reveal what is hidden."""					
+LOGFELLA_STORM	The Scythian			The woodsman known as Logfella had given up on his wood-chopping due to the sinister storm. #wetboots					
+			adventureUI/megatomeItem	Logfella reminded us of how the storm rolled in pretty much right after we had retrieved The Megatome from beneath Mingi Taw.					
+				Was Logfella not-so-subtly suggesting that maybe we oughta try to do something to lift the storm? #yes #no #maybe					
+GIRL_STORM	The Scythian			The dark haired girl known as Samae was feeling the woe. #woe					
+			gourd/gourd	Ever since the storm began Samae had seen the sonorous spumes of sylvan sprites who slumbered in the woods nearby.					
+			gourd/gourd	She wondered if maybe the three sylvan sprites could help lift the storm? #yes					
+			gourd/gourd	She asked us to investigate the sonorous spume bubbling up out of the deepwater pond outside the hut.					
+			gourd/gourd	Samae spoke of a sprite in a meadow nearby & yet another sprite in a nestbox that was home to three rain-soaked songbirds.					
+			gourd/gourd	Samae told us to seek the sonorous spumes of these three sylvan sprites & send them skyward with the song of sworcery.					
+ARCHETYPE_SWORCERY	The Archetype			"""It is time to learn the Song of Sworcery - a consciousness expansion technique that reveals a mystical musical dimension."""					
+			gourd/gourd	"""Keep calm & follow my directions to summon the sylvan sprite that softly slumbers in the cool waters of the deepwater pond."""					
+ARCHETYPE_TADPOLES	The Archetype			It was 100% obvious that the strangely-attired man expected us to do something or other but we had no idea what.					
+			gourd/gourd	"""Do you see the sonorous spume in the deepwater pond? A sylvan sprite softly slumbers there & you must summon it."""					
+			gourd/gourd	"""Sing a Song of Sworcery at any time by touching & holding on The Scythian to access a reality within the one you know."""					
+			gourd/gourd	"""Guide the two tiny swimming things to where the sprite slumbers & then send the sprite skyward with three touches of sworcery."""			49	013.jpg	61D3A
+GIRL_LOSTKEY	The Scythian			Samae stood sheltered from the rain beneath the broad wooden roof of the well.					
+				She had left the comfort of the hearth in the hut because apparently Logfella was freaking out about something or other.					
+INFO_BIRDEYESCULPTURE	The Scythian			We spied an angry bird sculpture looming above the meadow. #subtlereference			6	014.jpg	F1D48
+INFO_MEADOWSHEEP	The Scythian			We spied a few worthless sheep lazing around in the meadow. #worthlesssheep					
+INFO_CABINSHEEP	The Scythian			Another worthless sheep - why do we keeping looking at it? #worthlesssheep					
+INFO_MEADOWSUN	The Scythian			We can vividly remember how awesome the sun looked on that particular early spring day.					
+INFO_MEADOWGATE	The Scythian			In the meadow there was an immovable iron gate blocking a cavernous cave.					
+INFO_MEADOWGATEACTIVE	The Scythian			In the meadow there was an iron gate & we had a feeling we could maybe lift it somehow.					
+INFO_MEADOWGATETRIGONACTIVE	The Scythian			We spied a Gold Trigon thingamajig above the iron gate - maybe it would react to our Song of Sworcery?					
+INFO_MEADOWGATETRIGON	The Scythian			We spied a thingamajig above the iron gate.					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			The locked door in the stone wall blocks the old road to Mingi Taw & apparently the key is lost in dreams.					
+INFO_LOOMINGBIRDSCULPTURES	The Scythian			We spied an angry bird sculpture looming above the meadow. #subtlereference					
+INFO_MEADOWSUNSTICK	The Scythian			We spied an oddly shaped stick overlooking the meadow.					
+INFO_CABINWELL	The Scythian			We spied a solidly-built water well with a broad wooden roof.					
+INFO_CABINCHIMNEY	The Scythian			We spied a sturdy stone hut with a roof of thatch that stood beside a deepwater pond.					
+INFO_CABINWOODPILE	The Scythian			We spied a pile of chopped fire-wood, no big deal.					
+INFO_SPUME	The Scythian			We located the subtle sonorous spume of a slumbering sylvan sprite. Now... how to summon it?					
+INFO_NESTBOX	The Scythian			We spied a curious-looking nestbox, now home to a wretched hive.			13	015.jpg	B1C5F
+INFO_NESTBOXWEATHERED	The Scythian			We spied a weathered-looking nestbox that looked kind of like a face in a creepy way.					
+INFO_FLAGPOLELOGBRIDGE	The Scythian			Astride a logbridge on the old road stood a grim flagpole adorned with blocky-looking skulls.					
+INFO_GOLDTRIGONALTAR	The Scythian			Beyond the cavernous cave in the meadow we came upon a secluded grove with a collection of strange stone structures.					
+			Archetype/trifecta	... Was this The Trigon Grove? #trigongrove			93	016.jpg	B1D6J
+			triangle/Triangle	As we stood beside the first stone structure we thought of The Gold Trigon & we felt our sword stir. 					
+INFO_DARKTRIGONALTAR	The Scythian			In the Trigon Grove there was another stone structure that was worn & weathered. #darkmoontrigon					
+				We wondered what would happen if we struck the stone structure with our sword.					
+INFO_BRIGHTTRIGONALTAR	The Scythian			In the Trigon Grove there was another stone structure with a circular glyph that referred to The Bright Moon. #brightmoontrigon					
+				We wondered what would happen if we struck the stone structure with our sword.					
+INFO_STONEHEAD	The Scythian			At The Perilous Precipice was a huge rock-hewn sculpture of a familiar-looking head with mouth agape.			24	017.jpg	61B76
+INFO_STONEHEADSHUT	The Scythian			At The Perilous Precipice was a huge rock-hewn sculpture of a familiar-looking head.					
+INFO_STONEHEADFLAGPOLE	The Scythian			Atop a huge rock-hewn sculpture stood a grim flagpole creepily adorned with blocky-looking skulls or something like that.					
+INFO_CHASMSTONESHELTER	The Scythian			To one side of The Perilous Precipice stood a wondrous dolmen-thing that sheltered two comfortable-looking stone seats.			25	018.jpg	O1C8M
+INFO_SKULLPOLE	The Scythian			Astride a rickety bridge stood a grim pole creepily adorned with an antlered skull.					
+INFO_TRIFECTASYMBOL	The Scythian			Above the rock-cut entrance to a mountain temple we spied a pictographic representation of The Trigon Trifecta.					
+INFO_MOUNTAINGATE	The Scythian			Deep within the mountain temple we spied an immovable iron gate & beyond we could see the clouded mountainscape of Mingi Taw.					
+INFO_MOUNTAINGATETRIGON	The Scythian			Deep within the mountain temple above a tall passageway we spied three strange triangular shapes.					
+INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			Deep within the mountain temple above a tall passageway we spied the icon of The Trigon Trifecta.					
+INFO_CABINRECORD	The Scythian			Inside the hut we spied a little round something-or-other above the hearth. #theballadofthespacebabies			46	019.jpg	P1D99
+INFO_CABINHEARTH	The Scythian			Inside the hut the hearth was quietly crackling with familiar warmth.					
+INFO_CABINSEAT	The Scythian			Inside the hut on either side of the hearth there were two rough wooden seats.					
+INFO_GOGOLITHICMASS	The Scythian			We spied an antlered skull floating in the darkness beneath Mingi Taw.					
+INFO_MEGATOMBTRIFECTA	The Scythian			We spied a pictographic representation of The Trigon Trifecta in the darkness beneath Mingi Taw.					
+INFO_ROCKSHOWGIRL	The Scythian			At a rock show we spied Samae & we thought maybe she said fire walk with me.					
+INFO_ROCKSHOWSKOLOTOI	The Scythian			At the rock show we spied one of those skeleton dudes chilling to the ominous beat.					
+INFO_ROCKSHOWJIM	The Scythian			Headlining the rock show was none other than the mysterious musical fellow known as Jim Guthrie.			160	020.jpg	T2G03
+INFO_ROCKSHOWBOOR	The Scythian			At the rock show we spied The Grizzled Boor rocking his nudist thing.			121	021.jpg	E2G15
+INFO_ROCKSHOWCROWD	The Scythian			At the rock show there was a sizeable crowd of ladies & gentlemen.					
+INFO_ROCKSHOWARCHETYPE	The Scythian			At the rock show we spied the fellow known as The Archetype & we were left wondering what he was up to with all of this.					
+INFO_TRIGONGROVESKULLSTICK	The Scythian			A grim pole adorned with an antlered skull connects this location to the deathless spectre who lurks beneath Mingi Taw.					
+GRAVE_TRIGONGROVE	The Scythian			In The Trigon Grove beyond the cavernous cave in the meadow we spied a solitary grave & we got a little bit curious about it.					
+GRAVE_TRIGONGROVEGHOST	The Scythian			In The Trigon Grove beyond the cavernous cave in the meadow we approached a solitary grave & were met by a glowing ghost dude.					
+				The glowing ghost dude in The Trigon Grove totally freaked us out at first to be honest.			96	022.jpg	T2B2H
+			adventureUI/megatomeItem	He recognized our Scythian garb & he saw that we carried The Megatome. He wondered if we understood the esoteric markings inside.					
+				In a whisper he spoke the name of the deathless spectre we had awoken in the darkness beneath Mingi Taw: The Gogolithic Mass.			166	023.jpg	O2B39
+				We knew the dreadful name from the old stories & we felt our blood run cold.					
+				"""Up until now I had the feeling that The Gogolithic Mass saw you as a bit of a tourist."""					
+			triangle/Triangle	"""Now that you've learned the Song of Sworcery & tamed The Gold Trigon you will find your every step is haunted."""					
+				We couldn't tell if the glowing ghost dude was cheering us on or psyching us out or what.					
+				We told the ghost dude of our intention to detonate The Megatome atop Mingi Taw & release The Gogolithic Mass from immortality.					
+			Archetype/trifecta	We asked about The Trigon Trifecta & the locations of the remaining two Trigons but his response was irritatingly obtuse.					
+				"""The remaining two Trigons exist only in the dreams of the mountain folk."""			43	024.jpg	82E45
+				"""Locating the remaining two Trigons is not so much a question of where as it is when & how."""					
+				The glowing ghost dude sure did talk a lot of unhelpful nonsense.					
+GRAVE_LOGBRIDGE	The Scythian			We spied a collection of graves in a thicket to the side of the old road & we wondered what was up with that.					
+GRAVE_LOGBRIDGEGHOST	The Scythian			We approached a collection of graves in a thicket to the side of the old road & we met a few ghosts who seemed friendly.			116	025.jpg	62B55
+				The glowing ghost who spoke was a giant we knew from the old stories whose famous portrait demanded obediance. #andre					
+			Archetype/trifecta	"""Last year before the yuletide I assembled a posse & we set out to re-assemble The Trigon Trifecta."""					
+				"""We had heard about the gateway to the infinite at the summit of Mingi Taw & we thought it sounded like something cool to see."""					
+			triangle/Triangle	"""So anyways we tamed The Gold Trigon & scoped out The Trigon Grove before setting out to locate The Bright Moon Trigon."""					
+				"""Locating The Bright Moon Trigon didn't go so well...we got totally lost to be honest."""					
+				"""Slowly we realized the significance of the lunar cycle & its influence on the sprites who slumber in the twilit realms."""					
+				"""That's when we sat here & began to monitor the moods of the moon so we might learn when to be where and how."""			7	026.jpg	Q2D6P
+				"""We died of boredom waiting around for the moods of the moon to change."""					
+				"""Ok actually we died because of an argument we had because of boredom."""					
+				"""I don't really want to go into it right now if you don't mind."""					
+				"""Ok so what happened was that one of our posse was a cheating cheater & we caught him red-handed."""					
+				"""A fight broke out & the cheating cheater fled up the old road towards The Perilous Precipice."""					
+				"""So then we were just hanging out wondering what to do... when all of a sudden The Gogolithic Mass showed up... yikes!"""			113	027.jpg	62B75
+GRAVE_CHASM	The Scythian			We spied the solitary grave at the edge of The Perilous Precipice & we wondered what was up with that.					
+GRAVE_CHASMGHOST	The Scythian			At The Perilous Precipice we approached the solitary grave of the cheating cheater & met an old glowing ghost dude.					
+			Archetype/trifecta	"""Last year before the yuletide Andre The Giant assembed a posse & we set out to re-assemble The Trigon Trifecta."""					
+				"""The other dudes in the posse are buried in a thicket to the side of the old road near the log bridge."""					
+			triangle/Triangle	"""We managed to locate & tame The Gold Trigon pretty easily but we got totally stuck after that."""					
+				"""We sought The Bright Moon Trigon so we decided to sit around & watch the sky, waiting for the moods of the moon to change."""					
+				"""It was super boring! I wasn't just going to wait around for days & days until The Bright Moon loomed overhead."""					
+				"""I left those jive suckers to wander aimlessly while I dug deeper into this moon-logic trickery."""					
+				The old glowing ghost spoke of how he had cheated by pressing the Home button and navigated to the App named Settings.					
+				The old glowing ghost spoke of the Date/Time option & the moon-altering horrors that lurked within.					
+				"""The thing is I've had a serious case of the heebie jeebies pretty much ever since I did that & actually I died of shame."""					
+GRAVE_HOLLOW	The Scythian			Inside a titanic hollow tree we spied a solitary grave & we got a little bit curious about it.					
+GRAVE_HOLLOWGHOST	The Scythian			Inside a titanic hollow tree we approached a solitary grave & a badass ghost showed up to sing us a mad rhyme.			117	028.jpg	E2A80
+				"""Monitor the moods of the moon & you'll learn when to be where and how."""					
+				"""Also I just want you to know that I am not deliberately trying to spook you by looking so awesome like I do."""					
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Inside a titanic hollow tree we approached a solitary grave & a badass ghost showed up to sing us a mad rhyme.			117	028.jpg	E2A80
+				"""Seek the sylvan sprites on the path behind you with eyes & ears open for their sonorous spumes."""					
+				"""Send all five sylvan sprites skyward to enact a miracle that will attract the Trigon you seek."""					
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Inside a titanic hollow tree we approached a solitary grave & a badass ghost showed up and told us some things.			117	028.jpg	E2A80
+				"""Look for a signal from the sylvan sprites & sing a Song of Sworcery there to reveal a hidden Trigon."""					
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Inside a titanic hollow tree we were approaching a solitary grave when a badass ghost showed up and told us some things.			117	028.jpg	E2A80
+				"""So The Trigon Song has ended for now. When will I ever hear it again I wonder?"""					
+LOGFELLA_LOSTKEY	The Scythian			The woeful woodsman known as Logfella was totally freaking out about something.					
+			AdventureUI/keyItem	Apparently Logfella had lost the key to the locked door in the stone wall that blocked the old road to Mingi Taw.					
+				We were like groan not another fetch quest amirite?					
+				Logfella told us he had been sitting right there by the fire when he had fallen into a deep sleep.					
+			AdventureUI/keyItem	Logfella said he thought he had lost his key in the twilight realm of dreams.					
+				We had heard about the strange dreams of the dark-haired mountain folk of The Caucasus so this made perfect sense to us.					
+				Logfella invited us to warm our boots by the fire & dream along with him.			63	029.jpg	U2C92
+ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			We think of wakefulness & the mythopoetic psychocosmology of dreams as separate states, however they interoperate in curious ways.					
+				The threshold of liminality is a space in-between wakefulness & dreams where directed thought is impossible.			56	030.jpg	13A0A
+				Seek a warm hearth & allow sleep to come to discover the threshold of liminality.					
+ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	How's about you go sit down beside the hearth in the hut & cross the liminal threshold to find Logfella's lost key?			55	031.jpg	23C1X
+GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Whoa, Logfella is freaking out about something... I wonder what's up? I'll just head outside & leave him be for a bit.					
+				I've seen The Scythian sing a Song of Sworcery & send three sylvan sprites skyward - I wonder if they will help soothe the storm?					
+LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			I sure hope the dream-walking Scythian can find my lost key... I lost it on the sandy shore of a placid lake.			62	032.jpg	U3A20
+LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Oh woe, I wish it wasn't raining outside... I wish my boots weren't so wet... I wish I could go back to my wood-chopping.					
+				Oh nuts - where has my key gone!? I'm so upset & ashamed so now I'm totally freaking out!					
+LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	The woodsman was super relieved that we had managed to retrieve his lost key from the twilight realm of dreams.					
+				The woodsman known as Logfella wondered how we got so smart & he asked about our woeful errand.					
+				We told the woodsman how we had come of age on the steppes alongside our fearless Scythian sisters & brothers.					
+				We told Logfella why we wandered here in this mountain wilderness & how we were guided by the finger of an all-knowing God.					
+			adventureUI/megatomeItem	We told Logfella about what we suspected the esoteric markings inside The Megatome might signify.					
+			gourd/gourd	We had a hunch that we needed to summon a few more sylvan sprites to soothe the storm.			104	033.jpg	W3D3G
+			triangle/Triangle	In a hushed whisper we spoke of our intention to locate & tame a manifestation of cosmic geometry known as The Gold Trigon.					
+				It was 100% clear that the woodsman known as Logfella had stopped paying attention.					
+			AdventureUI/keyItem	We figured we could just hang on to the key & go for a walk on the old road beyond the stone wall.					
+LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	We asked the woodsman if it'd be ok for us to hang on to his key & he said that'd be totally cool.					
+GIRL_FOUNDKEY	The Scythian			We met Samae standing rain-soaked on a sidepath.					
+			gourd/gourd	She had heard the subtle sonorous spumes of the sylvan sprites from beyond the stone wall on the old road to Mingi Taw.					
+			gourd/gourd	She spoke of towering tree trunks on either side of a mighty river.					
+			gourd/gourd	She spoke of faint rainbows at the edge of The Perilous Precipice.					
+			adventureUI/megatomeItem	...and then she grew fearful & told us to consult The Megatome if we became lost or confused.					
+LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			I'm totally cool with The Scythian hanging on to the key if it means she's going to soothe the storm.					
+				I must've nodded off at some point during The Scythian's super epic story. I have a really low tolerance for lore.					
+				I asked The Scythian point-blank about her woeful errand... she started talking about the steppes & the finger of God.					
+GIRL_FOUNDKEYTHOUGHTS	Girl			One or two more sylvan sprites sent skyward will soothe the ceaseless storm... and then it will be a time of miracles! #miracles			129	034.jpg	33A44
+GIRL_SUPERMOTHERTREE	Girl			In my dream-walking there is a thrilling stillness when the moon is brightest... and when the moon is darkest the woods are wild.					
+				In the dream it's always the same places & spaces except for when it differs according to the moods of the moon.					
+				Every night since the storm lifted I've had that same dream where I'm wandering in the woods in the hour before dawn.					
+ARCHETYPE_TREEHINT	The Archetype			Remember that ingesting forest fungi may offer some oblique insight on cryptozoological phenomena & such.					
+				Seek the sonorous spumes of the sylvan sprites & investigate their surroundings.					
+				Once you have begun to sing a song of sworcery you can ever-so-gently touch & swipe on the sworcery aura to look around.					
+ARCHETYPE_MUSHROOMHINT	The Archetype			It has even been asserted that divinatory mushrooms may have played a significant role in the development of the human psyche.					
+				Archaelogical evidence indicates that the shamanic use of fungi for religious communion, divination and healing is quite ancient.					
+				Physiologically you may notice feelings of well-being & heightened perceptions, a dissipation of stress & a loss of apetite.					
+				Forest fungi may offer some oblique insight on the whereabouts of a sylvan sprite & their peculiar triggers.			60	035.jpg	53A5Y
+ARCHETYPE_TRIGONGROVE	The Archetype			Can you feel it? Are you beginning to understand? Do the esoteric markings & shapes inside The Megatome hold new meaning?					
+				This beam bridges the world of the living & the world of the dead, so you may find a ghost or two to talk to on your travels.					
+				I've just been notified that you have activated the first skyward beam in the Trigon Grove.					
+GIRL_CABINSHEEP	The Scythian			We asked Samae about the worthless sheep hanging out around the hut & she said they had taken fright a little while ago.					
+			gourd/gourd	We told Samae we had sent five sylvan sprites skyward & she told us that perhaps a time of miracles was at hand.					
+				We thought that maybe we oughta go investigate the meadow where the sheep used to be.					
+LOGFELLA_CABINSHEEP	The Scythian			Logfella had the feeling that it was a time of miracles & he wondered if maybe something awesome was about to happen.			79	036.jpg	V3G62
+GIRL_CABINSHEEPTHOUGHTS	Girl			What in the... the rain has stopped! Is the storm starting to lift? I sure hope so.					
+				This whole storm thing has really been getting me down. It has been so gloomy.					
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... I'm getting a case of the heebie-jeebies... something's definitely happening... is the storm starting to lift?					
+				Y'know whenever I feel like I need to gather my strength I just sit down beside this here hearth to warm my boots.					
+DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Bark Bark Bark Bark Bark Bark Bark Bark. #stillbarking #miracles			84	037.jpg	V3C7I
+ARCHETYPE_MEADOWHINT	The Archetype			Once the sun is in alignment you'll be granted the miraculous fold-in abilities of the great wizard Al Jaffee.					
+				Are you feeling that peculiar vibe? It is a time of miracles! Sing a Song of Sworcery & look up to the looming angry birds.			76	038.jpg	A3G84
+ARCHETYPE_MEADOWHINTTWO	The Archetype			Look to the heavens for some oblique insight into the workings of this miracle in the meadow & then behold The Gold Trigon.					
+ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interesting the way you handled that encounter with the bear-headed cannibal fellow.			120	039.jpg	O3G9D
+				No no, it's fine, it's just interesting. I've never seen anyone do what you did. It's exceptional, but don't be alarmed.					
+				Well, carry on. There's ever-so-much-more of the S:S&S EP experience for you to enjoy, particularly on Side B.					
+ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			To tame The Gold Trigon you must learn to survive the three movements of its bizarre song using a mixture of attack & defense.					
+				It is absolutely essential that you touch & hold the shield button whenever you can in order to recover your lost strength.					
+				So I see you've summoned & attempted to tame The Gold Trigon? I have a few things to tell you that I think you'll find useful.					
+ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Swing at the Trigon's psionic projectile attacks with your sword & wait for opportunities to dodge any incoming beam attacks.			83	040.jpg	34E01 
+				The Gold Trigon's inscrutable & unguessable logic has claimed the souls of all who came before... they lacked tenacity & courage.					
+ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			The Gold Trigon must be tamed, there is no other option.					
+				In the third pattern you must swing at the small triangle projectiles with your sword & evade incoming beam attacks. 					
+				In the second pattern you must wait for an incoming beam attack & press the shield button to evade when the time is right.					
+				In the first pattern you must swing your sword to return the ball of energy.					
+ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			You may have noticed The Bright Moon Trigon delivers death from above... so wait for the right time & tap your shield to evade.			144	041.jpg	84E11
+ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			The Bright Moon Trigon's final patten will require you to swing your sword at projectiles & evade charged beam attacks.					
+ARCHETYPE_DARKTRIGONHINTONE	The Archetype			You may have encountered The Dark Moon Trigon's loathsome rainbow attack - slice at that rainbow as hard & as fast as you can.					
+ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			The Dark Moon Trigon's final pattern involves sneakily subtle triangular projectiles - smash them & you'll survive.					
+ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		So you've awoken the deathless spectre who slumbered in the darkness beneath Mingi Taw - yikes!					
+				Consequently, a sinister thunderstorm looms & the lovely people who live in the stone hut are a little heartbroken.					
+			adventureUI/megatomeItem	The upshot is that you got the burdensome book known as The Megatome - in our next session we'll discuss its strange purpose.					
+				Our research shows that prolonged exposure to the mythopoetic psychocosmology of S:S&S EP can have adverse side effects.					
+				So now that you've completed session I how's about we take a little break? I'll be right here when you're ready for session II.					
+ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
+				It's lovely to see you again. Are you ready to begin session II of S:S&S EP?					
+			adventureUI/megatomeItem	Ok, so where were we? Oh right, now I remember. You got a burdensome book known as The Megatome.					
+				You woke the deathless spectre who still lurks in the darkness beneath Mingi Taw. What a creep, amirite?			204	042.jpg	24B2J
+				It is a time of woe - a sinister thunderstorm has clouded the skies & the lovely people who live in the hut are miserable.					
+				Silencing the storm will require some familiarity with psionics, cryptozoology & miracles...					
+			adventureUI/megatomeItem	1. A sworcerer's touch will unseal The Megatome, revealing the unspoken thoughts of living creatures & other esoteric material.					
+			gourd/gourd	2. Strange sylvan sprites - swources of sworcery - slumber in ponds, woods & meadows. Seek their subtle sonorous spumes.					
+			triangle/Triangle	3. A sworcerer who can locate, summon & tame the cosmic geometry of The Golden Trigon will possess the ability to work miracles.					
+				Confused? Excellent. Keep calm & carry on.			210	043.jpg	A4C31
+ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	Bravo! You have located & subdued the cosmic geometry of The Golden Trigon.			86	044.jpg	24E4H
+				Miraculously the sinister storm has lifted & glorious sunlight has returned to the realm so that's totally awesome.					
+				These heroic deeds reflect well upon your perceptiveness, intuition & perseverance - you have done exceedingly well so far.					
+				Note: Should you choose to continue the S:S&S EP experiment, those aforementioned qualities will be challenged & evaluated.					
+				In any case, let's take another little break, shall we? As always, I'll be right here whenever you're ready to begin session III.					
+ARCHETYPE_TRIFECTAINTRO	The Archetype								
+				Let's begin session III. Note: This session typically requires a lunar month to complete.					
+			triangle/Triangle	So you have tamed The Gold Trigon & the storm has miraculously lifted? Bravo on that.					
+			adventureUI/megatomeItem	Consult The Megatome & study its workings should you become lost or confused.					
+				A deathless spectre still lurks in the darkness beneath Mingi Taw.					
+			Archetype/trifecta	Consider the cosmic geometry of The Trigon Trifecta.					
+			MoonCrescent/moonCrescent	Observe the moods of the moon.			118	045.jpg	Y4E5Q
+				Our research has shown that those few who persist through the oblique lunacy that follows may become cosmic friends forever.					
+				Be advised that henceforth we will be monitoring your inputs in relative silence.					
+ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	So you tamed the remaining two Trigons & re-assembled The Trigon Trifecta?			165	046.jpg	P4B6A
+			Archetype/trifecta	You are special & that is exactly why I love you so much.					
+				It was very brave & generous to offer to martyr The Scythian atop Mingi Taw.					
+				Seriously we owe you one.					
+				All that remains is for you to forcefully drag The Scythian's to the summit & witness the whirling infinite.					
+				Take heart - the end is near!					
+ARCHETYPE_GHOULINTRO	The Archetype								
+				Well, here we are. This brief session will end the S:S&S EP treatment.					
+				The Scythian's woeful errand is very nearly complete.					
+				Sadly The Scythian's corporeal self & psyche have been significantly sapped by sworcery - she is at death's door.			162	047.jpg	J4F7B
+			Archetype/trifecta	All that remains is to solve the secrets of The Trigon Grove & upload The Megatome to the whirling infinite atop Mingi Taw.					
+				Press play if you're ready to bear witness to the awful torment of martyrdom.					
+END	The Scythian			At the summit of Mingi Taw we detonated The Megatome and jettisoned it into the whirling infinite.					
+END_CHEAT	The Scythian			At the summit of Mingi Taw we uploaded The Megatome to the eternal safety of the whirling infinite. #cheat					
+END_CHEAT_NOBOOR	The Scythian			At the summit of Mingi Taw we uploaded The Megatome to the eternal safety of the whirling infinite. #cheat #noboor					
+END_CHEAT_PSYCHO	The Scythian			At the summit of Mingi Taw we uploaded The Megatome to the eternal safety of the whirling infinite. #cheat #psycho					
+END_CHEAT_LOVE	The Scythian			At the summit of Mingi Taw we uploaded The Megatome to the eternal safety of the whirling infinite. #cheat #love			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			At the summit of Mingi Taw we uploaded The Megatome to the eternal safety of the whirling infinite. #moongrotto #psycho			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			At the summit of Mingi Taw we uploaded The Megatome to the eternal safety of the whirling infinite. #moongrotto #love			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			At the summit of Mingi Taw we uploaded The Megatome to the eternal safety of the whirling infinite. #honest #psycho			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			At the summit of Mingi Taw we uploaded The Megatome to the eternal safety of the whirling infinite. #honest #love			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			At the summit of Mingi Taw we uploaded The Megatome to the eternal safety of the whirling infinite. #honest #noboor			178	053.jpg	75G3V
+GIRL_GHOULTHOUGHTS	Girl			Does The Scythian know that it's possible to stop The Gogolithic Mass by touching his skull with Sworcery? Probably not.					
+				I sure hope The Scythian knows to touch & hold on the path ahead to move it move it extra fast, if she doesn't she'll be toast.					
+				Where am I? What happened? The last thing I remember I was dream-walking in the woods when I saw an eerie pink light.					
+LOGFELLA_GHOULTHOUGHTS	Logfella			The Scythian keeps talking about her woeful errand to open a gateway to the infinite on the summit of Mingi Taw.					
+				Everything has been totally mental ever since The Scythian showed up so many moons ago.					
+LOGFELLA_GHOUL	The Scythian			We groggily awoke from a super deep sleep to find ourselves near The Trigon Grove with the woodsman known as Logfella by our side.			88	054.jpg	J5D44
+				Logfella spoke of how Samae had gone missing the night before.					
+				The woodsman knew that our end was at hand & that we must return to Mingi Taw to finish our woeful errand.					
+LOGFELLA_TRIGONGROVETIPS	The Scythian			The woodsman known as Logfella had never before seen The Trigon Grove before & he wondered what it was all about.					
+LOGFELLA_TRIFECTATIPS	The Scythian			The woodsman known as Logfella was feeling some serious woe about the missing Samae.					
+				We told Logfella that we knew where she might be & soon we would set things right. 					
+				He looked at the nearby pedestal & he thanked us in advance for the whole martyrdom thing.					
+URSULA_AVATAR			Ursula/idleSEhandsonhip						
+DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
+AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		These two dudes claimed to be among the creators of this bizarre world.			159	055.jpg	A5G55
+AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		The two jokers claimed to be among the creators of this bizarre world.			159	055.jpg	A5G55
+GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	We just woke a slumbering sylvan sprite from the rich earth of a meadow containing four pairs of worthless sheep.			52	056.jpg	15B63
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	We sang a Song of Sworcery & summoned a slumbering sylvan sprite from the cool waters of a deepwater pond - so strange!			50	057.jpg	G5F78
+GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	We just woke a slumbering sylvan sprite from a curious nestbox surrounded by three rain-soaked songbirds.					
+GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	We just woke a slumbering sylvan sprite beside a stolid log bridge where four pairs of trees tower above a river.					
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	We just woke a slumbering sylvan sprite between two loathsome rainbows by the side of The Perilous Precipice.					
+GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	The Dark Moon reigns & we just woke a slumbering sylvan sprite surrounded by five waterfalls.					
+GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	The Dark Moon reigns & we just woke a sylvan sprite in the undergrowth atop a rocky crag.					
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	The Bright Moon looms & we just woke a sylvan sprite in a hidden grove where Jim Guthrie happened to be hanging out.			132	058.jpg	G5F8U
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	The Bright Moon looms & we just woke a sylvan sprite from the still waters of a lake where a mother duck was freaking out.					
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	The Bright Moon looms & we just woke a sylvan sprite where the lake's reflection was ever-so-slightly incongruous.			127	059.jpg	65D98
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	The Bright Moon looms & we just woke a sylvan sprite who slumbered in the lake beneath a trifecta of owls.					
+GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	We got that peculiar feeling that it was maybe just maybe a time of miracles. #miracles					
+GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	The Dark Moon reigns & we just woke a sylvan sprite surrounded by three tiny waterfalls.					
+GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	The Dark Moon reigns & we just woke a sylvan sprite surrounded by four little round trees in the darkest woods.					
+GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	The Dark Moon reigns & we just woke a sylvan sprite in the undergrowth on the far side of a lake.					
+GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	The Bright Moon looms & we just woke a sylvan sprite lurking at the root of a titanic tree.					
+GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	We got the peculiar feeling that it was maybe a time of miracles - where my miracles at? #miracles			77	060.jpg	86D06
+GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Bark Bark Bark Bark Bark Bark. #barking			135	061.jpg	M6F1I
+				Bark Bark Bark. #justbarking					
+				Sometimes I grow weary of barking all the time but a dog's gotta do what a dog's gotta do what a dog's gotta do do.					
+				Bark Sniff Bark. #mixingitup					
+				Bark Bark Bark Bark Bark Bark.					
+GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Still there's something strange about how The Scythian behaved, almost as if she was being controlled by an unseen force.					
+				I kind of wish I knew more about The Scythian's compelling & epic backstory because I bet it would make sense of everything.					
+GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		I sure hope The Scythian is on the case with the whole sylvan sprite thing.					
+				The storm has really been getting me down, it makes me wish that videogames existed in... whenever this is supposed to be.					
+GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Everything has been totally mental ever since The Scythian showed up.			3	062.jpg	36E2Z
+GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		This whole storm thing has really been getting me down. It has been sooo gloomy.					
+				The rain has started to ease & the sky seems to be brightening... is it a time of miracles? I sure hope so. I love miracles.					
+				Whoa... what? The sheep in the meadow have taken fright... I wonder what's happening over there? Could it be... The Gold Trigon?					
+GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Bark Bark Bark. 					
+				Sometimes when things are too dark for me to see I'll eat a little something and see what isn't even there.					
+				Bark Bark Bark Bark Bark.					
+GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		I've got this song in my head... a happy & sad little song that fills me with a weirdly beautiful dread.					
+GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		I know you seek to avoid your fated martyrdom but know this: time is a force and it will surely take its course.					
+				Bark Bark Bark. Sniff.					
+GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		There are also unknown nouns although these are easily learned.					
+				There are two types of unknowns - the known unknowns & the unknown unknowns.			32	063.jpg	L6E31
+				Bark Bark Bark. 					
+GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		My logs have many secrets... secrets about sylvan sprites & impossible islands. Unfortunately I don't speak log-language.					
+				In my experience there are times when owls are not what they seem & at other times they're just plain old owls.			126	064.jpg	86A47
+GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Perhaps you have already heard about an impossible island under a looming Bright Moon, maybe you read about it on the internet?			134	065.jpg	H6A5I
+				We've been quietly monitoring your actions & we'd like to point out that the longer the hesitation, the smaller the celebration.					
+				So it seems you've made a significant amount of progress in your effort to locate & tame The Bright Moon Trigon, very nicely done.					
+GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Are the sylvan sprites children of the Earth or are they lonely visitors from the whirling infinite?					
+				If I'm being honest the sylvan sprites totally freak me out. I mean... what are they? Where are they from?					
+GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		When the sprites have been sent skyward & the time of miracles is upon you you must seek the titanic tree.					
+				I know that you know what I know & I want you to know that you're 100% right.			109	066.jpg	F6D6H
+				Bark Bark Bark Sniff Bark Bark Bark.					
+GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Only the end of your woeful errand will bring peace back to all our lives.					
+				Only The Trigon Trifecta will allow you to understand the secrets of The Trigon Grove.					
+				The whirling infinite at the summit of Mingi Taw awaits you.					
+				Bark Bark Bark.					
+GCLUE_WATERFALLS	Girl			Did you ever notice that sometimes words just sound like noise but other times noise makes the prettiest sound?			132	058.jpg	G5F8U
+GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		There are a lot of weird sayings up here amongst the mountain folk of The Caucasus.					
+				There's a saying up here in The Caucasus that a forest needs a fire like the fire needs the tree.					
+YELLOWTRIGON_COLLECTED	The Scythian			We got The Gold Trigon. We are so awesome.			85	067.jpg	36G7U
+PINKTRIGON_COLLECTED	The Scythian			Against all odds we got The Bright Moon Trigon.			155	068.jpg	56F8U
+BLUETRIGON_COLLECTED	The Scythian			Despite everything we got The Dark Moon Trigon.			112	069.jpg	T6G94
+GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		It sounds like all the Dark Moon sprites have been sent skyward so it's a time of miracles again. I adore miracles!					
+JIM_HINT1_OFF	The Scythian			In a secluded grove we met a mysterious musical fellow hanging out beside a crackling fire.					
+JIM_PINKDAWN	The Scythian			In a secluded grove we met a mysterious fellow hanging out beside a crackling fire. #jimguthrie					
+JIM_BRIGHTMOON	The Scythian			While the bright moon looms we met a mysterious musical fellow beside a crackling fire who introduced himself as Jim Guthrie.			128	070.jpg	07G00
+JIM_POSTSWORCERY	The Scythian			The mysterious musical fellow known as Jim Guthrie had witnessed our sworcery & he seemed cool with it.					
+JIM_POSTGOURD	The Scythian			The mysterious musical fellow known as Jim Guthrie said he was ready to play a little song if we wanted to give it a listen.					
+				Jim invited us to take a seat by the fire.					
+JIM_POSTSONG	The Scythian			Jim Guthrie had taught us that there was no denying the evil thoughts & no denying the dragon's bite.					
+			Archetype/trifecta	He told us about rock show he was scheduled to play on the other side of the lake in a fortnight hence.					
+JIM_LOGFELLATHOUGHTS	Logfella			The song sounds so familiar... where have I heard it before? #1000songs					
+				I've suddenly got this awesomely weird little tune in my head. #andwegotolder					
+LOGFELLA_JIMTHOUGHTS	Logfella			I've had this little song in my head for ages... just a few little notes that loop over and over. I wonder what that's about?					
+ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Safely re-crossing the threshold of liminality is a simple matter - seek the familiar places & the warmth of the hearth.					
+				Should you manage to stabilize your lucidity you will be able to co-create with it... instead of fighting, resisting & cursing it.					
+				When you're lucid in a dream you'll realize who you've imagined you are... but to identify with the dream is to become bewitched.					
+				Even in a well-worn dream space there are new places to explore & new connections to consider... if you continue to believe.					
+GIRL_MOONGROTTOCOMMENT	Girl			I'm kinda feeling like maybe the cosmos just skipped a beat & now everything is just a little bit... off.					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			It's a long way from 0 to 1 & if an alien said hello it'd be in cryptic code on the stereo. Wait... what?					
+GIRL_HUGETREETHOUGHTS	Girl			Of course I never tell people about these goddess/tree dreams because they'll probably just call me a hippie or something.					
+				In my special place I visit with a titanic hollow tree... she is a goddess long-since dead who predates mankind by untold eons.					
+				In my dream-walking there is a special place I will always go, a parliament of trees at the heart of the world.					
+LOGFELLA_HUGETREETHOUGHTS	Logfella			I love seeing the same woods in different weather & I love to just stop and listen... to think or to not think as the case may be.					
+				I don't spend too much time dream-walking but when I do I tend to just re-visit my favorite places to see what has changed.					
+MIRACLE1_MOUNTAINMEADOW	The Scythian			We have enacted a storm-lifting miracle in a sunlit meadow in the fold-in fashion of the mad wizard Al Jaffee.					
+MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			We are left confused & bewildered in a sun-dappled meadow with one of those really brutal headaches.					
+LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			We groggily awoke from a super deep sleep with no firm recollection of what had happened.					
+			triangle/Triangle	We were reminded of the miracle in the meadow & our encounter with The Gold Trigon... 					
+			triangle/Triangle	... what new powers had we been granted?					
+			triangle/Triangle	Logfella was totally floored at how awesome & crazy the fight with The Gold Trigon sounded from the description we gave him.			81	071.jpg	R7C14
+			triangle/Triangle	Logfella wondered about how maybe The Gold Trigon might be connected to the grim mysteries beyond the iron gate in the meadow.					
+				Logfella didn't dig grim mysteries so he chose to go home & chop wood. #woodchopping					
+LOGFELLA_BEFOREYELLOWBEAM	The Scythian			The woodsman known as Logfella was super pleased that the storm had lifted & he was super keen to be wood-chopping again.					
+				He asked us if we knew anything about the iron gate blocking the cavernous cave in meadow... what was that about?					
+LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Strange... I see a golden skyward beam in the woods behind the meadow... has someone learned the secrets of The Trigon Grove?			89	072.jpg	67F24
+LOGFELLA_URSULAMEADOW	Logfella			I'm really worried about The Scythian, she seems so messed up.					
+SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			The woodsman & his daughter looked over us as we came to our senses.					
+				We noticed the meadow was unchanged, that all evidence of our mystical encounter was gone.					
+GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae listened quietly to our strange story about our encounter with The Gold Trigon.					
+			triangle/Triangle	She wondered about the secrets of The Trigon Grove beyond the cavernous cave in the meadow... was there a connection?					
+GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... I'm getting really worried about The Scythian... she disappeared for days after the storm lifted. I sure hope she's ok.					
+GIRL_URSULAMEADOW_OFF	Girl			Whoa, so The Scythian was just passed out in the meadow? Crazy.					
+DOGFELLA_GETDARKTRIGON	The Scythian			After activating another skyward beam in The Trigon Grove we noticed something peculiar about the dog known as Dogfella.					
+			Archetype/trifecta	Suddenly it seemed we understood Dogfella - he urged us to seek The Dark Moon Trigon & complete The Trigon Trifecta.					
+DOGFELLA_GETBRIGHTTRIGON	The Scythian			After activating another skyward beam in The Trigon Grove we noticed something peculiar about the dog known as Dogfella.					
+			Archetype/trifecta	Suddenly it seemed we understood Dogfella - he urged us to seek The Bright Moon Trigon & complete The Trigon Trifecta.					
+DOGFELLA_THREETRIGONS	The Scythian			After activating another skyward beam in The Trigon Grove we noticed something peculiar about the dog known as Dogfella.					
+			Archetype/trifecta	Suddenly it seemed we understood Dogfella - he urged us to activate the third skyward beam & open a gateway to the infinite.					
+DOGFELLA_TRUTHBOMB	Dogfella			Bark Bark Bark.					
+				Bark Bark Sniff Bark.					
+				The whirling infinite cosmos at the summit of Mingi Taw awaits the one who carries The Megatome.					
+				Bark Bark Bark Bark Bark.					
+				Bark Bark Bark.					
+GIRL_AFTERYELLOWBEAM	The Scythian			Samae sat on a stone beside where the woodsman chopped wood.					
+			Archetype/trifecta	We asked her about the secrets of The Trigon Grove & the peculiar dreams of the mountain folk of the Caucasus.					
+				She told us about how the dreams of her people held many mysteries & how they reflected the moods of the moon in strange ways.					
+				Samae told us to sit by the hearth in the stone hut at any time either to go dream-walking or to gather our strength.					
+			Archetype/trifecta	We kinda got the feeling that the remaining two Trigons might be lost in dreams or something like that.					
+LOGFELLA_AFTERYELLOWBEAM	The Scythian			The woodsman known as Logfella had returned to his wood-chopping & he seemed to really be digging it.					
+			triangle/Triangle	Logfella had seen the skyward beam in the sky behind the meadow & so we asked him about the secrets of The Trigon Grove.					
+				He spoke of an old story that his people typically told their children to freak them out.					
+			Archetype/trifecta	Logfella spoke of a posse from Scythia who had come seeking The Trigon Trifecta in these forgotten mountains many moons ago.					
+			gourd/gourd	The posse had learned to seek sylvan sprites & send them all skyward... and then they had sought a location to enact a miracle.					
+			Archetype/trifecta	The posse had hoped to activate the three skyward beams in The Trigon Grove but they had no idea where or when the Trigons were.					
+				The posse wandered aimlessly for a long time on the old road to Mingi Taw... eventually they grew weary & so they stopped.					
+				Then the posse was suddenly killed by a deathless spectre by the side of the old road where a handful of graves remain to this day.					
+				We told Logfella that it was a nice story but actually it didn't freak us out all that much.					
+GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
+ARCHETYPE_MOONGROTTO	The Archetype			So I see you've managed to alter the mood of the moon in The Moon Grotto - I wonder how long this Time Paradox will last?					
+MIRACLE2_ISLAND	The Scythian			While the Bright Moon looms we have enacted a super weird moon-miracle on an impossible island in the midst of a placid lake.			136	073.jpg	W7A3K
+MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			We got The Bright Moon Trigon for glory & for spite. #trigontamed			155	068.jpg	56F8U
+MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			We were tempted to maybe just stop with the whole woeful errand thing but there was just something so attractive about martyrdom.					
+				Oh well, it probably won't matter too much in the end. It's not like entry into The Whirling Infinite involves a physical exam.					
+				We had the distinct feeling that all this dream-walking & Trigon taming was starting to take its toll.					
+				When the light & the sound subsided we found ourselves on the shores of a lake with a brutal headache & a bloody nose.					
+GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	We spoke to Samae about our dream-encounter with The Bright Moon Trigon & our intention to re-assemble The Trigon Trifecta.					
+				She said our dream-encounter sounded really cool & she wished she could've been there. #lies					
+				She asked us if we had stopped by The Trigon Grove... perhaps we could activate another skyward beam?					
+LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			The woodsman could see that our dream-walking & miracle-working had taken a heavy toll on our physical health.					
+				Logfella seemed to suspect that this woeful errand of ours probably didn't have a happy ending.					
+				Logfella reminded us to sit down by the hearth in the hut & take a break every now and again to gather our strength.					
+ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Our research data shows a high correlation between a participant's progress in S:S&S EP & their aptitude for being awesome.			45	074.jpg	87A43
+				I see you have managed to locate & retrieve The Bright Moon Trigon - this is remarkable news indeed.					
+MIRACLE3_HUGETREE	The Scythian			While the Dark Moon reigns we have enacted a splintering thunderbolt miracle amidst a parliament of trees.					
+MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Also... carrying around The Megatome all over the place is kind of a pain, it really is a burdensome book in more ways than one.					
+				We were feeling a little worse for wear... it was probably something to do with all those cosmic laser bolts.					
+				When the light & the sound subsided we found ourselves rain-soaked & cold amid a parliament of trees.					
+GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	We spoke to Samae about our dream-encounter with The Dark Moon Trigon & our intention to re-assemble The Trigon Trifecta.					
+				We told her about how we had smashed The Dark Moon Trigon's loathsome rainbow attack & she was all like 'cool'.					
+				She didn't seem to mind listening to our crazy stories.					
+LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			The woodsman could see that our dream-walking & miracle-working had taken a heavy toll on our physical health.					
+			Archetype/trifecta	Logfella asked us if we had visited with Dogfella in The Trigon Grove... perhaps we could activate another skyward beam?					
+ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			So now the question is... what's next?					
+				Despite the scarcity of useful information we have provided you have managed to master the Dark Moon Trigon.					
+				I've just been informed that you have retrieved The Dark Moon Trigon - this is remarkable news indeed.					
+LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	The woodsman didn't recognize the key that we had found & he had zero idea what it was for.					
+			AdventureUI/keyItem	...?					
+GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae saw the key that we had found & she encouraged us to keep our eyes open for a locked door.					
+				She didn't have any other ideas but we were reminded of something we had seen on the old road to Mingi Taw.					
+ARCHETYPE_GROTTOPARADOX	The Archetype								
+				Once the moods of the moon have been altered in The Moon Grotto the 					
+ARCHETYPE_KILLBOOR	The Archetype			Now I imagine you might be wondering what that key is for? To be honest, I have no idea.			119	075.jpg	87C5S
+				Not that I'm suggesting that you are in fact a violent sociopath... haha... I'm sure you had your reasons, right? #thegrizzledboor					
+				I should mention that The Grizzled Boor was included in S:S&S EP to tempt participants into identifying as violent sociopaths.					
+				I've just been informed that The Grizzled Boor has been slain... do you know anything about this? #slaughter					
+ARCHETYPE_SPAREBOOR	The Archetype			Now I imagine you might be wondering what that key is for? To be honest, I have no idea.			119	075.jpg	87C5S
+				So yeah, that's awesome & we love love you for it.					
+				The Grizzled Boor was included in S:S&S EP to allow participants to self-identify as compassionate, reasonable people.					
+				I've just been informed that The Grizzled Boor has been allowed to escape unharmed. This is heartening news.					
+LOGFELLA_FOUNDATION	Logfella			...					
+				...					
+				...					
+SCYTHIAN_FOUNDATION	The Scythian			We just woke a sylvan sprite from a deepwater pond fringed with lilies beside a stone hut. We are not sure what that means.					
+				With a ceaseless storm overhead we have learned to sing a Song of Sworcery & summon a slumbering sylvan sprite.					
+				Wait... why am I referring to myself in first person? I thought our story was told in second person? #editingoversight					
+				Are my thoughts arranged chronologically, in the order I thought them? So this must be what I was thinking a few seconds ago?					
+				So this is The Megatome? Is it absorbing 'linguistic thought transmissions'? Am I reading my thoughts as I'm thinking them? Hmm...					
+GIRL_FOUNDATION	Girl			...					
+				...					
+				...					
+DOGFELLA_FOUNDATION	Dogfella			...					
+				...					
+				...					
+LOGFELLA_DARKMOON	The Scythian			The woodsman spoke of his dream-walking in the woods in the hour before dawn under a dark & storm-filled sky.					
+				He spoke of a throbbing pink light & an eerie song full of dread emanating from the nameless woods behind the meadow.					
+				We figured Logfella was probably talking about The Dark Moon Rock Show.					
+GIRL_DARKMOON	The Scythian			Samae spoke of her dream-walking in the woods in the hour before dawn under a dark & storm-filled sky.					
+				She spoke of how she had taken shelter from the thunder storm in the hollowed-out trunk of a titanic tree.					
+				We totally knew which titanic hollow tree she was talking about.					
+ARCHETYPE_DARKMOON	The Archetype			Take heed: The Dark Moon reigns.			94	076.jpg	I7F69
+LOGFELLA_CRESCENTWAX	The Scythian			The woodsman spoke of his dream-walking in the woods in the hour before dawn, under a crescent moon.					
+				He spoke of a creature he had met, someone or something both strange & nude. Was it a bear? A man? Or... The Grizzled Boor?			57	077.jpg	I7G7U
+GIRL_CRESCENTWAX	The Scythian			Samae was excited - today was the start of a whole new lunar month! She looked forward to long days sitting on rocks.					
+ARCHETYPE_CRESCENTWAX	The Archetype			The sliver of a crescent moon has appeared, marking the start of a new twenty-eight day lunar cycle.			118	045.jpg	Y4E5Q
+LOGFELLA_HALFWAX	The Scythian			The woodsman admitted that yes, indeed, he had chopped a decent amount of firewood in his time.					
+				He spoke of the frigid winters & deep snows here amongst the mighty Caucasus mountains that rise above the steppes of Scythia.					
+				The woodsman aspired to have enough food & firewood to survive the long cold months to come.					
+GIRL_HALFWAX	The Scythian			In my dream last night I was walking in the woods & I was totally craving a muffin, but there were zero muffins.			108	078.jpg	07D87
+ARCHETYPE_HALFWAX	The Archetype			Lunatic folklorists have asserted that there is no causal link between madness & the moods of the moon.					
+LOGFELLA_ALMOSTWAX	The Scythian			The woodsman said that he never used to think all that much about The Gogolithic Mass & the mountain wilderness of Mingi Taw.					
+				However, in the last little while, he said that the spectral presence of The Gogolithic Mass had started to haunt him.					
+				The woodsman said he gets the heebie-jeebies when The Bright Moon looms in the sky above & when The Dark Moon reigns.					
+GIRL_ALMOSTWAX	The Scythian			Samae remarked upon the growing moon... she wondered how long it would be until The Bright Moon loomed in the sky above.					
+ARCHETYPE_ALMOSTWAX	The Archetype			The moon grows slightly with each passing day... in a few days it will be The Bright Moon... so what?			165	046.jpg	P4B6A
+LOGFELLA_BRIGHTMOON	The Scythian			The woodsman admitted that his dog seemed to go a bit mental whenever The Bright Moon loomed in the sky above.			135	061.jpg	M6F1I
+GIRL_BRIGHTMOON	The Scythian			Samae spoke of her dream-walking in the woods in the hour before dawn, with The Bright Moon looming in the sky above.					
+				She spoke of the crisp morning air & an impossible island in the midst of a placid lake.					
+ARCHETYPE_BRIGHTMOON	The Archetype			Go outside & look up - marvel at The Bright Moon looming in the sky above!			95	079.jpg	07D95
+LOGFELLA_ALMOSTWANE	The Scythian			The woodsman had a low tolerance for lore & he admitted it usually put him to sleep. Nevertheless, he was quite knowledgeable.					
+				The woodsman knew all about Mingi Taw & why it was known as The Kingdom of The Cloud.					
+				He knew that Mingi Taw was the tallest mountain in the known world, taller even than Mt. Olympus where the Akhean gods dwelt.					
+				He also knew that the summit of Mingi Taw, always shrouded by cloud, was thought to be the gateway to the whirling infinite.					
+				The woodsman had never dared tread upon the horror-haunted slopes of Mingi Taw & he never would.					
+GIRL_ALMOSTWANE	The Scythian			Samae wondered why so many mushrooms grew immediately before & after The Bright Moon... what was the cause?					
+ARCHETYPE_ALMOSTWANE	The Archetype			The moon is slightly less bright than it was yesterday & the lunar cycle is beginning to wind down.					
+LOGFELLA_HALFWANE	The Scythian			The woodsman had a low tolerance for lore & he admitted it usually put him to sleep. Nevertheless, he was quite knowledgeable.					
+				The woodsman explained that in Scythia & in Persia, Mingi Taw is known as The Eternal Mountain.					
+				The woodsman spoke of how, ages ago, a long forgotten race had carved a temple into the living rock beneath Mingi Taw.					
+				The woodsman spoke of the subterranean corridors & cavernous spaces carved into the living rock beneath Mingi Taw.					
+				According to the woodsman, those cavernous spaces were carved ages ago for the safe-keeping of The Megatome.					
+GIRL_HALFWANE	The Scythian			Samae said she had gone walking beyond the stone wall & she had felt the dreadful presence of The Gogolithic Mass.			30	080.jpg	V8B04
+ARCHETYPE_HALFWANE	The Archetype			The lunar cycle is winding down & The Dark Moon is less than a week away.					
+LOGFELLA_CRESCENTWANE	The Scythian			The woodsman had a low tolerance for lore & he admitted it usually put him to sleep. Nevertheless, he was quite knowledgeable.					
+				The woodsman knew about The Gogolithic Mass, the deathless spectre who lurked in the darkness beneath Mingi Taw.					
+				Logfella spoke of the whirling infinite beyond our comprehension whence came The Megatome in the dimly-remembered age of stone.					
+				He spoke of a race of immortal space-beings who sparked in mankind a rudimentary form of linguistic thought-transmission.					
+				These immortals blessed mankind with the capacity for civilization & thus doomed them to an eventual, inevitable, extinction.					
+				The Scythians sought to suppress the insidious creep of civilization & so they isolated The Megatome with its immortal protector.					
+				The immortal has lingered in the darkness ever since, deteriorating to become a deathless spectre known as The Gogolithic Mass.					
+				The woodsman probably would've kept going & going with this nonsense if we hadn't respectfully stopped him.					
+GIRL_CRESCENTWANE	The Scythian			Samae remarked upon the shrinking moon. She said soon it would be gone & The Dark Moon would reign.					
+ARCHETYPE_CRESCENTWANE	The Archetype			The lunar cycle is almost complete, The Dark Moon is near at-hand.					
+DARKMOONLOOMS_ARCHETYPE	The Archetype			The dark moon looms, the end of the lunar cycle is near at-hand.					
+DARKMOONBEGINS_ARCHETYPE	The Archetype			Behold: it is the dark moon!			94	076.jpg	I7F69
+DARKMOON_GIRLTHOUGHTS	Girl			In my dream-walking I came upon a parliament of trees wracked by lightning & I felt the presence of something deeply sacred.					
+DARKMOON_LOGFELLATHOUGHTS	Logfella			Last night I heard the sound of throbbing music filtered through the woods behind my stone hut. What's up with that?					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Bark bark bark - in my sleeping state I saw only the subtle sonorous spumes of sylvan sprites.					
+AMPHITHEATRE_OUTRO	The Scythian			We have re-assembled The Trigon Trifecta & we are heroes.			164	081.jpg	48G1Q
+RABBITS_3MURDERS	The Scythian			We have inexplicably murdered 3 defenseless rabbits.					
+RABBITS_7MURDERS	The Scythian			We have inexplicably murdered 7 defenseless rabbits - is this evidence of a deranged mind?					
+RABBITS_13MURDERS	The Scythian			We have inexplicably murdered 13 defenseless rabbits.					
+RABBITS_17MURDERS	The Scythian			We have inexplicably murdered 17defenseless rabbits. We are unstoppable.					
+RABBITS_23MURDERS	The Scythian			We have inexplicably murdered 23 defenseless rabbits.					
+RABBITS_37MURDERS	The Scythian			We have inexplicably murdered 37 defenseless rabbits. We are curious what will happen if we continue this murder spree.					
+RABBITS_53MURDERS	The Scythian			We have inexplicably murdered 53 defenseless rabbits. Clearly we are suffering from an obsessive compulsive disorder.					
+RABBITS_91MURDERS	The Scythian			We have inexplicably murdered 91 defenseless rabbits.					
+RABBITS_107MURDERS	The Scythian			We have inexplicably murdered 107 defenseless rabbits. Perhaps our murderous compulsion will decrease if we stopped counting?					
+ARCHETYPE_CREDITS	The Archetype								
+				S:S&S EP is a collaborative videogame-type project made in Toronto. Get in touch or stay in the loop at swordandsworcery.com.					
+			Logos/superbrothers	Original concept by the art & design organization known as Superbrothers Inc. at superbrothers.ca					
+				Songs & some sounds by the beloved composer & rockstar known as Jim Guthrie at jimguthrie.org					
+			Logos/capy	Engineering & miracles by the independent videogame studio known as Capy at capybaragames.com					
+			Logos/eightfour	Japanese localization, marketing, PR & love provided by 8-4, Ltd. ALL STAFF at 8-4.jp					
+				* * * THE S:S&S EP TEAM * * *					
+				Concept, art, design, writing & things like that by Craig D. Adams, creative director at Superbrothers					
+				Design, project leadership, unflagging support & more by Kris Piotrowski, creative director at Capy					
+				Systems, technical architecture, UI, engine & more by Jon Maur, lead technical programmer on S:S&S EP at Capy					
+				Scripting, combat & miracle-working by Frankie Leung, lead gameplay programmer on S:S&S EP at Capy					
+				Inspiration, songs, sounds, soul & much more courtesy of Jim Guthrie, composer, folk hero & rockstar-at-large					
+				* * * ALSO * * *					
+				The voice of Logfella by Robert Ashley, creator of the radio show A Life Well Wasted at www.alifewellwasted.com					
+				The voice of The Scythian by photographer Robyn Cumming at robyncumming.com					
+				The voice of The Archetype by artist & filmmaker Clive Holden at cliveholden.com					
+				The cosmic sounds of The Moon Grotto by Scientific American at scntfc.com					
+				* * * CAPY SUPPORT * * *					
+				Executive producer, hero of the people, leadership & strategery by Nathan Vella, president at Capy					
+				Audio technical assistance, fMOD integration & so many lovely sounds by Sean "Uber" Lohrisch, co-founder at Capy.					
+				Administrative & business assistance by Matt "Juggalord" Repetski, co-founder at Capy.					
+				Quality assurance & mega playtesting hero by Christian "Sea Dawg" Meyer at Capy					
+				Gratitude to Xavier Xaden Xen, Joseph Theodore Blocco, Hank Hudson.					
+				* * * SUPERBROTHERS SUPPORT * * *					
+				Liason, communications, QA, inspiration, infinite patience & unflagging moral support courtesy of Jori Baldwin					
+				Business assistance, financial support & unflagging moral support by Mack C. Adams					
+				Much much gratitude to Sheila Precious, David Adams, Sarah Adams & Cimarron Corpe for keeping the boat afloat in stormy seas.					
+				Mega thanks to Jim Guthrie for embarking on this lunatic adventure into the unknown.					
+				With additional million dollar sounds courtesy of Timothy Muirhead.					
+				* * * 8-4 SUPPORT * * *					
+				Japanese translation by master wordsmith RYUTA YAZAWA					
+				Japanese editing, crucial advice & unending support by MASAHIRO YUKI at Grasshopper Manufacture www.ghm.jp					
+				Bad-ass Japanese logo design courtesy of POLYGRAPH, at www.polygraph.jp					
+				Japanese website wizardry by Jonathan Lumb at www.jonnyram.com					
+				And finally, gratitude for JPN support & friendship: Suda 51, Tomoaki Takahashi, Hideto Yamada, & remix artists Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, & Decassegui Hip					
+				* * * THE DOMINION OF CANADA * * *					
+			Logos/omdc	This project was made possible with the financial support of the Ontario Media Development Corporation (OMDC).					
+				* * * WE LOVE LOVE LOVE YOU * * *					
+				Shout outs to all who aligned the stars.					
+				Much love to Toronto's amazing DIY videogame communities & the lovely people of The Hand Eye Society, TOJam & Gamercamp.					
+				To everyone who has supported this project: thank you.					
+				* * * PROCESS * * *					
+				Pixel artwork was created entirely in Promotion by Cosmigo, with other visual elements made in Illustrator & Photoshop by Adobe.					
+				Sounds & songs were created using MTV Music Generator by Codemasters for PSOne and/or Garageband & Logic Studio by Apple.					
+			Logos/FMOD	Sounds & songs were integrated into the project using FMOD by Firelight Technologies.					
+				Code was programmed in C++ & Lua script with tolua++. Maps & world elements were created with proprietary tools at Capy.					
+				Moon phase calculations & astronomical algororythms courtesy of voidware.com/moon_phase.htm					
+				APIs used in the making of S:S&S EP include, tinyxml, libpng/zlib.					
+				An absurdly early build was submitted to the Independent Games Festival on November 1st 2009.					
+				S:S&S EP was announced on December 1st 2009.					
+				In early 2010 it was announced that the project had won the IGF Mobile 'Achievement in Art' award, which was super rad.					
+				The first live public demonstration of S:S&S EP occurred at a Hand Eye Society social event in Toronto on February 14th 2010 .					
+				The first playable S:S&S EP build was presented to attendees & friends at GDC 2010 in San Francisco from March 9th -13th 2010. 					
+				The first unedited gameplay footage of the GDC build simultaneously appeared online & made a bit of a splash.					
+				Less Talk, More Rock: The Native Language of Videogames was published online at Boing Boing in March 2010 & you can google it.					
+				The project "went dark" for a few months while we, y'know, actually made the video game. Click click click click.					
+				'The Intoxication of Mythology' was presented by Craig D. Adams on September 22nd 2010 at the Fantastic Arcade in Austin.					
+				'Aiming for Audiovisual Alchemy' was presented by Jim Guthrie, Kris Piotrowski & Craig D. Adams at Gamercamp in Toronto.					
+				It took a little while longer to actually get'er done.					
+				A new clip titled 'Audience Calibration Procedure' was posted on Thursday February 24th 2011 to kick things off launch-wise.					
+				S:S&S EP was finally made available for iPad around the vernal equinox in 2011, shortly before the end of the world.					
+				An event took place at the TIFF Lightbox in Toronto to mark the launch & it was totally awesome you should've been there!					
+				S:S&S EP eventually launched for iPhone & iPod Touch, and there was much rejoicing.					
+				After that the story gets a bit murky so tune in to swordandsworcery.com for more!					
+				* * * WHAT IS S:S&S EP? * * *					
+				S:S&S EP is intended as a brave experiment in Input Output Cinema, whatever that is supposed to be.					
+				S:S&S EP is a fresh approach to the old school adventure videogame with an emphasis on audiovisual style.					
+				S:S&S EP is inspired by the work of pioneering videogame creators Shigeru Miyamoto, Jordan Mechner, Eric Chahi & Fumito Ueda.					
+				S:S&S EP is a fevered famicom dream.			38	082.jpg	28B24
+				S:S&S EP has been built with the mythopoetic psychocosmology of Robert E. Howard's sword and sorcery stories in mind.					
+				S:S&S EP is a link to the past.			167	083.jpg	18E3V
+				S:S&S EP is a first effort & so yes it's a bit experimental.					
+				S:S&S EP's aesthetic concept is 'the archetypical videogame adventure'.					
+				S:S&S EP obliquely references Carl G. Jung & his fascinating "Red Book" all over the damn place.					
+				S:S&S EP is a nifty little thing that I don't really understand that I think everyone should play on their touchtronic machinery.					
+				S:S&S EP is a crude videogame haiku about life, love & death.					
+				S:S&S EP is a choice cut of myth & dreams.					
+				S:S&S EP has been created with a broad, literate audience in mind.					
+				S:S&S EP was originally going to be called 'Poopsock'. This is actually true.					
+				* * * IT'S OVER * * *					
+				So what happens next with all of this? And what's that crazy transmission all about? What does the future hold?					
+				If you'd like to order prints, apparel, records & videogames or whatever then look us up on the internet!					
+				If you're enjoying the style of audiovisual entertainment offered by S:S&S EP then please spread the word!					
+				Now we are cosmic friends forever, ok?					
