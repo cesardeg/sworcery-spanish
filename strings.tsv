@@ -35,7 +35,7 @@ PERSEVERE	PERSEVERAR	がんばる
 START_OVER	¿COMENZAR DE NUEVO?	やり直す？	JR, may30: Changed to Japanese ？
 PROMPT_YES	SÍ	はい	
 PROMPT_NO	NO	いいえ	
-PROMPT_OK	ACEPTAR	OK	JJ, Jun06: Needs translation. JJ, Jun08: Just putting "決定" here so we can find it in the rom. JJ, Jun11: OK is the final text. JR, jun12: Hiroko OK.
+PROMPT_OK	ACEPTAR	OK	"JJ, Jun06: Needs translation. JJ, Jun08: Just putting ""決定"" here so we can find it in the rom. JJ, Jun11: OK is the final text. JR, jun12: Hiroko OK."
 PROMPT_CANCEL	CANCELAR	キャンセル	
 PROMPT_SUBMIT	ENVIAR	送信	
 PROMPT_DELETE_SAVE	¿QUIERES ELIMINAR TUS DATOS GUARDADOS? ¡SE PERDERÁ TODO EL PROGRESO!	セーブデータを削除しますか？;これまでの進捗情報は;すべて削除されます	HW, Jun6: This string needs line breaks. Shows up when trying to delete save data in the settings menu.  JJ, Jun11: Hiroko please check line breaks (I put them in already, please just make sure they are OK by JP standards).  HM, Jun12: What's the character limit? Also, the single byte question mark seems inconsistent than the others but is this intentional? JR, jun12: Hiroko OK.
@@ -85,7 +85,7 @@ STOP_CONTROLS	¿DOBLE CLIC PARA PARAR?	トントンして立ち止まる？	JR, 
 STOP_CONTROLS_ARROW	< < ¿DOBLE CLIC PARA PARAR?	< <トントンして立ち止まる？	JR, may30: Changed to Japanese ？
 SLAY	¿ASESINAR?	息の根を止める？	JR, may30: Changed to Japanese ？
 ZOOM_CONTROLS	< < <  ¿ZUM? > > >	< < <  ズーム？ > > >	HM, Jun13: Changed ? to double byte
-LOOK_CONTROLS	MANTENER PRESIONADO & DESLIZAR SOBRE LA AUREOLA SUKIMUSU	ソーサリーのオーラをタップしたままドラッグ	JJ, Jun11: This is really long on the screen. JR, jun12: HIROKO: consider changing "swipe" to whatever the JP is for "drag" JR, jun13: JJ - any reason they use AUREOLE here and not AURA like elsewhere? It's the same thing, isn't it? HM, jun13: Made it shorter
+LOOK_CONTROLS	MANTENER PRESIONADO & DESLIZAR SOBRE LA AUREOLA SUKIMUSU	ソーサリーのオーラをタップしたままドラッグ	"JJ, Jun11: This is really long on the screen. JR, jun12: HIROKO: consider changing ""swipe"" to whatever the JP is for ""drag"" JR, jun13: JJ - any reason they use AUREOLE here and not AURA like elsewhere? It's the same thing, isn't it? HM, jun13: Made it shorter"
 LOOK_CONTROLS_2	PULSAR & DESLIZAR PARA MIRAR ALREDEDOR	タップしたままドラッグで見渡す	HM, jun13: changed swipe to drag.
 TONGUE_TEXT	Inclina, desenvaina y mantÉn tu espada escita en alto sobre el arco iris durante unos segundos y ten fe	傾け、抜刀し、スキタイの剣を幾秒か、;虹に向けて掲げよ。;意志あるところに道は通ず	MM, 6/1: We can't find this line in the game? Is it in the game?
 TOUCH_HOLD	MANTÉN PRESIONADO	タップしたままにする	
@@ -123,5 +123,5 @@ ERRMSG_UNABLE_TO_SAVE_STEAM	Un error impidiÓ crear un archivo de guardado de St
 ERRMSG_CORRUPT_SAVE_PROGRESS	Los datos guardados estÁn corruptos porque no se puede leer la info. El juego borrarÁ los datos guardados al presionar Aceptar.	進捗情報が読み込めません。;セーブデータが破損しています。;OK を押すとセーブデータを削除します	B38 のOkayと訳語を揃える必要があります。今はOKとしてあります。 また、「回復するには」とありますがデータを削除する説明文が続きます。挙動を確認後、訳文を適宜修正願います JR, jun12: Fixed but need to check if it fits.
 PROMPT_CONFIRM_EXITGAME	¿QUIERES SALIR DEL JUEGO?	ゲームを終了しますか？	
 HASHTAG_SWORCERY	#espadachiceria	#スキムス	
-DIGIT_STRING	"0123456789"	０１２３４５６７８９	
+DIGIT_STRING	"""0123456789"""	０１２３４５６７８９	
 HOLD_SHIELD_TO_HEAL	MANTENER ESCUDO PARA SANAR	押し続けて回復	JR, jun12: HIROKO - this is new and needs a translation. HM, jun13: JJ - please check this in the new build and show it to me. If it's too tight we can consider 押し続けて回復.
