@@ -1,6 +1,6 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			Lejos de las estepas devastadas por la guerra de Escitia, conocimos a una chica de pelo oscuro en un prado iluminado por el sol. #helloworld	戦火で荒れ果てたスキタイの平原より;~はるか離れた地で、黒髪の少女に出会った。 #helloworld		72	001.jpg	Z0E1Q
-				La gente de montaÑa del CÁucaso la conocÍa como Samae, y parecÍa agradable. #obviously	コーカサス地方の山の民は、;~少女を「オトメちゃん」と呼ぶ。;~感じが良さそうな娘だ。 #名前が安直				
+				La gente de las montaÑas del CÁucaso la conocÍa como Samae, y parecÍa agradable. #obviously	コーカサス地方の山の民は、;~少女を「オトメちゃん」と呼ぶ。;~感じが良さそうな娘だ。 #名前が安直				
 SIGN_TADPOL	The Scythian			"""El hogar estÁ donde se encuentra el corazÓn."" #threegutrecords4ever"	「暖炉の前で見る夢は、;~月の記憶か意識の淵か」#夢で逢いましょう				
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, estos son todos los reinos de los hombres. Mingi Taw es el Reino de las Nubes."""	「スキタイ、キンメリア、アッシリア、;~ペルシャ…;これらは人が築き上げた地上の~王国だが、;ミンギ・トウは雲の王国である」				
 SIGN_CHASM	The Scythian			En el borde del Precipicio Peligroso, habÍa una piedra tallada con el glifo de una espada bajo los colores del arco iris.	「危難の崖」のすぐ手前に石碑があった。;~石碑には七色の虹と、;それらを突き上げる~ような;剣の記号が彫られていた。				
@@ -22,7 +22,7 @@ DOOR_UPSLOPEWOODS1	The Scythian			El viejo camino al Mingi Taw estaba bloqueado 
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se ocultaba en la maleza del bosque debajo del viejo camino que conducÍa hasta el Mingi Taw. #moongrotto	ミンギ・トウ行きの古道から下に伸びた~脇道を;進むと、うっそうとした茂った低木の~奥に;開かない扉があった。 #月の洞穴				
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leÑador cortaba madera. #obviously #woodchopping	一人の木こりがしきりに;薪木をパッキリ~割っている。 #薪割り		71	007.jpg	70E70
-				La gente de montaÑa del CÁucaso lo conocÍa como 'Tronco', y parecÍa agradable.	コーカサス地方の山の民は、;彼を「丸太さん」~と呼ぶ。;結構いい人そうだ。				
+				La gente de las montaÑas del CÁucaso lo conocÍa como Tronco, y parecÍa agradable.	コーカサス地方の山の民は、;彼を「丸太さん」~と呼ぶ。;結構いい人そうだ。				
 				Tronco lo sabÍa todo acerca de nuestro funesto cometido y accediÓ a llevarnos hasta el antiguo camino.	丸太さんは私の果たすべき使命を;すべて~把握しており、;古道の案内を引き受けて~くれた。				
 				AÚn asÍ, nos dio la sensaciÓn que no estaba super emocionado con tal encomienda.	…明らかにノリノリではない感じだったが。				
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El hombre de los bosques nos esperÓ en la ruta, al inicio del viejo camino.	丸太さんは古道を案内するために;待っていて~くれた。		12	008.jpg	U0D88
@@ -384,7 +384,7 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solamente el final de 
 				El infinito remolino en la cima del Mingi Taw te espera.	ミンギ・トウの頂上を目指すんだ。;無限の渦が~君を待っている。				
 				Guau Guau Guau.	ワン ワン ワン！				
 GCLUE_WATERFALLS	Girl			¿Alguna vez te has dado cuenta que a veces las palabras sólo parecen ruido, pero otras veces el ruido produce el sonido más bello?	言葉って騒音に聞こえるときもあるけど、;~騒音がすごくキュートな音に聞こえることも;~あるのよね。知ってた？		132	058.jpg	G5F8U
-GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de refranes extraños aquí arriba, entre la gente de montaña del Cáucaso.	コーカサスの山の民たちの間では、;ヘンな~ことわざが;たくさん伝承されてきている。				
+GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de refranes extraños aquí arriba, entre la gente de las montañas del Cáucaso.	コーカサスの山の民たちの間では、;ヘンな~ことわざが;たくさん伝承されてきている。				
 				Hay un refrán aquí en el Cáucaso que dice que un bosque necesita al fuego como el fuego necesita a un árbol.	「炎には森が必要なように、;森も炎を~必要としている」。;~これもコーカサスに伝わることわざだ。~				
 YELLOWTRIGON_COLLECTED	The Scythian			Tenemos el Trigon de Oro. Somos impresionantes.	黄金のトライゴンを手に入れた。;~私、めっさスゴイ。		85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			Contra todo pronÓstico, conseguimos el Trigon Luna Brillante.	最初は無理かとも思った。~だが、;明月のトライゴンを手に入れることが~できた。		155	068.jpg	56F8U
@@ -442,7 +442,7 @@ DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.	ワン ワン ワン！
 				Guau Guau Guau Guau Guau.	ワン ワン ワン ワン ワン！				
 				Guau Guau Guau.	ワン ワン ワン！				
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentÓ en una piedra al lado de donde el leÑador cortaba madera.	オトメちゃんは、木こりが薪割りをする横で;~石に腰かけている。				
-			Archetype/trifecta	Le preguntamos sobre los secretos de la Arboleda Trigon y los peculiares sueÑos de la gente de montaÑa del CÁucaso.	私はトライゴンの森に伝わる秘密と、;~コーカサス地方の山の民が言う「奇妙な夢」;~について聞いてみた。				
+			Archetype/trifecta	Le preguntamos sobre los secretos de la Arboleda Trigon y los peculiares sueÑos de la gente de las montaÑas del CÁucaso.	私はトライゴンの森に伝わる秘密と、;~コーカサス地方の山の民が言う「奇妙な夢」;~について聞いてみた。				
 				Nos contÓ cÓmo los sueÑos de su gente contenÍan muchos misterios y cÓmo reflejaban los estados de Ánimo de la luna de maneras extraÑas.	彼女は、コーカサス人の夢にはたくさんの謎が;~あること、そして夢の内容が月の満ち欠けで;~奇妙に変化することを教えてくれた。				
 				Samae nos dijo que nos sentÁramos junto al hogar de la cabaÑa de piedra en cualquier momento, ya fuera para caminar por los sueÑos o para recobrar fuerzas.	山小屋の暖炉前に座れば、;「夢歩き」に~出かけたり、;ただ体を休めたり自在に~できるのだそうだ。				
 			Archetype/trifecta	Tenemos la sensaciÓn de que los dos Trigones restantes podrÍan estar perdidos en los sueÑos, o algo asÍ.	私はなんとなく、;残り２つのトライゴンは~夢の中にあるかもな、;と思った。				
