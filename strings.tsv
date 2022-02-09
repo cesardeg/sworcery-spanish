@@ -1,37 +1,37 @@
-﻿id	English	Japanese	
+id	English	Japanese	
 GAME_NAME	Superbrothers: Sword & Sworcery EP	スキタイのムスメ：音響的冒剣劇	
 GAME_MOTTO	UN VALIENTE EXPERIMENTO EN I/O CINEMA	インプット・アウトプット・シネマ実験	
 GAME_NAME_SHORT	S:S&SEP	スキムス	HM, jun13: Changed it since it was using the old name.
 WITH_SONGS	CON CANCIONES & SONIDOS DE	楽曲 & サウンド：	
 JIM_GUTHRIE	JIM GUTHRIE	ジム・ガスリー	
-FOR_DEMO	FOR DEMONSTRATION PURPOSES ONLY	体験版専用	
-END_DEMO	Thus ends the demo of	これにて体験版終劇：	
+FOR_DEMO	PARA FINES DE DEMOSTRACIÓN SOLAMENTE	体験版専用	
+END_DEMO	Así finaliza la demo de	これにて体験版終劇：	
 SIDE_A	CARA A	A面	
 SIDE_B	CARA B	B面	
-ROTATE	¿DESENVAINAR?	抜刀する？	JJ, Jun08: Removed space.
-INVENTORY_ROTATE	¿ROTAR?	回転してみる？	MM,May29: Shortened, please recenter on screen JR, may30: Changed to Japanese ？
-LOOK	MIRAR	見て	
-LISTEN	ESCUCHAR	聞いて	
-TOUCH	DOBLE CLIC	トントンして	
-DREAM	SOÑAR	夢	
+ROTATE	¿ G I R A R ?	抜刀する？	JJ, Jun08: Removed space.
+INVENTORY_ROTATE	¿GIRAR?	回転してみる？	"MM,May29: Shortened, please recenter on screen JR, may30: Changed to Japanese ？"
+LOOK	MIRA	見て	
+LISTEN	ESCUCHA	聞いて	
+TOUCH	TOCA	トントンして	
+DREAM	SUEÑA	夢	
 TOUCH_ARROW_LEFT	< <TOCAR	< <触れて	
 TOUCH_ARROW_RIGHT	TOCAR> >	触れて> >	
 GUIDE_ARROW_LEFT	< <GUIAR	< <こっちへ	
 GUIDE_ARROW_RIGHT	GUIAR> >	こっちへ> >	
-OBSERVE	OBSERVAR	観察して	
-INVESTIGATE	INVESTIGAR	よく見て	
+OBSERVE	OBSERVA	観察して	
+INVESTIGATE	INVESTIGA	よく見て	
 SHAKE	¿SACUDIR?	振ってみる？	JR, may30: Changed to Japanese ？
-REFLECT	REFLEJAR	反射を	
-BELIEVE	CREER	信じて	
-BEWARE	TENER CUIDADO	気をつけて	
+REFLECT	REFLEXIONA	反射を	
+BELIEVE	CREE	信じて	
+BEWARE	TEN CUIDADO	気をつけて	
 FOLLOW	¿SEGUIR?	ついていく？	
 ROTATE_UNSHEATHE	< < DESENVAINAR	< <抜刀	JJ, Jun6: Didn't have translation for this one, but based it on row 11. JR, jun12: Hiroko OK. JR, jun12: Fixed spacing around arrows.
 GO_HOME	¿IR A CASA?	家に帰る？	
 START_ARROW_RIGHT	COMENZAR > > >	スタート> >	JR, jun12: Fixed spacing around arrows.
-TRESPASS	TRASPASAR	侵入	
-AVOID	EVITAR	避ける	
-CONSIDER	CONSIDERAR	よく考える	
-PERSEVERE	PERSEVERAR	がんばる	
+TRESPASS	INFILTRATE	侵入	
+AVOID	ESQUIVA	避ける	
+CONSIDER	CONSIDERA	よく考える	
+PERSEVERE	PERSEVERA	がんばる	
 START_OVER	¿COMENZAR DE NUEVO?	やり直す？	JR, may30: Changed to Japanese ？
 PROMPT_YES	SÍ	はい	
 PROMPT_NO	NO	いいえ	
@@ -80,33 +80,34 @@ BRIGHTMOON_AFTER_MORE	DÍAS	日
 TIME_PARADOX	* PARADOJA TEMPORAL *	* タイム パラドックス *	
 ERRAND_END	TU FUNESTO COMETIDO LLEGA A SU FIN.	使命はついに果たされた	
 BEWARE_BOOR	CUIDADO CON EL PATÁN CANOSO	クマズリーに注意	
-MOVE_CONTROLS	MANTENER PRESIONADO PARA MOVERSE	タップしたままにすると移動	
-STOP_CONTROLS	¿DOBLE CLIC PARA PARAR?	トントンして立ち止まる？	JR, may30: Changed to Japanese ？
-STOP_CONTROLS_ARROW	< < ¿DOBLE CLIC PARA PARAR?	< <トントンして立ち止まる？	JR, may30: Changed to Japanese ？
+MOVE_CONTROLS	MANTEN PRESIONADO PARA MOVER	タップしたままにすると移動	
+STOP_CONTROLS	¿TOC TOC PARA PARAR?	トントンして立ち止まる？	JR, may30: Changed to Japanese ？
+STOP_CONTROLS_ARROW	< < ¿TOC TOC PARA PARAR?	< <トントンして立ち止まる？	JR, may30: Changed to Japanese ？
 SLAY	¿ASESINAR?	息の根を止める？	JR, may30: Changed to Japanese ？
-ZOOM_CONTROLS	< < <  ¿ZUM? > > >	< < <  ズーム？ > > >	HM, Jun13: Changed ? to double byte
-LOOK_CONTROLS	MANTENER PRESIONADO & DESLIZAR SOBRE LA AUREOLA SUKIMUSU	ソーサリーのオーラをタップしたままドラッグ	"JJ, Jun11: This is really long on the screen. JR, jun12: HIROKO: consider changing ""swipe"" to whatever the JP is for ""drag"" JR, jun13: JJ - any reason they use AUREOLE here and not AURA like elsewhere? It's the same thing, isn't it? HM, jun13: Made it shorter"
-LOOK_CONTROLS_2	PULSAR & DESLIZAR PARA MIRAR ALREDEDOR	タップしたままドラッグで見渡す	HM, jun13: changed swipe to drag.
+ZOOM_CONTROLS	< < <  ¿PELLIZCAR PARA ACERCAR? > > >	< < <  ズーム？ > > >	HM, Jun13: Changed ? to double byte
+LOOK_CONTROLS	MANTEN PRESIONADO & DESLIZA PARA MIRAR	ソーサリーのオーラをタップしたままドラッグ	"JJ, Jun11: This is really long on the screen. JR, jun12: HIROKO: consider changing ""swipe"" to whatever the JP is for ""drag"" JR, jun13: JJ - any reason they use AUREOLE here and not AURA like elsewhere? It's the same thing, isn't it? HM, jun13: Made it shorter"
+LOOK_CONTROLS_2	DESLIZA PARA MIRAR ALREDEDOR	タップしたままドラッグで見渡す	HM, jun13: changed swipe to drag.
 TONGUE_TEXT	Inclina, desenvaina y mantÉn tu espada escita en alto sobre el arco iris durante unos segundos y ten fe	傾け、抜刀し、スキタイの剣を幾秒か、;虹に向けて掲げよ。;意志あるところに道は通ず	MM, 6/1: We can't find this line in the game? Is it in the game?
 TOUCH_HOLD	MANTÉN PRESIONADO	タップしたままにする	
-TOUCH_HOLD_ARROW_LEFT	< < MANTÉN PRESIONADO	< < タップしたままにする	JJ, Jun6: Didn't have translation here, but made it based on row 91 HM, Jun13: tweaked it. Was there a specific reason you used して instead of する ?
-TOUCH_HOLD_ARROW_RIGHT	MANTÉN PRESIONADO > >	タップしたままにする > >	JJ, Jun6: Didn't have translation here, but made it based on row 91 HM, Jun13: tweaked it. Was there a specific reason you used して instead of する ?
-TIP_TAP_QUESTION	¿DOBLE CLIC?	トントンする？	JR, may30: Changed to Japanese ？
-TIP_TAP_ARROW_LEFT	< < DOBLE CLIC	< <トントンする	
-TIP_TAP_ARROW_LEFT_Q	< < ¿DOBLE CLIC?	< <トントンする？	JR, may30: Changed to Japanese ？
-TIP_TAP_ARROW_RIGHT	DOBLE CLIC > >	トントンする> >	
-RUB	ROZAR	こする	
+TOUCH_HOLD_ARROW_LEFT	< < MANTÉNER PRESIONADO	< < タップしたままにする	"JJ, Jun6: Didn't have translation here, but made it based on row 91 HM, Jun13: tweaked it. Was there a specific reason you used して instead of する ?"
+TOUCH_HOLD_ARROW_RIGHT	MANTÉNER PRESIONADO > >	タップしたままにする > >	"JJ, Jun6: Didn't have translation here, but made it based on row 91 HM, Jun13: tweaked it. Was there a specific reason you used して instead of する ?"
+TIP_TAP_QUESTION	¿TOC TOC?	トントンする？	"JR, may30: Changed to Japanese ？"
+TIP_TAP_ARROW_LEFT	< < TOC TOC	< <トントンする	
+TIP_TAP_ARROW_LEFT_Q	< < ¿TOC TOC?	< <トントンする？	JR, may30: Changed to Japanese ？
+TIP_TAP_ARROW_RIGHT	TOC TOC > >	トントンする> >	
+RUB	FROTAR	こする	
 QUIT	SALIR	やめる？	
-TAP_ARROW_LEFT	< < PULSAR	< <タップする	
+TAP_ARROW_LEFT	< < PRESIONAR	< <タップする	
+TAP_QUESTION	PRESIONAR?		
 MOON_TIME_1	hace unos momentos	さっき	
 MOON_TIME_2	hace un ratito	ちょっと前	
 MOON_TIME_3	hace un rato	けっこう前	
 MOON_TIME_4	hace días	ずいぶん前	
 MOON_TIME_5	hace muchas lunas	かなり前	
 MOON_TIME_6	hace mucho tiempo	ずっとずっと前	
-COSMIC_FRIENDS	AHORA SOMOS AMIGOS CÓSMICOS PARA SIEMPRE... ¿VALE?	さて、これで僕らは永遠にコズミックフレンドだ…いいね？	
+COSMIC_FRIENDS	AHORA SOMOS AMIGOS CÓSMICOS PARA SIEMPRE... ¿DE ACUERDO?	さて、これで僕らは永遠にコズミックフレンドだ…いいね？	
 The Scythian	La Escita	スキタイのムスメ	
-Girl	Chica	オトメちゃん	
+Girl	Samae	オトメちゃん	
 Logfella	Tronco	丸太さん	
 Dogfella	Perrolega	イヌさん	
 The Archetype	El Arquetipo	アーキタイプ	
@@ -122,6 +123,8 @@ ERRMSG_UNABLE_TO_DELETE_STEAM	Un error impidiÓ borrar el archivo de guardado de
 ERRMSG_UNABLE_TO_SAVE_STEAM	Un error impidiÓ crear un archivo de guardado de Steam.	エラーが起きたので Steam の;セーブを作成できませんでした	HW, Jun6: This string likely needs line breaks. Shows up in same popup box when quitting the game. JR, jun12: Fixed but need to check if it fits.
 ERRMSG_CORRUPT_SAVE_PROGRESS	Los datos guardados estÁn corruptos porque no se puede leer la info. El juego borrarÁ los datos guardados al presionar Aceptar.	進捗情報が読み込めません。;セーブデータが破損しています。;OK を押すとセーブデータを削除します	B38 のOkayと訳語を揃える必要があります。今はOKとしてあります。 また、「回復するには」とありますがデータを削除する説明文が続きます。挙動を確認後、訳文を適宜修正願います JR, jun12: Fixed but need to check if it fits.
 PROMPT_CONFIRM_EXITGAME	¿QUIERES SALIR DEL JUEGO?	ゲームを終了しますか？	
-HASHTAG_SWORCERY	#espadachiceria	#スキムス	
-DIGIT_STRING	"""0123456789"""	０１２３４５６７８９	
+HASHTAG_SWORCERY	#sworcery	#スキムス	
+DIGIT_STRING	123456789	123456789	
 HOLD_SHIELD_TO_HEAL	MANTENER ESCUDO PARA SANAR	押し続けて回復	JR, jun12: HIROKO - this is new and needs a translation. HM, jun13: JJ - please check this in the new build and show it to me. If it's too tight we can consider 押し続けて回復.
+EXIT_TITLE	Salir de #sworcery?		
+EXIT_PROMPT	¿En verdad quieres salir?		
