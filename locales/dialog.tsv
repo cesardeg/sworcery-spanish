@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			En las escarpadas montañas del Mingi Taw 
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En las escarpadas montañas del Mingi Taw una tumba solitaria marcaba el final de un camino de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la cresta dentada que llevaba a la cima del Mingi Taw había un poste sombrío adornado con un cráneo astado.					
 INFO_CROSSRIDGE	The Scythian			En la cresta dentada que llevaba a la cima del Mingi Taw descansaba una tumba solitaria como triste recordatorio de las muchas personas que habían muerto allí.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos agitarse la espada en la vaina. #megatome			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos la espada agitarse en la vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Una pequeña puerta sin pomo de un material desconocido. Una señal decía 'Solo personal autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			El viejo camino al Mingi Taw estaba bloqueado por una puerta cerrada.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se ocultaba en la maleza del bosque debajo del viejo camino que conducía hasta el Mingi Taw. #moongrotto					
@@ -26,7 +26,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba 
 				Tronco lo sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el antiguo camino.					
 				"Aún así, nos dio la sensación que no estaba super emocionado con tal encomienda."					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El hombre de los bosques nos esperó en la ruta, al inicio del viejo camino."			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos cruzado el abismo y nos sentimos super inteligentes.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos cruzado el abismo y nos sentíamos super inteligentes.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le dijimos a Tronco que estábamos buscando un libro de magia siniestra conocido como El Megatomo.					
 			adventureUI/megatomeItem	"El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del precipicio, bajo el Mingi Taw."					
 			adventureUI/megatomeItem	Decidimos ir a por El Megatomo y luego escapar con vida.					
