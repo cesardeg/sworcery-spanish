@@ -87,7 +87,7 @@ SLAY	¿ASESINAR?
 ZOOM_CONTROLS	< < <  ¿PELLIZCAR PARA ACERCAR? > > >	
 LOOK_CONTROLS	MANTEN PRESIONADO & DESLIZA PARA MIRAR	
 LOOK_CONTROLS_2	DESLIZA PARA MIRAR ALREDEDOR	
-TONGUE_TEXT	"Inclina, desenvaina y mantÉn tu espada escita en alto sobre el arco iris durante unos segundos y ten fe"	
+TONGUE_TEXT	"Inclina, desenvaina y mantén tu espada escita en alto sobre el arco iris durante unos segundos y ten fe"	
 TOUCH_HOLD	MANTÉN PRESIONADO	
 TOUCH_HOLD_ARROW_LEFT	< < MANTÉNER PRESIONADO	
 TOUCH_HOLD_ARROW_RIGHT	MANTÉNER PRESIONADO > >	
@@ -119,9 +119,9 @@ APPLY	APLICAR
 BACK	VOLVER	
 ERRMSG_UNABLE_TO_SAVE	No se puede guardar el archivo	
 ERRMSG_UNABLE_TO_DELETE	No se puede borrar el archivo	
-ERRMSG_UNABLE_TO_DELETE_STEAM	Un error impidiÓ borrar el archivo de guardado de Steam.	
-ERRMSG_UNABLE_TO_SAVE_STEAM	Un error impidiÓ crear un archivo de guardado de Steam.	
-ERRMSG_CORRUPT_SAVE_PROGRESS	Los datos guardados estÁn corruptos porque no se puede leer la info. El juego borrarÁ los datos guardados al presionar Aceptar.	
+ERRMSG_UNABLE_TO_DELETE_STEAM	Un error impidió borrar el archivo de guardado de Steam.	
+ERRMSG_UNABLE_TO_SAVE_STEAM	Un error impidió crear un archivo de guardado de Steam.	
+ERRMSG_CORRUPT_SAVE_PROGRESS	Los datos guardados están corruptos porque no se puede leer la info. El juego borrarÁ los datos guardados al presionar Aceptar.	
 PROMPT_CONFIRM_EXITGAME	¿QUIERES SALIR DEL JUEGO?	
 HASHTAG_SWORCERY	#sworcery	
 DIGIT_STRING	123456789	
