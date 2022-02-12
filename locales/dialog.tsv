@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			En las escarpadas montañas del Mingi Taw 
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En las escarpadas montañas del Mingi Taw una tumba solitaria marcaba el final de un camino de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la cresta dentada que llevaba a la cima del Mingi Taw había un poste sombrío adornado con un cráneo astado.					
 INFO_CROSSRIDGE	The Scythian			En la cresta dentada que llevaba a la cima del Mingi Taw descansaba una tumba solitaria como triste recordatorio de las muchas personas que habían muerto allí.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos la espada agitarse en la vaina. #megatome			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos nuestra espada agitarse en la vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Una pequeña puerta sin pomo de un material desconocido. Una señal decía 'Solo personal autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			El viejo camino al Mingi Taw estaba bloqueado por una puerta cerrada.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se ocultaba en la maleza del bosque debajo del viejo camino que conducía hasta el Mingi Taw. #moongrotto					
@@ -66,7 +66,7 @@ ARCHETYPE_FOUNDATION	The Archetype			Vamos a hablar sobre el conjunto y la confi
 				"Para cantar una canción de espadachicería en cualquier momento, mantén presionado sobre la Escita durante un momento y observa cómo crece el aura espadachicera."					
 				"Como puedes ver, El Megatomo recoge y almacena transmisiones de pensamiento lingüístico. Desplaza hacia abajo para ver qué estaba pensando antes."					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la Canción de Espadachicería y ahora el insondable poder de El Megatomo es tuyo."""			47	012.jpg	31E2F
-			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingÜístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
+			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
 			adventureUI/megatomeItem	Se me acaba de ocurrir algo... ¿por qué no abres El Megatomo y descubres qué se oculta en mi mente?					
 				"""Busca un triángulo blanco en la esquina superior derecha... presiónalo y luego equipa El Megatomo para revelar qué está oculto."""					
 LOGFELLA_STORM	The Scythian			El leñador conocido como Tronco había renunciado a cortar madera debido a la siniestra tormenta. #wetboots					
@@ -173,9 +173,9 @@ GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la tu
 				"""Buscamos el Trigon Luna Brillante, así que decidimos sentarnos y observar los cielos, esperando que el estado de ánimo de la luna cambiara."""					
 				"""¡Fue super aburrido! No iba a esperar días y días hasta que la Luna Brillante se alzara."""					
 				"""Abandoné a esos pazguatos para vagar sin rumbo mientras me hundía más y más en esa trampa lógico-lunar."""					
-				El viejo fantasma resplandeciente habló de cómo había hecho trampas saliendo de S:S&S EP y luego alterando el reloj y la fecha de su PC.					
+				El viejo fantasma resplandeciente habló de cómo había hecho trampas saliendo de S:S&S EP y luego alterando el reloj y la fecha de su dispositivo.					
 				"El fantasma describió lo incómodo que era ese proceso, ¡pero nos dijo que le permitió influir en las fases lunares!"					
-				"""La cosa es que, desde que hice trampas, sufrí siempre ansiedad severa de rata y me morí de la vergÜenza."""					
+				"""La cosa es que, desde que hice trampas, sufrí siempre de angustia severa y me morí de la vergüenza."""					
 GRAVE_HOLLOW	The Scythian			"Dentro de un árbol hueco titánico vimos una tumba solitaria, y eso nos despertó un poco la curiosidad."					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado comenzó a recitarnos una rima alocada.			117	028.jpg	E2A80
 				"""Monitorea los estados de ánimo de la luna y aprenderás cuándo estar dónde y cómo."""					
@@ -553,7 +553,7 @@ ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está cayendo y la Luna Oscura
 LOGFELLA_CRESCENTWANE	The Scythian			"El leñador tenía tolerancia cero al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
 				"El leñador conocía a la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad bajo el Mingi Taw."					
 				"Tronco habló del infinito remolino más allá de nuestra comprensión, de donde vino El Megatomo en la edad de piedra."					
-				Habló de una raza de seres inmortales del espacio que provocó en la humanidad una forma rudimentaria de pensamiento y transmisión lingÜística.					
+				Habló de una raza de seres inmortales del espacio que provocó en la humanidad una forma rudimentaria de pensamiento y transmisión lingüística.					
 				Estos inmortales bendicieron a la humanidad con la capacidad de ser una civilización y así los condenaron a una eventual e inevitable extinción.					
 				"Los escitas intentaron detener el insidioso crecimiento de la civilización, y por eso aislaron a El Megatomo con su protector inmortal."					
 				"El inmortal ha permanecido en la oscuridad desde entonces, deteriorándose para convertirse en un espectro inmortal conocido como La Masa Gogolítica."					
