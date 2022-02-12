@@ -190,8 +190,8 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titáni
 LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Tronco estaba totalmente fuera de sí por algo.					
 			AdventureUI/keyItem	"Al parecer, Tronco había perdido la llave de la puerta del muro de piedra que bloqueaba el viejo camino al Mingi Taw."					
 				Estábamos gruñendo de emoción por la nueva misión.					
-				Tronco nos dijo que había estado sentado aquí mismo cuando cayó en un sueño profundo.					
-			AdventureUI/keyItem	Tronco dijo que creía que había perdido su llave en el reino crepuscular de los sueños.					
+				Tronco nos dijo haber estado sentado aquí mismo cuando cayó en un sueño profundo.					
+			AdventureUI/keyItem	Tronco nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
 				"Ya habíamos oído hablar de los extraños sueños de la gente de las montañas del Cáucaso, por lo que su historia tuvo sentido para nosotros."					
 				Tronco nos invitó a calentar nuestras botas en el fuego y soñar junto a él.			63	029.jpg	U2C92
 ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			"Pensamos en la vigilia y en la psicofocosmología mitopoética de los sueños como estados separados, sin embargo interoperan de maneras curiosas."					
@@ -548,7 +548,7 @@ LOGFELLA_HALFWANE	The Scythian			"El leñador tenía tolerancia cero al folclore
 				"El leñador habló de cómo, hace siglos, una raza olvidada había tallado un templo en la roca debajo del Mingi Taw."					
 				El leñador habló de los corredores subterráneos y los espacios cavernosos excavados en la roca bajo el Mingi Taw.					
 				"Según el leñador, esos espacios cavernosos fueron creados hace siglos para custodiar El Megatomo."					
-GIRL_HALFWANE	The Scythian			Samae dijo que había caminado más allá del muro de piedra y que había sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
+GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá del muro de piedra y haber sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
 ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está cayendo y la Luna Oscura está a poco menos de una semana de distancia.					
 LOGFELLA_CRESCENTWANE	The Scythian			"El leñador tenía tolerancia cero al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
 				"El leñador conocía a la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad bajo el Mingi Taw."					
