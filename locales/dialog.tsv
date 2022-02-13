@@ -8,7 +8,7 @@ SIGN_CHASM	The Scythian			"En el borde del Precipicio Peligroso, había una pied
 SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del viejo camino había una piedra tallada con una serie de glifos indescifrables.					
 				En medio de los glifos indescifrables descubrimos una serie de pictogramas lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del viejo camino había una piedra tallada con una serie de pictogramas lunares que logramos descifrar.					
-				"Los pictogramas hablaban de un lugar secreto en las inmediaciones""...allí donde se pueden alterar los estados de ánimo de la luna."""					
+				"Los pictogramas hablaban de un lugar secreto en las inmediaciones ""...allí donde se pueden alterar los estados de ánimo de la luna."""					
 				¿La Gruta de la Luna...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			En un lado del viejo camino había una piedra tallada con un par de glifos con la forma de una espada y un escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			"En un pasillo subterráneo descubrimos una estatua de malfario, pero no le prestamos demasiada atención. #lore"			29	005.jpg	V0B53
@@ -221,7 +221,7 @@ GIRL_FOUNDKEY	The Scythian			"Nos encontramos a Samae de pie, empapada de lluvia
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Me parece totalmente guay si la Escita se lleva la llave si eso significa que va a calmar la tormenta.					
 				Debo haber asentido en algún momento durante la super historia épica de la Escita. Tengo una tolerancia muy baja para el folclore.					
 				Le pregunté a la Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
-GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendes silvanos más enviados hacia los cielos aliviarán la incesante tormenta... ¡y entonces será el tiempo de los milagros! #miracles			129	034.jpg	33A44
+GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendes silvanos más enviados hacia los cielos aliviarán la incesante tormenta... ¡y entonces será el tiempo de milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mi sueño hay una quietud emocionante cuando la luna es más brillante... y cuando es más oscura los bosques son salvajes.					
 				En el sueño siempre son los mismos lugares y espacios excepto cuando varían según los estados de ánimo de la luna.					
 				Cada noche desde que se levantó la tormenta he tenido ese mismo sueño en el que estoy vagando por el bosque justo antes del amanecer.					
@@ -236,16 +236,16 @@ ARCHETYPE_TRIGONGROVE	The Archetype			¿Puedes sentirlo? ¿Estás empezando a en
 				"Este haz es un puente que une el mundo de los vivos y el mundo de los muertos, por lo que puedes encontrar un fantasma o dos y hablar con ellos en tus viajes."					
 				Acabo de recibir la notificación de que has enviado el primer haz hacia los cielos en la Arboleda Trigon.					
 GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que rondaban por la cabaña y nos dijo que se habían asustado hacia un rato.					
-			gourd/gourd	"Le dijimos a Samae que habíamos enviado cinco duendes silvanos hacia los cielos y nos dijo que, tal vez, el tiempo de los milagros estaba cerca."					
+			gourd/gourd	"Le dijimos a Samae que habíamos enviado cinco duendes silvanos hacia los cielos y nos dijo que, tal vez, el tiempo de milagros estaba cerca."					
 				Pensamos que tal vez deberíamos ir a investigar el prado donde solían estar las ovejas.					
-LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado el tiempo de los milagros y se preguntó si tal vez no estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
+LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado el tiempo de milagros y se preguntó si tal vez no estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Se está empezando a levantar la tormenta? Eso espero.					
 				Todo esto de la tormenta ha estado afectando mi animo. Ha sido todo tan sombrío.					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco raro... Sin duda algo está sucediendo... ¿Se está levantando la tormenta?					
 				"Cada vez que siento que necesito recobrar fuerzas, me siento al lado de este hogar para calentarme las botas."					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades del gran mago Al Jaffee."					
-				"¿Sientes esa sensación tan peculiar? ¡Es tiempo de milagros! Canta una Canción de Espadachicería y admira a los amenazantes pájaros exaltados que se avecinan."			76	038.jpg	A3G84
+				"¿Sientes esa sensación tan peculiar? ¡Es tiempo de milagros! Canta una Canción de Espadachicería y admira a los amenazantes pájaros enfadados que se avecinan."			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira a los cielos con una cierta visión oblicua para ver este milagro de la pradera y luego contempla el Trigon de Oro.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... es interesante el modo como manejaste la situación con el compi caníbal con cabeza de oso.			120	039.jpg	O3G9D
 				"No no, está bien, sólo que me pareció interesante. Nunca vi a nadie hacer lo que hiciste tú. Es excepcional, pero no te alarmes."					
@@ -376,7 +376,7 @@ GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		¿Has oído hablar
 				"Parece que te has esforzado significativamente para localizar y domar al Trigon Luna Brillante, muy bien hecho."					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		"¿Son los duendes silvanos los niños de la Tierra, o son visitantes solitarios del infinito remolino?"					
 				"Para ser honesta, los duendes silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde salen?"					
-GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendes hayan sido enviados hacia los cielos y el tiempo de los milagros se acerque, debes buscar el árbol titánico."					
+GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendes hayan sido enviados hacia los cielos y el tiempo de milagros se acerque, debes buscar el árbol titánico."					
 				Sé que sabes lo que sé y quiero que sepas que tienes razón al 100%.			109	066.jpg	F6D6H
 				Guau Guau Guau Sniff Guau Guau Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solamente el final de tu miserable cometido traerá la paz de vuelta a todas nuestras vidas.					
@@ -582,11 +582,13 @@ ARCHETYPE_CREDITS	The Archetype
 				"Si no eres miembro aún, busca el grupo Tradupixel en Steam para conocer más traducciones presentes y futuras"					
 				¡Disfruta del juego en castellano si no lo has hecho ya! :D					
 				* * * EL EQUIPO S:S&S EP * * *					
-				"Concepto, arte, diseño, dirección & guión por representantes de Superbrothers Inc. aka @the1console"					
+			Logos/superbrothers	"Concepto, arte, diseño, dirección & guión por representantes de Superbrothers Inc. aka @the1console"					
+			Logos/capy	Ingeniería & milagros por el estudio independiente de videojuegos conocido como Capy en capybaragames.com
 				"Diseño, líder de proyecto, incansable apoyo y más por Kris Piotrowski, director creativo de Capy aka @krispiotrowski"					
 				"Sistemas, arquitectura técnica, UI, motor y más por Jon Maur, programador jefe de S:S&S EP de Capy aka @buckets187"					
 				"Scripting, combate y milagros por Frankie Leung, programador jefe de gameplay de S:S&S EP de Capy aka @mpfTempVar"					
 				"Inspiración, canciones, sonidos, alma y mucho más cortesía de Jim Guthrie, compositor, héroe folk y estrella de rock aka @jampants"					
+			Logos/eightfour	Traducción al japonés, marketing, RP & amor proporcionados por 8-4, Ltd. STAFF en 8-4.jp
 				* * * ADEMáS * * *					
 				"Voz de Tronco por Robert Ashley, creador del programa de radio 'A Life Well Wasted' aka @robertashley at www.alifewellwasted.com"					
 				Voz de la Escita por la fotógrafa Robyn Cumming de robyncumming.com					
@@ -626,10 +628,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * PROCESO * * *					
 				"Pixel artwork creado enteramente en Promotion by Cosmigo, con otros elementos visuales creados en Illustrator & Photoshop de Adobe."					
 				Sonidos y canciones creadas usando MTV Music Generator de Codemasters para PSOne y/o Garageband & Logic Studio de Apple.					
-			Logos/FMOD	Sonidos y canciones integradas en el proyecto usando FMOD de Firelight Technologies.					
-			Logos/DolbyDigital	Dolby y el símbolo de la Doble-D son marcas registradas de Dolby Laboratories.					
-			Logos/DolbyDigital	El audio de PC contiene Dolby® Digital Live requerido por Dolby Digital audio.					
-			Logos/DigitalSurround	"DTS® y DTS Digital Surround® son marcas registradas de DTS, Inc."					
+			Logos/FMOD	Los sonidos y las canciones se integraron en el proyecto utilizando FMOD de Firelight Technologies.					
 				El código fue programado utilizando C++ y Lua script con tolua++. Los mapas y elementos del mundo fueron creados con herramientas propiedad de Capy.					
 				Cálculos de fase lunar y algoritmos astronómicos cortesía de voidware.com/moon_phase.htm					
 				"Las APIs utilizadas en la creación de S:S&S EP incluyen twitcurl, tinyxml, libpng/zlib, SDL, cmake, y minizip"					
