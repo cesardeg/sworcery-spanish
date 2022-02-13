@@ -107,7 +107,7 @@ INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de leña cortada, no es 
 INFO_SPUME	The Scythian			Encontramos el sutil sonido espumoso de un duende adormilado. Y ahora... ¿cómo lo invocamos?					
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de apariencia curiosa, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de apariencia desgastada que parecía una cara de aspecto espeluznante.					
-INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de tránsito del viejo camino había un asta de bandera adornado con cráneos sombríos.					
+INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el viejo camino había un asta de bandera expeluznantemente adornado con cráneos en forma de bloque.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la gruta cavernosa del prado nos encontramos con una arboleda aislada llena de extrañas estructuras de piedra.					
 			Archetype/trifecta	... ¿Era una Arboleda Trigon? #trigongrove			93	016.jpg	B1D6J
 			triangle/Triangle	"Mientras estábamos al lado de la primera estructura de piedra, pensamos en el Trigon de Oro y sentimos cómo se agitaba nuestra espada."					
@@ -117,9 +117,9 @@ INFO_BRIGHTTRIGONALTAR	The Scythian			En la Arboleda Trigon había otra estructu
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
 INFO_STONEHEAD	The Scythian			"En el Precipicio Peligroso había una enorme escultura tallada en la roca, de aspecto familiar y con la boca entreabierta."			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			En el Precipio Peligroso había una enorme escultura tallada en la roca y de aspecto familiar.					
-INFO_STONEHEADFLAGPOLE	The Scythian			"En lo alto de una enorme escultura tallada en la roca se alzaba una sombría bandera asombrosamente adornada con calaveras de aspecto amenazante, o algo parecido."					
+INFO_STONEHEADFLAGPOLE	The Scythian			"En la cima de una enorme escultura tallada en la roca se alzaba un asta de bandera expeluznantemente adornado con cráneos en forma de bloque, o algo parecido."					
 INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso se alzaba una especie de dolmen que custodiaba dos asientos de piedra de aspecto cómodo.			25	018.jpg	O1C8M
-INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un asta sombrío adornado de forma espeluznante con un cráneo astado.					
+INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un asta espeluznante adornado con un cráneo astado.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada rocosa de un templo en la montaña divisamos una representación pictográfica del Trigon Trifecta.					
 INFO_MOUNTAINGATE	The Scythian			En la profundidad del templo de la montaña divisamos una puerta de hierro inamovible. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
 INFO_MOUNTAINGATETRIGON	The Scythian			"En la profundidad del templo de la montaña, por encima de un pasaje elevado, contemplamos tres extrañas formas triangulares."					
@@ -135,7 +135,7 @@ INFO_ROCKSHOWJIM	The Scythian			Dirigiendo el espéctaculo de rock no había otr
 INFO_ROCKSHOWBOOR	The Scythian			En el espéctaculo de rock vimos al Patán Peludo meneando su cosa.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			En el espéctaculo de rock había un considerable número de damas y caballeros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			En el espéctaculo de rock divisamos al tipo conocido como El Arquetipo y nos quedamos preguntándonos qué tenía que ver él con todo esto.					
-INFO_TRIGONGROVESKULLSTICK	The Scythian			Un asta sombrío adornado con un cráneo astado conecta esta ubicación con el espectro inmortal que se esconde bajo el Mingi Taw.					
+INFO_TRIGONGROVESKULLSTICK	The Scythian			Un asta espeluznante adornado con un cráneo astado conecta esta ubicación con el espectro inmortal que se esconde bajo el Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			"En la Arboleda Trigon, más allá de la gruta cavernosa del prado, divisamos una tumba solitaria que despertó nuestra curiosidad."					
 GRAVE_TRIGONGROVEGHOST	The Scythian			"En la Arboleda Trigon, más allá de la gruta cavernosa del prado, nos acercamos a una tumba solitaria donde nos recibió un fantasma resplandeciente."					
 				"El fantasma resplandeciente de la Arboleda Trigon nos asustó un poco al principio, para ser sinceros."			96	022.jpg	T2B2H
