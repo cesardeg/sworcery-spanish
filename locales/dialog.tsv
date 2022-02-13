@@ -393,7 +393,7 @@ GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		"Parece como si todos los d
 JIM_HINT1_OFF	The Scythian			En una arboleda aislada nos encontramos con un tipo misterioso y musical situado al lado de un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En una arboleda aislada encontramos a un tipo misterioso junto a un fuego crepitante. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			"Mientras que la luna brillante se cernía, nos encontramos con un tipo misterioso y musical junto a un fuego crepitante. Dijo responder al nombre de Jim Guthrie."			128	070.jpg	07G00
-JIM_POSTSWORCERY	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie había presenciado nuestra espadachicería y parecía haberle molado bastante.					
+JIM_POSTSWORCERY	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie había presenciado nuestra espadachicería y parecía haberle gustado bastante.					
 JIM_POSTGOURD	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
 				Jim nos invitó a sentarnos junto al fuego.					
 JIM_POSTSONG	The Scythian			Jim Guthrie nos enseñó que no había que rechazar los malos pensamientos ni la mordedura de un dragón.					
@@ -583,44 +583,44 @@ ARCHETYPE_CREDITS	The Archetype
 			Logos/eightfour	Traducción al japonés, marketing, relaciones públicas y cariño proporcionados por 8-4, Ltd. TODO EL EQUIPO en 8-4.jp					
 				Traducción al castellano por Miguel 'Sheen' Ávila de Tradupixel en Steam					
 				* * * EL EQUIPO S:S&S EP * * *					
-				Concepto, arte, diseño, dirección & guión por representantes de Superbrothers Inc. aka @the1console					
-				Diseño, líder de proyecto, incansable apoyo y más por Kris Piotrowski, director creativo de Capy aka @krispiotrowski					
-				Sistemas, arquitectura técnica, UI, motor y más por Jon Maur, programador jefe de S:S&S EP de Capy aka @buckets187					
-				Scripting, combate y milagros por Frankie Leung, programador jefe de gameplay de S:S&S EP de Capy aka @mpfTempVar					
-				Inspiración, canciones, sonidos, alma y mucho más cortesía de Jim Guthrie, compositor, héroe folk y estrella de rock aka @jampants					
+				Concepto, arte, diseño, dirección & guión por representantes de Superbrothers Inc. alias @the1console					
+				Diseño, líder de proyecto, incansable apoyo y más por Kris Piotrowski, director creativo de Capy alias @krispiotrowski					
+				Sistemas, arquitectura técnica, UI, motor y más por Jon Maur, programador jefe de S:S&S EP de Capy alias @buckets187					
+				Programación, combate y trabajo milagroso por Frankie Leung, programador jefe de gameplay de S:S&S EP de Capy alias @mpfTempVar					
+				Inspiración, canciones, sonidos, alma y mucho más cortesía de Jim Guthrie, compositor, héroe folk y estrella de rock alias @jampants					
 				* * * Y LO QUE ES MÁS * * *					
-				Voz de Tronco por Robert Ashley, creador del programa de radio 'A Life Well Wasted' aka @robertashley en www.alifewellwasted.com					
+				Voz de Tronco por Robert Ashley, creador del programa de radio 'A Life Well Wasted' alias @robertashley en www.alifewellwasted.com					
 				Voz de la Escita por la fotógrafa Robyn Cumming en robyncumming.com					
-				Voz del Arquetipo por el artista y cineasta Clive Holden aka @cliveholden en cliveholden.com					
-				Sonidos cósmicos de la Gruta de la Luna por Scientific American aka @scntfc en scntfc.com					
+				Voz del Arquetipo por el artista y cineasta Clive Holden alias @cliveholden en cliveholden.com					
+				Sonidos cósmicos de la Gruta de la Luna por Scientific American alias @scntfc en scntfc.com					
 				* * * SOPORTE CAPY * * *					
-				"Productor ejecutivo, héroe del pueblo, liderazgo y estratificación por Nathan Vella, presidente de Capy aka @Capy_Nathan"					
+				"Productor ejecutivo, héroe del pueblo, liderazgo y estratificación por Nathan Vella, presidente de Capy alias @Capy_Nathan"					
 				"Productor de PC, asistencia técnica de audio, integración FMOD y muchos sonidos encantadores por Sean ""Uber"" Lohrisch, co-fundador de Capy."					
 				"Asistencia administrativa y comercial por Matt ""Juggalord"" Repetski, co-fundador de Capy."					
-				"Garantía de calidad y héroe del megatesteo por Christian ""Sea Dawg"" Meyer de Capy aka @fiddler6"					
+				"Garantía de calidad y héroe del megatesteo por Christian ""Sea Dawg"" Meyer de Capy alias @fiddler6"					
 				Núcleo de programación del port de PC y calidad 1080p proporcionado por ningún otro que Hubert Wong.					
-				"Apoyo adicional de programación PC/Mac/Linux, experiencia en Steam y muchas más cosas por Drew Grainge aka @firstelder_d"					
-				"Algunos assets de arte y sonrisas provistas por Vic ""Meow"" Nguyen de Super TIME Force aka @cowceda"					
-				Control de calidad adicional por el único e inimitable Aaron Eves aka @AaronEves					
+				"Apoyo adicional de programación PC/Mac/Linux, experiencia en Steam y muchas más cosas por Drew Grainge alias @firstelder_d"					
+				"Algunos assets de arte y sonrisas provistas por Vic ""Meow"" Nguyen de Super TIME Force alias @cowceda"					
+				Control de calidad adicional por el único e inimitable Aaron Eves alias @AaronEves					
 				"Control de calidad adicional de PC por Phil Sandhop, Crystal Edwards y Sebastian Andersson de GameInstinct."					
 				"Agradecimientos a Xavier Xaden Xen, Joseppe Theodore Blocco y Hank Hudson"					
-				Galletas y otros deliciosos dulces proporcionado por Thea Gaerlan aka @doodlegirl					
+				Galletas y otros deliciosos dulces proporcionado por Thea Gaerlan alias @doodlegirl					
 				* * * SOPORTE SUPERBROTHERS * * *					
-				"Enlace, comunicaciones, CC, inspiración, paciencia infinita y apoyo moral interminable cortesía de Jori Baldwin aka @aurorajorealis"					
-				"Asistencia de negocios, apoyo financiero y apoyo moral inquebrantable por Mack C. Adams aka @mackaraja"					
+				"Enlace, comunicaciones, CC, inspiración, paciencia infinita y apoyo moral interminable cortesía de Jori Baldwin alias @aurorajorealis"					
+				"Asistencia de negocios, apoyo financiero y apoyo moral inquebrantable por Mack C. Adams alias @mackaraja"					
 				"Muchos agradecimientos a Sheila Precious, David Adams, Sarah Adams y Cimarron Corpe por mantener el barco a flote ante mares tormentosos."					
 				Mega gracias a Jim Guthrie por embarcarse en esta aventura loca hacia lo desconocido.					
 				Sonidos adicionales cortesía de Timothy Muirhead.					
 				* * * SOPORTE 8-4 * * *					
-				Traducción al japonés por el maestro de las palabras RYUTA YAZAWA aka @lye_					
-				"Edición japonesa, consejo crucial y apoyo sin fin por MASAHIRO YUKI aka @You_to_the_ki de Grasshopper Manufacture www.ghm.jp"					
-				"Diseño molón del logotipo japonés cortesía de POLYGRAPH, aka @polygraph_suwa en www.polygraph.jp"					
-				Magia del sitio web japonés por Jonathan Lumb aka @jonnyram de www.jonnyram.com					
+				Traducción al japonés por el maestro de las palabras RYUTA YAZAWA alias @lye_					
+				"Edición japonesa, consejo crucial y apoyo sin fin por MASAHIRO YUKI alias @You_to_the_ki de Grasshopper Manufacture www.ghm.jp"					
+				"Diseño del increíble logotipo japonés cortesía de POLYGRAPH, alias @polygraph_suwa en www.polygraph.jp"					
+				Magia del sitio web japonés por Jonathan Lumb alias @jonnyram de www.jonnyram.com					
 				"Y finalmente, agradecimientos por al apoyo y amistad de: @suda_51, Tomoaki Takahashi, @eightbear, & remix artists @baiyon, @akirayamaoka, Michiru Yamane, @macotom3, y Decasségui Hip"					
 				* * * THE DOMINION OF CANADA * * *					
 			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de la Ontario Media Development Corporation (OMDC).					
 				* * * LOS QUEREMOS UN MONTÓN * * *					
-				"A Brandon Boyer aka @brandonnn, Mathew Kumar aka @mathewkumar y Jason DeGroot aka @jason6955 por alinear las estrellas."					
+				"A Brandon Boyer alias @brandonnn, Mathew Kumar alias @mathewkumar y Jason DeGroot alias @jason6955 por alinear las estrellas."					
 				"Mucho amor a las increíbles comunidades de videojuegos de Toronto y a la gente encantadora de 'The Hand Eye Society', TOJam & Gamercamp."					
 				A la familia y amigos: los queremos y realmente esperamos volver a verlos. ¿Cómo han estado desde la última vez que hablamos?					
 				"A todos los que han apoyado y animado este proyecto: ¡muchas gracias por su paciencia, curiosidad y fe!"					
@@ -647,11 +647,11 @@ ARCHETYPE_CREDITS	The Archetype
 				Pusimos 'MIDSUMMER ROCKSHOWCASE' en la TIFF Lightbox de Toronto con material S&S de Jim Guthrie. ¡Fue impresionante!					
 				"S:S&S EP se lanzó en iPhone & iPod Touch, y hubo mucho regocijo."					
 				"En los meses posteriores del lanzamiento algunos de nosotros nos casamos, algunos de nosotros nos separamos y todos nos movimos."					
-				Se le pidió a Jim Guthrie que creara la banda sonora del documental 'Indie Game: The Movie' aka @indiegamemovie.					
+				Se le pidió a Jim Guthrie que creara la banda sonora del documental 'Indie Game: The Movie' alias @indiegamemovie.					
 				Capy está concentrada actualmente en crear un puñado de videojuegos entre los que se encuentra el impresionante SUPER T.I.M.E. FORCE.					
 				El personal de Superbrothers Inc se está tomando un tiempo para soñar nuevos sueños.					
 				"S:S&S EP fue uno de los videojuegos Top 10 de 2011 para la revista Time Magazine junto a juegos AAA como Dark Souls y Skyrim, ¡vaya!"					
-				La música de Jim Guthrie fue reconocida como 'La mejor música de videojuego de 2011' por Kirk Hamilton aka @kirkhamilton en Kotaku.					
+				La música de Jim Guthrie fue reconocida como 'La mejor música de videojuego de 2011' por Kirk Hamilton alias @kirkhamilton en Kotaku.					
 				El hastag sworcery de S:S&S EP fue 'uno de los mayores eventos de internet de 2011' según Co.Design & Syzygy.					
 				"S:S&S EP ganó un Game Developer's Choice Award en la GDC de 2012, superando a títulos AAA... lo cual fue increíble."					
 				Jim Guthrie sacó un nuevo disco llamado 'The Children of the Clone' con temas de S:S&S EP.					
