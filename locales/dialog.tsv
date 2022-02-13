@@ -245,7 +245,7 @@ LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco raro... Sin dud
 				"Cada vez que siento que necesito recobrar fuerzas, me siento al lado de este hogar para calentarme las botas."					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades del gran mago Al Jaffee."					
-				"¿Sientes esa sensación tan peculiar? ¡Es tiempo de milagros! Canta una Canción de Espadachicería y admira a los amenazantes pájaros enfadados que se avecinan."			76	038.jpg	A3G84
+				¿Sientes esa sensación tan peculiar? ¡Es tiempo de milagros! Canta una Canción de Espadachicería y admira a los amenazantes pájaros enfadados que se avecinan.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira a los cielos con una cierta visión oblicua para ver este milagro de la pradera y luego contempla el Trigon de Oro.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... es interesante el modo como manejaste la situación con el compi caníbal con cabeza de oso.			120	039.jpg	O3G9D
 				"No no, está bien, sólo que me pareció interesante. Nunca vi a nadie hacer lo que hiciste tú. Es excepcional, pero no te alarmes."					
@@ -577,16 +577,17 @@ RABBITS_91MURDERS	The Scythian			Hemos asesinado inexplicablemente a 91 conejos 
 RABBITS_107MURDERS	The Scythian			Hemos asesinado inexplicablemente a 107 conejos indefensos. ¿Tal vez disminuya nuestra compulsión asesina si dejamos de contar?					
 ARCHETYPE_CREDITS	The Archetype								
 				S:S&S EP es un proyecto colaborativo tipo videojuego realizado en Toronto. Ponte en contacto o manténte informado en swordandsworcery.com					
-				Logos/superbrothers	Concepto original de la organización de arte y diseño conocida como Superbrothers Inc. en superbrothers.ca					
+				Logos/superbrothers	Concepto original de la organización de arte y diseño conocida como Superbrothers Inc. en superbrothers.ca				
 				Canciones y algunos sonidos del amado compositor y estrella de rock conocido como Jim Guthrie en jimguthrie.org					
-			Logos/capy	Ingeniería y milagros del estudio independiente de videojuegos conocido como Capy en capybaragames.com
+			Logos/capy	Ingeniería y milagros del estudio independiente de videojuegos conocido como Capy en capybaragames.com					
 			Logos/eightfour	Traducción al japonés, marketing, relaciones públicas y cariño proporcionados por 8-4, Ltd. TODO EL EQUIPO en 8-4.jp					
+				Traducción al castellano por Miguel 'Sheen' Ávila de Tradupixel en Steam					
 				* * * EL EQUIPO S:S&S EP * * *					
-				Concepto, arte, diseño, dirección & guión por representantes de Superbrothers Inc. aka @the1console			
+				Concepto, arte, diseño, dirección & guión por representantes de Superbrothers Inc. aka @the1console					
 				Diseño, líder de proyecto, incansable apoyo y más por Kris Piotrowski, director creativo de Capy aka @krispiotrowski					
 				Sistemas, arquitectura técnica, UI, motor y más por Jon Maur, programador jefe de S:S&S EP de Capy aka @buckets187					
 				Scripting, combate y milagros por Frankie Leung, programador jefe de gameplay de S:S&S EP de Capy aka @mpfTempVar					
-				Inspiración, canciones, sonidos, alma y mucho más cortesía de Jim Guthrie, compositor, héroe folk y estrella de rock aka @jampants
+				Inspiración, canciones, sonidos, alma y mucho más cortesía de Jim Guthrie, compositor, héroe folk y estrella de rock aka @jampants					
 				* * * Y LO QUE ES MÁS * * *					
 				Voz de Tronco por Robert Ashley, creador del programa de radio 'A Life Well Wasted' aka @robertashley en www.alifewellwasted.com					
 				Voz de la Escita por la fotógrafa Robyn Cumming de robyncumming.com					
@@ -677,7 +678,3 @@ ARCHETYPE_CREDITS	The Archetype
 				"¡Si quieres ordenar impresiones, ropa, discos, videojuegos o lo que sea, búscanos en Internet!"					
 				"¡Si disfrutas con el estilo de entretenimiento audiovisual ofrecido por S:S&S EP entonces, por favor, corre la voz!"					
 				"Ahora somos amigos cósmicos para siempre, ¿de acuerdo?"			87	084.jpg	L8A48
-				* * * TRADUPIXEL * * *					
-				Traducción al castellano por Miguel 'Sheen' Ávila					
-				Esta traducción está dedicada a todos los miembros de Tradupixel en Steam que siguen al grupo después de tantos años						
-				¡Disfruta del juego en castellano si no lo has hecho ya! :D					
