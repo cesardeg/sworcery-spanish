@@ -14,7 +14,7 @@ SIGN_WOLF	The Scythian			En un lado del viejo camino había una piedra tallada c
 SIGN_ANTECHAMBERLEFT	The Scythian			"En un pasillo subterráneo descubrimos una estatua de malfario, pero no le prestamos demasiada atención. #lore"			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			En las escarpadas montañas del Mingi Taw una tumba solitaria marcaba el final de un camino de grava.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En las escarpadas montañas del Mingi Taw una tumba solitaria marcaba el final de un camino de grava.					
-INFO_RIDGESKULLPOLE	The Scythian			En la cresta dentada que llevaba a la cima del Mingi Taw había un poste sombrío adornado con un cráneo astado.					
+INFO_RIDGESKULLPOLE	The Scythian			En la cresta dentada que llevaba a la cima del Mingi Taw había un asta expeluznantemente adornado con un cráneo astado.					
 INFO_CROSSRIDGE	The Scythian			En la cresta dentada que llevaba a la cima del Mingi Taw descansaba una tumba solitaria como triste recordatorio de las muchas personas que habían muerto allí.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos nuestra espada agitarse en la vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Una pequeña puerta sin pomo de un material desconocido. Una señal decía 'Solo personal autorizado'.					
@@ -23,7 +23,7 @@ DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se ocultaba en la maleza de
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba madera. #obviously #woodchopping			71	007.jpg	7E+71
 				"La gente de las montañas del Cáucaso lo conocía como Tronco, y parecía agradable."					
-				Tronco lo sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el antiguo camino.					
+				Tronco lo sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el viejo camino.					
 				"Aún así, nos dio la sensación que no estaba super emocionado con tal encomienda."					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El hombre de los bosques nos esperó en la ruta, al inicio del viejo camino."			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos cruzado el abismo y nos sentíamos super inteligentes.			22	009.jpg	L0B9S
@@ -168,7 +168,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un grupo de tumbas en un matorral al l
 GRAVE_CHASM	The Scythian			Divisamos una tumba solitaria en el borde del Precipicio Peligroso y nos preguntamos quién la habitaría.					
 GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la tumba solitaria del tramposo embustero y conocimos a un viejo fantasma resplandeciente.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André El Gigante reunió a un grupo y nos propusimos reconstruir el Trigon Trifecta."""					
-				"""Los otros tipos del grupo están enterrados en un matorral al lado del antiguo camino, cerca del puente de troncos."""					
+				"""Los otros tipos del grupo están enterrados en un matorral al lado del viejo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar el Trigon de Oro con bastante facilidad pero no avanzamos nada después de eso."""					
 				"""Buscamos el Trigon Luna Brillante, así que decidimos sentarnos y observar los cielos, esperando que el estado de ánimo de la luna cambiara."""					
 				"""¡Fue super aburrido! No iba a esperar días y días hasta que la Luna Brillante se alzara."""					
