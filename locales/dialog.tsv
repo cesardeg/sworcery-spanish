@@ -153,7 +153,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			"En la Arboleda Trigon, más allá de la g
 GRAVE_LOGBRIDGE	The Scythian			Vimos un grupo de tumbas en un matorral al lado del viejo camino y nos preguntamos de quiénes serían.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un grupo de tumbas en un matorral al lado del viejo camino y nos encontramos con unos fantasmas que parecía amistosos.			116	025.jpg	62B55
 				El fantasma resplandeciente que habló fue un gigante que conocíamos por viejas historias cuyo famoso retrato demandaba obediencia. #andre					
-			Archetype/trifecta	"""El año pasado antes del yuletide reuní a un grupo y nos propusimos reconstruir el Trigon Trifecta."""					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, reuní a un grupo y nos propusimos reconstruir el Trigon Trifecta."""					
 				"""Habíamos oído hablar de la puerta de entrada al infinito en la cumbre del Mingi Taw y pensamos que sería genial verla."""					
 			triangle/Triangle	"""Así que domamos el Trigon de Oro e investigamos la Arboleda Trigon antes de salir a buscar el Trigon Luna Brillante."""					
 				"""Localizar el Trigon Luna Brillante no fue muy bien... acabamos bastante perdidos para ser honesto."""					
@@ -162,20 +162,20 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un grupo de tumbas en un matorral al l
 				"""Morimos de aburrimiento esperando a que el humor de la luna cambiara."""					
 				"""Bueno, en realidad morimos debido a una discusión que tuvimos a causa del aburrimiento."""					
 				"""Realmente no me apetece tocar ese tema ahora mismo, si no os importa."""					
-				"""Bueno, lo que pasó fue que uno de los nuestros era un tramposo repugnante y lo cogimos con las manos en la masa."""					
-				"""Estalló una pelea y el tramposo repugnante huyó por el viejo camino hacia el Precipicio Peligroso."""					
+				"""Bueno, lo que pasó fue que uno de los nuestros era un tramposo embustero y lo cogimos con las manos en la masa."""					
+				"""Estalló una pelea y el tramposo embustero huyó por el viejo camino hacia el Precipicio Peligroso."""					
 				"""Así que estábamos preguntándonos qué hacer... cuando de repente apareció La Masa Gogolítica... ¡Buff!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Divisamos una tumba solitaria en el borde del Precipicio Peligroso y nos preguntamos quién la habitaría.					
-GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la tumba solitaria del tramposo repugnante y conocimos a un viejo fantasma resplandeciente.					
-			Archetype/trifecta	"""El año pasado antes del yuletide André El Gigante reunió a un grupo y nos propusimos reconstruir el Trigon Trifecta."""					
+GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la tumba solitaria del tramposo embustero y conocimos a un viejo fantasma resplandeciente.					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André El Gigante reunió a un grupo y nos propusimos reconstruir el Trigon Trifecta."""					
 				"""Los otros tipos del grupo están enterrados en un matorral al lado del antiguo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar el Trigon de Oro con bastante facilidad pero no avanzamos nada después de eso."""					
 				"""Buscamos el Trigon Luna Brillante, así que decidimos sentarnos y observar los cielos, esperando que el estado de ánimo de la luna cambiara."""					
 				"""¡Fue super aburrido! No iba a esperar días y días hasta que la Luna Brillante se alzara."""					
-				"""Abandoné a esos pazguatos para vagar sin rumbo mientras me hundía más y más en esa trampa lógico-lunar."""					
-				El viejo fantasma resplandeciente habló de cómo había hecho trampas saliendo de S:S&S EP y luego alterando el reloj y la fecha de su dispositivo.					
-				"El fantasma describió lo incómodo que era ese proceso, ¡pero nos dijo que le permitió influir en las fases lunares!"					
-				"""La cosa es que, desde que hice trampas, sufrí siempre de angustia severa y me morí de la vergüenza."""					
+				"""Abandoné a esos bobos para vagar sin rumbo mientras me hundía más y más en esa trampa lógico-lunar."""					
+				El viejo fantasma resplandeciente habló de cómo había hecho trampa saliendo de S:S&S EP e ir a Ajustes.					
+				"El fantasma describió sobre la opción de Fecha/Hora y los horrores que asechaban al alterar las fases lunares."					
+				"""La cosa es que, desde que hice trampa, sufrí siempre de una profunda angustia y morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			"Dentro de un árbol hueco titánico vimos una tumba solitaria, y eso nos despertó un poco la curiosidad."					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado comenzó a recitarnos una rima alocada.			117	028.jpg	E2A80
 				"""Monitorea los estados de ánimo de la luna y aprenderás cuándo estar dónde y cómo."""					
@@ -245,7 +245,7 @@ LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco raro... Sin dud
 				"Cada vez que siento que necesito recobrar fuerzas, me siento al lado de este hogar para calentarme las botas."					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades del gran mago Al Jaffee."					
-				¿Sientes esa sensación tan peculiar? ¡Es tiempo de milagros! Canta una Canción de Espadachicería y admira a los amenazantes pájaros enfadados que se avecinan.			76	038.jpg	A3G84
+				¿Sientes esa sensación tan peculiar? ¡Es tiempo de milagros! Canta una Canción de Espadachicería y mira hacia los pájaros enfadados que se ciernen.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira a los cielos con una cierta visión oblicua para ver este milagro de la pradera y luego contempla el Trigon de Oro.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... es interesante el modo como manejaste la situación con el compi caníbal con cabeza de oso.			120	039.jpg	O3G9D
 				"No no, está bien, sólo que me pareció interesante. Nunca vi a nadie hacer lo que hiciste tú. Es excepcional, pero no te alarmes."					
@@ -625,7 +625,7 @@ ARCHETYPE_CREDITS	The Archetype
 				A la familia y amigos: los queremos y realmente esperamos volver a verlos. ¿Cómo han estado desde la última vez que hablamos?					
 				"A todos los que han apoyado y animado este proyecto: ¡muchas gracias por su paciencia, curiosidad y fe!"					
 				* * * PROCESO * * *					
-				"Pixel artwork creado enteramente en Promotion by Cosmigo, con otros elementos visuales creados en Illustrator & Photoshop de Adobe."					
+				"Pixel artwork creado enteramente en Promotion con Cosmigo, con otros elementos visuales creados en Illustrator & Photoshop de Adobe."					
 				Sonidos y canciones creadas usando MTV Music Generator de Codemasters para PSOne y/o Garageband & Logic Studio de Apple.					
 			Logos/FMOD	Los sonidos y las canciones se integraron en el proyecto utilizando FMOD de Firelight Technologies.					
 				El código fue programado utilizando C++ y Lua script con tolua++. Los mapas y elementos del mundo fueron creados con herramientas propiedad de Capy.					
