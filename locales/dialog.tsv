@@ -17,7 +17,7 @@ INFO_CROSSMOUNTAINRIGHT	The Scythian			En las escarpadas montañas del Mingi Taw
 INFO_RIDGESKULLPOLE	The Scythian			En la cresta dentada que llevaba a la cima del Mingi Taw había un asta expeluznantemente adornado con un cráneo astado.					
 INFO_CROSSRIDGE	The Scythian			En la cresta dentada que llevaba a la cima del Mingi Taw descansaba una tumba solitaria como triste recordatorio de las muchas personas que habían muerto allí.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos nuestra espada agitarse en la vaina. #megatome			33	006.jpg	30D6C
-DOOR_SIDEBMEADOW	The Scythian			"Una pequeña puerta sin pomo de un material desconocido. Una señal decía ""Solo personal autorizado""".					
+DOOR_SIDEBMEADOW	The Scythian			"Una pequeña puerta sin pomo de un material desconocido. Una señal decía ""Solo personal autorizado""."					
 DOOR_UPSLOPEWOODS1	The Scythian			El viejo camino al Mingi Taw estaba bloqueado por una puerta cerrada.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se ocultaba en la maleza del bosque debajo del viejo camino que conducía hasta el Mingi Taw. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
@@ -619,7 +619,7 @@ ARCHETYPE_CREDITS	The Archetype
 				"Y finalmente, agradecimientos por al apoyo y amistad de: @suda_51, Tomoaki Takahashi, @eightbear, & remix artists @baiyon, @akirayamaoka, Michiru Yamane, @macotom3, y Decasségui Hip"					
 				* * * THE DOMINION OF CANADA * * *					
 			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de la Ontario Media Development Corporation (OMDC).					
-				* * * LOS QUEREMOS UN MONTÓN * * *					
+				* * * LOS QUEREMOS MUCHO * * *					
 				"A Brandon Boyer alias @brandonnn, Mathew Kumar alias @mathewkumar y Jason DeGroot alias @jason6955 por alinear las estrellas."					
 				"Mucho amor a las increíbles comunidades de videojuegos de Toronto y a la gente encantadora de ""The Hand Eye Society"", TOJam & Gamercamp."					
 				A la familia y amigos: los queremos y realmente esperamos volver a verlos. ¿Cómo han estado desde la última vez que hablamos?					
