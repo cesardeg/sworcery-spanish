@@ -17,7 +17,7 @@ INFO_CROSSMOUNTAINRIGHT	The Scythian			En las escarpadas montañas del Mingi Taw
 INFO_RIDGESKULLPOLE	The Scythian			En la cresta dentada que llevaba a la cima del Mingi Taw había un asta expeluznantemente adornado con un cráneo astado.					
 INFO_CROSSRIDGE	The Scythian			En la cresta dentada que llevaba a la cima del Mingi Taw descansaba una tumba solitaria como triste recordatorio de las muchas personas que habían muerto allí.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos nuestra espada agitarse en la vaina. #megatome			33	006.jpg	30D6C
-DOOR_SIDEBMEADOW	The Scythian			Una pequeña puerta sin pomo de un material desconocido. Una señal decía 'Solo personal autorizado'.					
+DOOR_SIDEBMEADOW	The Scythian			"Una pequeña puerta sin pomo de un material desconocido. Una señal decía ""Solo personal autorizado""".					
 DOOR_UPSLOPEWOODS1	The Scythian			El viejo camino al Mingi Taw estaba bloqueado por una puerta cerrada.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se ocultaba en la maleza del bosque debajo del viejo camino que conducía hasta el Mingi Taw. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
@@ -59,7 +59,7 @@ ARCHETYPE_FOUNDATION	The Archetype			Vamos a hablar sobre el conjunto y la confi
 				"""Configuración"" incluye la comodidad, seguridad y calidez de la habitación o ambiente al aire libre donde ocurrirá la experiencia."					
 				"El segundo aspecto de ""Configuración"" es el cultural, prevaleciendo nociones de realidad y normalidad. Evitaremos este tema por ahora."					
 				"S:S&S EP no produce una experiencia transcendente, se trata simplemente de liberar el sistema nervioso de los patrones ordinarios."					
-				"La conciencia expandida, el potencial sin explotar y sin límites de la mente, es lo que nosotros denominamos ""sworcery"", o ""espadachicería"" en castellano."					
+				"La conciencia expandida, el potencial sin explotar y sin límites de la mente, es lo que nosotros denominamos ""Sworcery"", o ""Espadachicería"" en castellano."					
 				La canción de espadachicería puede entenderse como una técnica psiónica que te permite percibir una realidad dentro de la realidad que ya conoces.					
 				"Para detener la canción de espadachicería en cualquier momento, simplemente toca dos veces en él aura espadachicera que rodea a la Escita."					
 				"Una vez que hayas comenzado a cantar la canción de espadachicería, mantén presionado sobre él aura espadachicera y desliza para mirar alrededor."					
@@ -173,8 +173,8 @@ GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la tu
 				"""Buscamos el Trigon Luna Brillante, así que decidimos sentarnos y observar los cielos, esperando que el estado de ánimo de la luna cambiara."""					
 				"""¡Fue super aburrido! No iba a esperar días y días hasta que la Luna Brillante se alzara."""					
 				"""Abandoné a esos bobos para vagar sin rumbo mientras me hundía más y más en esa trampa lógico-lunar."""					
-				El viejo fantasma resplandeciente habló de cómo había hecho trampa saliendo de S:S&S EP e ir a Ajustes.					
-				"El fantasma describió sobre la opción de Fecha/Hora y los horrores que asechaban al alterar las fases lunares."					
+				El viejo fantasma resplandeciente habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
+				"El fantasma describió sobre la opción de Fecha/Hora y los horrores que asechaban al alterar el ciclo lunar."					
 				"""La cosa es que, desde que hice trampa, sufrí siempre de una profunda angustia y morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			"Dentro de un árbol hueco titánico vimos una tumba solitaria, y eso nos despertó un poco la curiosidad."					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado comenzó a recitarnos una rima alocada.			117	028.jpg	E2A80
@@ -581,7 +581,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Canciones y algunos sonidos del amado compositor y estrella de rock conocido como Jim Guthrie en jimguthrie.org					
 			Logos/capy	Ingeniería y milagros del estudio independiente de videojuegos conocido como Capy en capybaragames.com					
 			Logos/eightfour	Traducción al japonés, marketing, relaciones públicas y cariño proporcionados por 8-4, Ltd. TODO EL EQUIPO en 8-4.jp					
-				Traducción al castellano por Miguel 'Sheen' Ávila de Tradupixel en Steam					
+				"Traducción al castellano por Miguel ""Sheen"" Ávila de Tradupixel en Steam"					
 				* * * EL EQUIPO S:S&S EP * * *					
 				Concepto, arte, diseño, dirección & guión por representantes de Superbrothers Inc. alias @the1console					
 				Diseño, líder de proyecto, incansable apoyo y más por Kris Piotrowski, director creativo de Capy alias @krispiotrowski					
@@ -589,7 +589,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Programación, combate y trabajo milagroso por Frankie Leung, programador jefe de gameplay de S:S&S EP de Capy alias @mpfTempVar					
 				Inspiración, canciones, sonidos, alma y mucho más cortesía de Jim Guthrie, compositor, héroe folk y estrella de rock alias @jampants					
 				* * * Y LO QUE ES MÁS * * *					
-				Voz de Tronco por Robert Ashley, creador del programa de radio 'A Life Well Wasted' alias @robertashley en www.alifewellwasted.com					
+				"Voz de Tronco por Robert Ashley, creador del programa de radio ""A Life Well Wasted"" alias @robertashley en www.alifewellwasted.com"					
 				Voz de la Escita por la fotógrafa Robyn Cumming en robyncumming.com					
 				Voz del Arquetipo por el artista y cineasta Clive Holden alias @cliveholden en cliveholden.com					
 				Sonidos cósmicos de la Gruta de la Luna por Scientific American alias @scntfc en scntfc.com					
@@ -621,7 +621,7 @@ ARCHETYPE_CREDITS	The Archetype
 			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de la Ontario Media Development Corporation (OMDC).					
 				* * * LOS QUEREMOS UN MONTÓN * * *					
 				"A Brandon Boyer alias @brandonnn, Mathew Kumar alias @mathewkumar y Jason DeGroot alias @jason6955 por alinear las estrellas."					
-				"Mucho amor a las increíbles comunidades de videojuegos de Toronto y a la gente encantadora de 'The Hand Eye Society', TOJam & Gamercamp."					
+				"Mucho amor a las increíbles comunidades de videojuegos de Toronto y a la gente encantadora de ""The Hand Eye Society"", TOJam & Gamercamp."					
 				A la familia y amigos: los queremos y realmente esperamos volver a verlos. ¿Cómo han estado desde la última vez que hablamos?					
 				"A todos los que han apoyado y animado este proyecto: ¡muchas gracias por su paciencia, curiosidad y fe!"					
 				* * * PROCESO * * *					
@@ -629,32 +629,32 @@ ARCHETYPE_CREDITS	The Archetype
 				Sonidos y canciones creadas usando MTV Music Generator de Codemasters para PSOne y/o Garageband & Logic Studio de Apple.					
 			Logos/FMOD	Los sonidos y las canciones se integraron en el proyecto utilizando FMOD de Firelight Technologies.					
 				El código fue programado utilizando C++ y Lua script con tolua++. Los mapas y elementos del mundo fueron creados con herramientas propiedad de Capy.					
-				Cálculos de fase lunar y algoritmos astronómicos cortesía de voidware.com/moon_phase.htm					
+				Cálculo de ciclos lunares y algoritmos astronómicos cortesía de voidware.com/moon_phase.htm					
 				"Las APIs utilizadas en la creación de S:S&S EP incluyen twitcurl, tinyxml, libpng/zlib, SDL, cmake, y minizip"					
-				Un build absurdamente temprano fue presentado en el 'Independent Games Festival' el 1 de Noviembre de 2009.					
+				"Un build absurdamente temprano fue presentado en el ""Independent Games Festival"" el 1 de Noviembre de 2009."					
 				S:S&S EP fue anunciado el 1 de Diciembre de 2009.					
-				A principios de 2010 se anunció que el proyecto había ganado el premio IGF Mobile 'Achievement in Art'.					
+				"A principios de 2010 se anunció que el proyecto había ganado el premio IGF Mobile ""Achievement in Art""".					
 				La primera demostración pública en directo de S:S&S EP ocurrió en un evento social de la 'Hand Eye Society' de Toronto el 14 de febrero de 2010.					
 				La primera versión jugable de S:S&S EP fue presentada a los asistentes y amigos en la GDC 2010 de San Francisco del 9 al 13 de marzo de 2010.					
 				El primer gameplay no editado de la GDC apareció simultáneamente en internet.					
-				"'Less Talk, More Rock: The Native Language of Videogames' fue publicado online en Boing Boing en Marzo de 2010 y puedes buscarlo en Google."					
-				"El proyecto ""se oscureció"" durante unos meses mientras nosotros, ya sabes, hacíamos el videojuego. Clic clic clic clic."					
-				'The Intoxication of Mythology' fue presentado por Superbrothers el 22 de Septiembre de 2010 en el Fantastic Arcade de Austin.					
-				" 'Aiming for Audiovisual Alchemy' fue presentado por Jim Guthrie, Kris Piotrowski y Superbrothers en la Gamercamp de Toronto."					
+				"""Less Talk, More Rock: The Native Language of Videogames"" fue publicado online en Boing Boing en Marzo de 2010 y puedes buscarlo en Google."					
+				"El proyecto 'se oscureció' durante unos meses, mientras nosotros, ya sabes, hacíamos el videojuego. Clic clic clic clic."					
 				Llevó un poco más de tiempo del esperado finalizarlo.					
-				Un nuevo vídeo titulado 'Audience Calibration Procedure' fue posteado el jueves 24 de febrero de 2011 para empezar a poner en marcha las cosas.					
+				"""The Intoxication of Mythology"" fue presentado por Superbrothers el 22 de Septiembre de 2010 en el Fantastic Arcade de Austin."					
+				"""Aiming for Audiovisual Alchemy"" fue presentado por Jim Guthrie, Kris Piotrowski y Superbrothers en la Gamercamp de Toronto."					
+				"Un nuevo vídeo titulado ""Audience Calibration Procedure"" fue posteado el jueves 24 de febrero de 2011 para empezar a poner en marcha las cosas."					
 				"S:S&S EP estuvo finalmente disponible para iPad alrededor del equinoccio vernal de 2011, poco antes del fin del mundo."					
-				Pusimos 'MIDSUMMER ROCKSHOWCASE' en la TIFF Lightbox de Toronto con material S&S de Jim Guthrie. ¡Fue impresionante!					
+				"Pusimos ""MIDSUMMER ROCKSHOWCASE"" en la TIFF Lightbox de Toronto con material S&S de Jim Guthrie. ¡Fue impresionante!"					
 				"S:S&S EP se lanzó en iPhone & iPod Touch, y hubo mucho regocijo."					
 				"En los meses posteriores del lanzamiento algunos de nosotros nos casamos, algunos de nosotros nos separamos y todos nos movimos."					
-				Se le pidió a Jim Guthrie que creara la banda sonora del documental 'Indie Game: The Movie' alias @indiegamemovie.					
+				"Se le pidió a Jim Guthrie que creara la banda sonora del documental ""Indie Game: The Movie"" alias @indiegamemovie."					
 				Capy está concentrada actualmente en crear un puñado de videojuegos entre los que se encuentra el impresionante SUPER T.I.M.E. FORCE.					
 				El personal de Superbrothers Inc se está tomando un tiempo para soñar nuevos sueños.					
 				"S:S&S EP fue uno de los videojuegos Top 10 de 2011 para la revista Time Magazine junto a juegos AAA como Dark Souls y Skyrim, ¡vaya!"					
 				La música de Jim Guthrie fue reconocida como 'La mejor música de videojuego de 2011' por Kirk Hamilton alias @kirkhamilton en Kotaku.					
 				El hastag sworcery de S:S&S EP fue 'uno de los mayores eventos de internet de 2011' según Co.Design & Syzygy.					
 				"S:S&S EP ganó un Game Developer's Choice Award en la GDC de 2012, superando a títulos AAA... lo cual fue increíble."					
-				Jim Guthrie sacó un nuevo disco llamado 'The Children of the Clone' con temas de S:S&S EP.					
+				"Jim Guthrie sacó un nuevo disco llamado ""The Children of the Clone"" con temas de S:S&S EP."					
 				"Después de eso la historia se pone un poco turbia, así que sintoniza swordandsworcery.com para saber más."					
 				"Ha sido un viaje positivo y loco, esperamos que sigas cavando."					
 				Sigue el TELETEX BULLETIN en superbrothers.ca para estar a la última sobre el personal de Superbrothers inc.					
@@ -667,7 +667,7 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&S EP es un enlace al pasado.			167	083.jpg	18E3V
 				"S:S&S EP es un primer esfuerzo, así que sí, es un poco experimental."					
 				El concepto estético de S:S&S EP es el de 'el arquetípico videojuego de aventuras'.					
-				"S:S&S EP hace referencias oblicuas por todos lados a Carl G. Jung y su fascinante ""Libro Rojo""."					
+				S:S&S EP hace referencias oblicuas por todos lados a Carl G. Jung y su fascinante 'Libro Rojo'.					
 				S:S&S EP es una pequeña cosa que creo que todo el mundo debería jugar en su dispositivo táctil o PC.					
 				"S:S&S EP es un crudo videojuego haiku sobre la vida, el amor y la muerte."					
 				S:S&S EP trata sobre mitos y sueños.					
