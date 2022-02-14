@@ -32,7 +32,7 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos cruz
 			adventureUI/megatomeItem	Decidimos ir a por El Megatomo y luego escapar con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador confirmó al 100% que el tenía la única llave para la puerta cerrada del muro de piedra.					
 			AdventureUI/keyItem	Era una llave realmente bonita.					
-				Estábamos totalmente preparados para recorrer el camino a seguir y continuar caminando sin descanso.					
+				Estábamos totalmente preparados para mantener presionado el camino por delante para moverlo.					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Tronco nos esperaría aquí a que volvieramos con El Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Tronco había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
 				Tronco parecía saberlo todo acerca del repugnante arco iris y el glifo representando la espada que miraba hacia el cielo.					
@@ -43,7 +43,7 @@ LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado E
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		"A la luz de la tormenta que se avecinaba, Tronco admitió en ese momento que tenía un poco de miedo."					
 				¿Estaba Tronco vacilándonos intencionadamente? #yes #no #maybe					
 				"En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo."					
-QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y nos sentimos los más listos. #gotmegatome			40	011.jpg	81C1E
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y nos sentimos super listos. #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
@@ -410,7 +410,7 @@ LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino del 0 al 1, y si un al
 GIRL_HUGETREETHOUGHTS	Girl			"Por supuesto, nunca le hablo a la gente sobre estos sueños de la diosa/árbol porque probablemente me llamarían hippie o algo parecido."					
 				"En mi lugar especial, visito un titánico árbol hueco... Es una diosa muerta desde hace mucho tiempo y que precede a la humanidad desde eternos eones."					
 				"En mi sueño hay un lugar especial al que siempre voy, un círculo de árboles en el corazón del mundo."					
-LOGFELLA_HUGETREETHOUGHTS	Logfella			"Me encanta ver los mismos bosques con diferente clima y me encanta simplemente detenerme y escuchar... pensar o no pensar según sea el caso."					
+LOGFELLA_HUGETREETHOUGHTS	Logfella			"Me encanta ver los mismos bosques con diferente clima y me encanta simplemente detenerme y escuchar... y pensar o no pensar según sea el caso."					
 				"No paso mucho tiempo caminando por mis sueños, pero cuando lo hago tiendo a volver a visitar mis lugares favoritos para ver lo que ha cambiado."					
 MIRACLE1_MOUNTAINMEADOW	The Scythian			"Hemos realizado el milagro de disipación de tormentas en un prado iluminado por el sol al más puro estilo del mago loco ""Al Jaffee""."					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Nos quedamos confundidos y desconcertados en un prado moteado por el sol con uno de esos dolores de cabeza realmente brutales.					
