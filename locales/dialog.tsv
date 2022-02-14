@@ -338,7 +338,7 @@ GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acaba
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvestre que dormitaba rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvestre que dormitaba en la maleza en lo alto de un peñasco rocoso.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvestre que dormitaba en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvestre que dormitaba en las tranquilas aguas de un lago donde una mamá pato estaba fuera de sí.					
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvestre que dormitaba en un lago tranquilo donde una mamá pato estaba fuera de sí.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvestre que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvestre que dormitaba en el lago bajo una trifecta de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	"Tenemos esa peculiar sensación de que, tal vez, estemos ante un tiempo de los milagros. #miracles"					
@@ -501,7 +501,7 @@ LOGFELLA_FOUNDATION	Logfella			...
 				...					
 				...					
 SCYTHIAN_FOUNDATION	The Scythian			"Acabamos de despertar a un duendecillo silvestre que suavemente dormitaba en un estanque profundo, al lado de una choza de piedra. Todo esto nos sorprende."					
-				"Con una incesante tormenta sobre nuestras cabezas, hemos aprendido a cantar una Canción de Espadachicería e invocar a un duendecillo silvestre durmiente."					
+				"Con una tormenta sobre nuestras cabezas, hemos aprendido a cantar una Canción de Espadachicería e invocar a un duendecillo silvestre durmiente."					
 				Espera... ¿Por qué me estoy refiriendo a mí misma en primera persona? Pensaba que nuestra historia íbamos a contarla en segunda persona. #editingoversight					
 				¿Están mis pensamientos ordenados cronológicamente en el orden en que los he pensado? ¿Así que esto es lo que estaba pensando hace unos segundos?					
 				¿Esto es El Megatomo? ¿Absorbe transmisiones de pensamiento lingüístico? ¿Estoy leyendo mis pensamientos mientras los estoy pensando? Hmm...					
@@ -583,7 +583,7 @@ ARCHETYPE_CREDITS	The Archetype
 			Logos/eightfour	Traducción al japonés, marketing, relaciones públicas y cariño proporcionados por 8-4, Ltd. TODO EL EQUIPO en 8-4.jp					
 				"Traducción al castellano por Miguel ""Sheen"" Ávila de Tradupixel en Steam"					
 				* * * EL EQUIPO S:S&S EP * * *					
-				Concepto, arte, diseño, dirección & guión por representantes de Superbrothers Inc. alias @the1console					
+				Concepto, arte, diseño, dirección y guión por representantes de Superbrothers Inc. alias @the1console					
 				Diseño, líder de proyecto, incansable apoyo y más por Kris Piotrowski, director creativo de Capy alias @krispiotrowski					
 				Sistemas, arquitectura técnica, UI, motor y más por Jon Maur, programador jefe de S:S&S EP de Capy alias @buckets187					
 				Programación, combate y trabajo milagroso por Frankie Leung, programador jefe de gameplay de S:S&S EP de Capy alias @mpfTempVar					
@@ -616,7 +616,8 @@ ARCHETYPE_CREDITS	The Archetype
 				"Edición japonesa, consejo crucial y apoyo sin fin por MASAHIRO YUKI alias @You_to_the_ki de Grasshopper Manufacture www.ghm.jp"					
 				"Diseño del increíble logotipo japonés cortesía de POLYGRAPH, alias @polygraph_suwa en www.polygraph.jp"					
 				Magia del sitio web japonés por Jonathan Lumb alias @jonnyram de www.jonnyram.com					
-				"Y finalmente, agradecimientos por al apoyo y amistad de: @suda_51, Tomoaki Takahashi, @eightbear, & remix artists @baiyon, @akirayamaoka, Michiru Yamane, @macotom3, y Decasségui Hip"					
+				"Y finalmente, agradecimientos por al apoyo y amistad de: @suda_51, Tomoaki Takahashi, @eightbear"					
+				"Artista de remezclas:  @baiyon, @akirayamaoka, Michiru Yamane, @macotom3 y Decasségui Hip"					
 				* * * THE DOMINION OF CANADA * * *					
 			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de la Ontario Media Development Corporation (OMDC).					
 				* * * LOS QUEREMOS MUCHO MUCHO * * *					
