@@ -292,7 +292,7 @@ ARCHETYPE_TRIFECTAINTRO	The Archetype
 			MoonCrescent/moonCrescent	Observa los estados de la luna.			118	045.jpg	Y4E5Q
 				Nuestra investigación ha demostrado que aquellos pocos que persisten a través de la locura oblicua que sigue pueden convertirse en amigos cósmicos para siempre.					
 				Ten en cuenta que de ahora en adelante estaremos monitoreando todas tus entradas en relativo silencio.					
-ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	¿Así que has domado los restantes dos Trigones y has reconstruido la Trigonal Trifecta?			165	046.jpg	P4B6A
+ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	¿Así que has domado los dos Trigones restantes y has reconstruido la Trigonal Trifecta?			165	046.jpg	P4B6A
 			Archetype/trifecta	"Eres especial, y esa es exactamente la razón por la que me encantas tanto."					
 				Fue muy valiente y generoso ofrecer como mártir a la Escita en la cima del Mingi Taw.					
 				"En serio, te debemos una."					
@@ -303,7 +303,7 @@ ARCHETYPE_GHOULINTRO	The Archetype
 				El funesto cometido de la Escita está cerca de completarse.					
 				"Por desgracia, el cuerpo y la psique de la Escita han sido significativamente socavados por la espadachicería. Ahora se encuentra a las puertas de la muerte."			162	047.jpg	J4F7B
 			Archetype/trifecta	Todo lo que resta es desvelar los secretos de la Arboleda Trigonal y subir El Megatomo al arremolinado infinito en la cima del Mingi Taw.					
-				Presiona jugar si estas listo para ser testigo del terrible tormento del martirio.					
+				Presiona jugar si estas listo para ser testigo del espantoso tormento del martirio.					
 END	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la eterna seguridad del arremolinado infinito.					
 END_CHEAT	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la eterna seguridad del arremolinado infinito. #cheat					
 END_CHEAT_NOBOOR	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la eterna seguridad del arremolinado infinito. #cheat #noboor					
@@ -325,7 +325,7 @@ LOGFELLA_GHOUL	The Scythian			Nos despertamos aturdidos de un sueño super profu
 LOGFELLA_TRIGONGROVETIPS	The Scythian			El leñador conocido como Tronco nunca había visto antes la Arboleda Trigonal y se preguntó de qué iba todo esto.					
 LOGFELLA_TRIFECTATIPS	The Scythian			El leñador conocido como Tronco estaba sintiendo una gran aflicción por Samae desaparecida.					
 				Le dijimos que sabíamos dónde podría estar y que pronto pondríamos las cosas en su sitio. 					
-				Miró el pedestal cercano y nos agradeció por adelantado todo eso del martirio.					
+				Miró el pedestal cercano y nos agradeció por adelantado todo el asunto del martirio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos tipos afirmaron estar entre los creadores de este extraño mundo.			159	055.jpg	A5G55
@@ -364,7 +364,7 @@ GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau.
 				"A veces cuando las cosas están demasiado oscuras para mi, como algo y veo incluso lo que no está ahí."					
 				Guau Guau Guau Guau Guau.					
 GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Tengo esa canción en mi cabeza... una pequeña canción feliz y triste al mismo tiempo que me llena de un temor extrañamente bello.					
-GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		"Sé que buscas evitar tu fatídico martirio, pero debes saber esto: el tiempo es una fuerza que termina tomando su curso."					
+GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		"Sé que pretendes evitar tu funesto martirio, pero debes saber esto: el tiempo es una fuerza y es inevitable que tome su curso."					
 				Guau Guau Guau. Sniff.					
 GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		"También hay sustantivos desconocidos, aunque estos se aprenden fácilmente."					
 				Hay dos tipos de incógnitas: las incógnitas conocidas y las incógnitas desconocidas.			32	063.jpg	L6E31
