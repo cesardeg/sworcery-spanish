@@ -176,16 +176,16 @@ GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la tu
 				El viejo fantasma resplandeciente habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
 				"El fantasma describió sobre la opción de Fecha/Hora y los horrores que asechaban al alterar el ciclo lunar."					
 				"""La cosa es que, desde que hice trampa, sufrí siempre de una profunda angustia y morí de vergüenza."""					
-GRAVE_HOLLOW	The Scythian			"Dentro de un árbol hueco titánico vimos una tumba solitaria, y eso nos despertó un poco la curiosidad."					
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado comenzó a recitarnos una rima alocada.			117	028.jpg	E2A80
+GRAVE_HOLLOW	The Scythian			"Dentro de un titánico árbol hueco vimos una tumba solitaria, y eso nos despertó un poco la curiosidad."					
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una tumba solitaria y un imponente fantasma se apareció para cantarnos una rima alocada.			117	028.jpg	E2A80
 				"""Monitorea los estados de la luna y aprenderás cuándo, dónde y cómo estar."""					
-				"""También quiero que sepas que no estoy intentando asustaros deliberadamente luciendo tan asombroso como lo hago."""					
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado comenzó a recitarnos una rima alocada.			117	028.jpg	E2A80
+				"""También quiero que sepas que no intento asustaros deliberadamente luciendo tan impresionante como lo hago."""					
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una tumba solitaria y un imponente fantasma se apareció para cantarnos una rima alocada.			117	028.jpg	E2A80
 				"""Busca a los duendecillos silvestres en el camino tras de ti con ojos y oidos abiertos a su sonora espuma."""					
 				"""Envía a los cinco duendecillos silvestres a los cielos para provocar un milagro que atraerá al Trigon que buscas."""					
-GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una tumba solitaria y un imponente fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Busca una señal de los duendecillos silvestres y canta una Canción de Espadachicería allí para revelear un Trigon escondido."""					
-GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una tumba solitaria y un imponente fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Así que la Canción Trigon se ha acabado por ahora. ¿Cuándo volveremos a escucharla, me pregunto?"""					
 LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Tronco estaba totalmente fuera de sí por algo.					
 			AdventureUI/keyItem	"Al parecer, Tronco había perdido la llave de la puerta del muro de piedra que bloqueaba el viejo camino al Mingi Taw."					
@@ -211,9 +211,9 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba super ali
 			gourd/gourd	Teníamos la corazonada de que necesitábamos invocar a unos cuantos duendecillos silvestres más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de cósmica geometría conocida como el Trigon de Oro.					
 				Estaba 100% claro que el leñador conocido como Tronco había dejado de prestar atención.					
-			AdventureUI/keyItem	Pensamos que sólo podíamos aferrarnos a la llave e ir a dar un paseo por el viejo camino más allá del muro de piedra.					
-LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tuvieramos su llave y nos dijo que estaría muy bien.					
-GIRL_FOUNDKEY	The Scythian			"Nos encontramos a Samae de pie, empapada de lluvia, a un lado del camino."					
+			AdventureUI/keyItem	Pensamos que podríamos simplemente llevarnos la llave e ir a dar un paseo por el viejo camino más allá del muro de piedra.					
+LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tomaramos su llave y nos dijo que estaba de acuerdo.					
+GIRL_FOUNDKEY	The Scythian			Encontramos empapada a Samae de pie a lado del camino.					
 			gourd/gourd	Había oído la sutil sonora espuma de los duendecillos silvestres más alla del muro de piedra en el viejo camino al Mingi Taw.					
 			gourd/gourd	Habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
 			gourd/gourd	Habló de un débil arco iris en el borde del Precipicio Peligroso.					
@@ -221,13 +221,13 @@ GIRL_FOUNDKEY	The Scythian			"Nos encontramos a Samae de pie, empapada de lluvia
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la llave si eso significa disipar la tormenta.					
 				Debo haber asentido en algún momento durante la super historia épica de la Escita. Tengo una tolerancia muy baja para el folclore.					
 				Le pregunté a la Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
-GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvestres más enviados hacia los cielos aliviarán la incesante tormenta... ¡y entonces será el tiempo de los milagros! #miracles			129	034.jpg	33A44
-GIRL_SUPERMOTHERTREE	Girl			En mi sueño hay una quietud emocionante cuando la luna es más brillante... y cuando es más oscura los bosques son salvajes.					
+GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvestres más enviados hacia los cielos disiparán la incesante tormenta... ¡y entonces será el tiempo de los milagros! #miracles			129	034.jpg	33A44
+GIRL_SUPERMOTHERTREE	Girl			En mi paseo por el sueño hay una quietud emocionante cuando la luna es más brillante... y cuando la luna es más oscura los bosques se vuelven salvajes.					
 				En el sueño siempre son los mismos lugares y espacios excepto cuando difieren según los estados de la luna.					
 				Cada noche desde que se disipó la tormenta he tenido ese mismo sueño en el que estoy vagando por el bosque justo antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosque puede ofrecer una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
 				Busca la sonora espuma de los duendecillos silvestres e investiga sus alrededores.					
-				Una vez que hayas comenzado una canción de espadachicería siempre puedes tocar el borde de la pantalla para mirar alrededor.					
+				Una vez que hayas comenzado una canción de espadachicería siempre puedes mantener presionado y deslizar el aura espadachicera para mirar alrededor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adivinatorios pueden haber jugado un papel significativo en el desarrollo de la psique humana.					
 				"La evidencia arqueológica indica que el uso chamánico de hongos para la comunión religiosa, adivinación y curación es bastante antigua."					
 				"Fisiológicamente puedes notar sentimientos de bienestar y percepciones aumentadas, una disipación del estrés y una pérdida del apetito."					
@@ -376,7 +376,7 @@ GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		¿Has oído hablar
 				"Parece que te has esforzado significativamente para localizar y domar al Trigon Luna Brillante, muy bien hecho."					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		"¿Son los duendecillos silvestres los niños de la Tierra, o son visitantes solitarios del arremolinado infinito?"					
 				"Para ser honesta, los duendecillos silvestres me asustan bastante. Es decir... ¿Qué son? ¿De dónde salen?"					
-GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendecillos hayan sido enviados hacia los cielos y el tiempo de los milagros se acerque, debes buscar el árbol titánico."					
+GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendecillos hayan sido enviados hacia los cielos y el tiempo de los milagros se acerque, debes buscar el titánico árbol."					
 				Sé que sabes lo que sé y quiero que sepas que tienes razón al 100%.			109	066.jpg	F6D6H
 				Guau Guau Guau Sniff Guau Guau Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solamente el fin de tu funesto cometido traerá la paz de vuelta a nuestras vidas.					
@@ -408,7 +408,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Cruzar con seguridad el umbral de la l
 GIRL_MOONGROTTOCOMMENT	Girl			Me siento como si el cosmos acabara de dar un vuelco y ahora todo estuviera un poco... apagado.					
 LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino del 0 al 1, y si un alien dijera 'Hola Mundo' sería en un código críptico en el estéreo. Espera... ¿qué?"					
 GIRL_HUGETREETHOUGHTS	Girl			"Por supuesto, nunca le hablo a la gente sobre estos sueños de la diosa/árbol porque probablemente me llamarían hippie o algo parecido."					
-				"En mi lugar especial, visito un árbol hueco titánico... Es una diosa muerta desde hace mucho tiempo y que precede a la humanidad desde eternos eones."					
+				"En mi lugar especial, visito un titánico árbol hueco... Es una diosa muerta desde hace mucho tiempo y que precede a la humanidad desde eternos eones."					
 				"En mi sueño hay un lugar especial al que siempre voy, un parlamento de árboles en el corazón del mundo."					
 LOGFELLA_HUGETREETHOUGHTS	Logfella			"Me encanta ver los mismos bosques con diferente clima y me encanta simplemente detenerme y escuchar... pensar o no pensar según sea el caso."					
 				"No paso mucho tiempo caminando por mis sueños, pero cuando lo hago tiendo a volver a visitar mis lugares favoritos para ver lo que ha cambiado."					
@@ -515,8 +515,8 @@ LOGFELLA_DARKMOON	The Scythian			"El leñador habló de su sueño en el que cami
 				Habló de una vibrante luz rosa y de una misteriosa canción emanando de los bosques sin nombre detrás del prado.					
 				Supusimos que Tronco probablemente hablaba del espéctaculo de rock de la Luna Oscura.					
 GIRL_DARKMOON	The Scythian			"Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta."					
-				Habló de cómo se había refugiado de la tormenta en el tronco hueco de un árbol titánico.					
-				Sabíamos de qué árbol hueco titánico estaba hablando.					
+				Habló de cómo se había refugiado de la tormenta en un titánico árbol hueco.					
+				Sabíamos de qué titánico árbol hueco estaba hablando.					
 ARCHETYPE_DARKMOON	The Archetype			Ten cuidado: reina la Luna Oscura.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			"El leñador habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo una luna creciente."					
 				"Habló sobre una criatura que había conocido, algo o alguien extraño y desnudo. ¿Era un oso? ¿Un hombre? O... ¿El Tosco Pardo?"			57	077.jpg	I7G7U
