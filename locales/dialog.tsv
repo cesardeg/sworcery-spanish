@@ -85,7 +85,7 @@ ARCHETYPE_TADPOLES	The Archetype			"Era 100% obvio que el hombre extrañamente a
 			gourd/gourd	"""Canta una Canción de Espadachicería en cualquier momento pulsando y manteniendo sobre la Escita para acceder a una realidad dentro de la realidad que conoces."""					
 			gourd/gourd	"""Guía las dos pequeñas nadadoras cosas hacia donde dormita el duende y elévale hacia los cielos con tres toques de espadachicería."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el ancho techo de madera del pozo.					
-				"Había abandonado la comodidad del hogar en la choza porque, al parecer, Tronco estaba desvariando por una cosa u otra."					
+				"Había abandonado la comodidad del fuego de la choza porque, al parecer, Tronco estaba desvariando por una cosa u otra."					
 INFO_BIRDEYESCULPTURE	The Scythian			Miramos la escultura de un pájaro enfadado que se cernía sobre el prado. #subtlereference			6	014.jpg	F1D48
 INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas ovejas insignificantes holgazaneando por el prado. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			"Otra oveja insignificante, ¿por qué seguimos mirándolas? #worthlesssheep"					
@@ -124,9 +124,9 @@ INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada rocosa de un templo en la mo
 INFO_MOUNTAINGATE	The Scythian			En la profundidad del templo de la montaña divisamos una puerta de hierro inamovible. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
 INFO_MOUNTAINGATETRIGON	The Scythian			"En la profundidad del templo de la montaña, por encima de un pasaje elevado, contemplamos tres extrañas formas triangulares."					
 INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			"En la profundidad del templo de la montaña, por encima de un pasaje elevado, contemplamos el icono del Trigon Trifecta."					
-INFO_CABINRECORD	The Scythian			En el interior de la choza descubrimos algo redondeado encima del hogar. #theballadofthespacebabies			46	019.jpg	P1D99
+INFO_CABINRECORD	The Scythian			En el interior de la choza descubrimos algo redondeado encima del fuego. #theballadofthespacebabies			46	019.jpg	P1D99
 INFO_CABINHEARTH	The Scythian			"Dentro de la choza, la chimenea crepitaba tranquilamente proporcionando un calor familiar."					
-INFO_CABINSEAT	The Scythian			"Dentro de la choza, a ambos lados del hogar, había dos asientos de madera áspera."					
+INFO_CABINSEAT	The Scythian			"Dentro de la choza, a ambos lados del fuego, había dos asientos de madera áspera."					
 INFO_GOGOLITHICMASS	The Scythian			Vimos un cráneo astado flotando en la oscuridad bajo el Mingi Taw.					
 INFO_MEGATOMBTRIFECTA	The Scythian			"En la oscuridad, descubrimos una representación pictográfica del Trigon Trifecta bajo el Mingi Taw."					
 INFO_ROCKSHOWGIRL	The Scythian			En el espectáculo de rock divisamos a Samae y pensamos que tal vez dijo 'fuego camina conmigo'.					
@@ -242,7 +242,7 @@ LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había lle
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Se está empezando a levantar la tormenta? Eso espero.					
 				Todo esto de la tormenta ha estado afectando mi animo. Ha sido todo tan sombrío.					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco raro... Sin duda algo está sucediendo... ¿Se está levantando la tormenta?					
-				"Cada vez que siento que necesito recobrar fuerzas, me siento al lado de este hogar para calentarme las botas."					
+				"Cada vez que siento que necesito recobrar fuerzas, me siento al lado de este fuego para calentarme las botas."					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades del gran mago Al Jaffee."					
 				¿Sientes esa sensación tan peculiar? ¡Es tiempo de milagros! Canta una Canción de Espadachicería y mira hacia los pájaros enfadados que se ciernen.			76	038.jpg	A3G84
