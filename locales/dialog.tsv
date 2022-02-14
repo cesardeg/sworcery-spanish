@@ -90,7 +90,7 @@ INFO_BIRDEYESCULPTURE	The Scythian			Miramos la escultura de un pájaro enfadado
 INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas ovejas insignificantes holgazaneando por el prado. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			"Otra oveja insignificante, ¿por qué seguimos mirándolas? #worthlesssheep"					
 INFO_MEADOWSUN	The Scythian			Podemos recordar vívidamente cuán impresionante parecía el sol en ese primer día de primavera.					
-INFO_MEADOWGATE	The Scythian			En el prado había una puerta de hierro inamovible bloqueando el paso a una gruta cavernosa.					
+INFO_MEADOWGATE	The Scythian			En el prado había una puerta de hierro inamovible bloqueando el paso a una cavernosa cueva.					
 INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había una puerta de hierro y tuvimos la sensación de que, tal vez, podríamos abrirla de alguna manera."					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de Trigon de Oro sobre la puerta de hierro, ¿tal vez reaccionaría a nuestra Canción de Espadachicería?"					
 INFO_MEADOWGATETRIGON	The Scythian			Descubrimos algo raro sobre la puerta de hierro.					
@@ -108,7 +108,7 @@ INFO_SPUME	The Scythian			Encontramos la sutil sonora espuma de un duende adormi
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de apariencia curiosa, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de apariencia desgastada que parecía una cara de aspecto espeluznante.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de madera en el viejo camino había un siniestro poste adornado con calaveras.					
-INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la gruta cavernosa del prado nos encontramos con una arboleda aislada llena de extrañas estructuras de piedra.					
+INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado nos encontramos con una arboleda aislada llena de extrañas estructuras de piedra.					
 			Archetype/trifecta	... ¿Era una Arboleda Trigonal? #trigongrove			93	016.jpg	B1D6J
 			triangle/Triangle	"Mientras estábamos al lado de la primera estructura de piedra, pensamos en el Trigon de Oro y sentimos cómo se agitaba nuestra espada."					
 INFO_DARKTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra desgastada y enmohecida. #darkmoontrigon					
@@ -136,8 +136,8 @@ INFO_ROCKSHOWBOOR	The Scythian			En el espéctaculo de rock vimos al Patán Pelu
 INFO_ROCKSHOWCROWD	The Scythian			En el espéctaculo de rock había un considerable número de damas y caballeros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			En el espéctaculo de rock divisamos al tipo conocido como El Arquetipo y nos quedamos preguntándonos qué tenía que ver él con todo esto.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Un siniestro poste adornado con una calavera astada conecta este lugar con el inmortal espectro que acecha bajo Mingi Taw.					
-GRAVE_TRIGONGROVE	The Scythian			"En la Arboleda Trigonal, más allá de la gruta cavernosa del prado, divisamos una tumba solitaria que despertó nuestra curiosidad."					
-GRAVE_TRIGONGROVEGHOST	The Scythian			"En la Arboleda Trigonal, más allá de la gruta cavernosa del prado, nos acercamos a una tumba solitaria donde nos recibió un fantasma resplandeciente."					
+GRAVE_TRIGONGROVE	The Scythian			"En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, divisamos una tumba solitaria que despertó nuestra curiosidad."					
+GRAVE_TRIGONGROVEGHOST	The Scythian			"En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, nos acercamos a una tumba solitaria donde nos recibió un fantasma resplandeciente."					
 				"El fantasma resplandeciente de la Arboleda Trigonal nos asustó un poco al principio, para ser sinceros."			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Reconoció nuestros ropajes Escita y vio que poseíamos El Megatomo. Se preguntó si comprenderíamos las marcas esotéricas que contenía.					
 				En un susurro dijo el nombre del inmortal espectro que habíamos despertado en la oscuridad bajo el Mingi Taw: La Masa Gogolítica.			166	023.jpg	O2B39
@@ -246,7 +246,7 @@ LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco raro... Sin dud
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades del gran mago Al Jaffee."					
 				¿Sientes esa sensación tan peculiar? ¡Es tiempo de milagros! Canta una Canción de Espadachicería y mira hacia los pájaros enfadados que se ciernen.			76	038.jpg	A3G84
-ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira a los cielos con una cierta visión oblicua para ver este milagro de la pradera y luego contempla el Trigon de Oro.					
+ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira a los cielos en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira el Trigon de Oro.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... es interesante el modo como manejaste la situación con el compi caníbal con cabeza de oso.			120	039.jpg	O3G9D
 				"No no, está bien, sólo que me pareció interesante. Nunca vi a nadie hacer lo que hiciste tú. Es excepcional, pero no te alarmes."					
 				"Bueno, sigamos. Aún te quedan muchas cosas por disfrutar en tu experiencia con S:S&S EP, particularmente en la Cara B."					
@@ -415,19 +415,19 @@ LOGFELLA_HUGETREETHOUGHTS	Logfella			"Me encanta ver los mismos bosques con dife
 MIRACLE1_MOUNTAINMEADOW	The Scythian			"Hemos realizado el milagro de disipación de tormentas en un prado iluminado por el sol al más puro estilo del mago loco ""Al Jaffee""."					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Nos quedamos confundidos y desconcertados en un prado moteado por el sol con uno de esos dolores de cabeza realmente brutales.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Nos despertamos aturdidos de un sueño super profundo sin un recuerdo en firme sobre lo que había sucedido.					
-			triangle/Triangle	Recordamos el milagro en la pradera y nuestro encuentro con el Trigon de Oro... 					
+			triangle/Triangle	Recordamos el milagro en el prado y nuestro encuentro con el Trigon de Oro... 					
 			triangle/Triangle	...¿Qué nuevos poderes nos habrían sido concedidos?					
 			triangle/Triangle	Tronco estaba totalmente alucinado cuando le contamos cómo fue la batalla contra el Trigon de Oro.			81	071.jpg	R7C14
 			triangle/Triangle	Tronco se preguntó si quizá el Trigon de Oro no estaría relacionado con los sombríos misterios más allá de la puerta de hierro del prado.					
 				Tronco no quiso excavar en más misterios sombríos y decidió volver a casa y empezar a cortar madera. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Tronco estaba super encantado de que la tormenta hubiera cesado y se estaba super emocionado de volver a cortar leña de nuevo.					
-				Nos preguntó si sabíamos algo de la puerta de hierro del prado que bloqueaba la gruta cavernosa... ¿de qué iba todo eso?					
+				Nos preguntó si sabíamos algo de la puerta de hierro del prado que bloqueaba la cavernosa cueva... ¿de qué iba todo eso?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Es extraño... He visto un haz dorado elevarse hacia el cielo en el bosque tras el prado... ¿Ha aprendido alguien los secretos de la Arboleda Trogonal?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			"Estoy muy preocupado por la Escita, parece hecha un desastre."					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija contemplaron cómo recobrábamos el sentido.					
-				"Nos dimos cuenta que la pradera no había cambiado, que toda evidencia de nuestro encuentro místico había desaparecido."					
+				"Nos dimos cuenta que el prado no había cambiado, que toda evidencia de nuestro encuentro místico había desaparecido."					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra extraña historia sobre nuestro encuentro con el Trigon de Oro.					
-			triangle/Triangle	Se preguntaba cuáles eran los secretos de la Arboleda Trigonal más allá de la gruta cavernosa de la pradera... ¿habría alguna conexión?					
+			triangle/Triangle	Se preguntaba cuáles eran los secretos de la Arboleda Trigonal más allá de la cavernosa cueva de el prado... ¿habría alguna conexión?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estoy bastante preocupada por la Escita... desapareció varios días después de que se levantara la tormenta. Espero que esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			"Vaya, ¿así que la Escita estaba desmayada en el prado? Qué locura."					
 DOGFELLA_GETDARKTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Perrolega.					
@@ -447,7 +447,7 @@ GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una piedra junto al leña
 				"Samae nos invitó a sentárnos junto al fuego en la choza de piedra siempre que quisieramos, ya fuera para caminar por los sueños o para recobrar fuerzas."					
 			Archetype/trifecta	"Tenemos la sensación de que los dos Trigones restantes podrían estar perdidos en los sueños, o algo así."					
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Tronco había vuelto a su corte de leña y parecía estar realmente concentrado.					
-			triangle/Triangle	Tronco había visto el haz lanzado a los cielos detrás de la pradera y por eso le preguntamos sobre los secretos de la Arboleda Trigonal.					
+			triangle/Triangle	Tronco había visto el haz lanzado a los cielos detrás de el prado y por eso le preguntamos sobre los secretos de la Arboleda Trigonal.					
 				Nos contó una vieja historia que su gente relataba habitualmente a sus hijos para asustarlos.					
 			Archetype/trifecta	Tronco habló de un grupo de Escitas que llegó hace muchas lunas a estas montañas olvidadas buscando la Trigonal Trifecta.					
 			gourd/gourd	El grupo había aprendido a buscar a los duendecillos silvestres y enviarlos a los cielos... y luego habían buscado un lugar para realizar un milagro.					
@@ -512,8 +512,8 @@ DOGFELLA_FOUNDATION	Dogfella			...
 				...					
 				...					
 LOGFELLA_DARKMOON	The Scythian			"El leñador habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta."					
-				Hablaba de una luz rosa palpitante y de una extraña canción llena de pavor que emanaba de los bosques sin nombre detrás de la pradera.					
-				Supusimos que Tronco estaba hablando del espéctaculo de rock Luna Oscura.					
+				Habló de una vibrante luz rosa y de una misteriosa canción emanando de los bosques sin nombre detrás del prado.					
+				Supusimos que Tronco probablemente hablaba del espéctaculo de rock de la Luna Oscura.					
 GIRL_DARKMOON	The Scythian			"Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta."					
 				Habló de cómo se había refugiado de la tormenta en el tronco hueco de un árbol titánico.					
 				Sabíamos de qué árbol hueco titánico estaba hablando.					
