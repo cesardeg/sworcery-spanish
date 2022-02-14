@@ -1,6 +1,6 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			"Lejos de las estepas devastadas por la guerra de Escitia, conocimos a una chica de pelo oscuro en un prado iluminado por el sol. #helloworld"			72	001.jpg	Z0E1Q
-				"La gente de las montañas del Cáucaso la conocía como Samae, y parecía agradable. #obviously"					
+				"La gente montesa del Cáucaso la conocía como Samae, y parecía agradable. #obviously"					
 SIGN_TADPOL	The Scythian			"""El hogar está donde se encuentra el corazón."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, estos son todos los reinos de los hombres. Mingi Taw es el Reino de las Nubes."""					
 SIGN_CHASM	The Scythian			"En el borde del Precipicio Peligroso, había una piedra tallada con el glifo de una espada bajo los colores del arco iris."					
@@ -22,7 +22,7 @@ DOOR_UPSLOPEWOODS1	The Scythian			El viejo camino al Mingi Taw estaba bloqueado 
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondÍa en la maleza del bosque bajo el viejo camino que asciende a Mingi Taw. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba leña. #obviously #woodchopping			71	007.jpg	7E+71
-				"La gente de las montañas del Cáucaso lo conocía como Tronco, y parecía agradable."					
+				"La gente montesa del Cáucaso lo conocía como Tronco, y parecía agradable."					
 				Tronco lo sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el viejo camino.					
 				"Aún así, nos dio la sensación que no estaba super emocionado con tal encomienda."					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El leñador nos esperó en la ruta, al inicio del viejo camino."			12	008.jpg	U0D88
@@ -76,14 +76,14 @@ GIRL_STORM	The Scythian			La chica de pelo oscuro conocida como Samae estaba bas
 			gourd/gourd	"Desde que comenzó la tormenta, Samae había estado contemplando la sonora espuma de los duendecillos silvestres que dormitaban en los bosques cercanos."					
 			gourd/gourd	Se preguntó si tal vez los tres duendecillos silvestres podrían ayudar a levantar la tormenta. #yes					
 			gourd/gourd	Nos pidió que investigáramos la sonora espuma burbujeando en el estanque profundo frente a la choza.					
-			gourd/gourd	Samae habló de un duende en un prado cercano y de otro en un nido que era el hogar de tres pájaros cantores empapados por la lluvia.					
+			gourd/gourd	Samae habló de un duendecillo en un prado cercano y de otro en un nido que era el hogar de tres pájaros cantores empapados por la lluvia.					
 			gourd/gourd	"Samae nos dijo que buscáramos la sonora espuma de estos tres duendecillos silvestres, y que los enviáramos hacia los cielos usando la canción de espadachicería."					
 ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canción de Espadachicería, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
 			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para invocar al duendecillo silvestre que suavemente dormita en las frescas aguas del estanque profundo."""					
 ARCHETYPE_TADPOLES	The Archetype			"Era 100% obvio que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué."					
 			gourd/gourd	"""¿Ves la sonora espuma en el estanque profundo? Un duendecillo silvestre duerme tranquilamente allí y debes invocarlo."""					
 			gourd/gourd	"""Canta una Canción de Espadachicería en cualquier momento pulsando y manteniendo sobre la Escita para acceder a una realidad dentro de la realidad que conoces."""					
-			gourd/gourd	"""Guía las dos pequeñas nadadoras cosas hacia donde dormita el duende y elévale hacia los cielos con tres toques de espadachicería."""			49	013.jpg	61D3A
+			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde dormita el duendecillo y elévale hacia los cielos con tres toques de espadachicería."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el ancho techo de madera del pozo.					
 				"Había abandonado la comodidad del fuego en la choza porque, al parecer, Tronco estaba desvariando por una cosa u otra."					
 INFO_BIRDEYESCULPTURE	The Scythian			Miramos la escultura de un pájaro enfadado que se cernía sobre el prado. #subtlereference			6	014.jpg	F1D48
@@ -104,7 +104,7 @@ INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un estanque profundo.					
 INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de leña cortada, no es para tanto."					
-INFO_SPUME	The Scythian			Encontramos la sutil sonora espuma de un duende adormilado. Y ahora... ¿cómo lo invocamos?					
+INFO_SPUME	The Scythian			Encontramos la sutil sonora espuma de un duendecillo adormilado. Y ahora... ¿cómo lo invocamos?					
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de apariencia curiosa, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de apariencia desgastada que parecía una cara de aspecto espeluznante.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de madera en el viejo camino había un siniestro poste adornado con calaveras.					
@@ -157,7 +157,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un grupo de tumbas en un matorral al l
 				"""Habíamos oído hablar de la puerta de entrada al infinito en la cima del Mingi Taw y pensamos que sería genial verla."""					
 			triangle/Triangle	"""Así que domamos el Trigon de Oro e investigamos la Arboleda Trigonal antes de salir a buscar el Trigon Luna Brillante."""					
 				"""Localizar el Trigon Luna Brillante no fue muy bien... acabamos bastante perdidos para ser honesto."""					
-				"""Poco a poco nos dimos cuenta de la importancia del ciclo lunar y su influencia en los duendes que duermen en los reinos del ocaso."""					
+				"""Poco a poco nos dimos cuenta de la importancia del ciclo lunar y su influencia en los duendecillos que duermen en los reinos del ocaso."""					
 				"""Ahí es cuando nos sentamos y empezamos a vigilar los estados de la luna para poder saber cuándo, dónde y cómo estar."""			7	026.jpg	Q2D6P
 				"""Morimos de aburrimiento esperando a que el humor de la luna cambiara."""					
 				"""Bueno, en realidad morimos debido a una discusión que tuvimos a causa del aburrimiento."""					
@@ -192,7 +192,7 @@ LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Tronco estaba
 				Estábamos gruñendo de emoción por la nueva misión.					
 				Tronco nos dijo haber estado sentado aquí mismo cuando cayó en un sueño profundo.					
 			AdventureUI/keyItem	Tronco nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
-				"Ya habíamos oído hablar de los extraños sueños de la gente de las montañas del Cáucaso, por lo que su historia tuvo sentido para nosotros."					
+				"Ya habíamos oído hablar de los extraños sueños de la gente montesa del Cáucaso, por lo que su historia tuvo sentido para nosotros."					
 				Tronco nos invitó a calentar nuestras botas junto al fuego y soñar junto a él.			63	029.jpg	U2C92
 ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			"Pensamos en la vigilia y en la psicofocosmología mitopoética de los sueños como estados separados, sin embargo interoperan de maneras curiosas."					
 				El umbral de liminalidad es un espacio entre la vigilia y los sueños donde el pensamiento dirigido es imposible.			56	030.jpg	13A0A
@@ -221,7 +221,7 @@ GIRL_FOUNDKEY	The Scythian			"Nos encontramos a Samae de pie, empapada de lluvia
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Me parece muy bien que la Escita se lleve la llave si eso significa que calmará la tormenta.					
 				Debo haber asentido en algún momento durante la super historia épica de la Escita. Tengo una tolerancia muy baja para el folclore.					
 				Le pregunté a la Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
-GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvestres más enviados hacia los cielos aliviarán la incesante tormenta... ¡y entonces será el tiempo de milagros! #miracles			129	034.jpg	33A44
+GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvestres más enviados hacia los cielos aliviarán la incesante tormenta... ¡y entonces será el tiempo de los milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mi sueño hay una quietud emocionante cuando la luna es más brillante... y cuando es más oscura los bosques son salvajes.					
 				En el sueño siempre son los mismos lugares y espacios excepto cuando difieren según los estados de la luna.					
 				Cada noche desde que se levantó la tormenta he tenido ese mismo sueño en el que estoy vagando por el bosque justo antes del amanecer.					
@@ -236,16 +236,16 @@ ARCHETYPE_TRIGONGROVE	The Archetype			¿Puedes sentirlo? ¿Estás empezando a en
 				"Este haz es un puente que une el mundo de los vivos y el mundo de los muertos, por lo que puedes encontrar un fantasma o dos y hablar con ellos en tus viajes."					
 				Acabo de recibir la notificación de que has enviado el primer haz celeste en la Arboleda Trigonal.					
 GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que rondaban por la choza y nos dijo que se habían asustado hacia un rato.					
-			gourd/gourd	"Le dijimos a Samae que habíamos enviado cinco duendecillos silvestres hacia los cielos y nos dijo que, tal vez, el tiempo de milagros estaba cerca."					
+			gourd/gourd	"Le dijimos a Samae que habíamos enviado cinco duendecillos silvestres hacia los cielos y nos dijo que, tal vez, el tiempo de los milagros estaba cerca."					
 				Pensamos que tal vez deberíamos ir a investigar el prado donde solían estar las ovejas.					
-LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado el tiempo de milagros y se preguntó si tal vez no estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
+LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado el tiempo de los milagros y se preguntó si tal vez no estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Se está empezando a levantar la tormenta? Eso espero.					
 				Todo esto de la tormenta ha estado afectando mi animo. Ha sido todo tan sombrío.					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco raro... Sin duda algo está sucediendo... ¿Se está levantando la tormenta?					
 				"Cada vez que siento que necesito recobrar fuerzas, me siento al lado de este fuego para calentarme las botas."					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades del gran mago Al Jaffee."					
-				¿Sientes esa sensación tan peculiar? ¡Es tiempo de milagros! Canta una Canción de Espadachicería y mira hacia los pájaros enfadados que se ciernen.			76	038.jpg	A3G84
+				¿Sientes esa sensación tan peculiar? ¡Es el tiempo de los milagros! Canta una Canción de Espadachicería y mira hacia los pájaros enfadados que se ciernen.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira a los cielos en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira el Trigon de Oro.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... es interesante el modo como manejaste la situación con el compi caníbal con cabeza de oso.			120	039.jpg	O3G9D
 				"No no, está bien, sólo que me pareció interesante. Nunca vi a nadie hacer lo que hiciste tú. Es excepcional, pero no te alarmes."					
@@ -358,7 +358,7 @@ GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que la Escita 
 				La tormenta ha estado afectando mi ánimo y me ha hecho desear que los videojuegos existieran... sea lo que sea que eso signifique.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha sido totalmente mental desde que apareció la Escita.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Todo esto de la tormenta ha estado afectando mi animo. Ha sido todo taaan sombrío.					
-				La lluvia ha comenzado a cesar y el cielo parece estar brillando... ¿Es tiempo de milagros? Eso espero. Me encantan los milagros.					
+				La lluvia ha comenzado a cesar y el cielo parece estar brillando... ¿Es el tiempo de los milagros? Eso espero. Me encantan los milagros.					
 				Vaya... ¿Qué? Las ovejas del prado se han asustado... ¿Me pregunto qué estará pasando? Podría ser... ¿el Trigon de Oro?					
 GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau. 					
 				"A veces, cuando las cosas están demasiado oscuras para que las vea, como un poco y veo cosas que ni siquiera están ahí."					
@@ -376,7 +376,7 @@ GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		¿Has oído hablar
 				"Parece que te has esforzado significativamente para localizar y domar al Trigon Luna Brillante, muy bien hecho."					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		"¿Son los duendecillos silvestres los niños de la Tierra, o son visitantes solitarios del arremolinado infinito?"					
 				"Para ser honesta, los duendecillos silvestres me asustan bastante. Es decir... ¿Qué son? ¿De dónde salen?"					
-GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendes hayan sido enviados hacia los cielos y el tiempo de milagros se acerque, debes buscar el árbol titánico."					
+GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendecillos hayan sido enviados hacia los cielos y el tiempo de los milagros se acerque, debes buscar el árbol titánico."					
 				Sé que sabes lo que sé y quiero que sepas que tienes razón al 100%.			109	066.jpg	F6D6H
 				Guau Guau Guau Sniff Guau Guau Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solamente el fin de tu funesto cometido traerá la paz de vuelta a nuestras vidas.					
@@ -384,12 +384,12 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solamente el fin de tu
 				El arremolinado infinito en la cima del Mingi Taw te espera.					
 				Guau Guau Guau.					
 GCLUE_WATERFALLS	Girl			"¿Alguna vez te has dado cuenta que a veces las palabras sólo parecen ruido, pero otras veces el ruido produce el sonido más bello?"			132	058.jpg	G5F8U
-GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		"Hay un montón de refranes extraños aquí arriba, entre la gente de las montañas del Cáucaso."					
+GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		"Hay un montón de dichos extraños aquí entre la gente montesa del Cáucaso."					
 				Hay un refrán aquí en el Cáucaso que dice que un bosque necesita al fuego como el fuego necesita a un árbol.					
 YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos el Trigon de Oro. Somos impresionantes.			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			"Contra todo pronóstico, conseguimos el Trigon Luna Brillante."			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			"A pesar de todas las adversidades, conseguimos el Trigon Luna Oscura."			112	069.jpg	T6G94
-GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		"Parece como si todos los duendes Luna Oscura hubieran sido enviados hacia los cielos, así que de nuevo es tiempo para los milagros. ¡Adoro los milagros!"					
+GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		"Parece como si todos los duendecillos Luna Oscura hubieran sido enviados hacia los cielos, así que de nuevo es el tiempo de los milagros. ¡Adoro los milagros!"					
 JIM_HINT1_OFF	The Scythian			En una arboleda aislada nos encontramos con un tipo misterioso y musical situado junto a un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En una arboleda aislada encontramos a un tipo misterioso junto a un fuego crepitante. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			"Mientras que la luna brillante se cernía, nos encontramos con un tipo misterioso y musical junto a un fuego crepitante. Dijo responder al nombre de Jim Guthrie."			128	070.jpg	07G00
@@ -399,8 +399,8 @@ JIM_POSTGOURD	The Scythian			El tipo misterioso y musical conocido como Jim Guth
 JIM_POSTSONG	The Scythian			Jim Guthrie nos enseñó que no había que rechazar los malos pensamientos ni la mordedura de un dragón.					
 			Archetype/trifecta	Nos habló sobre el espectáculo de rock al otro lado del lago en el que iba a actuar en la próxima quincena.					
 JIM_LOGFELLATHOUGHTS	Logfella			La canción sonaba tan familiar... ¿dónde la había escuchado antes? #1000songs					
-				De repente tenía esa extraña melodía metida en la cabeza. #andwegotolder					
-LOGFELLA_JIMTHOUGHTS	Logfella			He tenido esa cancioncilla metida en la cabeza durante años... Sólo unas pocas notas que se repiten una y otra vez. Me pregunto a qué se deberá.					
+				De repente tenía esa extraña canción metida en la cabeza. #andwegotolder					
+LOGFELLA_JIMTHOUGHTS	Logfella			He tenido esa canción metida en la cabeza durante años... Sólo unas pocas notas que se repiten una y otra vez. Me pregunto a qué se deberá.					
 ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Cruzar con seguridad el umbral de la liminalidad es una cuestión simple: busca los lugares familiares y la calidez del hogar.					
 				"Si logras estabilizar tu lucidez podrás co-crear con ella... en lugar de luchar, resistirte y maldecirla."					
 				"Cuando estás lúcido en un sueño te darás cuenta de quién has imaginado ser... pero identificarse con el sueño es convertirse en hechizado."					
@@ -442,7 +442,7 @@ DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una piedra junto al leñador que cortaba leña.					
-			Archetype/trifecta	Le preguntamos sobre los secretos de la Arboleda Trigonal y los peculiares sueños de la gente de las montañas del Cáucaso.					
+			Archetype/trifecta	Le preguntamos sobre los secretos de la Arboleda Trigonal y los peculiares sueños de la gente montesa del Cáucaso.					
 				Nos contó cómo los sueños de su gente contenían muchos misterios y cómo reflejaban los estados de la luna de maneras extrañas.					
 				"Samae nos invitó a sentárnos junto al fuego en la choza de piedra siempre que quisieramos, ya fuera para caminar por los sueños o para recobrar fuerzas."					
 			Archetype/trifecta	"Tenemos la sensación de que los dos Trigones restantes podrían estar perdidos en los sueños, o algo así."					
