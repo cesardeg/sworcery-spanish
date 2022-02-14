@@ -8,8 +8,8 @@ SIGN_CHASM	The Scythian			"En el borde del Precipicio Peligroso, había una pied
 SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del viejo camino había una piedra tallada con una serie de glifos indescifrables.					
 				En medio de los glifos indescifrables descubrimos una serie de pictogramas lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del viejo camino había una piedra tallada con una serie de pictogramas lunares que logramos descifrar.					
-				"Los pictogramas hablaban de un lugar secreto en las inmediaciones ""...allí donde se pueden alterar los estados de ánimo de la luna."""					
-				¿La Gruta de la Luna...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
+				"Los pictogramas hablaban de un lugar secreto en las inmediaciones ""...allí donde se pueden alterar los estados de la luna."""					
+				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			A un lado del viejo camino había una piedra tallada con un par de glifos con la forma de una espada y un escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			"En un pasillo subterráneo descubrimos una estatua de malfario, pero no le prestamos demasiada atención. #lore"			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			En las escarpadas montañas del Mingi Taw una tumba solitaria marcaba el final de un camino de grava.					
@@ -54,7 +54,7 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 				Descubrirás que la primera sesión de S:S&S EP es bastante sencilla. Generalmente sólo requiere de 15 - 30 minutos para completarla.					
 				¿Quieres comenzar? Presiona jugar y vamos a ello.					
 ARCHETYPE_FOUNDATION	The Archetype			Vamos a hablar sobre el conjunto y la configuración para una experiencia positiva con el altamente psicoactivo Superbrothers: Sword & Sworcery EP.					
-				"""Conjunto"" se refiere al estado mental y estructura de personalidad que aportas a la experiencia - pensamientos, estados de ánimo y/o expectativas."					
+				"""Conjunto"" se refiere al estado mental y estructura de personalidad que aportas a la experiencia - pensamientos, estado de ánimo y/o expectativas."					
 				Hemos descubierto que con una actitud relajada y curiosa es más probable disfrutar de una experiencia agradable con S:S&S EP.					
 				"""Configuración"" incluye la comodidad, seguridad y calidez de la habitación o ambiente al aire libre donde ocurrirá la experiencia."					
 				"El segundo aspecto de ""Configuración"" es el cultural, prevaleciendo nociones de realidad y normalidad. Evitaremos este tema por ahora."					
@@ -158,7 +158,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un grupo de tumbas en un matorral al l
 			triangle/Triangle	"""Así que domamos el Trigon de Oro e investigamos la Arboleda Trigonal antes de salir a buscar el Trigon Luna Brillante."""					
 				"""Localizar el Trigon Luna Brillante no fue muy bien... acabamos bastante perdidos para ser honesto."""					
 				"""Poco a poco nos dimos cuenta de la importancia del ciclo lunar y su influencia en los duendes que duermen en los reinos del ocaso."""					
-				"""Ahí es cuando nos sentamos y empezamos a vigilar los estados de ánimo de la luna para poder saber cuándo estar dónde y cómo."""			7	026.jpg	Q2D6P
+				"""Ahí es cuando nos sentamos y empezamos a vigilar los estados de la luna para poder saber cuándo, dónde y cómo estar."""			7	026.jpg	Q2D6P
 				"""Morimos de aburrimiento esperando a que el humor de la luna cambiara."""					
 				"""Bueno, en realidad morimos debido a una discusión que tuvimos a causa del aburrimiento."""					
 				"""Realmente no me apetece tocar ese tema ahora mismo, si no os importa."""					
@@ -170,7 +170,7 @@ GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la tu
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André El Gigante reunió a un grupo y nos propusimos reconstruir la Trigonal Trifecta."""					
 				"""Los otros tipos del grupo están enterrados en un matorral al lado del viejo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar el Trigon de Oro con bastante facilidad pero no avanzamos nada después de eso."""					
-				"""Buscamos el Trigon Luna Brillante, así que decidimos sentarnos y observar los cielos, esperando que el estado de ánimo de la luna cambiara."""					
+				"""Buscamos el Trigon Luna Brillante, así que decidimos sentarnos y observar los cielos, esperando que el estado de la luna cambiara."""					
 				"""¡Fue super aburrido! No iba a esperar días y días hasta que la Luna Brillante se alzara."""					
 				"""Abandoné a esos bobos para vagar sin rumbo mientras me hundía más y más en esa trampa lógico-lunar."""					
 				El viejo fantasma resplandeciente habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
@@ -178,7 +178,7 @@ GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la tu
 				"""La cosa es que, desde que hice trampa, sufrí siempre de una profunda angustia y morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			"Dentro de un árbol hueco titánico vimos una tumba solitaria, y eso nos despertó un poco la curiosidad."					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado comenzó a recitarnos una rima alocada.			117	028.jpg	E2A80
-				"""Monitorea los estados de ánimo de la luna y aprenderás cuándo estar dónde y cómo."""					
+				"""Monitorea los estados de la luna y aprenderás cuándo, dónde y cómo estar."""					
 				"""También quiero que sepas que no estoy intentando asustaros deliberadamente luciendo tan asombroso como lo hago."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado comenzó a recitarnos una rima alocada.			117	028.jpg	E2A80
 				"""Busca a los duendecillos silvestres en el camino tras de ti con ojos y oidos abiertos a su sonora espuma."""					
@@ -223,7 +223,7 @@ LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Me parece muy bien que la Escita se lleve l
 				Le pregunté a la Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvestres más enviados hacia los cielos aliviarán la incesante tormenta... ¡y entonces será el tiempo de milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mi sueño hay una quietud emocionante cuando la luna es más brillante... y cuando es más oscura los bosques son salvajes.					
-				En el sueño siempre son los mismos lugares y espacios excepto cuando varían según los estados de ánimo de la luna.					
+				En el sueño siempre son los mismos lugares y espacios excepto cuando difieren según los estados de la luna.					
 				Cada noche desde que se levantó la tormenta he tenido ese mismo sueño en el que estoy vagando por el bosque justo antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosque puede ofrecer una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
 				Busca la sonora espuma de los duendecillos silvestres e investiga sus alrededores.					
@@ -274,22 +274,22 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				"Despertaste al inmortal espectro que dormitaba en la oscuridad bajo el Mingi Taw. Qué mal, ¿cierto?"			204	042.jpg	24B2J
 				"Es un tiempo de angustia, una siniestra tormenta ha nublado los cielos y la encantadora gente que vive en la choza se siente miserable."					
 				"Silenciar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros..."					
-			adventureUI/megatomeItem	"1. El toque de un espadachicero liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro materiales esotéricos."					
+			adventureUI/megatomeItem	"1. El toque de un espadachicero liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otros materiales esotéricos."					
 			gourd/gourd	"2. Extraños duendecillos silvestres, generadores de espadachicería, dormitan en estanques, bosques y prados. Busca su sutil sonora espuma."					
 			triangle/Triangle	"3. El espadachicero que pueda localizar, invocar y domar la cósmica geometría del Trigon de Oro poseerá la habilidad de obrar milagros."					
 				¿Abrumado? Excelente. Mantén la calma y continúa.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la cósmica geometría del Trigon de Oro.			86	044.jpg	24E4H
-				"Milagrosamente, la siniestra tormenta se ha levantado y la gloriosa luz del sol ha vuelto al reino de un modo totalmente impresionante."					
-				"Estas acciones heroicas reflejan bien tu percepción, intuición y perseverancia. ¡Lo has hecho muy bien hasta ahora!"					
+				"Milagrosamente, la siniestra tormenta se ha despejado y la gloriosa luz del sol ha vuelto al reino, lo que está muy bien."					
+				"Tus heroicas hazañas reflejan bien tu percepción, intuición y perseverancia - ¡Lo has hecho excelente hasta ahora!"					
 				"Nota: Si decides continuar con el experimento S:S&S EP, las cualidades antes mencionadas serán desafiadas y puestas a prueba."					
-				"En cualquier caso, vamos a tomarnos otro descansito, ¿de acuerdo? Como siempre, estaré justo aquí cuando quieras comenzar con la sesión III."					
+				"En cualquier caso, vamos a tomarnos otro descanso, ¿no crees? Como siempre, estaré justo aquí cuando quieras comenzar con la sesión III."					
 ARCHETYPE_TRIFECTAINTRO	The Archetype								
 				Comencemos con la sesión III. Nota: Esta sesión requiere normalmente de un mes lunar para ser completada.					
-			triangle/Triangle	¿Así que domaste el Trigon de Oro y la tormenta se levantó milagrosamente? Bravo por ti.					
+			triangle/Triangle	¿Así que domaste el Trigon de Oro y la tormenta se levantó milagrosamente? Bravo por eso.					
 			adventureUI/megatomeItem	Consulta El Megatomo y estudia su funcionamiento si te sientes perdido o confundido.					
-				Un inmortal espectro todavía acecha en la oscuridad bajo el Mingi Taw.					
+				Un inmortal espectro aún deambula en la oscuridad bajo el Mingi Taw.					
 			Archetype/trifecta	Considera la cósmica geometría de la Trigonal Trifecta.					
-			MoonCrescent/moonCrescent	Observa los estados de ánimo de la luna.			118	045.jpg	Y4E5Q
+			MoonCrescent/moonCrescent	Observa los estados de la luna.			118	045.jpg	Y4E5Q
 				Nuestra investigación ha demostrado que aquellos pocos que persisten a través de la locura oblicua que sigue pueden convertirse en amigos cósmicos para siempre.					
 				Ten en cuenta que de ahora en adelante estaremos monitoreando todas tus entradas en relativo silencio.					
 ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	¿Así que has domado los restantes dos Trigones y has reconstruido la Trigonal Trifecta?			165	046.jpg	P4B6A
@@ -443,7 +443,7 @@ DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.
 				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una piedra junto al leñador que cortaba leña.					
 			Archetype/trifecta	Le preguntamos sobre los secretos de la Arboleda Trigonal y los peculiares sueños de la gente de las montañas del Cáucaso.					
-				Nos contó cómo los sueños de su gente contenían muchos misterios y cómo reflejaban los estados de ánimo de la luna de maneras extrañas.					
+				Nos contó cómo los sueños de su gente contenían muchos misterios y cómo reflejaban los estados de la luna de maneras extrañas.					
 				"Samae nos invitó a sentárnos junto al fuego en la choza de piedra siempre que quisieramos, ya fuera para caminar por los sueños o para recobrar fuerzas."					
 			Archetype/trifecta	"Tenemos la sensación de que los dos Trigones restantes podrían estar perdidos en los sueños, o algo así."					
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Tronco había vuelto a su corte de leña y parecía estar realmente concentrado.					
@@ -456,7 +456,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Tronco había 
 				"Entonces el grupo fue aniquilado repentinamente por un inmortal espectro al lado del viejo camino, donde aún reposan un puñado de tumbas."					
 				"Le dijimos a Tronco que la historia había estado bien, pero que no nos había asustado mucho."					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
-ARCHETYPE_MOONGROTTO	The Archetype			Veo que habéis podido alterar el estado de ánimo de la luna en la Gruta de la Luna. Me pregunto cuánto durará esta paradoja temporal.					
+ARCHETYPE_MOONGROTTO	The Archetype			Veo que habéis podido alterar el estado de la luna en la Gruta Lunar. Me pregunto cuánto durará esta paradoja temporal.					
 MIRACLE2_ISLAND	The Scythian			"Mientras que la Luna Brillante se cernía sobre nosotros, realizamos un extraño milagro lunar en una isla imposible en medio de un plácido lago."			136	073.jpg	W7A3K
 MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Nos hicimos con el Trigon Luna Brillante para nuestra gloria y desesperación. #trigontamed			155	068.jpg	56F8U
 MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			"Estuvimos tentados de abandonar todo el tema del funesto cometido, pero había algo atractivo en el martirio."					
@@ -488,7 +488,7 @@ LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	El leñador no reconoci�
 GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae vio la llave que habíamos encontrado y nos animó a mantener los ojos abiertos ante las puertas cerradas.					
 				"No tenía ninguna otra idea, pero nos recordó algo que habíamos visto en el viejo camino al Mingi Taw."					
 ARCHETYPE_GROTTOPARADOX	The Archetype								
-				Los estados de ánimo de la luna han sido alterados en la Gruta de la Luna 					
+				El estado de la luna ha sido alterado en la Gruta Lunar 					
 ARCHETYPE_KILLBOOR	The Archetype			"Imagino que ahora te estarás preguntando para qué es esa llave. Para ser honesto, no tengo ni idea."			119	075.jpg	87C5S
 				"No es que esté sugiriendo que seas un sociópata violento... jajaja... Estoy seguro que tenías tus buenas razones, ¿verdad? #thegrizzledboor"					
 				Debería mencionar que el Patán Peludo fue incluido en S:S&S EP para tentar a los participantes e identificar si eran unos sociópatas violentos.					
@@ -526,7 +526,7 @@ LOGFELLA_HALFWAX	The Scythian			"El leñador admitió que sí, que de hecho hab�
 				"Habló de los helados inviernos y las profundas nieves que gobernaban las poderosas montañas del Cáucaso, aquellas que se elevaban por encima de las estepas de Escitia."					
 				El leñador esperaba tener suficiente comida y leña para sobrevivir los largos y fríos meses que estaban por llegar.					
 GIRL_HALFWAX	The Scythian			"Anoche soñé que estaba caminando por los bosques y estaba como loca por comerme una magdalena, pero encontré cero."			108	078.jpg	07D87
-ARCHETYPE_HALFWAX	The Archetype			Los folcloristas majaderos han afirmado que no hay relación causal entre la locura y los estados de ánimo de la luna.					
+ARCHETYPE_HALFWAX	The Archetype			Los folcloristas majaderos han afirmado que no hay relación causal entre la locura y los estados de la luna.					
 LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demasiado en la Masa Gogolítica y en la montaña desierta del Mingi Taw.					
 				"Sin embargo, dijo que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo."					
 				El leñador dijo que le daba un poco de miedo cuando la Luna Brillante se cernía sobre el cielo y cuando la Luna Oscura reinaba.					
@@ -592,7 +592,7 @@ ARCHETYPE_CREDITS	The Archetype
 				"Voz de Tronco por Robert Ashley, creador del programa de radio ""A Life Well Wasted"" alias @robertashley en www.alifewellwasted.com"					
 				Voz de la Escita por la fotógrafa Robyn Cumming en robyncumming.com					
 				Voz del Arquetipo por el artista y cineasta Clive Holden alias @cliveholden en cliveholden.com					
-				Sonidos cósmicos de la Gruta de la Luna por Scientific American alias @scntfc en scntfc.com					
+				Sonidos cósmicos de la Gruta Lunar por Scientific American alias @scntfc en scntfc.com					
 				* * * SOPORTE CAPY * * *					
 				"Productor ejecutivo, héroe del pueblo, liderazgo y estratificación por Nathan Vella, presidente de Capy alias @Capy_Nathan"					
 				"Productor de PC, asistencia técnica de audio, integración FMOD y muchos sonidos encantadores por Sean ""Uber"" Lohrisch, co-fundador de Capy."					
