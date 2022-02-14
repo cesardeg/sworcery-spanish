@@ -75,13 +75,13 @@ LOGFELLA_STORM	The Scythian			El leñador conocido como Tronco había renunciado
 GIRL_STORM	The Scythian			La chica de pelo oscuro conocida como Samae estaba bastante afligida. #woe					
 			gourd/gourd	"Desde que comenzó la tormenta, Samae había estado contemplando los espumosos sonidos de los duendes silvanos que dormían en los bosques cercanos."					
 			gourd/gourd	Se preguntó si tal vez los tres duendes silvanos podrían ayudar a levantar la tormenta. #yes					
-			gourd/gourd	Nos pidió que investigáramos él espumoso sonido que burbujeaba fuera del estanque de aguas profundas frente a la choza.					
+			gourd/gourd	Nos pidió que investigáramos la sonora espuma burbujeando en el estanque de aguas profundas frente a la choza.					
 			gourd/gourd	Samae habló de un duende en un prado cercano y de otro en un nido que era el hogar de tres pájaros cantores empapados por la lluvia.					
-			gourd/gourd	"Samae nos dijo que buscáramos el espumoso sonido de estos tres duendes silvanos, y que los enviáramos hacia los cielos usando la canción de espadachicería."					
+			gourd/gourd	"Samae nos dijo que buscáramos la sonora espuma de estos tres duendes silvanos, y que los enviáramos hacia los cielos usando la canción de espadachicería."					
 ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canción de Espadachicería, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
 			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para invocar al duende silvano que duerme tranquilamente en las frías aguas del estanque de aguas profundas."""					
 ARCHETYPE_TADPOLES	The Archetype			"Era 100% obvio que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué."					
-			gourd/gourd	"""¿Ves el espumoso sonido del estanque de aguas profundas? Un duende silvano duerme tranquilamente allí y debes invocarlo."""					
+			gourd/gourd	"""¿Ves la sonora espuma en el estanque de aguas profundas? Un duende silvano duerme tranquilamente allí y debes invocarlo."""					
 			gourd/gourd	"""Canta una Canción de Espadachicería en cualquier momento pulsando y manteniendo sobre la Escita para acceder a una realidad dentro de la realidad que conoces."""					
 			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde duerme el duende y luego envíalo hacia los cielos con tres toques de espadachicería."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el ancho techo de madera del pozo.					
@@ -181,7 +181,7 @@ GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico nos acercam
 				"""Monitorea los estados de ánimo de la luna y aprenderás cuándo estar dónde y cómo."""					
 				"""También quiero que sepas que no estoy intentando asustaros deliberadamente luciendo tan asombroso como lo hago."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado comenzó a recitarnos una rima alocada.			117	028.jpg	E2A80
-				"""Busca a los duendes silvanos en el camino tras de ti con los ojos y las orejas abiertas a su espumoso sonido."""					
+				"""Busca a los duendes silvanos en el camino tras de ti con ojos y oidos abiertos a su sonora espuma."""					
 				"""Envía a los cinco duendes silvanos a los cielos para provocar un milagro que atraerá al Trigon que buscas."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Busca una señal de los duendes silvanos y canta una Canción de Espadachicería allí para revelear un Trigon escondido."""					
@@ -226,7 +226,7 @@ GIRL_SUPERMOTHERTREE	Girl			En mi sueño hay una quietud emocionante cuando la l
 				En el sueño siempre son los mismos lugares y espacios excepto cuando varían según los estados de ánimo de la luna.					
 				Cada noche desde que se levantó la tormenta he tenido ese mismo sueño en el que estoy vagando por el bosque justo antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosque puede ofrecer una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
-				Busca el espumoso sonido de los duendes silvanos e investiga sus alrededores.					
+				Busca la sonora espuma de los duendes silvanos e investiga sus alrededores.					
 				Una vez que hayas comenzado una canción de espadachicería siempre puedes tocar el borde de la pantalla para mirar alrededor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adivinatorios pueden haber jugado un papel significativo en el desarrollo de la psique humana.					
 				"La evidencia arqueológica indica que el uso chamánico de hongos para la comunión religiosa, adivinación y curación es bastante antigua."					
