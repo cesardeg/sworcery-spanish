@@ -75,13 +75,13 @@ LOGFELLA_STORM	The Scythian			El leñador conocido como Tronco había renunciado
 GIRL_STORM	The Scythian			La chica de pelo oscuro conocida como Samae estaba bastante afligida. #woe					
 			gourd/gourd	"Desde que comenzó la tormenta, Samae había estado contemplando los espumosos sonidos de los duendes silvanos que dormían en los bosques cercanos."					
 			gourd/gourd	Se preguntó si tal vez los tres duendes silvanos podrían ayudar a levantar la tormenta. #yes					
-			gourd/gourd	Nos pidió que investigáramos la sonora espuma burbujeando en el estanque de aguas profundas frente a la choza.					
+			gourd/gourd	Nos pidió que investigáramos la sonora espuma burbujeando en el estanque profundo frente a la choza.					
 			gourd/gourd	Samae habló de un duende en un prado cercano y de otro en un nido que era el hogar de tres pájaros cantores empapados por la lluvia.					
 			gourd/gourd	"Samae nos dijo que buscáramos la sonora espuma de estos tres duendes silvanos, y que los enviáramos hacia los cielos usando la canción de espadachicería."					
 ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canción de Espadachicería, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
-			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para invocar al duende silvano que duerme tranquilamente en las frías aguas del estanque de aguas profundas."""					
+			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para invocar al duende silvano que suavemente dormita en las frescas aguas del estanque profundo."""					
 ARCHETYPE_TADPOLES	The Archetype			"Era 100% obvio que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué."					
-			gourd/gourd	"""¿Ves la sonora espuma en el estanque de aguas profundas? Un duende silvano duerme tranquilamente allí y debes invocarlo."""					
+			gourd/gourd	"""¿Ves la sonora espuma en el estanque profundo? Un duende silvano duerme tranquilamente allí y debes invocarlo."""					
 			gourd/gourd	"""Canta una Canción de Espadachicería en cualquier momento pulsando y manteniendo sobre la Escita para acceder a una realidad dentro de la realidad que conoces."""					
 			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde duerme el duende y luego envíalo hacia los cielos con tres toques de espadachicería."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el ancho techo de madera del pozo.					
@@ -102,7 +102,7 @@ INFO_UNWELLWELL	The Scythian			El pozo parecía estar indispuesto. #unwell #well
 INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #welfare					
 INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
-INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un estanque de aguas profundas.					
+INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un estanque profundo.					
 INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de leña cortada, no es para tanto."					
 INFO_SPUME	The Scythian			Encontramos el sutil sonido espumoso de un duende adormilado. Y ahora... ¿cómo lo invocamos?					
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de apariencia curiosa, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
@@ -331,7 +331,7 @@ DOG_AVATAR			AdventureUI/dudeDogfellaIdle1
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos tipos afirmaron estar entre los creadores de este mundo extraño.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Los dos bromistas afirmaron formar parte de los creadores de este mundo extraño.			159	055.jpg	A5G55
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormía en la rica tierra de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
-GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Cantamos una Canción de Espadachicería e invocamos a un duende silvano que dormía en las frías aguas de un estanque de aguas profundas, ¡qué raro!"			50	057.jpg	G5F78
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Cantamos una Canción de Espadachicería e invocamos a un duende silvano que suavemente dormitaba en las frescas aguas de un estanque profundo, ¡qué raro!"			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormía en una curiosa pajarera rodeada por tres pájaros cantores empapados por la lluvia.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormía junto a un puente de troncos sólidos donde cuatro pares de árboles se elevan sobre un río.					
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormía entre dos arco iris repugnantes al lado del Precipicio Peligroso.					
@@ -500,7 +500,7 @@ ARCHETYPE_SPAREBOOR	The Archetype			"Imagino que ahora te estarás preguntando p
 LOGFELLA_FOUNDATION	Logfella			...					
 				...					
 				...					
-SCYTHIAN_FOUNDATION	The Scythian			"Acabamos de despertar a un duende silvano que dormía en un estanque de aguas profundas, al lado de una choza de piedra. Todo esto nos sorprende."					
+SCYTHIAN_FOUNDATION	The Scythian			"Acabamos de despertar a un duende silvano que suavemente dormitaba en un estanque profundo, al lado de una choza de piedra. Todo esto nos sorprende."					
 				"Con una incesante tormenta sobre nuestras cabezas, hemos aprendido a cantar una Canción de Espadachicería e invocar a un duende silvano durmiente."					
 				Espera... ¿Por qué me estoy refiriendo a mí misma en primera persona? Pensaba que nuestra historia íbamos a contarla en segunda persona. #editingoversight					
 				¿Están mis pensamientos ordenados cronológicamente en el orden en que los he pensado? ¿Así que esto es lo que estaba pensando hace unos segundos?					
