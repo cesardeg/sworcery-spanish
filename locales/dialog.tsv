@@ -209,7 +209,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba super ali
 				"Le contamos a Tronco por qué vagabamos por aquí, en esta montaña desierta, y cómo nos guiaba el dedo de un Dios omnisciente."					
 			adventureUI/megatomeItem	Le contamos a Tronco lo que sospechábamos sobre las marcas esotéricas dentro de El Megatomo y lo que podían significar.					
 			gourd/gourd	Teníamos la corazonada de que necesitábamos invocar a unos cuantos duendecillos silvestres más para calmar la tormenta.			104	033.jpg	W3D3G
-			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de geometría cósmica conocida como el Trigon de Oro.					
+			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de cósmica geometría conocida como el Trigon de Oro.					
 				Estaba 100% claro que el leñador conocido como Tronco había dejado de prestar atención.					
 			AdventureUI/keyItem	Pensamos que sólo podíamos aferrarnos a la llave e ir a dar un paseo por el viejo camino más allá del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tuvieramos su llave y nos dijo que estaría muy bien.					
@@ -274,11 +274,11 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				"Despertaste al inmortal espectro que dormitaba en la oscuridad bajo el Mingi Taw. Qué mal, ¿cierto?"			204	042.jpg	24B2J
 				"Es un tiempo de angustia, una siniestra tormenta ha nublado los cielos y la encantadora gente que vive en la choza se siente miserable."					
 				"Silenciar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros..."					
-			adventureUI/megatomeItem	"1. Un toque espadachicero liberará El Megatomo, revelando los pensamientos tácitos de criaturas vivas y otro material esotérico."					
-			gourd/gourd	"2. Extraños duendecillos silvestres, fuente de la espadachicería, sueñan en estanques, bosques y prados. Busca su sutil sonora espuma."					
-			triangle/Triangle	"3. Un espadachicero que pueda localizar, invocar y domar la geometría cósmica del Trigon de Oro tendrá la capacidad de obrar milagros."					
-				¿Te abruma la confusión? Excelente. Mantén la calma y continúa.			210	043.jpg	A4C31
-ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la geometría cósmica del Trigon de Oro.			86	044.jpg	24E4H
+			adventureUI/megatomeItem	"1. El toque de un espadachicero liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro materiales esotéricos."					
+			gourd/gourd	"2. Extraños duendecillos silvestres, generadores de espadachicería, dormitan en estanques, bosques y prados. Busca su sutil sonora espuma."					
+			triangle/Triangle	"3. El espadachicero que pueda localizar, invocar y domar la cósmica geometría del Trigon de Oro poseerá la habilidad de obrar milagros."					
+				¿Abrumado? Excelente. Mantén la calma y continúa.			210	043.jpg	A4C31
+ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la cósmica geometría del Trigon de Oro.			86	044.jpg	24E4H
 				"Milagrosamente, la siniestra tormenta se ha levantado y la gloriosa luz del sol ha vuelto al reino de un modo totalmente impresionante."					
 				"Estas acciones heroicas reflejan bien tu percepción, intuición y perseverancia. ¡Lo has hecho muy bien hasta ahora!"					
 				"Nota: Si decides continuar con el experimento S:S&S EP, las cualidades antes mencionadas serán desafiadas y puestas a prueba."					
@@ -288,7 +288,7 @@ ARCHETYPE_TRIFECTAINTRO	The Archetype
 			triangle/Triangle	¿Así que domaste el Trigon de Oro y la tormenta se levantó milagrosamente? Bravo por ti.					
 			adventureUI/megatomeItem	Consulta El Megatomo y estudia su funcionamiento si te sientes perdido o confundido.					
 				Un inmortal espectro todavía acecha en la oscuridad bajo el Mingi Taw.					
-			Archetype/trifecta	Considera la geometría cósmica de la Trigonal Trifecta.					
+			Archetype/trifecta	Considera la cósmica geometría de la Trigonal Trifecta.					
 			MoonCrescent/moonCrescent	Observa los estados de ánimo de la luna.			118	045.jpg	Y4E5Q
 				Nuestra investigación ha demostrado que aquellos pocos que persisten a través de la locura oblicua que sigue pueden convertirse en amigos cósmicos para siempre.					
 				Ten en cuenta que de ahora en adelante estaremos monitoreando todas tus entradas en relativo silencio.					
