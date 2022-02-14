@@ -73,7 +73,7 @@ LOGFELLA_STORM	The Scythian			El leñador conocido como Tronco había renunciado
 			adventureUI/megatomeItem	Tronco nos recordó cómo la tormenta había comenzado poco después de que recuperaramos El Megatomo bajo el Mingi Taw.					
 				¿Acaso Tronco nos estaba sugiriendo sutilmente que tal vez deberíamos intentar hacer algo para detener la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de pelo oscuro conocida como Samae estaba bastante afligida. #woe					
-			gourd/gourd	"Desde que comenzó la tormenta, Samae había estado contemplando los espumosos sonidos de los duendes silvanos que dormían en los bosques cercanos."					
+			gourd/gourd	"Desde que comenzó la tormenta, Samae había estado contemplando la sonora espuma de los duendes silvanos que dormitaban en los bosques cercanos."					
 			gourd/gourd	Se preguntó si tal vez los tres duendes silvanos podrían ayudar a levantar la tormenta. #yes					
 			gourd/gourd	Nos pidió que investigáramos la sonora espuma burbujeando en el estanque profundo frente a la choza.					
 			gourd/gourd	Samae habló de un duende en un prado cercano y de otro en un nido que era el hogar de tres pájaros cantores empapados por la lluvia.					
@@ -104,7 +104,7 @@ INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un estanque profundo.					
 INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de leña cortada, no es para tanto."					
-INFO_SPUME	The Scythian			Encontramos el sutil sonido espumoso de un duende adormilado. Y ahora... ¿cómo lo invocamos?					
+INFO_SPUME	The Scythian			Encontramos la sutil sonora espuma de un duende adormilado. Y ahora... ¿cómo lo invocamos?					
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de apariencia curiosa, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de apariencia desgastada que parecía una cara de aspecto espeluznante.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de madera en el viejo camino había un siniestro poste adornado con calaveras.					
@@ -214,7 +214,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba super ali
 			AdventureUI/keyItem	Pensamos que sólo podíamos aferrarnos a la llave e ir a dar un paseo por el viejo camino más allá del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tuvieramos su llave y nos dijo que estaría muy bien.					
 GIRL_FOUNDKEY	The Scythian			"Nos encontramos a Samae de pie, empapada de lluvia, a un lado del camino."					
-			gourd/gourd	Había oído los sutiles y espumosos sonidos de los duendes silvanos desde el muro de piedra del viejo camino hasta el Mingi Taw.					
+			gourd/gourd	Había oído la sutil sonora espuma de los duendes silvanos más alla del muro de piedra en el viejo camino al Mingi Taw.					
 			gourd/gourd	Habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
 			gourd/gourd	Habló de un débil arco iris en el borde del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos perdíamos o nos confundíamos.					
@@ -275,7 +275,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				"Es un tiempo de angustia, una siniestra tormenta ha nublado los cielos y la encantadora gente que vive en la choza se siente miserable."					
 				"Silenciar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros..."					
 			adventureUI/megatomeItem	"1. Un toque espadachicero liberará El Megatomo, revelando los pensamientos tácitos de criaturas vivas y otro material esotérico."					
-			gourd/gourd	"2. Extraños duendes silvanos, fuente de la espadachicería, sueñan en estanques, bosques y prados. Busca sus sutiles sonidos espumosos."					
+			gourd/gourd	"2. Extraños duendes silvanos, fuente de la espadachicería, sueñan en estanques, bosques y prados. Busca su sutil sonora espuma."					
 			triangle/Triangle	"3. Un espadachicero que pueda localizar, invocar y domar la geometría cósmica del Trigon de Oro tendrá la capacidad de obrar milagros."					
 				¿Te abruma la confusión? Excelente. Mantén la calma y continúa.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la geometría cósmica del Trigon de Oro.			86	044.jpg	24E4H
@@ -330,21 +330,21 @@ URSULA_AVATAR			Ursula/idleSEhandsonhip
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos tipos afirmaron estar entre los creadores de este mundo extraño.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Los dos bromistas afirmaron formar parte de los creadores de este mundo extraño.			159	055.jpg	A5G55
-GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormía en la rica tierra de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
+GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormitaba en la rica tierra de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Cantamos una Canción de Espadachicería e invocamos a un duende silvano que suavemente dormitaba en las frescas aguas de un estanque profundo, ¡qué raro!"			50	057.jpg	G5F78
-GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormía en una curiosa pajarera rodeada por tres pájaros cantores empapados por la lluvia.					
-GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormía junto a un puente de troncos sólidos donde cuatro pares de árboles se elevan sobre un río.					
-GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormía entre dos arco iris repugnantes al lado del Precipicio Peligroso.					
-GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duende silvano que dormía rodeado por cinco cascadas.					
-GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duende silvano que dormía en la maleza en lo alto de un peñasco rocoso.					
-GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duende silvano que dormía en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duende silvano que dormía en las tranquilas aguas de un lago donde una mamá pato estaba fuera de sí.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duende silvano que dormía donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
-GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duende silvano que dormía en el lago bajo una trifecta de búhos.					
+GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormitaba en una curiosa pajarera rodeada por tres pájaros cantores empapados por la lluvia.					
+GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormitaba junto a un puente de troncos sólidos donde cuatro pares de árboles se elevan sobre un río.					
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duende silvano que dormitaba entre dos arco iris repugnantes al lado del Precipicio Peligroso.					
+GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duende silvano que dormitaba rodeado por cinco cascadas.					
+GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duende silvano que dormitaba en la maleza en lo alto de un peñasco rocoso.					
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duende silvano que dormitaba en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duende silvano que dormitaba en las tranquilas aguas de un lago donde una mamá pato estaba fuera de sí.					
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duende silvano que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duende silvano que dormitaba en el lago bajo una trifecta de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	"Tenemos esa peculiar sensación de que, tal vez, estemos ante un tiempo de milagros. #miracles"					
-GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duende silvano que dormía rodeado por tres pequeñas cascadas.					
-GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duende silvano que dormía rodeado por cuatro pequeños árboles en los bosques más oscuros.					
-GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duende silvano que dormía en el matorral al otro lado de un lago.					
+GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duende silvano que dormitaba rodeado por tres pequeñas cascadas.					
+GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duende silvano que dormitaba rodeado por cuatro pequeños árboles en los bosques más oscuros.					
+GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duende silvano que dormitaba en el matorral al otro lado de un lago.					
 GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duende silvano que acechaba en la raíz de un árbol titánico.					
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	"Tenemos la peculiar sensación de que, tal vez, estemos ante un tiempo de milagros. ¿Dónde están mis milagros? #miracles"			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Guau Guau. #barking			135	061.jpg	M6F1I
@@ -564,7 +564,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			"La Luna Oscura se cierne, el final del 
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí: ¡La Luna Oscura!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			"En mi sueño, llegué a un parlamento de árboles arrollados por un rayo y sentí la presencia de algo profundamente sagrado."					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una vibrante música filtrandose a través de los bosques tras mi choza. ¿De qué iba todo eso?					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño sólo vi los sutiles sonidos espumosos de los duendes silvanos.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño sólo vi la sutil sonora espuma de los duendes silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Hemos reconstruido el Trigon Trifecta y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Hemos asesinado inexplicablemente a 3 conejos indefensos.					
 RABBITS_7MURDERS	The Scythian			Hemos asesinado inexplicablemente a 7 conejos indefensos. ¿Estamos ante la evidencia de una mente transtornada?					
