@@ -21,7 +21,7 @@ DOOR_SIDEBMEADOW	The Scythian			"Una pequeña puerta sin pomo de un material des
 DOOR_UPSLOPEWOODS1	The Scythian			El viejo camino al Mingi Taw estaba bloqueado por una puerta cerrada.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondÍa en la maleza del bosque bajo el viejo camino que asciende a Mingi Taw. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
-LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba madera. #obviously #woodchopping			71	007.jpg	7E+71
+LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba leña. #obviously #woodchopping			71	007.jpg	7E+71
 				"La gente de las montañas del Cáucaso lo conocía como Tronco, y parecía agradable."					
 				Tronco lo sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el viejo camino.					
 				"Aún así, nos dio la sensación que no estaba super emocionado con tal encomienda."					
@@ -69,7 +69,7 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien he
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
 			adventureUI/megatomeItem	Se me acaba de ocurrir algo... ¿por qué no abres El Megatomo y descubres qué se oculta en mi mente?					
 				"""Busca un triángulo blanco en la esquina superior derecha... presiónalo y luego equipa El Megatomo para revelar qué está oculto."""					
-LOGFELLA_STORM	The Scythian			El leñador conocido como Tronco había renunciado a cortar madera debido a la siniestra tormenta. #wetboots					
+LOGFELLA_STORM	The Scythian			El leñador conocido como Tronco había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Tronco nos recordó cómo la tormenta había comenzado poco después de que recuperaramos El Megatomo bajo el Mingi Taw.					
 				¿Acaso Tronco nos estaba sugiriendo sutilmente que tal vez deberíamos intentar hacer algo para detener la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de pelo oscuro conocida como Samae estaba bastante afligida. #woe					
@@ -201,7 +201,7 @@ ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si vas a sen
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		"Vaya, Tronco está fuera de sí por algo... Me pregunto qué pasará. He preferido salir fuera y dejarlo solo un momento."					
 				He visto a la Escita cantar una Canción de Espadachicería y enviar tres duendecillos silvestres hacia los cielos. Me pregunto si ayudarán a calmar la tormenta.					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que la Escita pueda encontrar mi llave... la perdí en la orilla arenosa de un plácido lago.			62	032.jpg	U3A20
-LOGFELLA_LOSTKEYTHOUGHTS	Logfella			"Oh vaya, me gustaría que no estuviera lloviendo fuera... Me gustaría que mis botas no estuvieran tan mojadas... Me gustaría volver a cortar madera."					
+LOGFELLA_LOSTKEYTHOUGHTS	Logfella			"Oh vaya, me gustaría que no estuviera lloviendo fuera... Me gustaría que mis botas no estuvieran tan mojadas... Me gustaría volver a cortar leña."					
 				"¡Rayos!, ¿¡dónde está mi llave!? ¡Estoy tan furioso y avergonzado que estoy fuera de mí!"					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba super aliviado de que hubiéramos conseguido recuperar su llave perdida en el reino crepuscular de los sueños.					
 				El leñador conocido como Tronco se preguntó cómo éramos tan inteligentes y nos preguntó sobre nuestro funesto cometido.					
@@ -271,7 +271,7 @@ ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que h
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				Me alegra volver a verte por aquí. ¿Todo listo para comenzar con la sesión II de S:S&S EP?					
 			adventureUI/megatomeItem	"Muy bien, ¿por dónde íbamos? Oh sí, ya me acuerdo. Conseguiste el libraco conocido como El Megatomo."					
-				"Despertaste al inmortal espectro que dormitaba en la oscuridad bajo el Mingi Taw. Qué pena, ¿no?"			204	042.jpg	24B2J
+				"Despertaste al inmortal espectro que dormitaba en la oscuridad bajo el Mingi Taw. Qué mal, ¿cierto?"			204	042.jpg	24B2J
 				"Es un tiempo de angustia, una siniestra tormenta ha nublado los cielos y la encantadora gente que vive en la choza se siente miserable."					
 				"Silenciar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros..."					
 			adventureUI/megatomeItem	"1. Un toque espadachicero liberará El Megatomo, revelando los pensamientos tácitos de criaturas vivas y otro material esotérico."					
@@ -420,9 +420,9 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Nos despertamos aturdidos de un su
 			triangle/Triangle	Tronco estaba totalmente alucinado cuando le contamos cómo fue la batalla contra el Trigon de Oro.			81	071.jpg	R7C14
 			triangle/Triangle	Tronco se preguntó si quizá el Trigon de Oro no estaría relacionado con los sombríos misterios más allá de la puerta de hierro del prado.					
 				Tronco no quiso excavar en más misterios sombríos y decidió volver a casa y empezar a cortar madera. #woodchopping					
-LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Tronco estaba super encantado de que la tormenta hubiera cesado y se ponía bruto pensando en cortar madera de nuevo.					
+LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Tronco estaba super encantado de que la tormenta hubiera cesado y se estaba super emocionado de volver a cortar leña de nuevo.					
 				Nos preguntó si sabíamos algo de la puerta de hierro del prado que bloqueaba la gruta cavernosa... ¿de qué iba todo eso?					
-LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Es extraño... He visto un haz dorado en los cielos en el bosque detrás del prado... ¿Alguien ha aprendido los secretos del Trigon de Oro?			89	072.jpg	67F24
+LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Es extraño... He visto un haz dorado elevarse hacia el cielo en el bosque tras el prado... ¿Ha aprendido alguien los secretos de la Arboleda Trogonal?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			"Estoy muy preocupado por la Escita, parece hecha un desastre."					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija contemplaron cómo recobrábamos el sentido.					
 				"Nos dimos cuenta que la pradera no había cambiado, que toda evidencia de nuestro encuentro místico había desaparecido."					
@@ -441,12 +441,12 @@ DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.
 				El arremolinado infinito del cosmos en la cima del Mingi Taw espera a aquel que carga con El Megatomo.					
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
-GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una piedra al lado de donde el leñador cortaba madera.					
+GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una piedra junto al leñador que cortaba leña.					
 			Archetype/trifecta	Le preguntamos sobre los secretos de la Arboleda Trigonal y los peculiares sueños de la gente de las montañas del Cáucaso.					
 				Nos contó cómo los sueños de su gente contenían muchos misterios y cómo reflejaban los estados de ánimo de la luna de maneras extrañas.					
 				"Samae nos invitó a sentárnos junto al fuego en la choza de piedra siempre que quisieramos, ya fuera para caminar por los sueños o para recobrar fuerzas."					
 			Archetype/trifecta	"Tenemos la sensación de que los dos Trigones restantes podrían estar perdidos en los sueños, o algo así."					
-LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Tronco había vuelto a su corte de madera y parecía estar realmente concentrado.					
+LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Tronco había vuelto a su corte de leña y parecía estar realmente concentrado.					
 			triangle/Triangle	Tronco había visto el haz lanzado a los cielos detrás de la pradera y por eso le preguntamos sobre los secretos de la Arboleda Trigonal.					
 				Nos contó una vieja historia que su gente relataba habitualmente a sus hijos para asustarlos.					
 			Archetype/trifecta	Tronco habló de un grupo de Escitas que llegó hace muchas lunas a estas montañas olvidadas buscando la Trigonal Trifecta.					
