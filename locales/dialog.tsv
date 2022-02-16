@@ -409,7 +409,7 @@ GIRL_MOONGROTTOCOMMENT	Girl			Me siento como si el cosmos acabara de dar un vuel
 LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino del 0 al 1, y si un alien dijera 'Hola Mundo' sería en un código críptico en el estéreo. Espera... ¿qué?"					
 GIRL_HUGETREETHOUGHTS	Girl			"Por supuesto, nunca le hablo a la gente sobre estos sueños de la diosa/árbol porque probablemente me llamarían hippie o algo parecido."					
 				"En mi lugar especial, visito un titánico árbol hueco... Es una diosa muerta desde hace mucho tiempo y que precede a la humanidad desde eternos eones."					
-				"En mi sueño hay un lugar especial al que siempre voy, un círculo de árboles en el corazón del mundo."					
+				"En mi sueño hay un lugar especial al que siempre voy, una arboleda circular en el corazón del mundo."					
 LOGFELLA_HUGETREETHOUGHTS	Logfella			"Me encanta ver los mismos bosques con diferente clima y me encanta simplemente detenerme y escuchar... y pensar o no pensar según sea el caso."					
 				"No paso mucho tiempo caminando por mis sueños, pero cuando lo hago tiendo a volver a visitar mis lugares favoritos para ver lo que ha cambiado."					
 MIRACLE1_MOUNTAINMEADOW	The Scythian			"Hemos realizado el milagro de disipación de tormentas en un prado bañado por el sol al más puro estilo del mago loco ""Al Jaffee""."					
@@ -471,10 +471,10 @@ LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuest
 				Tronco nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestros datos de investigación muestran una alta correlación entre el progreso de un participante en S:S&S EP y su aptitud para ser impresionante.			45	074.jpg	87A43
 				"Veo que has conseguido localizar y recuperar el Trigon Luna Brillante. Una gran noticia, sin duda."					
-MIRACLE3_HUGETREE	The Scythian			"Mientras reinaba la Luna Oscura, hemos realizado un asombroso milagro en medio de un círculo de árboles."					
+MIRACLE3_HUGETREE	The Scythian			"Mientras reinaba la Luna Oscura, hemos realizado un asombroso milagro en medio de una arboleda circular."					
 MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			"Además... llevar El Megatomo de arriba a abajo todo el tiempo era insufrible, realmente es un libro muy pesado en más de un sentido."					
 				Nos sentíamos un poco peor por el desgaste... probablemente se debiera a todos esos haces de láser cósmico.					
-				"Cuando las luces y los sonidos cesaron, nos encontramos empapados por la fría lluvia en medio de un círculo de árboles."					
+				"Cuando las luces y los sonidos cesaron, nos encontramos empapados por la fría lluvia en medio de una arboleda circular."					
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trigon Luna Oscura y nuestra intención de reconstruir la Trigonal Trifecta.					
 				Le contamos cómo acabamos con el ataque arco iris del Trigon Luna Oscura y a ella le pareció realmente genial.					
 				No parecía importarle escuchar nuestras locas historias.					
@@ -562,7 +562,7 @@ GIRL_CRESCENTWANE	The Scythian			Samae observó la luna encogida. Dijo que pront
 ARCHETYPE_CRESCENTWANE	The Archetype			El ciclo lunar está casi completo. La Luna Oscura está muy cerca.					
 DARKMOONLOOMS_ARCHETYPE	The Archetype			"La Luna Oscura se cierne, el final del ciclo lunar está muy cerca."					
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí: ¡La Luna Oscura!			94	076.jpg	I7F69
-DARKMOON_GIRLTHOUGHTS	Girl			"En mi sueño, llegué a un círculo de árboles sacudido por un rayo y sentí la presencia de algo profundamente sagrado."					
+DARKMOON_GIRLTHOUGHTS	Girl			"En mi sueño, llegué a una arboleda circular sacudida por un rayo y sentí la presencia de algo profundamente sagrado."					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una vibrante música filtrandose a través de los bosques tras mi choza. ¿De qué iba todo eso?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño sólo vi las sutiles sonoras espumas de los duendecillos silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Hemos reconstruido la Trigonal Trifecta y ahora somos héroes.			164	081.jpg	48G1Q
