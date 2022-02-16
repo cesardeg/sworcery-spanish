@@ -83,7 +83,7 @@ ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canci
 ARCHETYPE_TADPOLES	The Archetype			"Era 100% obvio que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué."					
 			gourd/gourd	"""¿Ves las sonoras espumas en el profundo estanque? Un duendecillo silvano suavemente dormita allí y debes invocarlo."""					
 			gourd/gourd	"""Canta una Canción de Espadachicería en cualquier momento manteniendo presionado sobre la Escita para acceder a una realidad dentro de la que ya conoces."""					
-			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde dormita el duendecillocillo y elévale hacia el cielo con tres toques de espadachicería."""			49	013.jpg	61D3A
+			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde dormita el duendecillocillo y envíale hacia el cielo con tres toques de espadachicería."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el ancho techo de madera del pozo.					
 				"Había abandonado la comodidad del fuego en la choza porque, al parecer, Tronco estaba desvariando por una cosa u otra."					
 INFO_BIRDEYESCULPTURE	The Scythian			Miramos la escultura de un pájaro enfadado que se cernía sobre el prado. #subtlereference			6	014.jpg	F1D48
@@ -108,7 +108,7 @@ INFO_SPUME	The Scythian			Encontramos las sutiles sonoras espumas de un duendeci
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de apariencia curiosa, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de apariencia desgastada que parecía una cara de aspecto espeluznante.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el antiguo camino había un siniestro mástil adornado con calaveras.					
-INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado nos encontramos con una arboleda aislada llena de extrañas estructuras de piedra.					
+INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado nos encontramos con una arboleda oculta llena de extrañas estructuras de piedra.					
 			Archetype/trifecta	... ¿Era una Arboleda Trigonal? #trigongrove			93	016.jpg	B1D6J
 			triangle/Triangle	"Mientras estábamos al lado de la primera estructura de piedra, pensamos en el Trigon de Oro y sentimos cómo se agitaba nuestra espada."					
 INFO_DARKTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra desgastada y enmohecida. #darkmoontrigon					
@@ -235,9 +235,9 @@ ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adi
 ARCHETYPE_TRIGONGROVE	The Archetype			¿Puedes sentirlo? ¿Estás empezando a entender? ¿Las marcas esotéricas y las formas dentro de El Megatomo tienen un nuevo significado?					
 				"Este haz es un puente que une el mundo de los vivos y el mundo de los muertos, por lo que puedes encontrar un fantasma o dos y hablar con ellos en tus viajes."					
 				Acabo de recibir la notificación de que has enviado el primer haz celeste en la Arboleda Trigonal.					
-GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que rondaban por la choza y nos dijo que se habían asustado hacia un rato.					
+GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y nos dijo que se habían asustado hacia un rato.					
 			gourd/gourd	"Le dijimos a Samae que habíamos enviado cinco duendecillos silvanos hacia el cielo y nos dijo que, tal vez, el tiempo de los milagros estaba cerca."					
-				Pensamos que tal vez deberíamos ir a investigar el prado donde solían estar las ovejas.					
+				Pensamos que tal vez deberíamos ir a investigar el prado donde solían holgazanear las ovejas.					
 LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado el tiempo de los milagros y se preguntó si tal vez no estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Se está empezando a disipar la tormenta? Eso espero.					
 				Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo tan sombrío.					
@@ -353,15 +353,15 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Gu
 				Guau Sniff Guau. #mixingitup					
 				Guau Guau Guau Guau Guau Guau.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		"Hay algo extraño en cómo se comportó la Escita, casi como si estuviera siendo controlada por una fuerza invisible."					
-				"Me gustaría saber más sobre la historia épica de la Escita, porque apuesto a que entonces todo tendría sentido."					
+				"Me gustaría saber más sobre la historia épica de la Escita, apuesto a que entonces todo tendría sentido."					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que la Escita esté invirtiendo todos sus esfuerzos en el tema de los duendecillos silvanos.					
 				La tormenta ha estado afectando mi ánimo y me ha hecho desear que los videojuegos existieran... sea lo que sea que eso signifique.					
-GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha sido totalmente mental desde que apareció la Escita.			3	062.jpg	36E2Z
+GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha sido totalmente mental desde que la Escita apareció.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo taaan sombrío.					
 				La lluvia ha comenzado a cesar y el cielo parece estar brillando... ¿Es el tiempo de los milagros? Eso espero. Me encantan los milagros.					
 				Vaya... ¿Qué? Las ovejas del prado se han asustado... ¿Me pregunto qué estará pasando? Podría ser... ¿el Trigon de Oro?					
 GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau. 					
-				"A veces cuando las cosas están demasiado oscuras para mi, como algo y veo incluso lo que no está ahí."					
+				"A veces cuando las cosas están demasiado oscuras para mi, ingiero algo y veo incluso lo que no está ahí."					
 				Guau Guau Guau Guau Guau.					
 GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Tengo esa canción en mi cabeza... una pequeña canción feliz y triste al mismo tiempo que me llena de un temor extrañamente bello.					
 GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		"Sé que pretendes evitar tu funesto martirio, pero debes saber esto: el tiempo es una fuerza y es inevitable que tome su curso."					
@@ -390,8 +390,8 @@ YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos el Trigon de Oro. Somos impres
 PINKTRIGON_COLLECTED	The Scythian			"Contra todo pronóstico, conseguimos el Trigon Luna Brillante."			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			"A pesar de todas las adversidades, conseguimos el Trigon Luna Oscura."			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		"Parece como si todos los duendecillos Luna Oscura hubieran sido enviados hacia el cielo, así que de nuevo es el tiempo de los milagros. ¡Adoro los milagros!"					
-JIM_HINT1_OFF	The Scythian			En una arboleda aislada nos encontramos con un tipo misterioso y musical situado junto a un fuego crepitante.					
-JIM_PINKDAWN	The Scythian			En una arboleda aislada encontramos a un tipo misterioso junto a un fuego crepitante. #jimguthrie					
+JIM_HINT1_OFF	The Scythian			En una arboleda oculta nos encontramos con un tipo misterioso y musical situado junto a un fuego crepitante.					
+JIM_PINKDAWN	The Scythian			En una arboleda oculta encontramos a un tipo misterioso junto a un fuego crepitante. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			"Mientras que la luna brillante se cernía, nos encontramos con un tipo misterioso y musical junto a un fuego crepitante. Dijo responder al nombre de Jim Guthrie."			128	070.jpg	07G00
 JIM_POSTSWORCERY	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie había presenciado nuestra espadachicería y parecía haberle gustado bastante.					
 JIM_POSTGOURD	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
