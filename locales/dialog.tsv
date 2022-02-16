@@ -73,15 +73,15 @@ LOGFELLA_STORM	The Scythian			El leñador conocido como Tronco había renunciado
 			adventureUI/megatomeItem	Tronco nos recordó cómo la tormenta había comenzado poco después de que recuperaramos El Megatomo bajo el Mingi Taw.					
 				¿Acaso Tronco nos estaba sugiriendo sutilmente que tal vez deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de cabello oscuro conocida como Samae estaba bastante afligida. #woe					
-			gourd/gourd	"Desde que comenzó la tormenta, Samae había estado contemplando las espumas sonoras de los duendecillos silvanos que dormitaban en los bosques cercanos."					
+			gourd/gourd	"Desde que comenzó la tormenta, Samae había estado contemplando las sonoras espumas de los duendecillos silvanos que dormitaban en los bosques cercanos."					
 			gourd/gourd	Se preguntó si tal vez los tres duendecillos silvanos podrían ayudar a disipar la tormenta. #yes					
-			gourd/gourd	Nos pidió que investigáramos las espumas sonoras burbujeando en el profundo estanque frente a la choza.					
+			gourd/gourd	Nos pidió que investigáramos las sonoras espumas burbujeando en el profundo estanque frente a la choza.					
 			gourd/gourd	Samae habló de un duendecillocillo en un prado cercano y de otro en un nido que era el hogar de tres pájaros cantores empapados por la lluvia.					
-			gourd/gourd	"Samae nos dijo que buscáramos las espumas sonoras de estos tres duendecillos silvanos, y que los enviáramos hacia el cielo usando la canción de espadachicería."					
+			gourd/gourd	"Samae nos dijo que buscáramos las sonoras espumas de estos tres duendecillos silvanos, y que los enviáramos hacia el cielo usando la canción de espadachicería."					
 ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canción de Espadachicería, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
 			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para invocar al duendecillo silvano que suavemente dormita en las frescas aguas del profundo estanque."""					
 ARCHETYPE_TADPOLES	The Archetype			"Era 100% obvio que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué."					
-			gourd/gourd	"""¿Ves las espumas sonoras en el profundo estanque? Un duendecillo silvano duerme tranquilamente allí y debes invocarlo."""					
+			gourd/gourd	"""¿Ves las sonoras espumas en el profundo estanque? Un duendecillo silvano duerme tranquilamente allí y debes invocarlo."""					
 			gourd/gourd	"""Canta una Canción de Espadachicería en cualquier momento pulsando y manteniendo sobre la Escita para acceder a una realidad dentro de la realidad que conoces."""					
 			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde dormita el duendecillocillo y elévale hacia el cielo con tres toques de espadachicería."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el ancho techo de madera del pozo.					
@@ -104,7 +104,7 @@ INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un profundo estanque.					
 INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de leña cortada, no es para tanto."					
-INFO_SPUME	The Scythian			Encontramos las sutiles espumas sonoras de un duendecillocillo adormilado. Y ahora... ¿cómo lo invocamos?					
+INFO_SPUME	The Scythian			Encontramos las sutiles sonoras espumas de un duendecillocillo adormilado. Y ahora... ¿cómo lo invocamos?					
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de apariencia curiosa, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de apariencia desgastada que parecía una cara de aspecto espeluznante.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el antiguo camino había un siniestro mástil adornado con calaveras.					
@@ -181,7 +181,7 @@ GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercam
 				"""Monitorea los estados de la luna y así aprenderás cuándo, dónde y cómo estar."""					
 				"""También quiero que sepas que no intento deliberadamente asustarte luciendo así de impresionante."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una tumba solitaria y un imponente fantasma se apareció para cantarnos una rima alocada.			117	028.jpg	E2A80
-				"""Busca a los duendecillos silvanos en el camino tras de ti, con ojos y oidos abiertos a sus espumas sonoras."""					
+				"""Busca a los duendecillos silvanos en el camino tras de ti, con ojos y oidos abiertos a sus sonoras espumas."""					
 				"""Envía a los cinco duendecillos silvanos hacia el cielo para provocar un milagro que atraerá al Trigon que buscas."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una tumba solitaria y un imponente fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Busca una señal de los duendecillos silvanos y canta una Canción de Espadachicería allí para revelear un Trigon escondido."""					
@@ -214,7 +214,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba super ali
 			AdventureUI/keyItem	Pensamos que podríamos simplemente llevarnos la llave e ir a dar un paseo por el antiguo camino más allá de la muralla de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tomaramos su llave y nos dijo que estaba de acuerdo.					
 GIRL_FOUNDKEY	The Scythian			Encontramos empapada a Samae de pie a lado del camino.					
-			gourd/gourd	Había oído las sutiles espumas sonoras de los duendecillos silvanos más alla de la muralla de piedra en el antiguo camino al Mingi Taw.					
+			gourd/gourd	Había oído las sutiles sonoras espumas de los duendecillos silvanos más alla de la muralla de piedra en el antiguo camino al Mingi Taw.					
 			gourd/gourd	Habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
 			gourd/gourd	Habló de un débil arco iris en el borde del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos perdíamos o nos confundíamos.					
@@ -226,7 +226,7 @@ GIRL_SUPERMOTHERTREE	Girl			En mi paseo por el sueño hay una quietud emocionant
 				En el sueño siempre son los mismos lugares y espacios excepto cuando difieren según los estados de la luna.					
 				Cada noche desde que se disipó la tormenta he tenido ese mismo sueño en el que estoy vagando por el bosque justo antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosque puede ofrecer una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
-				Busca las espumas sonoras de los duendecillos silvanos e investiga sus alrededores.					
+				Busca las sonoras espumas de los duendecillos silvanos e investiga sus alrededores.					
 				Una vez que hayas comenzado una canción de espadachicería siempre puedes mantener presionado y deslizar el aura espadachicera para mirar alrededor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adivinatorios pueden haber jugado un papel significativo en el desarrollo de la psique humana.					
 				"La evidencia arqueológica indica que el uso chamánico de hongos para la comunión religiosa, adivinación y curación es bastante antigua."					
@@ -275,7 +275,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				"Es un tiempo de angustia, una siniestra tormenta ha nublado el cielo y la encantadora gente que vive en la choza se siente miserable."					
 				"Silenciar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros..."					
 			adventureUI/megatomeItem	"1. El toque de un espadachicero liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otros materiales esotéricos."					
-			gourd/gourd	"2. Extraños duendecillos silvanos, generadores de espadachicería, dormitan en estanques, bosques y prados. Busca sus sutiles espumas sonoras."					
+			gourd/gourd	"2. Extraños duendecillos silvanos, generadores de espadachicería, dormitan en estanques, bosques y prados. Busca sus sutiles sonoras espumas."					
 			triangle/Triangle	"3. El espadachicero que pueda localizar, invocar y domar la cósmica geometría del Trigon de Oro poseerá la habilidad de obrar milagros."					
 				¿Abrumado? Excelente. Mantén la calma y continúa.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la cósmica geometría del Trigon de Oro.			86	044.jpg	24E4H
@@ -564,7 +564,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			"La Luna Oscura se cierne, el final del 
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí: ¡La Luna Oscura!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			"En mi sueño, llegué a un círculo de árboles sacudido por un rayo y sentí la presencia de algo profundamente sagrado."					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una vibrante música filtrandose a través de los bosques tras mi choza. ¿De qué iba todo eso?					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño sólo vi las sutiles espumas sonoras de los duendecillos silvanos.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño sólo vi las sutiles sonoras espumas de los duendecillos silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Hemos reconstruido la Trigonal Trifecta y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Hemos asesinado inexplicablemente a 3 conejos indefensos.					
 RABBITS_7MURDERS	The Scythian			Hemos asesinado inexplicablemente a 7 conejos indefensos. ¿Estamos ante la evidencia de una mente transtornada?					
