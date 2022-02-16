@@ -139,7 +139,7 @@ INFO_TRIGONGROVESKULLSTICK	The Scythian			Un siniestro asta adornado con una cal
 GRAVE_TRIGONGROVE	The Scythian			"En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, divisamos una solitaria tumba que despertó nuestra curiosidad."					
 GRAVE_TRIGONGROVEGHOST	The Scythian			"En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, nos acercamos a una solitaria tumba donde nos recibió un resplandeciente fantasma."					
 				"El resplandeciente fantasma de la Arboleda Trigonal nos asustó un poco al principio, para ser sinceros."			96	022.jpg	T2B2H
-			adventureUI/megatomeItem	Reconoció nuestros ropajes Escita y vio que poseíamos El Megatomo. Se preguntó si comprendíamos las marcas esotéricas que contenía.					
+			adventureUI/megatomeItem	Reconoció nuestros ropajes Escita y vio que poseíamos El Megatomo. Se preguntó si comprendíamos las esotéricas marcas que contenía.					
 				En un susurro dijo el nombre del inmortal espectro que habíamos despertado en la oscuridad bajo el Mingi Taw - La Masa Gogolítica.			166	023.jpg	O2B39
 				Conocíamos ese espeluznante nombre por las viejas historias y sentimos que nuestra sangre se helaba.					
 				"""Hasta ahora tenía la sensación de que La Masa Gogolítica nos veía como a unos simples turistas."""					
@@ -168,7 +168,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en la maleza al m
 GRAVE_CHASM	The Scythian			Divisamos una solitaria tumba en el borde del Precipicio Peligroso y nos preguntamos quién la habitaría.					
 GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la solitaria tumba del tramposo embustero y conocimos a un fulgurante fantasma.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André El Gigante reunió a un pelotón y nos propusimos reconstruir la Trigonal Trifecta."""					
-				"""Los otros tipos del pelotón están enterrados en la maleza al margen del antiguo camino, cerca del puente de troncos."""					
+				"""Los otros integrantes del pelotón están enterrados en la maleza al margen del antiguo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar el Trigon de Oro con bastante facilidad pero no avanzamos nada después de eso."""					
 				"""Buscamos el Trigon Luna Brillante, así que decidimos sentarnos y observar el cielo, esperando que el estado de la luna cambiara."""					
 				"""¡Fue super aburrido! No iba a esperar días y días hasta que la Luna Brillante se alzara."""					
@@ -177,14 +177,14 @@ GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la so
 				"El fantasma describió sobre la opción de Fecha/Hora y los horrores que precedían al alterar el ciclo lunar con este método."					
 				"""La cosa es que, desde que hice trampa, sufrí siempre de una profunda angustia y morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			"Dentro de un titánico árbol hueco vimos una solitaria tumba, y eso nos despertó un poco la curiosidad."					
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció para cantarnos una rima alocada.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
 				"""Monitorea los estados de la luna y así aprenderás cuándo, dónde y cómo estar."""					
 				"""También quiero que sepas que no intento deliberadamente asustarte luciendo así de impresionante."""					
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció para cantarnos una rima alocada.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
 				"""Busca a los duendecillos silvanos en el camino tras de ti, con ojos y oidos abiertos a sus sonoras espumas."""					
 				"""Envía a los cinco duendecillos silvanos hacia el cielo para provocar un milagro que reveleará al Trigon que buscas."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
-				"""Busca una señal de los duendecillos silvanos y canta una Canción de Espadachicería para así revelear un Trigon escondido."""					
+				"""Busca la señal de los duendecillos silvanos y canta una Canción de Espadachicería para así revelear un Trigon escondido."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Así que la Canción Trigon se ha acabado por ahora. ¿Cuándo volveremos a escucharla, me pregunto?"""					
 LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Tronco estaba totalmente fuera de sí por algo.					
@@ -207,7 +207,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba super ali
 				El leñador conocido como Tronco se preguntó cómo éramos tan inteligentes y nos preguntó sobre nuestro funesto cometido.					
 				Le contamos al leñador cómo habíamos llegado a la mayoría de edad en las estepas junto a nuestros intrépidos hermanos y hermanas escitas.					
 				"Le contamos a Tronco por qué vagabamos por aquí, en esta montaña desierta, y cómo nos guiaba el dedo de un Dios omnisciente."					
-			adventureUI/megatomeItem	Le contamos a Tronco lo que sospechábamos sobre las marcas esotéricas dentro de El Megatomo y lo que podían significar.					
+			adventureUI/megatomeItem	Le contamos a Tronco lo que sospechábamos sobre las esotéricas marcas dentro de El Megatomo y lo que podían significar.					
 			gourd/gourd	Teníamos la corazonada de que necesitábamos invocar a unos cuantos duendecillos silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de cósmica geometría conocida como el Trigon de Oro.					
 				Estaba 100% claro que el leñador conocido como Tronco había dejado de prestar atención.					
@@ -227,12 +227,12 @@ GIRL_SUPERMOTHERTREE	Girl			En mi paseo por el sueño hay una quietud emocionant
 				Cada noche desde que se disipó la tormenta he tenido ese mismo sueño en el que estoy vagando por el bosque justo antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosque puede ofrecer una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
 				Busca las sonoras espumas de los duendecillos silvanos e investiga sus alrededores.					
-				Una vez que hayas comenzado una canción de espadachicería siempre puedes mantener presionado y deslizar el aura espadachicera para mirar alrededor.					
+				Una vez que hayas comenzado una canción de espadachicería puedes mantener presionado y deslizar el aura espadachicera para mirar alrededor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adivinatorios pueden haber jugado un papel significativo en el desarrollo de la psique humana.					
 				"La evidencia arqueológica indica que el uso chamánico de hongos para la comunión religiosa, adivinación y curación es bastante antigua."					
 				"Fisiológicamente puedes notar sentimientos de bienestar y percepciones aumentadas, una disipación del estrés y una pérdida del apetito."					
 				Los hongos del bosque pueden ofrecer una cierta visión oblicua sobre el paradero de un duendecillo silvano y sus peculiares acciones.			60	035.jpg	53A5Y
-ARCHETYPE_TRIGONGROVE	The Archetype			¿Puedes sentirlo? ¿Estás empezando a entender? ¿Las marcas esotéricas y las formas dentro de El Megatomo tienen un nuevo significado?					
+ARCHETYPE_TRIGONGROVE	The Archetype			¿Puedes sentirlo? ¿Estás empezando a entender? ¿Las esotéricas marcas y las formas dentro de El Megatomo tienen un nuevo significado?					
 				"Este haz es un puente que une el mundo de los vivos y el mundo de los muertos, por lo que puedes encontrar un fantasma o dos y hablar con ellos en tus viajes."					
 				Acabo de recibir la notificación de que has enviado el primer haz celeste en la Arboleda Trigonal.					
 GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y nos dijo que se habían asustado hacia un rato.					
