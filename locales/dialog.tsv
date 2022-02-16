@@ -137,22 +137,22 @@ INFO_ROCKSHOWCROWD	The Scythian			En el espéctaculo de rock había un considera
 INFO_ROCKSHOWARCHETYPE	The Scythian			En el espéctaculo de rock divisamos al tipo conocido como El Arquetipo y nos quedamos preguntándonos qué tenía que ver él con todo esto.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Un siniestro asta adornado con una calavera astada conecta este lugar con el inmortal espectro que acecha bajo el Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			"En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, divisamos una solitaria tumba que despertó nuestra curiosidad."					
-GRAVE_TRIGONGROVEGHOST	The Scythian			"En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, nos acercamos a una solitaria tumba donde nos recibió un fantasma resplandeciente."					
-				"El fantasma resplandeciente de la Arboleda Trigonal nos asustó un poco al principio, para ser sinceros."			96	022.jpg	T2B2H
+GRAVE_TRIGONGROVEGHOST	The Scythian			"En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, nos acercamos a una solitaria tumba donde nos recibió un resplandeciente fantasma."					
+				"El resplandeciente fantasma de la Arboleda Trigonal nos asustó un poco al principio, para ser sinceros."			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Reconoció nuestros ropajes Escita y vio que poseíamos El Megatomo. Se preguntó si comprenderíamos las marcas esotéricas que contenía.					
-				En un susurro dijo el nombre del inmortal espectro que habíamos despertado en la oscuridad bajo el Mingi Taw: La Masa Gogolítica.			166	023.jpg	O2B39
-				Conocíamos ese espantoso nombre por las viejas historias y sentimos que nuestra sangre se helaba.					
+				En un susurro dijo el nombre del inmortal espectro que habíamos despertado en la oscuridad bajo el Mingi Taw - La Masa Gogolítica.			166	023.jpg	O2B39
+				Conocíamos ese espeluznante nombre por las viejas historias y sentimos que nuestra sangre se helaba.					
 				"""Hasta ahora tenía la sensación de que La Masa Gogolítica nos veía como a unos simples turistas."""					
 			triangle/Triangle	"""Ahora que has aprendido la Canción de Espadachicería y domado al Trigon de Oro, descubrirás que cada uno de tus pasos están malditos."""					
-				"No podíamos decir si el fantasma resplandeciente nos estaba animando, psicoanalizando o qué."					
+				"No podíamos decir si el resplandeciente fantasma nos estaba animando, psicoanalizando o qué."					
 				Le dijimos al fantasma que nuestra intención era subir El Megatomo en la cima del Mingi Taw y liberar a La Masa Gogolítica de la inmortalidad.					
 			Archetype/trifecta	"Preguntamos sobre la Trigonal Trifecta y la ubicación de los dos Trigones restantes, pero su respuesta fue irritantemente obtusa."					
 				"""Los restantes dos Trigones sólo existen en los sueños de la gente de la montaña."""			43	024.jpg	8.2E+46
 				"""Localizar los restantes dos Trigones no es tanto una cuestión de dónde, sino de cuándo y cómo."""					
-				El fantasma resplandeciente relató gran cantidad de tonterías inútiles.					
+				El resplandeciente fantasma relató gran cantidad de inútiles tonterías.					
 GRAVE_LOGBRIDGE	The Scythian			Vimos un puñado de tumbas en la maleza al margen del antiguo camino y nos preguntamos de quiénes serían.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en la maleza al margen del antiguo camino y nos encontramos con unos fantasmas que parecían amigables.			116	025.jpg	62B55
-				El fantasma resplandeciente que habló fue un gigante que conocíamos por viejas historias cuyo famoso retrato demandaba obediencia. #andre					
+				El imponente fantasma que habló fue un gigante que conocíamos por viejas historias cuyo famoso retrato demandaba obediencia. #andre					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, reuní a un pelotón y nos propusimos reconstruir la Trigonal Trifecta."""					
 				"""Habíamos oído hablar de la puerta de entrada al infinito en la cima del Mingi Taw y pensamos que sería genial verla."""					
 			triangle/Triangle	"""Así que domamos el Trigon de Oro e investigamos la Arboleda Trigonal antes de salir a buscar el Trigon Luna Brillante."""					
@@ -166,26 +166,26 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en la maleza al m
 				"""Estalló una pelea y el tramposo embustero huyó por el antiguo camino hacia el Precipicio Peligroso."""					
 				"""Así que estábamos preguntándonos qué hacer... cuando de repente apareció La Masa Gogolítica... ¡Buff!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Divisamos una solitaria tumba en el borde del Precipicio Peligroso y nos preguntamos quién la habitaría.					
-GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la solitaria tumba del tramposo embustero y conocimos a un viejo fantasma resplandeciente.					
+GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la solitaria tumba del tramposo embustero y conocimos a un fulgurante fantasma.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André El Gigante reunió a un pelotón y nos propusimos reconstruir la Trigonal Trifecta."""					
 				"""Los otros tipos del pelotón están enterrados en la maleza al margen del antiguo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar el Trigon de Oro con bastante facilidad pero no avanzamos nada después de eso."""					
 				"""Buscamos el Trigon Luna Brillante, así que decidimos sentarnos y observar el cielo, esperando que el estado de la luna cambiara."""					
 				"""¡Fue super aburrido! No iba a esperar días y días hasta que la Luna Brillante se alzara."""					
 				"""Abandoné a esos bobos para vagar sin rumbo mientras me hundía más y más en esa trampa lógico-lunar."""					
-				El viejo fantasma resplandeciente habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
+				El fulgurante fantasma habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
 				"El fantasma describió sobre la opción de Fecha/Hora y los horrores que precedían al alterar el ciclo lunar con este método."					
 				"""La cosa es que, desde que hice trampa, sufrí siempre de una profunda angustia y morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			"Dentro de un titánico árbol hueco vimos una solitaria tumba, y eso nos despertó un poco la curiosidad."					
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un imponente fantasma se apareció para cantarnos una rima alocada.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció para cantarnos una rima alocada.			117	028.jpg	E2A80
 				"""Monitorea los estados de la luna y así aprenderás cuándo, dónde y cómo estar."""					
 				"""También quiero que sepas que no intento deliberadamente asustarte luciendo así de impresionante."""					
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un imponente fantasma se apareció para cantarnos una rima alocada.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció para cantarnos una rima alocada.			117	028.jpg	E2A80
 				"""Busca a los duendecillos silvanos en el camino tras de ti, con ojos y oidos abiertos a sus sonoras espumas."""					
 				"""Envía a los cinco duendecillos silvanos hacia el cielo para provocar un milagro que reveleará al Trigon que buscas."""					
-GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un imponente fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Busca una señal de los duendecillos silvanos y canta una Canción de Espadachicería para así revelear un Trigon escondido."""					
-GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un imponente fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Así que la Canción Trigon se ha acabado por ahora. ¿Cuándo volveremos a escucharla, me pregunto?"""					
 LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Tronco estaba totalmente fuera de sí por algo.					
 			AdventureUI/keyItem	"Al parecer, Tronco había perdido la llave de la puerta de la muralla de piedra que bloqueaba el antiguo camino al Mingi Taw."					
