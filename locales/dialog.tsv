@@ -82,7 +82,7 @@ ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canci
 			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para invocar al duendecillo silvano que suavemente dormita en las frescas aguas del profundo estanque."""					
 ARCHETYPE_TADPOLES	The Archetype			"Era 100% obvio que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué."					
 			gourd/gourd	"""¿Ves las sonoras espumas en el profundo estanque? Un duendecillo silvano suavemente dormita allí y debes invocarlo."""					
-			gourd/gourd	"""Canta una Canción de Espadachicería en cualquier momento pulsando y manteniendo sobre la Escita para acceder a una realidad dentro de la realidad que conoces."""					
+			gourd/gourd	"""Canta una Canción de Espadachicería en cualquier momento manteniendo presionado sobre la Escita para acceder a una realidad dentro de la que ya conoces."""					
 			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde dormita el duendecillocillo y elévale hacia el cielo con tres toques de espadachicería."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el ancho techo de madera del pozo.					
 				"Había abandonado la comodidad del fuego en la choza porque, al parecer, Tronco estaba desvariando por una cosa u otra."					
@@ -315,7 +315,7 @@ END_HONEST_PSYCHO	The Scythian			En la cima del Mingi Taw subimos El Megatomo a 
 END_HONEST_LOVE	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la eterna seguridad del arremolinado infinito. #honest #love			177	052.jpg	55E2B
 END_HONEST_NOBOOR	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la eterna seguridad del arremolinado infinito. #honest #noboor			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			¿Sabe la Escita que es posible detener a La Masa Gogolítica tocando su calavera con espadachicería? Probablemente no.					
-				Espero que la Escita sepa que se moverá mucho más rápido si pulsa dos veces sobre el final del camino. Si no estará en problemas.					
+				Espero que la Escita sepa que se moverá mucho más rápido si presiona dos veces sobre el final del camino. Si no estará en problemas.					
 				¿Dónde estoy? ¿Qué ha pasado? Lo último que recuerdo es que soñaba caminar por el bosque cuando vi una extraña luz rosa.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto cometido de abrir una puerta al infinito en la cima del Mingi Taw.					
 				Todo ha sido totalmente mental desde que la Escita apareció muchas lunas atrás.					
