@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			En las escarpadas montañas del Mingi Taw 
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En las escarpadas montañas del Mingi Taw una tumba solitaria marcaba el final de un camino de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima del Mingi Taw había un siniestro asta adornado con una calavera astada.					
 INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima del Mingi Taw descansaba una tumba solitaria como siniestro recuerdo de las muchas personas que habían muerto allí.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos nuestra espada agitarse en la vaina. #megatome			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos a nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			"Una pequeña puerta sin pomo hecha de un material desconocido. Una señal reza ""Solo personal autorizado""."					
 DOOR_UPSLOPEWOODS1	The Scythian			El antiguo camino al Mingi Taw estaba bloqueado por una puerta cerrada.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía en la maleza del bosque bajo el antiguo camino que asciende a Mingi Taw. #moongrotto					
@@ -25,7 +25,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba 
 				"La gente montesa del Cáucaso lo conocía como 'Tronco', y parecía afable."					
 				Tronco sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el antiguo camino.					
 				"Aún así, nos dio la sensación que no estaba super emocionado con tal encomienda."					
-LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El leñador nos esperó en la ruta, al inicio del antiguo camino."			12	008.jpg	U0D88
+LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El leñador nos esperó para continuar al inicio del antiguo camino."			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el abismo y nos sentíamos super inteligentes.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le dijimos a Tronco que estábamos buscando un libro de magia siniestra conocido como El Megatomo.					
 			adventureUI/megatomeItem	"El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del precipicio, bajo el Mingi Taw."					
@@ -35,7 +35,7 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador confirmó al 1
 				Estábamos totalmente preparados para mantener presionado el camino para moverlo.					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Tronco nos esperaría aquí a que volvieramos con El Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Tronco había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
-				Tronco parecía saberlo todo acerca del repugnante arco iris y el glifo representando la espada que miraba hacia el cielo.					
+				Tronco parecía saberlo todo acerca del repugnante arco iris y el glifo que representaba una espada que miraba hacia el cielo.					
 				"Y, sin embargo, Tronco ofreció cero ayuda sobre qué hacer a continuación, lo cual nos desconcertó un poco para ser sinceros."					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador vio algún tipo de monstruo espeluznante y supuso que era mejor dejarlo en nuestras manos.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado El Megatomo y Tronco estaba 100% listo para moverse a la seguridad de la morada.					
@@ -54,8 +54,8 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 				Descubrirás que la primera sesión de S:S&S EP es bastante sencilla. Generalmente sólo requiere de 15 - 30 minutos para completarla.					
 				¿Tienes tus auriculares? ¿Listo para comenzar? Presiona jugar y vamos a ello.					
 ARCHETYPE_FOUNDATION	The Archetype			Vamos a hablar sobre el conjunto y la configuración para una experiencia positiva con el altamente psicoactivo Superbrothers: Sword & Sworcery EP.					
-				"""Conjunto"" se refiere al estado mental y estructura de personalidad que aportas a la experiencia - pensamientos, estado de ánimo y/o expectativas."					
-				Hemos descubierto que con una actitud relajada y curiosa es más probable disfrutar de una experiencia agradable con S:S&S EP.					
+				"""Conjunto"" se refiere al estado mental y estructura de personalidad que aportas a la experiencia - pensamientos, estados de ánimo y/o expectativas."					
+				Hemos descubierto que con una actitud relajada y curiosa es más probable disfrutar de la experiencia de S:S&S EP.					
 				"""Configuración"" incluye la comodidad, seguridad y calidez de la habitación o entorno exterior donde la experiencia tendrá lugar."					
 				"El segundo aspecto de ""Configuración"" es el cultural - nociones comunes de la realidad y normalidad. Evitaremos este tema por ahora."					
 				"S:S&S EP no produce una experiencia transcendente, está meramente destinado a liberar el sistema nervioso de los patrones ordinarios."					
