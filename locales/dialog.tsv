@@ -25,7 +25,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba 
 				"La gente montesa del Cáucaso lo conocía como 'Tronco', y parecía afable."					
 				Tronco sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el antiguo camino.					
 				"Aún así, nos dio la sensación que no estaba super emocionado con tal encomienda."					
-LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El leñador nos esperó para continuar al inicio del antiguo camino."			12	008.jpg	U0D88
+LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El leñador nos esperó para continuar al inicio del camino."			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el abismo y nos sentíamos super inteligentes.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Tronco que estábamos buscando un libro de siniestra magia conocido como El Megatomo.					
 			adventureUI/megatomeItem	"El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del precipicio, bajo el Mingi Taw."					
@@ -43,7 +43,7 @@ LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado E
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		"A la luz de la tormenta que se avecinaba, Tronco admitió en ese momento que tenía un poco de miedo."					
 				¿Estaba Tronco vacilándonos intencionadamente? #yes #no #maybe					
 				"En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo."					
-QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y nos sentimos super listos. #gotmegatome			40	011.jpg	81C1E
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y nos sentíamos super listos. #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
@@ -219,7 +219,7 @@ GIRL_FOUNDKEY	The Scythian			Encontramos empapada a Samae de pie a lado del cami
 			gourd/gourd	Habló de un débil arcoíris en el borde del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos perdíamos o nos confundíamos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la llave si eso significa disipar la tormenta.					
-				Debo haber asentido en algún momento durante la super historia épica de la Escita. Tengo una tolerancia muy baja para el folclore.					
+				Debo haber asentido en algún momento durante la super épica historia de la Escita. Tengo una tolerancia muy baja para el folclore.					
 				Le pregunté a la Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvanos más enviados hacia el cielo disiparán la incesante tormenta... ¡y entonces será el tiempo de los milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mi paseo por el sueño hay una quietud emocionante cuando la luna es más brillante... y cuando la luna es más oscura los bosques se vuelven salvajes.					
@@ -227,7 +227,7 @@ GIRL_SUPERMOTHERTREE	Girl			En mi paseo por el sueño hay una quietud emocionant
 				Cada noche desde que se disipó la tormenta he tenido ese mismo sueño en el que estoy vagando por el bosque justo antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosque puede ofrecer una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
 				Busca las sonoras espumas de los duendecillos silvanos e investiga sus alrededores.					
-				Una vez que hayas comenzado una canción de espadachicería puedes mantener presionado y deslizar el aura espadachicera para mirar alrededor.					
+				Una vez que hayas comenzado una canción de espadachicería puedes mantener presionado el aura espadachicera y deslizar para mirar alrededor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adivinatorios pueden haber jugado un papel significativo en el desarrollo de la psique humana.					
 				"La evidencia arqueológica indica que el uso chamánico de hongos para la comunión religiosa, adivinación y curación es bastante antigua."					
 				"Fisiológicamente puedes notar sentimientos de bienestar y percepciones aumentadas, una disipación del estrés y una pérdida del apetito."					
@@ -353,7 +353,7 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Gu
 				Guau Sniff Guau. #mixingitup					
 				Guau Guau Guau Guau Guau Guau.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		"Hay algo extraño en cómo se comportó la Escita, casi como si estuviera siendo controlada por una fuerza invisible."					
-				"Me gustaría saber más sobre la historia épica de la Escita, apuesto a que entonces todo tendría sentido."					
+				"Me gustaría saber más sobre la épica historia de la Escita, apuesto a que entonces todo tendría sentido."					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que la Escita esté invirtiendo todos sus esfuerzos en el tema de los duendecillos silvanos.					
 				La tormenta ha estado afectando mi ánimo y me ha hecho desear que los videojuegos existieran... sea lo que sea que eso signifique.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha sido totalmente mental desde que la Escita apareció.			3	062.jpg	36E2Z
@@ -653,7 +653,7 @@ ARCHETYPE_CREDITS	The Archetype
 				El personal de Superbrothers Inc se está tomando un tiempo para soñar nuevos sueños.					
 				"S:S&S EP fue uno de los videojuegos Top 10 de 2011 para la revista Time Magazine junto a juegos AAA como Dark Souls y Skyrim, ¡vaya!"					
 				La música de Jim Guthrie fue reconocida como 'La mejor música de videojuego de 2011' por Kirk Hamilton alias @kirkhamilton en Kotaku.					
-				El hastag sworcery de S:S&S EP fue 'uno de los mayores eventos de internet de 2011' según Co.Design & Syzygy.					
+				El hashtag sworcery de S:S&S EP fue 'uno de los mayores eventos de internet de 2011' según Co.Design & Syzygy.					
 				"S:S&S EP ganó un Game Developer's Choice Award en la GDC de 2012, superando a títulos AAA... lo cual fue increíble."					
 				"Jim Guthrie sacó un nuevo disco llamado ""The Children of the Clone"" con temas de S:S&S EP."					
 				"Después de eso la historia se pone un poco turbia, así que sintoniza swordandsworcery.com para saber más."					
