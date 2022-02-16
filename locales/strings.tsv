@@ -121,7 +121,7 @@ ERRMSG_UNABLE_TO_SAVE	No se puede guardar el archivo
 ERRMSG_UNABLE_TO_DELETE	No se puede borrar el archivo	
 ERRMSG_UNABLE_TO_DELETE_STEAM	Un error impidió borrar el archivo de guardado de Steam.	
 ERRMSG_UNABLE_TO_SAVE_STEAM	Un error impidió crear un archivo de guardado de Steam.	
-ERRMSG_CORRUPT_SAVE_PROGRESS	Los datos guardados están corruptos porque no se puede leer la info. El juego borrarÁ los datos guardados al presionar Aceptar.	
+ERRMSG_CORRUPT_SAVE_PROGRESS	Los datos guardados están corruptos porque no se puede leer la info. El juego borrará los datos guardados al presionar Aceptar.	
 PROMPT_CONFIRM_EXITGAME	¿QUIERES SALIR DEL JUEGO?	
 HASHTAG_SWORCERY	#sworcery	
 DIGIT_STRING	123456789	
