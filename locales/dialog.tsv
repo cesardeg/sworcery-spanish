@@ -27,7 +27,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba 
 				"Aún así, nos dio la sensación que no estaba super emocionado con tal encomienda."					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El leñador nos esperó para continuar al inicio del antiguo camino."			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el abismo y nos sentíamos super inteligentes.			22	009.jpg	L0B9S
-			adventureUI/megatomeItem	Le dijimos a Tronco que estábamos buscando un libro de siniestra magia conocido como El Megatomo.					
+			adventureUI/megatomeItem	Le contamos a Tronco que estábamos buscando un libro de siniestra magia conocido como El Megatomo.					
 			adventureUI/megatomeItem	"El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del precipicio, bajo el Mingi Taw."					
 			adventureUI/megatomeItem	Decidimos ir a por El Megatomo y luego escapar con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador confirmó al 100% que el tenía la única llave para la puerta cerrada de la muralla de piedra.					
@@ -37,8 +37,8 @@ LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido 
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Tronco había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
 				Tronco parecía saberlo todo acerca del repugnante arcoíris y el glifo que representaba a una espada que miraba hacia el cielo.					
 				"Y, sin embargo, Tronco ofreció cero ayuda sobre qué hacer a continuación, lo cual nos desconcertó un poco para ser sinceros."					
-LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador vio algún tipo de monstruo espeluznante y supuso que era mejor dejarlo en nuestras manos.			26	010.jpg	Q1B00
-LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado El Megatomo y Tronco estaba 100% listo para moverse a la seguridad de la morada.					
+LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador vio algún tipo de espeluznante monstruo y supuso que era mejor dejarlo en nuestras manos.			26	010.jpg	Q1B00
+LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado El Megatomo y Tronco estaba 100% listo para moverse a la seguridad de su morada.					
 				"Sentimos el acecho de una tormenta eléctrica y, aún así, una pequeña canción comenzó en nuestro corazón."					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		"A la luz de la tormenta que se avecinaba, Tronco admitió en ese momento que tenía un poco de miedo."					
 				¿Estaba Tronco vacilándonos intencionadamente? #yes #no #maybe					
@@ -76,14 +76,14 @@ GIRL_STORM	The Scythian			La chica de cabello oscuro conocida como Samae estaba 
 			gourd/gourd	"Desde que comenzó la tormenta, Samae había estado contemplando las sonoras espumas de los duendecillos silvanos que dormitaban en los bosques cercanos."					
 			gourd/gourd	Se preguntó si tal vez los tres duendecillos silvanos podrían ayudar a disipar la tormenta. #yes					
 			gourd/gourd	Nos pidió que investigáramos las sonoras espumas burbujeando en el profundo estanque frente a la choza.					
-			gourd/gourd	Samae habló de un duendecillocillo en un prado cercano y de otro en una pajarera, hogar de tres pájaros cantores empapados por la lluvia.					
+			gourd/gourd	Samae habló de un duendecillo en un prado cercano y de otro en una pajarera, hogar de tres pájaros cantores empapados por la lluvia.					
 			gourd/gourd	"Samae nos dijo que buscáramos las sonoras espumas de estos tres duendecillos silvanos, y que los enviáramos hacia el cielo usando la canción de espadachicería."					
 ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canción de Espadachicería, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
 			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para invocar al duendecillo silvano que suavemente dormita en las frescas aguas del profundo estanque."""					
 ARCHETYPE_TADPOLES	The Archetype			"Era 100% obvio que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué."					
 			gourd/gourd	"""¿Ves las sonoras espumas en el profundo estanque? Un duendecillo silvano suavemente dormita allí y debes invocarlo."""					
 			gourd/gourd	"""Canta una Canción de Espadachicería en cualquier momento manteniendo presionado sobre la Escita para acceder a una realidad dentro de la que ya conoces."""					
-			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde dormita el duendecillocillo y envíale hacia el cielo con tres toques de espadachicería."""			49	013.jpg	61D3A
+			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde dormita el duendecillo y envíale hacia el cielo con tres toques de espadachicería."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el ancho techo de madera del pozo.					
 				"Había abandonado la comodidad del fuego en la choza porque, al parecer, Tronco estaba desvariando por una cosa u otra."					
 INFO_BIRDEYESCULPTURE	The Scythian			Miramos la escultura de un pájaro enfadado que se cernía sobre el prado. #subtlereference			6	014.jpg	F1D48
@@ -104,7 +104,7 @@ INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un profundo estanque.					
 INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de leña cortada, no es para tanto."					
-INFO_SPUME	The Scythian			Encontramos las sutiles sonoras espumas de un duendecillocillo adormilado. Y ahora... ¿cómo lo invocamos?					
+INFO_SPUME	The Scythian			Encontramos las sutiles sonoras espumas de un duendecillo adormilado. Y ahora... ¿cómo lo invocamos?					
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de apariencia curiosa, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de apariencia desgastada que parecía una cara de aspecto espeluznante.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el antiguo camino había un siniestro mástil adornado con calaveras.					
