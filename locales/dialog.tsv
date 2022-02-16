@@ -6,9 +6,9 @@ SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, estos son todos l
 SIGN_CHASM	The Scythian			"En el borde del Precipicio Peligroso, había una piedra tallada con el glifo de una espada bajo los colores del arco iris."					
 				"Nosotros, los escitas, detestamos los arco iris. #loathsomerainbows"			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de glifos indescifrables.					
-				En medio de los glifos indescifrables descubrimos una serie de pictogramas lunares.					
-SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de pictogramas lunares que logramos descifrar.					
-				"Los pictogramas hablaban de un lugar secreto en las inmediaciones ""...allí donde se pueden alterar los estados de la luna."""					
+				En medio de los glifos indescifrables descubrimos una serie de glifos lunares.					
+SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de glifos lunares que logramos descifrar.					
+				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...allí donde se pueden alterar los estados de la luna."""					
 				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			Al margen del antiguo camino había una piedra tallada con un par de glifos con la forma de una espada y un escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			"En un pasillo subterráneo descubrimos una ominosa estatua, pero no le prestamos demasiada atención. #lore"			29	005.jpg	V0B53
