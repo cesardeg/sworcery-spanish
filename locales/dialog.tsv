@@ -96,7 +96,7 @@ INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de
 INFO_MEADOWGATETRIGON	The Scythian			Descubrimos algo raro sobre la puerta de hierro.					
 INFO_LOCKEDDOORSTONEWALL	The Scythian			"Una puerta cerrada en la muralla de piedra bloqueaba el antiguo camino al Mingi Taw y, al parecer, la llave estaba perdida en los sueños."					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Vimos la escultura de un pájaro enfadado que se cernía sobre el prado. #subtlereference					
-INFO_MEADOWSUNSTICK	The Scythian			Vimos un báculo de aspecto extraño con vistas al prado.					
+INFO_MEADOWSUNSTICK	The Scythian			Vimos un báculo de extraño aspecto con vistas al prado.					
 INFO_CABINWELL	The Scythian			Descubrimos un pozo de agua sólidamente construido con un amplio techo de madera.					
 INFO_UNWELLWELL	The Scythian			El pozo parecía estar indispuesto. #unwell #well					
 INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #welfare					
@@ -105,8 +105,8 @@ ARCHETYPE_UNWELLWELLOUTRO	The Archetype
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un profundo estanque.					
 INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de leña cortada, no es para tanto."					
 INFO_SPUME	The Scythian			Encontramos las sutiles sonoras espumas de un duendecillo adormilado. Y ahora... ¿cómo lo invocamos?					
-INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de apariencia curiosa, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
-INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de apariencia desgastada que parecía una cara de aspecto espeluznante.					
+INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de curioso aspecto, ahora hogar de una desdichada colmena."			13	015.jpg	B1C5F
+INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de desgastado aspecto que parecía una cara de espeluznante aspecto.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el antiguo camino había un siniestro mástil adornado con calaveras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado nos encontramos con una arboleda oculta llena de extrañas estructuras de piedra.					
 			Archetype/trifecta	... ¿Era una Arboleda Trigonal? #trigongrove			93	016.jpg	B1D6J
@@ -115,10 +115,10 @@ INFO_DARKTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructu
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra con un glifo circular que hacía referencia a la Luna Brillante. #brightmoontrigon					
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
-INFO_STONEHEAD	The Scythian			"En el Precipicio Peligroso había una enorme escultura de roca labrada, de aspecto familiar y con la boca entreabierta."			24	017.jpg	61B76
-INFO_STONEHEADSHUT	The Scythian			En el Precipio Peligroso había una enorme escultura de roca labrada y de aspecto familiar.					
+INFO_STONEHEAD	The Scythian			"En el Precipicio Peligroso había una enorme escultura de roca labrada, de familiar aspecto y con la boca entreabierta."			24	017.jpg	61B76
+INFO_STONEHEADSHUT	The Scythian			En el Precipio Peligroso había una enorme escultura de roca labrada y de familiar aspecto.					
 INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura de roca labrada se hallaba un siniestro mástil adornado con calaveras o algo por el estilo.					
-INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso se alzaba una especie de dolmen que custodiaba dos asientos de piedra de aspecto cómodo.			25	018.jpg	O1C8M
+INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso se alzaba una especie de dolmen que custodiaba dos asientos de piedra de cómodo aspecto.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un sienestro asta adornado con una calavera astada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada rocosa de un templo en la montaña divisamos una representación pictográfica de la Trigonal Trifecta.					
 INFO_MOUNTAINGATE	The Scythian			En la profundidad del templo de la montaña divisamos una puerta de hierro inamovible. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
@@ -332,7 +332,7 @@ AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos tipos afirma
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Los dos bromistas afirmaron formar parte de los creadores de este extraño mundo.			159	055.jpg	A5G55
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en la rica tierra de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Cantamos una Canción de Espadachicería e invocamos a un duendecillo silvano que suavemente dormitaba en las frescas aguas de un profundo estanque, ¡qué raro!"			50	057.jpg	G5F78
-GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en una pajarera de apariencia curiosa hogar de tres pájaros cantores empapados por la lluvia.					
+GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en una pajarera de curioso aspecto hogar de tres pájaros cantores empapados por la lluvia.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba junto a un puente de troncos sólidos donde cuatro pares de árboles se elevan sobre un río.					
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba rodeado por cinco cascadas.					
