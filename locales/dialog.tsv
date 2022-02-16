@@ -3,8 +3,8 @@ GIRL_TONGUES	Girl			"Lejos de las estepas de Escitia devastadas por la guerra, c
 				"La gente montesa del Cáucaso la conocía como Samae, y parecía amable. #obviously"					
 SIGN_TADPOL	The Scythian			"""El hogar está donde se encuentra el corazón."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, estos son todos los reinos de los hombres. Mingi Taw es el Reino de las Nubes."""					
-SIGN_CHASM	The Scythian			"En el borde del Precipicio Peligroso, había una piedra tallada con el glifo de una espada bajo los colores del arco iris."					
-				"Nosotros, los escitas, detestamos los arco iris. #loathsomerainbows"			21	002.jpg	40C27
+SIGN_CHASM	The Scythian			"En el borde del Precipicio Peligroso, había una piedra tallada con el glifo de una espada bajo los colores del arcoíris."					
+				"Nosotros, los escitas, detestamos los arcoíris. #loathsomerainbows"			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de glifos indescifrables.					
 				En medio de los glifos indescifrables descubrimos una serie de glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de glifos lunares que logramos descifrar.					
@@ -35,7 +35,7 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador confirmó al 1
 				Estábamos totalmente preparados para mantener presionado el camino para moverlo.					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Tronco nos esperaría aquí a que volvieramos con El Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Tronco había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
-				Tronco parecía saberlo todo acerca del repugnante arco iris y el glifo que representaba una espada que miraba hacia el cielo.					
+				Tronco parecía saberlo todo acerca del repugnante arcoíris y el glifo que representaba a una espada que miraba hacia el cielo.					
 				"Y, sin embargo, Tronco ofreció cero ayuda sobre qué hacer a continuación, lo cual nos desconcertó un poco para ser sinceros."					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador vio algún tipo de monstruo espeluznante y supuso que era mejor dejarlo en nuestras manos.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado El Megatomo y Tronco estaba 100% listo para moverse a la seguridad de la morada.					
@@ -216,7 +216,7 @@ LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñ
 GIRL_FOUNDKEY	The Scythian			Encontramos empapada a Samae de pie a lado del camino.					
 			gourd/gourd	Había oído las sutiles sonoras espumas de los duendecillos silvanos más alla de la muralla de piedra en el antiguo camino al Mingi Taw.					
 			gourd/gourd	Habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
-			gourd/gourd	Habló de un débil arco iris en el borde del Precipicio Peligroso.					
+			gourd/gourd	Habló de un débil arcoíris en el borde del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos perdíamos o nos confundíamos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la llave si eso significa disipar la tormenta.					
 				Debo haber asentido en algún momento durante la super historia épica de la Escita. Tengo una tolerancia muy baja para el folclore.					
@@ -261,7 +261,7 @@ ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			"El Trigon de Oro debe ser domado,
 				En el primer patrón debes utilizar tu espada para devolver la bola de energía.					
 ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Es posible que hayas notado que el Trigon Luna Brillante reparte muerte desde arriba... así que espera al momento justo y usa tu escudo para evadir.			144	041.jpg	8.4E+12
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigon Luna Brillante requerirá que uses tu espada contra los proyectiles y evadas los ataques de rayos cargados.					
-ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Es posible que ya te hayas encontrado con el ataque de arco iris del Trigon Luna Oscura. Rebana ese arco iris tan rápido como puedas.					
+ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Es posible que ya te hayas encontrado con el ataque de arcoíris del Trigon Luna Oscura. Rebana ese arcoíris tan rápido como puedas.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigon Luna Oscura implica sutiles proyectiles triangulares. Aplástalos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que has despertado al inmortal espectro que dormitaba en la oscuridad bajo el Mingi Taw... ¡Uff!					
 				"En consecuencia, se cierne una tormenta siniestra y la gente encantadora que vive en la choza de piedra está desolada."					
@@ -334,7 +334,7 @@ GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamo
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Cantamos una Canción de Espadachicería e invocamos a un duendecillo silvano que suavemente dormitaba en las frescas aguas de un profundo estanque, ¡qué raro!"			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en una pajarera de apariencia curiosa hogar de tres pájaros cantores empapados por la lluvia.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba junto a un puente de troncos sólidos donde cuatro pares de árboles se elevan sobre un río.					
-GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba entre dos arco iris repugnantes al lado del Precipicio Peligroso.					
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba en la maleza en lo alto de un peñasco rocoso.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que dormitaba en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
@@ -476,7 +476,7 @@ MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			"Además... llevar El Megatomo d
 				Nos sentíamos un poco peor por el desgaste... probablemente se debiera a todos esos haces de láser cósmico.					
 				"Cuando las luces y los sonidos cesaron, nos encontramos empapados por la fría lluvia en medio de una arboleda circular."					
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trigon Luna Oscura y nuestra intención de reconstruir la Trigonal Trifecta.					
-				Le contamos cómo acabamos con el ataque arco iris del Trigon Luna Oscura y a ella le pareció realmente genial.					
+				Le contamos cómo acabamos con el ataque arcoíris del Trigon Luna Oscura y a ella le pareció realmente genial.					
 				No parecía importarle escuchar nuestras locas historias.					
 LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinar por los sueños y obras milagrosas había pasado factura en nuestra salud física.					
 			Archetype/trifecta	Tronco nos preguntó si habíamos visitado con Perrolega la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
