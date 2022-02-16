@@ -68,7 +68,7 @@ ARCHETYPE_FOUNDATION	The Archetype			Vamos a hablar sobre el conjunto y la confi
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la Canción de Espadachicería y ahora el insondable poder de El Megatomo es tuyo."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
 			adventureUI/megatomeItem	Se me acaba de ocurrir algo... ¿por qué no abres El Megatomo y descubres lo qué se oculta en mi mente?					
-				"""Busca un triángulo blanco en la esquina superior derecha... presiónalo y luego equipa El Megatomo para revelar qué está oculto."""					
+				"""Busca un triángulo blanco en la esquina superior derecha... presiónalo y equipa El Megatomo para revelar lo qué está oculto."""					
 LOGFELLA_STORM	The Scythian			El leñador conocido como Tronco había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Tronco nos recordó cómo la tormenta había comenzado poco después de que recuperaramos El Megatomo bajo el Mingi Taw.					
 				¿Acaso Tronco nos estaba sugiriendo sutilmente que tal vez deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
