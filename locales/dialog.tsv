@@ -427,7 +427,7 @@ LOGFELLA_URSULAMEADOW	Logfella			"Estoy muy preocupado por la Escita, parece hec
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija contemplaron cómo recobrábamos el sentido.					
 				"Nos dimos cuenta que el prado no había cambiado, y que toda evidencia de nuestro místico encuentro había desaparecido."					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra extraña historia sobre nuestro encuentro con el Trigon de Oro.					
-			triangle/Triangle	Se preguntaba cuáles eran los secretos de la Arboleda Trigonal más allá de la cavernosa cueva de el prado... ¿habría alguna conexión?					
+			triangle/Triangle	Se preguntaba cuáles eran los secretos de la Arboleda Trigonal más allá de la cavernosa cueva del prado... ¿habría alguna conexión?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estoy bastante preocupada por la Escita... desapareció varios días después de que la tormenta se disipara. Espero que esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			"Vaya, ¿así que la Escita estaba desmayada en el prado? Qué locura."					
 DOGFELLA_GETDARKTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Perrolega.					
@@ -441,13 +441,13 @@ DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.
 				El arremolinado infinito del cosmos en la cima del Mingi Taw espera a aquel que carga con El Megatomo.					
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
-GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una piedra junto al leñador que cortaba leña.					
+GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una roca junto al leñador que cortaba leña.					
 			Archetype/trifecta	Le preguntamos sobre los secretos de la Arboleda Trigonal y los peculiares sueños de la gente montesa del Cáucaso.					
 				Nos contó cómo los sueños de su gente contenían muchos misterios y cómo reflejaban los estados de la luna de maneras extrañas.					
 				"Samae nos invitó a sentárnos junto al fuego en la choza de piedra siempre que quisieramos, ya fuera para caminar por los sueños o para recobrar fuerzas."					
 			Archetype/trifecta	"Tenemos la sensación de que los dos Trigones restantes podrían estar perdidos en los sueños, o algo así."					
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Tronco había vuelto a su corte de leña y parecía estar realmente concentrado.					
-			triangle/Triangle	Tronco había visto el haz enviado a el cielo detrás de el prado y por eso le preguntamos sobre los secretos de la Arboleda Trigonal.					
+			triangle/Triangle	Tronco había visto el haz enviado a el cielo trás el prado y por eso le preguntamos sobre los secretos de la Arboleda Trigonal.					
 				Nos contó una vieja historia que su gente relataba habitualmente a sus hijos para asustarlos.					
 			Archetype/trifecta	Tronco habló de un pelotón de Escitas que llegó hace muchas lunas a estas montañas olvidadas buscando la Trigonal Trifecta.					
 			gourd/gourd	El pelotón había aprendido a buscar a los duendecillos silvanos y enviarlos a el cielo... y luego habían buscado un lugar para realizar un milagro.					
@@ -501,7 +501,7 @@ LOGFELLA_FOUNDATION	Logfella			...
 				...					
 				...					
 SCYTHIAN_FOUNDATION	The Scythian			"Acabamos de despertar a un duendecillo silvano que suavemente dormitaba en un profundo estanque, al lado de una choza de piedra. Todo esto nos sorprende."					
-				"Con una tormenta sobre nuestras cabezas, hemos aprendido a cantar una Canción de Espadachicería e invocar a un duendecillo silvano durmiente."					
+				"Con una tormenta sobre nuestras cabezas, hemos aprendido a cantar una Canción de Espadachicería e invocar a un duendecillo silvano dormitante."					
 				Espera... ¿Por qué me estoy refiriendo a mí misma en primera persona? Pensaba que nuestra historia íbamos a contarla en segunda persona. #editingoversight					
 				¿Están mis pensamientos ordenados cronológicamente en el orden en que los he pensado? ¿Así que esto es lo que estaba pensando hace unos segundos?					
 				¿Esto es El Megatomo? ¿Absorbe transmisiones de pensamiento lingüístico? ¿Estoy leyendo mis pensamientos mientras los estoy pensando? Hmm...					
@@ -512,12 +512,12 @@ DOGFELLA_FOUNDATION	Dogfella			...
 				...					
 				...					
 LOGFELLA_DARKMOON	The Scythian			"El leñador habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta."					
-				Habló de una vibrante luz rosa y de una misteriosa canción emanando de los bosques sin nombre detrás del prado.					
+				Habló de una vibrante luz rosa y de una misteriosa canción emanando de los bosques sin nombre trás el prado.					
 				Supusimos que Tronco probablemente hablaba del espéctaculo de rock de la Luna Oscura.					
 GIRL_DARKMOON	The Scythian			"Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta."					
 				Habló de cómo se había refugiado de la tormenta en un titánico árbol hueco.					
 				Sabíamos de qué titánico árbol hueco estaba hablando.					
-ARCHETYPE_DARKMOON	The Archetype			Ten cuidado: reina la Luna Oscura.			94	076.jpg	I7F69
+ARCHETYPE_DARKMOON	The Archetype			Ten cuidado - reina la Luna Oscura.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			"El leñador habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo una luna creciente."					
 				"Habló sobre una criatura que había conocido, algo o alguien extraño y desnudo. ¿Era un oso? ¿Un hombre? O... ¿El Tosco Pardo?"			57	077.jpg	I7G7U
 GIRL_CRESCENTWAX	The Scythian			"Samae estaba emocionada, ¡hoy comenzaba un nuevo mes lunar! Le esperaban largos días sentada sobre rocas."					
@@ -561,7 +561,7 @@ LOGFELLA_CRESCENTWANE	The Scythian			"El leñador tenía tolerancia cero al folc
 GIRL_CRESCENTWANE	The Scythian			Samae observó la luna encogida. Dijo que pronto se iría y que la Luna Oscura reinaría.					
 ARCHETYPE_CRESCENTWANE	The Archetype			El ciclo lunar está casi completo. La Luna Oscura está muy cerca.					
 DARKMOONLOOMS_ARCHETYPE	The Archetype			"La Luna Oscura se cierne, el final del ciclo lunar está muy cerca."					
-DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí: ¡La Luna Oscura!			94	076.jpg	I7F69
+DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Oscura!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			"En mi sueño, llegué a una arboleda circular sacudida por un rayo y sentí la presencia de algo profundamente sagrado."					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una vibrante música filtrandose a través de los bosques tras mi choza. ¿De qué iba todo eso?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño sólo vi las sutiles sonoras espumas de los duendecillos silvanos.					
