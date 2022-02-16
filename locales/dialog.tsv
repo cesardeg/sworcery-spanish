@@ -253,14 +253,14 @@ ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interesante la 
 ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar al Trigon de Oro debes aprender a sobrevivir a los tres movimientos de su extraña canción usando una mezcla de ataque y defensa.					
 				Es absolutamente fundamental que mantengas presionado el botón de escudo siempre que puedas para recuperar tu fuerza perdida.					
 				Veo que ya has convocado e intentado domar al Trigon de Oro. Tengo algunas cosas que comentarte que creo te serán de útilidad.					
-ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Repele los ataques de proyectiles psiónicos del Trigon con tu espada y espera al momento justo para esquivar los ataques de haz.			83	040.jpg	3.4E+02
+ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Repele los ataques de proyectiles psiónicos del Trigon con tu espada y espera al momento justo para esquivar los ataques cargados.			83	040.jpg	3.4E+02
 				La lógica inescrutable e insondable del Trigon de Oro ha reclamado las almas de todos aquellos que te precedieron... ellos carecían de tenacidad y coraje.					
 ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			"El Trigon de Oro debe ser domado, no hay otra opción."					
-				En el tercer patrón debes repeler los pequeños proyectiles triangulares con tu espada y esquivar los ataques de haz. 					
-				En el segundo patrón debes esperar al ataque de haz y presionar el botón de escudo en el momento adecuado para esquivarlos.					
+				En el tercer patrón debes repeler los pequeños proyectiles triangulares con tu espada y esquivar los ataques cargados. 					
+				En el segundo patrón debes esperar al ataque cargado y presionar el botón de escudo en el momento adecuado para esquivarlo.					
 				En el primer patrón debes utilizar tu espada para devolver la bola de energía.					
 ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Es posible que hayas notado que el Trigon Luna Brillante reparte muerte desde arriba... así que espera al momento justo y usa tu escudo para esquivar.			144	041.jpg	8.4E+12
-ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigon Luna Brillante requerirá que uses tu espada contra los proyectiles y esquives los ataques de rayos cargados.					
+ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigon Luna Brillante requerirá que uses tu espada contra los proyectiles y esquives los ataques cargados.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Es posible que ya te hayas encontrado con el ataque de arcoíris del Trigon Luna Oscura. Rebana ese arcoíris tan rápido como puedas.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigon Luna Oscura implica sutiles proyectiles triangulares. Aplástalos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que has despertado al inmortal espectro que dormitaba en la oscuridad bajo el Mingi Taw... ¡Uff!					
