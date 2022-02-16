@@ -11,7 +11,7 @@ SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del ant
 				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...allí donde se pueden alterar los estados de la luna."""					
 				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			Al margen del antiguo camino había una piedra tallada con un par de glifos con la forma de una espada y un escudo. #hinthint			16	004.jpg	T0C4X
-SIGN_ANTECHAMBERLEFT	The Scythian			"En un corredor subterráneo descubrimos una ominosa estatua, pero no le prestamos demasiada atención. #lore"			29	005.jpg	V0B53
+SIGN_ANTECHAMBERLEFT	The Scythian			"En un pasaje subterráneo descubrimos una ominosa estatua, pero no le prestamos demasiada atención. #lore"			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			En las escarpadas montañas del Mingi Taw una solitaria tumba marcaba el final de un camino de grava.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En las escarpadas montañas del Mingi Taw una solitaria tumba marcaba el final de un camino de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima del Mingi Taw había un siniestro asta adornado con una calavera astada.					
@@ -546,8 +546,8 @@ ARCHETYPE_ALMOSTWANE	The Archetype			"La luna está ligeramente menos brillante 
 LOGFELLA_HALFWANE	The Scythian			"El leñador tenía tolerancia cero al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
 				El leñador explicó que en Escitia y Persia el Mingi Taw era conocido como La Montaña Eterna.					
 				"El leñador habló de cómo, hace siglos, una raza olvidada había tallado un templo en la roca debajo del Mingi Taw."					
-				El leñador habló de los corredores subterráneos y los espacios cavernosos excavados en la roca bajo el Mingi Taw.					
-				"Según el leñador, esos espacios cavernosos fueron creados hace siglos para custodiar El Megatomo."					
+				El leñador habló de los pasajes subterráneos y los espacios cavernosos excavados en la roca bajo el Mingi Taw.					
+				"Según el leñador, esos cavernosos espacios fueron creados hace siglos para custodiar El Megatomo."					
 GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá de la muralla de piedra y haber sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
 ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y la Luna Oscura está a poco menos de una semana de distancia.					
 LOGFELLA_CRESCENTWANE	The Scythian			"El leñador tenía tolerancia cero al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
