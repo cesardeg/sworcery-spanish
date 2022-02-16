@@ -19,7 +19,7 @@ INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima del Mi
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos a nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			"Una pequeña puerta sin pomo hecha de un material desconocido. Una señal reza ""Solo personal autorizado""."					
 DOOR_UPSLOPEWOODS1	The Scythian			El antiguo camino al Mingi Taw estaba bloqueado por una puerta cerrada.					
-DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía en la maleza del bosque bajo el antiguo camino que asciende a Mingi Taw. #moongrotto					
+DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía en la maleza del bosque bajo el antiguo camino que asciende al Mingi Taw. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba leña. #obviously #woodchopping			71	007.jpg	7E+71
 				"La gente montesa del Cáucaso lo conocía como 'Tronco', y parecía afable."					
@@ -27,7 +27,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba 
 				"Aún así, nos dio la sensación que no estaba super emocionado con tal encomienda."					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El leñador nos esperó para continuar al inicio del antiguo camino."			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el abismo y nos sentíamos super inteligentes.			22	009.jpg	L0B9S
-			adventureUI/megatomeItem	Le dijimos a Tronco que estábamos buscando un libro de magia siniestra conocido como El Megatomo.					
+			adventureUI/megatomeItem	Le dijimos a Tronco que estábamos buscando un libro de siniestra magia conocido como El Megatomo.					
 			adventureUI/megatomeItem	"El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del precipicio, bajo el Mingi Taw."					
 			adventureUI/megatomeItem	Decidimos ir a por El Megatomo y luego escapar con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador confirmó al 100% que el tenía la única llave para la puerta cerrada de la muralla de piedra.					
@@ -264,7 +264,7 @@ ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigon Luna B
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Es posible que ya te hayas encontrado con el ataque de arcoíris del Trigon Luna Oscura. Rebana ese arcoíris tan rápido como puedas.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigon Luna Oscura implica sutiles proyectiles triangulares. Aplástalos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que has despertado al inmortal espectro que dormitaba en la oscuridad bajo el Mingi Taw... ¡Uff!					
-				"En consecuencia, se cierne una tormenta siniestra y la gente encantadora que vive en la choza de piedra está desolada."					
+				"En consecuencia, se cierne una siniestra tormenta y la gente encantadora que vive en la choza de piedra está desolada."					
 			adventureUI/megatomeItem	El resultado es que tienes el pesado libro conocido como El Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
 				Nuestra investigación ha demostrado que la exposición prolongada a la psicofocosmología mitopoética de S:S&S EP puede tener efectos adversos.					
 				"Así que ahora que has completado la sesión I, ¿qué te parece si nos tomamos un pequeño descanso? Estaré justo aquí cuando quieras comenzar la sesión II."					
