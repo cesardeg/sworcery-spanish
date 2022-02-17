@@ -92,7 +92,7 @@ INFO_CABINSHEEP	The Scythian			"Otra oveja insignificante, ¿por qué seguimos m
 INFO_MEADOWSUN	The Scythian			Podemos recordar vívidamente cuán impresionante parecía el sol en ese primer día de primavera.					
 INFO_MEADOWGATE	The Scythian			En el prado había una puerta de hierro inamovible bloqueando el paso a una cavernosa cueva.					
 INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había una puerta de hierro y tuvimos la sensación de que, tal vez, podríamos abrirla de alguna manera."					
-INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de Trigon de Oro sobre la puerta de hierro, ¿tal vez reaccionaría a nuestra Canción de Espadachicería?"					
+INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de Trígono Dorado sobre la puerta de hierro, ¿tal vez reaccionaría a nuestra Canción de Espadachicería?"					
 INFO_MEADOWGATETRIGON	The Scythian			Descubrimos algo raro sobre la puerta de hierro.					
 INFO_LOCKEDDOORSTONEWALL	The Scythian			"Una puerta cerrada en la muralla de piedra bloqueaba el antiguo camino al Mingi Taw y, al parecer, la llave estaba perdida en los sueños."					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Vimos la escultura de un pájaro enfadado que se cernía sobre el prado. #subtlereference					
@@ -110,7 +110,7 @@ INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de desgastado aspecto 
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el antiguo camino había un siniestro mástil adornado con calaveras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado nos encontramos con una arboleda oculta llena de extrañas estructuras de piedra.					
 			Archetype/trifecta	... ¿Era la Arboleda Trigonal? #trigongrove			93	016.jpg	B1D6J
-			triangle/Triangle	"Mientras estábamos al lado de la primera estructura de piedra, pensamos en el Trigon de Oro y sentimos cómo se agitaba nuestra espada."					
+			triangle/Triangle	"Mientras estábamos al lado de la primera estructura de piedra, pensamos en el Trígono Dorado y sentimos cómo se agitaba nuestra espada."					
 INFO_DARKTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra desgastada y enmohecida. #darkmoontrigon					
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra con un glifo circular que hacía referencia a la Luna Brillante. #brightmoontrigon					
@@ -143,7 +143,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			"En la Arboleda Trigonal, más allá de la
 				En un susurro dijo el nombre del inmortal espectro que habíamos despertado en la oscuridad bajo el Mingi Taw - La Masa Gogolítica.			166	023.jpg	O2B39
 				Conocíamos ese espeluznante nombre por las viejas historias y sentimos que nuestra sangre se helaba.					
 				"""Hasta ahora tenía la sensación de que La Masa Gogolítica nos veía como a unos simples turistas."""					
-			triangle/Triangle	"""Ahora que has aprendido la Canción de Espadachicería y domado al Trigon de Oro, descubrirás que cada uno de tus pasos están malditos."""					
+			triangle/Triangle	"""Ahora que has aprendido la Canción de Espadachicería y domado al Trígono Dorado, descubrirás que cada uno de tus pasos están malditos."""					
 				"No podíamos decir si el resplandeciente fantasma nos estaba animando, psicoanalizando o qué."					
 				Le dijimos al fantasma que nuestra intención era subir El Megatomo en la cima del Mingi Taw y liberar a La Masa Gogolítica de la inmortalidad.					
 			Archetype/trifecta	"Preguntamos sobre la Trigonal Trifecta y la ubicación de los dos Trigones restantes, pero su respuesta fue irritantemente obtusa."					
@@ -155,8 +155,8 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en la maleza al m
 				El imponente fantasma que habló fue un gigante que conocíamos por viejas historias cuyo famoso retrato demandaba obediencia. #andre					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, reuní a un pelotón y nos propusimos reconstruir la Trigonal Trifecta."""					
 				"""Habíamos oído hablar de la puerta de entrada al infinito en la cima del Mingi Taw y pensamos que sería genial verla."""					
-			triangle/Triangle	"""Así que domamos el Trigon de Oro e investigamos la Arboleda Trigonal antes de salir a buscar el Trigon Luna Brillante."""					
-				"""Localizar el Trigon Luna Brillante no fue muy bien... acabamos bastante perdidos para ser honesto."""					
+			triangle/Triangle	"""Así que domamos el Trígono Dorado e investigamos la Arboleda Trigonal antes de salir a buscar el Trígono Luna Brillante."""					
+				"""Localizar el Trígono Luna Brillante no fue muy bien... acabamos bastante perdidos para ser honesto."""					
 				"""Poco a poco nos dimos cuenta de la importancia del ciclo lunar y su influencia en los duendecillos que duermen en los reinos del ocaso."""					
 				"""Ahí es cuando nos sentamos y empezamos a vigilar los estados de la luna para poder saber cuándo, dónde y cómo estar."""			7	026.jpg	Q2D6P
 				"""Morimos de aburrimiento esperando a que el estado de la luna cambiara."""					
@@ -169,8 +169,8 @@ GRAVE_CHASM	The Scythian			Divisamos una solitaria tumba en el borde del Precipi
 GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la solitaria tumba del tramposo embustero y conocimos a un fulgente fantasma.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André ""El Gigante"" reunió a un pelotón y nos propusimos reconstruir la Trigonal Trifecta."""					
 				"""Los otros integrantes del pelotón están enterrados en la maleza al margen del antiguo camino, cerca del puente de troncos."""					
-			triangle/Triangle	"""Conseguimos localizar y domar el Trigon de Oro con bastante facilidad pero no avanzamos nada después de eso."""					
-				"""Buscamos el Trigon Luna Brillante, así que decidimos sentarnos y observar el cielo, esperando que el estado de la luna cambiara."""					
+			triangle/Triangle	"""Conseguimos localizar y domar el Trígono Dorado con bastante facilidad pero no avanzamos nada después de eso."""					
+				"""Buscamos el Trígono Luna Brillante, así que decidimos sentarnos y observar el cielo, esperando que el estado de la luna cambiara."""					
 				"""¡Fue super aburrido! No iba a esperar días y días hasta que la Luna Brillante se alzara."""					
 				"""Abandoné a esos bobos para vagar sin rumbo mientras me hundía más y más en esa trampa lógico-lunar."""					
 				El fulgente fantasma habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
@@ -182,11 +182,11 @@ GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercam
 				"""También quiero que sepas que no intento deliberadamente asustarte luciendo así de impresionante."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
 				"""Busca a los duendecillos silvanos en el camino tras de ti, con ojos y oidos abiertos a sus sonoras espumas."""					
-				"""Envía a los cinco duendecillos silvanos hacia el cielo para provocar un milagro que reveleará al Trigon que buscas."""					
+				"""Envía a los cinco duendecillos silvanos hacia el cielo para provocar un milagro que reveleará al Trígono que buscas."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
-				"""Busca la señal de los duendecillos silvanos y canta una Canción de Espadachicería para así revelear un Trigon escondido."""					
+				"""Busca la señal de los duendecillos silvanos y canta una Canción de Espadachicería para así revelear un Trígono escondido."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
-				"""Así que la Canción Trigon se ha acabado por ahora. ¿Cuándo volveremos a escucharla, me pregunto?"""					
+				"""Así que la Canción Trígono se ha acabado por ahora. ¿Cuándo volveremos a escucharla, me pregunto?"""					
 LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Tronco estaba totalmente fuera de sí por algo.					
 			AdventureUI/keyItem	"Al parecer, Tronco había perdido la llave de la puerta de la muralla de piedra que bloqueaba el antiguo camino al Mingi Taw."					
 				Estábamos gruñendo de emoción por la nueva misión.					
@@ -209,7 +209,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba super ali
 				"Le contamos a Tronco por qué vagabamos por aquí, en esta montaña desierta, y cómo nos guiaba el dedo de un Dios omnisciente."					
 			adventureUI/megatomeItem	Le contamos a Tronco lo que sospechábamos sobre las esotéricas marcas dentro de El Megatomo y lo que podían significar.					
 			gourd/gourd	Teníamos la corazonada de que necesitábamos invocar a unos cuantos duendecillos silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
-			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de cósmica geometría conocida como el Trigon de Oro.					
+			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de cósmica geometría conocida como el Trígono Dorado.					
 				Estaba 100% claro que el leñador conocido como Tronco había dejado de prestar atención.					
 			AdventureUI/keyItem	Pensamos que podríamos simplemente llevarnos la llave e ir a dar un paseo por el antiguo camino más allá de la muralla de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tomaramos su llave y nos dijo que estaba de acuerdo.					
@@ -246,23 +246,23 @@ LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco extraño... Sin
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades del gran mago ""Al Jaffee""."					
 				¿Sientes esa sensación tan peculiar? ¡Es el tiempo de los milagros! Canta una Canción de Espadachicería y mira hacia los pájaros enfadados que se ciernen.			76	038.jpg	A3G84
-ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira a el cielo en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira el Trigon de Oro.					
+ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira a el cielo en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira el Trígono Dorado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interesante la forma con que has manejado el encuentro con el caníbal cabeza de oso.			120	039.jpg	O3G9D
 				"No no, está bien, sólo que me pareció interesante. Nunca vi a nadie hacer lo que hiciste tú. Es excepcional, pero no te alarmes."					
 				"Bueno, sigamos. Aún te quedan muchas cosas por disfrutar en tu experiencia con S:S&S EP, particularmente en la Cara B."					
-ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar al Trigon de Oro debes aprender a sobrevivir a los tres movimientos de su extraña canción usando una mezcla de ataque y defensa.					
+ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar al Trígono Dorado debes aprender a sobrevivir a los tres movimientos de su extraña canción usando una mezcla de ataque y defensa.					
 				Es absolutamente fundamental que mantengas presionado el botón de escudo siempre que puedas para recuperar tu fuerza perdida.					
-				Veo que ya has convocado e intentado domar al Trigon de Oro. Tengo algunas cosas que comentarte que creo te serán de útilidad.					
-ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Repele los ataques de proyectiles psiónicos del Trigon con tu espada y espera al momento justo para esquivar los ataques cargados.			83	040.jpg	3.4E+02
-				La lógica inescrutable e insondable del Trigon de Oro ha reclamado las almas de todos aquellos que te precedieron... ellos carecían de tenacidad y coraje.					
-ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			"El Trigon de Oro debe ser domado, no hay otra opción."					
+				Veo que ya has convocado e intentado domar al Trígono Dorado. Tengo algunas cosas que comentarte que creo te serán de útilidad.					
+ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Repele los ataques de proyectiles psiónicos del Trígono con tu espada y espera al momento justo para esquivar los ataques cargados.			83	040.jpg	3.4E+02
+				La lógica inescrutable e insondable del Trígono Dorado ha reclamado las almas de todos aquellos que te precedieron... ellos carecían de tenacidad y coraje.					
+ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			"El Trígono Dorado debe ser domado, no hay otra opción."					
 				En el tercer patrón debes repeler los pequeños proyectiles triangulares con tu espada y esquivar los ataques cargados. 					
 				En el segundo patrón debes esperar al ataque cargado y presionar el botón de escudo en el momento adecuado para esquivarlo.					
 				En el primer patrón debes utilizar tu espada para devolver la bola de energía.					
-ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Es posible que hayas notado que el Trigon Luna Brillante reparte muerte desde arriba... así que espera al momento justo y usa tu escudo para esquivar.			144	041.jpg	8.4E+12
-ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigon Luna Brillante requerirá que uses tu espada contra los proyectiles y esquives los ataques cargados.					
-ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Es posible que ya te hayas encontrado con el ataque de arcoíris del Trigon Luna Oscura. Rebana ese arcoíris tan rápido como puedas.					
-ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigon Luna Oscura implica sutiles proyectiles triangulares. Aplástalos y sobrevivirás.					
+ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Es posible que hayas notado que el Trígono Luna Brillante reparte muerte desde arriba... así que espera al momento justo y usa tu escudo para esquivar.			144	041.jpg	8.4E+12
+ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trígono Luna Brillante requerirá que uses tu espada contra los proyectiles y esquives los ataques cargados.					
+ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Es posible que ya te hayas encontrado con el ataque de arcoíris del Trígono Luna Oscura. Rebana ese arcoíris tan rápido como puedas.					
+ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trígono Luna Oscura implica sutiles proyectiles triangulares. Aplástalos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que has despertado al inmortal espectro que dormitaba en la oscuridad bajo el Mingi Taw... ¡Uff!					
 				"En consecuencia, se cierne una siniestra tormenta y la gente encantadora que vive en la choza de piedra está desolada."					
 			adventureUI/megatomeItem	El resultado es que tienes el pesado libro conocido como El Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
@@ -276,16 +276,16 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				"Silenciar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros..."					
 			adventureUI/megatomeItem	"1. El toque de un espadachicero liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otros materiales esotéricos."					
 			gourd/gourd	"2. Extraños duendecillos silvanos, generadores de espadachicería, dormitan en estanques, bosques y prados. Busca sus sutiles sonoras espumas."					
-			triangle/Triangle	"3. El espadachicero que pueda localizar, invocar y domar la cósmica geometría del Trigon de Oro poseerá la habilidad de obrar milagros."					
+			triangle/Triangle	"3. El espadachicero que pueda localizar, invocar y domar la cósmica geometría del Trígono Dorado poseerá la habilidad de obrar milagros."					
 				¿Abrumado? Excelente. Mantén la calma y continúa.			210	043.jpg	A4C31
-ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la cósmica geometría del Trigon de Oro.			86	044.jpg	24E4H
+ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la cósmica geometría del Trígono Dorado.			86	044.jpg	24E4H
 				"Milagrosamente, la siniestra tormenta se ha disipado y la gloriosa luz del sol ha vuelto al reino, lo que está muy bien."					
 				"Tus heroicas hazañas reflejan bien tu percepción, intuición y perseverancia - ¡Lo has hecho excelente hasta ahora!"					
 				"Nota: Si decides continuar con el experimento S:S&S EP, las cualidades antes mencionadas serán desafiadas y puestas a prueba."					
 				"En cualquier caso, vamos a tomarnos otro pequeño descanso, ¿no crees? Como siempre, estaré justo aquí cuando quieras comenzar con la sesión III."					
 ARCHETYPE_TRIFECTAINTRO	The Archetype								
 				Comencemos con la sesión III. Nota: Esta sesión requiere normalmente de un mes lunar para ser completada.					
-			triangle/Triangle	¿Así que domaste el Trigon de Oro y la tormenta se disipó milagrosamente? Bravo por eso.					
+			triangle/Triangle	¿Así que domaste el Trígono Dorado y la tormenta se disipó milagrosamente? Bravo por eso.					
 			adventureUI/megatomeItem	Consulta El Megatomo y estudia su funcionamiento si te sientes perdido o confundido.					
 				Un inmortal espectro aún deambula en la oscuridad bajo el Mingi Taw.					
 			Archetype/trifecta	Considera la cósmica geometría de la Trigonal Trifecta.					
@@ -359,7 +359,7 @@ GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que la Escita 
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha sido totalmente mental desde que la Escita apareció.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo taaan sombrío.					
 				La lluvia ha comenzado a cesar y el cielo parece estar brillando... ¿Es el tiempo de los milagros? Eso espero. Me encantan los milagros.					
-				Vaya... ¿Qué? Las ovejas del prado se han asustado... ¿Me pregunto qué estará pasando? Podría ser... ¿el Trigon de Oro?					
+				Vaya... ¿Qué? Las ovejas del prado se han asustado... ¿Me pregunto qué estará pasando? Podría ser... ¿el Trígono Dorado?					
 GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau. 					
 				"A veces cuando las cosas están demasiado oscuras para mi, ingiero algo y veo incluso lo que no está ahí."					
 				Guau Guau Guau Guau Guau.					
@@ -373,7 +373,7 @@ GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		"Mi leña guarda muchos
 				"En mi experiencia, hay momentos en que los búhos no son lo que parecen y otras veces son simples búhos."			126	064.jpg	86A47
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		¿Has oído hablar o has leído en internet sobre una isla imposible bajo una Luna Brillante que se avecina?			134	065.jpg	H6A5I
 				"Hemos estado siguiendo silenciosamente tus acciones y nos gustaría señalar que cuanto más larga sea la duda, más pequeña será la celebración."					
-				"Parece que te has esforzado significativamente para localizar y domar al Trigon Luna Brillante, muy bien hecho."					
+				"Parece que te has esforzado significativamente para localizar y domar al Trígono Luna Brillante, muy bien hecho."					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		"¿Son los duendecillos silvanos los niños de la Tierra, o son visitantes solitarios del arremolinado infinito?"					
 				"Para ser honesta, los duendecillos silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde salen?"					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendecillos hayan sido enviados hacia el cielo y el tiempo de los milagros se acerque, debes buscar el titánico árbol."					
@@ -386,9 +386,9 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solamente el fin de tu
 GCLUE_WATERFALLS	Girl			¿Te has dado cuenta de que a veces las palabras suenan como simple ruido pero otras veces el ruido emite el sonido más bello?			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		"Hay un montón de dichos extraños aquí entre la gente montesa del Cáucaso."					
 				Hay un refrán aquí en el Cáucaso que dice que un bosque necesita al fuego como el fuego necesita a un árbol.					
-YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos el Trigon de Oro. Somos impresionantes.			85	067.jpg	36G7U
-PINKTRIGON_COLLECTED	The Scythian			"Contra todo pronóstico, conseguimos el Trigon Luna Brillante."			155	068.jpg	56F8U
-BLUETRIGON_COLLECTED	The Scythian			"A pesar de todas las adversidades, conseguimos el Trigon Luna Oscura."			112	069.jpg	T6G94
+YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos el Trígono Dorado. Somos impresionantes.			85	067.jpg	36G7U
+PINKTRIGON_COLLECTED	The Scythian			"Contra todo pronóstico, conseguimos el Trígono Luna Brillante."			155	068.jpg	56F8U
+BLUETRIGON_COLLECTED	The Scythian			"A pesar de todas las adversidades, conseguimos el Trígono Luna Oscura."			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		"Parece como si todos los duendecillos Luna Oscura hubieran sido enviados hacia el cielo, así que de nuevo es el tiempo de los milagros. ¡Adoro los milagros!"					
 JIM_HINT1_OFF	The Scythian			En una arboleda oculta nos encontramos con un tipo misterioso y musical situado junto a un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En una arboleda oculta encontramos a un tipo misterioso junto a un fuego crepitante. #jimguthrie					
@@ -415,10 +415,10 @@ LOGFELLA_HUGETREETHOUGHTS	Logfella			"Me encanta ver los mismos bosques con dife
 MIRACLE1_MOUNTAINMEADOW	The Scythian			"Hemos realizado el milagro de disipación de tormentas en un prado bañado por el sol al más puro estilo del mago loco ""Al Jaffee""."					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Nos quedamos confundidos y desconcertados en un prado bañado por el sol con uno de esos dolores de cabeza realmente brutales.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Nos despertamos aturdidos de un sueño super profundo sin un recuerdo en firme sobre lo que había sucedido.					
-			triangle/Triangle	Recordamos el milagro en el prado y nuestro encuentro con el Trigon de Oro... 					
+			triangle/Triangle	Recordamos el milagro en el prado y nuestro encuentro con el Trígono Dorado... 					
 			triangle/Triangle	...¿Qué nuevos poderes nos habrían sido concedidos?					
-			triangle/Triangle	Tronco estaba totalmente anonadado cuando le contamos cómo fue la batalla contra el Trigon de Oro.			81	071.jpg	R7C14
-			triangle/Triangle	Tronco preguntó de que modo el Trigon de Oro podría estar conectado con los sombríos misterios de más allá de la puerta de hierro del prado..					
+			triangle/Triangle	Tronco estaba totalmente anonadado cuando le contamos cómo fue la batalla contra el Trígono Dorado.			81	071.jpg	R7C14
+			triangle/Triangle	Tronco preguntó de que modo el Trígono Dorado podría estar conectado con los sombríos misterios de más allá de la puerta de hierro del prado..					
 				Tronco no quiso excavar en más sombríos misterios y decidió volver a casa y empezar a cortar madera. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Tronco estaba super encantado de que la tormenta se hubiera disipado y estaba super emocionado de volver a cortar leña de nuevo.					
 				Nos preguntó si sabíamos algo de la puerta de hierro del prado que bloqueaba la cavernosa cueva... ¿de qué iba todo eso?					
@@ -426,14 +426,14 @@ LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Es extraño... He visto un haz dorado e
 LOGFELLA_URSULAMEADOW	Logfella			"Estoy muy preocupado por la Escita, parece hecha un desastre."					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija contemplaron cómo recobrábamos el sentido.					
 				"Nos dimos cuenta que el prado no había cambiado, y que toda evidencia de nuestro místico encuentro había desaparecido."					
-GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra extraña historia sobre nuestro encuentro con el Trigon de Oro.					
+GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra extraña historia sobre nuestro encuentro con el Trígono Dorado.					
 			triangle/Triangle	Se preguntaba cuáles eran los secretos de la Arboleda Trigonal más allá de la cavernosa cueva del prado... ¿habría alguna conexión?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estoy bastante preocupada por la Escita... desapareció varios días después de que la tormenta se disipara. Espero que esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			"Vaya, ¿así que la Escita estaba desmayada en el prado? Qué locura."					
 DOGFELLA_GETDARKTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Perrolega.					
-			Archetype/trifecta	"De repente parecíamos comprenderlo, y nos instó a buscar el Trigon Luna Oscura y completar la Trigonal Trifecta."					
+			Archetype/trifecta	"De repente parecíamos comprenderlo, y nos instó a buscar el Trígono Luna Oscura y completar la Trigonal Trifecta."					
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Perrolega.					
-			Archetype/trifecta	"De repente parecíamos comprenderlo, y nos instó a buscar el Trigon Luna Brillante y completar la Trigonal Trifecta."					
+			Archetype/trifecta	"De repente parecíamos comprenderlo, y nos instó a buscar el Trígono Luna Brillante y completar la Trigonal Trifecta."					
 DOGFELLA_THREETRIGONS	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Perrolega.					
 			Archetype/trifecta	"De repente parecíamos comprenderlo, y nos instó a activar el tercer haz de luz y abrir una puerta de entrada al infinito."					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
@@ -458,31 +458,31 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Tronco había 
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que has podido alterar el estado de la luna en la Gruta Lunar. Me pregunto cuánto durará esta paradoja temporal.					
 MIRACLE2_ISLAND	The Scythian			"Mientras que la Luna Brillante se cernía sobre nosotros, realizamos un extraño milagro lunar en una isla imposible en medio de un plácido lago."			136	073.jpg	W7A3K
-MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos el Trigon Luna Brillante para nuestra gloria y desesperación. #trigontamed			155	068.jpg	56F8U
+MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos el Trígono Luna Brillante para nuestra gloria y desesperación. #trigontamed			155	068.jpg	56F8U
 MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			"Estuvimos tentados de abandonar todo el tema del funesto cometido, pero había algo atractivo en el martirio."					
 				"Oh bueno, probablemente no importará demasiado al final. No creo que haya que superar un examen físico para acceder al arremolinado infinito."					
 				Nos daba la sensación que todo esto de caminar en los sueños y domar Trigones se estaba empezando a cobrar su peaje.					
 				"Cuando las luces y los sonidos se calmaron, nos encontramos a orillas de un lago con un dolor de cabeza brutal y una nariz ensangrentada."					
-GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trigon Luna Brillante y nuestra intención de volver a reconstruir la Trigonal Trifecta.					
+GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trígono Luna Brillante y nuestra intención de volver a reconstruir la Trigonal Trifecta.					
 				Samae dijo que nuestro encuentro en sueños parecía realmente genial y que le hubiera encantado haber estado allí. #lies					
 				Nos preguntó si nos habíamos pasado por la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
 LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinaje por los sueños y obras milagrosas se había cobrado un alto precio en nuestra salud física.					
 				Tronco parecía sospechar que nuestro funesto cometido muy probablemente no tendría un final feliz.					
 				Tronco nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestros datos de investigación muestran una alta correlación entre el progreso de un participante en S:S&S EP y su aptitud para ser impresionante.			45	074.jpg	87A43
-				"Veo que has conseguido localizar y recuperar el Trigon Luna Brillante. Una gran noticia, sin duda."					
+				"Veo que has conseguido localizar y recuperar el Trígono Luna Brillante. Una gran noticia, sin duda."					
 MIRACLE3_HUGETREE	The Scythian			"Mientras reinaba la Luna Oscura, hemos realizado un asombroso milagro en medio de una arboleda circular."					
 MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			"Además... llevar El Megatomo de arriba a abajo todo el tiempo era insufrible, realmente es un libro muy pesado en más de un sentido."					
 				Nos sentíamos un poco peor por el desgaste... probablemente se debiera a todos esos haces de láser cósmico.					
 				"Cuando las luces y los sonidos cesaron, nos encontramos empapados por la fría lluvia en medio de una arboleda circular."					
-GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trigon Luna Oscura y nuestra intención de reconstruir la Trigonal Trifecta.					
-				Le contamos cómo acabamos con el ataque arcoíris del Trigon Luna Oscura y a ella le pareció realmente genial.					
+GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trígono Luna Oscura y nuestra intención de reconstruir la Trigonal Trifecta.					
+				Le contamos cómo acabamos con el ataque arcoíris del Trígono Luna Oscura y a ella le pareció realmente genial.					
 				No parecía importarle escuchar nuestras locas historias.					
 LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinar por los sueños y obras milagrosas había pasado factura en nuestra salud física.					
 			Archetype/trifecta	Tronco nos preguntó si habíamos visitado con Perrolega la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Así que ahora la pregunta es... ¿Y ahora qué?					
-				"A pesar de la escasa información útil que te hemos proporcionado, has logrado dominar al Trigon Luna Oscura."					
-				"Me acaban de informar que has conseguido el Trigon Luna Oscura. Grandes noticias, sin duda."					
+				"A pesar de la escasa información útil que te hemos proporcionado, has logrado dominar al Trígono Luna Oscura."					
+				"Me acaban de informar que has conseguido el Trígono Luna Oscura. Grandes noticias, sin duda."					
 LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	El leñador no reconoció la llave que habíamos encontrado y no tenía idea de para qué servía.					
 			AdventureUI/keyItem	¿...?					
 GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae vio la llave que habíamos encontrado y nos animó a mantener los ojos abiertos ante las puertas cerradas.					
