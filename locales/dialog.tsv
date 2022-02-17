@@ -8,7 +8,7 @@ SIGN_CHASM	The Scythian			"En el borde del Precipicio Peligroso, había una pied
 SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de glifos indescifrables.					
 				En medio de los glifos indescifrables descubrimos una serie de glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de glifos lunares que logramos descifrar.					
-				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...allí donde se pueden alterar los estados de la luna."""					
+				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...allí donde se pueden alterar las fases de la luna."""					
 				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			Al margen del antiguo camino había una piedra tallada con un par de glifos con la forma de una espada y un escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			"En un pasaje subterráneo descubrimos una ominosa estatua, pero no le prestamos demasiada atención. #lore"			29	005.jpg	V0B53
@@ -158,7 +158,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en la maleza al m
 			triangle/Triangle	"""Así que domamos el Trígono Dorado e investigamos la Arboleda Trigonal antes de salir a buscar el Trígono Luna Brillante."""					
 				"""Localizar el Trígono Luna Brillante no fue muy bien... acabamos totalmente perdidos para ser honesto."""					
 				"""Lentamente nos dimos cuenta de la importancia del ciclo lunar y su influencia en los duendecillos que duermen en los reinos crepusculares."""					
-				"""Ahí es cuando nos sentamos y empezamos a vigilar los estados de la luna para poder saber el cuándo, el dónde y el cómo."""			7	026.jpg	Q2D6P
+				"""Ahí es cuando nos sentamos y empezamos a vigilar las fases de la luna para poder saber el cuándo, el dónde y el cómo."""			7	026.jpg	Q2D6P
 				"""Morimos de aburrimiento esperando a que el estado de la luna cambiara."""					
 				"""Bueno, en realidad morimos debido a una discusión que tuvimos a causa del aburrimiento."""					
 				"""Realmente no quiero entrar en detalles ahora mismo, si no te importa."""					
@@ -178,7 +178,7 @@ GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la so
 				"""La cosa es que, desde que hice trampa, sufrí de una profunda angustia y morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			"Dentro de un titánico árbol hueco vimos una solitaria tumba y sentimos cierta curiosidad por ella."					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
-				"""Monitorea los estados de la luna y así aprenderás el cuándo, el dónde y el cómo."""					
+				"""Monitorea las fases de la luna y así aprenderás el cuándo, el dónde y el cómo."""					
 				"""También quiero que sepas que no intento deliberadamente asustarte luciendo así de impresionante."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
 				"""Busca a los duendecillos silvanos en el camino tras de ti, con ojos y oidos abiertos a sus sonoras espumas."""					
@@ -223,7 +223,7 @@ LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la 
 				Le pregunté a la Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvanos más enviados hacia el cielo disiparán la incesante tormenta... ¡y entonces será el tiempo de los milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mi paseo por el sueño hay una quietud emocionante cuando la luna es más brillante... y cuando la luna es más oscura los bosques se vuelven salvajes.					
-				En el sueño siempre son los mismos lugares y espacios excepto cuando difieren según los estados de la luna.					
+				En el sueño siempre son los mismos lugares y espacios excepto cuando difieren según las fases de la luna.					
 				Cada noche desde que se disipó la tormenta he tenido ese mismo sueño en el que estoy vagando por el bosque justo antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosque puede ofrecer una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
 				Busca las sonoras espumas de los duendecillos silvanos e investiga sus alrededores.					
@@ -289,7 +289,7 @@ ARCHETYPE_TRIFECTAINTRO	The Archetype
 			adventureUI/megatomeItem	Consulta El Megatomo y estudia su funcionamiento si te sientes perdido o confundido.					
 				Un inmortal espectro aún deambula en la oscuridad bajo el Mingi Taw.					
 			Archetype/trifecta	Considera la cósmica geometría de la Trigonal Trifecta.					
-			MoonCrescent/moonCrescent	Observa los estados de la luna.			118	045.jpg	Y4E5Q
+			MoonCrescent/moonCrescent	Observa las fases de la luna.			118	045.jpg	Y4E5Q
 				Nuestra investigación ha demostrado que aquellos pocos que persisten a través de la locura oblicua que sigue pueden convertirse en amigos cósmicos para siempre.					
 				Ten en cuenta que de ahora en adelante estaremos monitoreando todas tus aportes en relativo silencio.					
 ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	¿Así que has domado los dos Trígonos restantes y has reconstruido la Trigonal Trifecta?			165	046.jpg	P4B6A
@@ -443,7 +443,7 @@ DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.
 				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una roca junto al leñador que cortaba leña.					
 			Archetype/trifecta	Le preguntamos sobre los secretos de la Arboleda Trigonal y los peculiares sueños de la gente montesa del Cáucaso.					
-				Nos contó cómo los sueños de su gente contenían muchos misterios y cómo reflejaban los estados de la luna de maneras extrañas.					
+				Nos contó cómo los sueños de su gente contenían muchos misterios y cómo reflejaban las fases de la luna de maneras extrañas.					
 				"Samae nos invitó a sentárnos junto al fuego en la choza de piedra siempre que quisieramos, ya fuera para caminar por los sueños o para recobrar fuerzas."					
 			Archetype/trifecta	"Tenemos la sensación de que los dos Trígonos restantes podrían estar perdidos en los sueños, o algo así."					
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Tronco había vuelto a su corte de leña y parecía estar realmente concentrado.					
@@ -526,7 +526,7 @@ LOGFELLA_HALFWAX	The Scythian			"El leñador admitió que sí, que de hecho hab�
 				"Habló de los helados inviernos y las profundas nieves que gobernaban las poderosas montañas del Cáucaso, aquellas que se elevaban por encima de las estepas de Escitia."					
 				El leñador esperaba tener suficiente comida y leña para sobrevivir los largos y fríos meses que estaban por llegar.					
 GIRL_HALFWAX	The Scythian			"Anoche soñé que estaba caminando por el bosque y estaba como loca por comerme una magdalena, pero encontré cero."			108	078.jpg	07D87
-ARCHETYPE_HALFWAX	The Archetype			Los folcloristas majaderos han afirmado que no hay relación causal entre la locura y los estados de la luna.					
+ARCHETYPE_HALFWAX	The Archetype			Los folcloristas majaderos han afirmado que no hay relación causal entre la locura y las fases de la luna.					
 LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demasiado en la Masa Gogolítica y en la montaña desierta del Mingi Taw.					
 				"Sin embargo, dijo que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo."					
 				El leñador dijo que le daba un poco de miedo cuando la Luna Brillante se cernía sobre el cielo y cuando la Luna Oscura reinaba.					
