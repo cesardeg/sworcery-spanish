@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			En las escarpadas montañas del Mingi Taw 
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En las escarpadas montañas del Mingi Taw una solitaria tumba marcaba el final de un camino de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima del Mingi Taw había un siniestro asta adornado con una calavera astada.					
 INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima del Mingi Taw descansaba una solitaria tumba como siniestro recuerdo de las muchas personas que habían muerto allí.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos a nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo entrelazado en dos manos huesudas y sentimos nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			"Una pequeña puerta sin pomo hecha de un material desconocido. Una señal reza ""Solo personal autorizado""."					
 DOOR_UPSLOPEWOODS1	The Scythian			El antiguo camino al Mingi Taw estaba bloqueado por una puerta cerrada.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía en la maleza del bosque bajo el antiguo camino que asciende al Mingi Taw. #moongrotto					
@@ -108,9 +108,9 @@ INFO_SPUME	The Scythian			Encontramos las sutiles sonoras espumas de un duendeci
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de curioso aspecto, ahora hogar de una desdichada colmena."			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de desgastado aspecto que parecía una espeluznante cara.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el antiguo camino había un siniestro mástil adornado con calaveras.					
-INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado nos encontramos con una arboleda oculta llena de extrañas estructuras de piedra.					
-			Archetype/trifecta	... ¿Era la Arboleda Trigonal? #trigongrove			93	016.jpg	B1D6J
-			triangle/Triangle	"Mientras estábamos al lado de la primera estructura de piedra, pensamos en el Trígono Dorado y sentimos cómo se agitaba nuestra espada."					
+INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado nos encontramos con una aislada arboleda con una extraña colección de estructuras de piedra.					
+			Archetype/trifecta	... ¿Era esta la Arboleda Trigonal? #trigongrove			93	016.jpg	B1D6J
+			triangle/Triangle	"Mientras estábamos al lado de la primera estructura de piedra, pensamos en el Trígono Dorado y sentimos nuestra espada agitarse."					
 INFO_DARKTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra desgastada y enmohecida. #darkmoontrigon					
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra con un glifo circular que hacía referencia a la Luna Brillante. #brightmoontrigon					
