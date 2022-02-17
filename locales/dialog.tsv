@@ -143,7 +143,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			"En la Arboleda Trigonal, más allá de la
 				En un susurro nos dijo el nombre del inmortal espectro que habíamos despertado en la oscuridad bajo el Mingi Taw - La Masa Gogolítica.			166	023.jpg	O2B39
 				Conocíamos ese espeluznante nombre por las viejas historias y sentimos nuestra sangre helarse.					
 				"""Hasta ahora tenía la sensación de que La Masa Gogolítica te veía como a una especie de turista."""					
-			triangle/Triangle	"""Ahora que has aprendido la Canción de Espadachicería y domado al Trígono Dorado, descubrirás que cada paso que das está maldito."""					
+			triangle/Triangle	"""Ahora que has aprendido la Canción de Espadachicería y domado al Trígono Dorado, descubrirás que cada paso que des está maldito."""					
 				"No podíamos decir si el resplandeciente fantasma nos estaba animando, desalentando o qué."					
 				Le contamos al fantasma nuestra intención de detonar El Megatomo en la cima del Mingi Taw y liberar a La Masa Gogolítica de la inmortalidad.					
 			Archetype/trifecta	"Preguntamos sobre la Trigonal Trifecta y la ubicación de los Trígonos restantes, pero su respuesta fue irritantemente obtusa."					
@@ -206,7 +206,7 @@ LOGFELLA_LOSTKEYTHOUGHTS	Logfella			"Oh vaya, me gustaría que no estuviera llov
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba super aliviado de que hubiéramos conseguido recuperar su llave perdida en el reino crepuscular de los sueños.					
 				El leñador conocido como Tronco se preguntó cómo éramos tan inteligentes y nos preguntó sobre nuestro funesto cometido.					
 				Le contamos al leñador cómo habíamos llegado a la mayoría de edad en las estepas junto a nuestros intrépidos hermanos y hermanas escitas.					
-				"Le contamos a Tronco por qué vagabamos por aquí, en esta montaña desierta, y cómo nos guiaba el dedo de un Dios omnisciente."					
+				"Le contamos a Tronco por qué deambulabamos por aquí, en esta montaña desierta, y cómo nos guiaba el dedo de un Dios omnisciente."					
 			adventureUI/megatomeItem	Le contamos a Tronco lo que sospechábamos sobre las esotéricas marcas dentro de El Megatomo y lo que podían significar.					
 			gourd/gourd	Teníamos la corazonada de que necesitábamos invocar a unos cuantos duendecillos silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de cósmica geometría conocida como el Trígono Dorado.					
@@ -224,7 +224,7 @@ LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la 
 GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvanos más enviados hacia el cielo disiparán la incesante tormenta... ¡y entonces será el tiempo de los milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mi paseo por el sueño hay una quietud emocionante cuando la luna es más brillante... y cuando la luna es más oscura los bosques se vuelven salvajes.					
 				En el sueño siempre son los mismos lugares y espacios excepto cuando difieren según las fases de la luna.					
-				Cada noche desde que se disipó la tormenta he tenido ese mismo sueño en el que estoy vagando por el bosque justo antes del amanecer.					
+				Cada noche desde que se disipó la tormenta he tenido ese mismo sueño en el que estoy deambulando por el bosque justo antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosque puede ofrecer una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
 				Busca las sonoras espumas de los duendecillos silvanos e investiga sus alrededores.					
 				Una vez que hayas comenzado una canción de espadachicería puedes mantener presionado el aura espadachicera y deslizar para mirar alrededor.					
@@ -449,10 +449,10 @@ GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una roca junto al leñado
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Tronco había vuelto a su corte de leña y parecía estar realmente concentrado.					
 			triangle/Triangle	Tronco había visto el haz enviado a el cielo tras el prado y por eso le preguntamos sobre los secretos de la Arboleda Trigonal.					
 				Nos contó una vieja historia que su gente relataba habitualmente a sus hijos para asustarlos.					
-			Archetype/trifecta	Tronco habló de un pelotón de Escitas que llegó hace muchas lunas a estas montañas olvidadas buscando la Trigonal Trifecta.					
+			Archetype/trifecta	Tronco habló de un pelotón de Escitas que llegó hace muchas lunas a estas olvidadas montañas buscando la Trigonal Trifecta.					
 			gourd/gourd	El pelotón había aprendido a buscar a los duendecillos silvanos y enviarlos a el cielo... y luego habían buscado un lugar para realizar un milagro.					
 			Archetype/trifecta	"El pelotón esperaba envíar los tres haces hacia el cielo en la Arboleda Trigonal, pero no tenían ni idea de cuándo o dónde estaban los Trígonos."					
-				El pelotón vagó sin rumbo durante bastante tiempo por el antiguo camino hacia el Mingi Taw... en un momento determinado se cansaron y se detuvieron.					
+				El pelotón deambuló sin rumbo durante bastante tiempo por el antiguo camino hacia el Mingi Taw... en un momento determinado se cansaron y se detuvieron.					
 				"Entonces el pelotón fue aniquilado repentinamente por un inmortal espectro al margen del antiguo camino donde un puñado de tumbas perduran hasta el día de hoy."					
 				"Le dijimos a Tronco que la historia había estado bien, pero que no nos había asustado mucho."					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
@@ -464,7 +464,7 @@ MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			"Estuvimos tentados de abandon
 				Nos daba la sensación que todo esto de caminar en los sueños y domar Trígonos se estaba empezando a cobrar su peaje.					
 				"Cuando las luces y los sonidos se calmaron, nos encontramos a orillas de un lago con un dolor de cabeza brutal y una nariz ensangrentada."					
 GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trígono Luna Brillante y nuestra intención de reconstruir la Trigonal Trifecta.					
-				Samae dijo que nuestro encuentro en sueños parecía realmente genial y que le hubiera encantado haber estado allí. #lies					
+				Samae dijo que nuestro encuentro en sueños parecía realmente impresionante y que le hubiera encantado haber estado allí. #lies					
 				Samae nos preguntó si nos habíamos pasado por la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
 LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinaje por los sueños y obras milagrosas se había cobrado un alto precio en nuestra salud física.					
 				Tronco parecía sospechar que nuestro funesto cometido muy probablemente no tendría un final feliz.					
@@ -476,7 +476,7 @@ MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			"Además... llevar El Megatomo d
 				Nos sentíamos un poco peor por el desgaste... probablemente se debiera a todos esos haces de láser cósmico.					
 				"Cuando las luces y los sonidos cesaron, nos encontramos empapados por la fría lluvia en medio de una arboleda circular."					
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trígono Luna Oscura y nuestra intención de reconstruir la Trigonal Trifecta.					
-				Le contamos cómo acabamos con el ataque arcoíris del Trígono Luna Oscura y a ella le pareció realmente genial.					
+				Le contamos cómo acabamos con el ataque arcoíris del Trígono Luna Oscura y a ella le pareció realmente impresionante.					
 				No parecía importarle escuchar nuestras locas historias.					
 LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinar por los sueños y obras milagrosas había pasado factura en nuestra salud física.					
 			Archetype/trifecta	Tronco nos preguntó si habíamos visitado con Perrolega la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
@@ -545,8 +545,8 @@ GIRL_ALMOSTWANE	The Scythian			Samae se preguntó por qué tantos hongos crecía
 ARCHETYPE_ALMOSTWANE	The Archetype			"La luna está ligeramente menos brillante de lo que estaba ayer, y el ciclo lunar está empezando a disminuir."					
 LOGFELLA_HALFWANE	The Scythian			"El leñador tenía tolerancia cero al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
 				El leñador explicó que en Escitia y Persia el Mingi Taw era conocido como La Montaña Eterna.					
-				"El leñador habló de cómo, hace siglos, una raza olvidada había tallado un templo en la roca debajo del Mingi Taw."					
-				El leñador habló de los pasajes subterráneos y los espacios cavernosos excavados en la roca bajo el Mingi Taw.					
+				"El leñador habló de cómo, hace siglos, una olvidada raza había tallado un templo en la roca debajo del Mingi Taw."					
+				El leñador habló de los pasajes subterráneos y los cavernosos espacios excavados en la roca bajo el Mingi Taw.					
 				"Según el leñador, esos cavernosos espacios fueron creados hace siglos para custodiar El Megatomo."					
 GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá de la rocosa muralla y haber sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
 ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y la Luna Oscura está a poco menos de una semana de distancia.					
