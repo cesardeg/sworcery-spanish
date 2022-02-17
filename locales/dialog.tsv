@@ -103,7 +103,7 @@ INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #welfar
 INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un profundo estanque.					
-INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de leña cortada, no es para tanto."					
+INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de madera cortada, no es para tanto."					
 INFO_SPUME	The Scythian			Encontramos las sutiles sonoras espumas de un duendecillo adormilado. Y ahora... ¿cómo lo invocamos?					
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de curioso aspecto, ahora hogar de una desdichada colmena."			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Miramos una pajarera de desgastado aspecto que parecía una espeluznante cara.					
@@ -165,15 +165,15 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en la maleza al m
 				"""Bueno, lo que pasó fue que uno de los nuestros era un tramposo embustero y lo cogimos con las manos en la masa."""					
 				"""Estalló una pelea y el tramposo embustero huyó por el antiguo camino hacia el Precipicio Peligroso."""					
 				"""Así que estábamos preguntándonos qué hacer... cuando de repente apareció La Masa Gogolítica... ¡Buff!"""			113	027.jpg	62B75
-GRAVE_CHASM	The Scythian			Divisamos una solitaria tumba en el borde del Precipicio Peligroso y nos preguntamos quién la habitaría.					
-GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la solitaria tumba del tramposo embustero y conocimos a un fulgurante fantasma.					
+GRAVE_CHASM	The Scythian			Divisamos una solitaria tumba en el borde del Precipicio Peligroso y nos preguntamos de quién sería.					
+GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la solitaria tumba del tramposo embustero y conocimos a un fulgente fantasma.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André ""El Gigante"" reunió a un pelotón y nos propusimos reconstruir la Trigonal Trifecta."""					
 				"""Los otros integrantes del pelotón están enterrados en la maleza al margen del antiguo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar el Trigon de Oro con bastante facilidad pero no avanzamos nada después de eso."""					
 				"""Buscamos el Trigon Luna Brillante, así que decidimos sentarnos y observar el cielo, esperando que el estado de la luna cambiara."""					
 				"""¡Fue super aburrido! No iba a esperar días y días hasta que la Luna Brillante se alzara."""					
 				"""Abandoné a esos bobos para vagar sin rumbo mientras me hundía más y más en esa trampa lógico-lunar."""					
-				El fulgurante fantasma habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
+				El fulgente fantasma habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
 				"El fantasma describió sobre la opción de Fecha/Hora y los horrores que precedían al alterar el ciclo lunar con este método."					
 				"""La cosa es que, desde que hice trampa, sufrí siempre de una profunda angustia y morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			"Dentro de un titánico árbol hueco vimos una solitaria tumba, y eso nos despertó un poco la curiosidad."					
@@ -238,7 +238,7 @@ ARCHETYPE_TRIGONGROVE	The Archetype			¿Puedes sentirlo? ¿Estás empezando a en
 GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y nos dijo que se habían asustado hacia un rato.					
 			gourd/gourd	"Le dijimos a Samae que habíamos enviado cinco duendecillos silvanos hacia el cielo y nos dijo que, tal vez, el tiempo de los milagros estaba cerca."					
 				Pensamos que tal vez deberíamos ir a investigar el prado donde solían holgazanear las ovejas.					
-LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado el tiempo de los milagros y se preguntó si tal vez no estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
+LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado el tiempo de los milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Se está empezando a disipar la tormenta? Eso espero.					
 				Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo tan sombrío.					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco extraño... Sin duda algo está sucediendo... ¿Se está disipando la tormenta?					
