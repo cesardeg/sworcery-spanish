@@ -1,6 +1,6 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			"Lejos de las estepas de Escitia devastadas por la guerra, conocimos a una chica de cabello oscuro en un prado bañado por el sol. #helloworld"			72	001.jpg	Z0E1Q
-				"La gente montesa del Cáucaso la conocía como Samae, y parecía amable. #obviously"					
+				"La gente montesa del Cáucaso la conocía como Samae y parecía amable. #obviously"					
 SIGN_TADPOL	The Scythian			"""El hogar está donde se encuentra el corazón."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, estos son todos los reinos de los hombres. Mingi Taw es el Reino de las Nubes."""					
 SIGN_CHASM	The Scythian			"En el borde del Precipicio Peligroso, había una piedra tallada con el glifo de una espada bajo los colores del arcoíris."					
@@ -22,7 +22,7 @@ DOOR_UPSLOPEWOODS1	The Scythian			El antiguo camino al Mingi Taw estaba bloquead
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía en la maleza del bosque bajo el antiguo camino que asciende al Mingi Taw. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba leña. #obviously #woodchopping			71	007.jpg	7E+71
-				"La gente montesa del Cáucaso lo conocía como 'Tronco', y parecía afable."					
+				"La gente montesa del Cáucaso lo conocía como 'Tronco' y parecía afable."					
 				Tronco sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el antiguo camino.					
 				"Aún así, nos dio la sensación que no estaba super emocionado con tal encomienda."					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El leñador nos esperó para continuar al inicio del camino."			12	008.jpg	U0D88
