@@ -39,8 +39,8 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñad
 				"Y, sin embargo, Tronco ofreció cero ayuda sobre qué hacer a continuación, lo cual nos desconcertó un poco para ser sinceros."					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador vio algún tipo de espeluznante monstruo y supuso que era mejor dejarlo en nuestras manos.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado El Megatomo y Tronco estaba 100% listo para moverse a la seguridad de su morada.					
-				"Sentimos el acecho de una tormenta eléctrica y, aún así, una pequeña canción comenzó en nuestro corazón."					
-LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		"A la luz de la tormenta que se avecinaba, Tronco admitió en ese momento que tenía un poco de miedo."					
+				"Sentimos el acecho de una tormenta eléctrica y, aún así, una pequeña canción comenzó a sonar en nuestro corazón."					
+LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		"A la luz de la tormenta que se avecinaba, Tronco admitió en ese momento que estaba un poco preocupado."					
 				¿Estaba Tronco vacilándonos intencionadamente? #yes #no #maybe					
 				"En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo."					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y nos sentíamos super listos. #gotmegatome			40	011.jpg	81C1E
@@ -241,7 +241,7 @@ GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignifi
 LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado el tiempo de los milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Se está empezando a disipar la tormenta? Eso espero.					
 				Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo tan sombrío.					
-LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco extraño... Sin duda algo está sucediendo... ¿Se está disipando la tormenta?					
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco intranquilo... Sin duda algo está sucediendo... ¿Se está disipando la tormenta?					
 				"Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas."					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades del gran mago ""Al Jaffee""."					
@@ -529,7 +529,7 @@ GIRL_HALFWAX	The Scythian			"Anoche soñé que estaba caminando por el bosque y 
 ARCHETYPE_HALFWAX	The Archetype			Los folcloristas majaderos han afirmado que no hay relación causal entre la locura y las fases de la luna.					
 LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demasiado en la Masa Gogolítica y en la montaña desierta del Mingi Taw.					
 				"Sin embargo, dijo que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo."					
-				El leñador dijo que le daba un poco de miedo cuando la Luna Brillante se cernía sobre el cielo y cuando la Luna Oscura reinaba.					
+				El leñador dijo que le preocupaba cuando la Luna Brillante se cernía sobre el cielo y cuando la Luna Oscura reinaba.					
 GIRL_ALMOSTWAX	The Scythian			La muchacha comentó algo sobre la luna creciente... Se preguntó cuánto tiempo tardaría hasta que la Luna Brillante se alzara en el cielo.					
 ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece ligeramente con cada día que pasa... en pocos días se convertirá en la Luna Brillante... ¿Y qué?			165	046.jpg	P4B6A
 LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro parecía un poco extraño cada vez que la Luna Brillante se alzaba en el cielo.			135	061.jpg	M6F1I
