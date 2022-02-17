@@ -63,7 +63,7 @@ ARCHETYPE_FOUNDATION	The Archetype			Vamos a hablar sobre el conjunto y la confi
 				La canción de espadachicería puede entenderse como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
 				"Para detener la canción de espadachicería simplemente toca dos veces en el aura espadachicera que rodea a la Escita."					
 				"Una vez que hayas comenzado a cantar la canción de espadachicería, mantén presionado sobre el aura espadachicera y desliza para mirar alrededor."					
-				"Para cantar una canción de espadachicería, mantén presionado sobre la Escita durante un momento y observa cómo crece su aura espadachicera."					
+				"Para cantar la canción de espadachicería, mantén presionado sobre la Escita durante un momento y observa cómo crece su aura espadachicera."					
 				"Como puedes ver, El Megatomo recoge y almacena transmisiones de pensamiento lingüístico. Desplaza hacia abajo para ver qué estaba pensando antes."					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la Canción de Espadachicería y ahora el insondable poder de El Megatomo es tuyo."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
@@ -184,9 +184,9 @@ GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos 
 				"""Busca a los duendecillos silvanos en el camino tras de ti, con ojos y oidos abiertos a sus sonoras espumas."""					
 				"""Envía a los cinco duendecillos silvanos hacia el cielo para provocar un milagro que reveleará al Trígono que buscas."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
-				"""Busca la señal de los duendecillos silvanos y canta una Canción de Espadachicería para así revelear un Trígono escondido."""					
+				"""Busca la señal de los duendecillos silvanos y canta la Canción de Espadachicería para así revelear un Trígono escondido."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
-				"""Veo que la Canción del Trígono ha terminado por ahora. Me pregunto cuándo volveré a escucharla"""					
+				"""Veo que la Canción del Trígono ha terminado por ahora. Me pregunto cuándo volveré a escucharla."""					
 LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Tronco estaba totalmente fuera de sí por algo.					
 			AdventureUI/keyItem	"Al parecer Tronco había perdido la llave de la puerta de la rocosa muralla que bloqueaba el antiguo camino al Mingi Taw."					
 				"Nosotros estábamos en plan de ""otra misión de buscar y traer o ¿me equivoco?""."					
@@ -199,7 +199,7 @@ ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			"Pensamos en la vigilia y en la psicof
 				Busca un hogar cálido y permite que el sueño te arrope para descubrir el umbral de la liminalidad.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si vas a sentarte junto al fuego en la choza y cruzas el umbral liminal para encontrar la llave perdida de Tronco?			55	031.jpg	23C1X
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		"Vaya, Tronco está fuera de sí por algo... Me pregunto qué pasará. He preferido salir fuera y dejarlo solo un momento."					
-				He visto a la Escita cantar una Canción de Espadachicería y enviar tres duendecillos silvanos hacia el cielo. Me pregunto si ayudarán a disipar la tormenta.					
+				He visto a la Escita cantar la Canción de Espadachicería y enviar tres duendecillos silvanos hacia el cielo. Me pregunto si ayudarán a disipar la tormenta.					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que la Escita pueda encontrar mi llave... la perdí en la orilla arenosa de un plácido lago.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			"Oh vaya, me gustaría que no estuviera lloviendo fuera... Me gustaría que mis botas no estuvieran tan mojadas... Me gustaría volver a cortar leña."					
 				"¡Rayos!, ¿¡dónde está mi llave!? ¡Estoy tan furioso y avergonzado que estoy fuera de mí!"					
@@ -227,7 +227,7 @@ GIRL_SUPERMOTHERTREE	Girl			En mi paseo por el sueño hay una quietud emocionant
 				Cada noche desde que se disipó la tormenta he tenido ese mismo sueño en el que estoy deambulando por el bosque justo antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosque puede ofrecer una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
 				Busca las sonoras espumas de los duendecillos silvanos e investiga sus alrededores.					
-				Una vez que hayas comenzado una canción de espadachicería puedes mantener presionado el aura espadachicera y deslizar para mirar alrededor.					
+				Una vez que hayas comenzado la canción de espadachicería puedes mantener presionado el aura espadachicera y deslizar para mirar alrededor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adivinatorios pueden haber jugado un papel significativo en el desarrollo de la psique humana.					
 				"La evidencia arqueológica indica que el uso chamánico de hongos para la comunión religiosa, adivinación y curación es bastante antigua."					
 				"Fisiológicamente puedes notar sentimientos de bienestar y percepciones aumentadas, una disipación del estrés y una pérdida del apetito."					
@@ -245,7 +245,7 @@ LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco intranquilo... 
 				"Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas."					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades del gran mago ""Al Jaffee""."					
-				¿Sientes esa sensación tan peculiar? ¡Es el tiempo de los milagros! Canta una Canción de Espadachicería y busca los vigilantes enfadados pájaros.			76	038.jpg	A3G84
+				¿Sientes esa sensación tan peculiar? ¡Es el tiempo de los milagros! Canta la Canción de Espadachicería y busca los enfadados pájaros vigilantes.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira a el cielo en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira el Trígono Dorado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interesante la forma con que has manejado el encuentro con el caníbal cabeza de oso.			120	039.jpg	O3G9D
 				"No no, está bien, sólo que me pareció interesante. Nunca vi a nadie hacer lo que hiciste tú. Es excepcional, pero no te alarmes."					
@@ -331,7 +331,7 @@ DOG_AVATAR			AdventureUI/dudeDogfellaIdle1
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		EEstos dos tipos declararon encontrarse entre los creadores de este estrafalario mundo.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Los dos chistosos declararon encontrarse entre los creadores de este estrafalario mundo.			159	055.jpg	A5G55
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en la rica tierra de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
-GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Cantamos una Canción de Espadachicería e invocamos a un duendecillo silvano que suavemente dormitaba en las frescas aguas de un profundo estanque, ¡qué raro!"			50	057.jpg	G5F78
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Cantamos la Canción de Espadachicería e invocamos a un duendecillo silvano que suavemente dormitaba en las frescas aguas de un profundo estanque, ¡qué raro!"			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en una pajarera de curioso aspecto hogar de tres pájaros cantores empapados por la lluvia.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba junto a un puente de troncos sólidos donde cuatro pares de árboles se elevan sobre un río.					
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
@@ -501,7 +501,7 @@ LOGFELLA_FOUNDATION	Logfella			...
 				...					
 				...					
 SCYTHIAN_FOUNDATION	The Scythian			"Acabamos de despertar a un duendecillo silvano que suavemente dormitaba en un profundo estanque, al lado de una choza de piedra. Todo esto nos sorprende."					
-				"Con una tormenta sobre nuestras cabezas, hemos aprendido a cantar una Canción de Espadachicería e invocar a un duendecillo silvano dormitante."					
+				"Con una tormenta sobre nuestras cabezas, hemos aprendido a cantar la Canción de Espadachicería e invocar a un duendecillo silvano dormitante."					
 				Espera... ¿Por qué me estoy refiriendo a mí misma en primera persona? Pensaba que nuestra historia íbamos a contarla en segunda persona. #editingoversight					
 				¿Están mis pensamientos ordenados cronológicamente en el orden en que los he pensado? ¿Así que esto es lo que estaba pensando hace unos segundos?					
 				¿Esto es El Megatomo? ¿Absorbe transmisiones de pensamiento lingüístico? ¿Estoy leyendo mis pensamientos mientras los estoy pensando? Hmm...					
