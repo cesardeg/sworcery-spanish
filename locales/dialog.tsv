@@ -71,7 +71,7 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien he
 				"""Busca un triángulo blanco en la esquina superior derecha... presiónalo y equipa El Megatomo para revelar lo qué está oculto."""					
 LOGFELLA_STORM	The Scythian			El leñador conocido como Tronco había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Tronco nos recordó cómo la tormenta había comenzado poco después de que recuperaramos El Megatomo bajo el Mingi Taw.					
-				¿Acaso Tronco nos estaba sugiriendo sutilmente que tal vez deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
+				¿Acaso Tronco nos estaba sutilmente sugiriendo que deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de cabello oscuro conocida como Samae estaba bastante afligida. #woe					
 			gourd/gourd	"Desde que comenzó la tormenta, Samae había estado contemplando las sonoras espumas de los duendecillos silvanos que dormitaban en los bosques cercanos."					
 			gourd/gourd	Se preguntó si tal vez los tres duendecillos silvanos podrían ayudar a disipar la tormenta. #yes					
