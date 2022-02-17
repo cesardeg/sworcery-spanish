@@ -90,7 +90,7 @@ INFO_BIRDEYESCULPTURE	The Scythian			Miramos la escultura de un pájaro enfadado
 INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas ovejas insignificantes holgazaneando por el prado. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			"Otra oveja insignificante, ¿por qué seguimos mirándolas? #worthlesssheep"					
 INFO_MEADOWSUN	The Scythian			Podemos recordar vívidamente cuán impresionante parecía el sol en ese primer día de primavera.					
-INFO_MEADOWGATE	The Scythian			En el prado había una puerta de hierro inamovible bloqueando el paso a una cavernosa cueva.					
+INFO_MEADOWGATE	The Scythian			En el prado había una inamovible puerta de hierro bloqueando el paso a una cavernosa cueva.					
 INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había una puerta de hierro y tuvimos la sensación de que, tal vez, podríamos abrirla de alguna manera."					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de Trígono Dorado sobre la puerta de hierro, ¿tal vez reaccionaría a nuestra Canción de Espadachicería?"					
 INFO_MEADOWGATETRIGON	The Scythian			Descubrimos algo raro sobre la puerta de hierro.					
@@ -115,13 +115,13 @@ INFO_DARKTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructu
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra con un glifo circular que hacía referencia a la Luna Brillante. #brightmoontrigon					
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
-INFO_STONEHEAD	The Scythian			"En el Precipicio Peligroso había una enorme escultura de roca labrada, de familiar aspecto y con la boca entreabierta."			24	017.jpg	61B76
+INFO_STONEHEAD	The Scythian			"En el Precipicio Peligroso había una enorme escultura de roca labrada con la boca entreabierta y de familiar aspecto."			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			En el Precipio Peligroso había una enorme escultura de roca labrada y de familiar aspecto.					
 INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura de roca labrada se hallaba un siniestro mástil adornado con calaveras o algo por el estilo.					
 INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso se alzaba una especie de dolmen que custodiaba dos asientos de piedra de cómodo aspecto.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un sienestro asta adornado con una calavera astada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada rocosa de un templo en la montaña divisamos una representación pictográfica de la Trigonal Trifecta.					
-INFO_MOUNTAINGATE	The Scythian			En la profundidad del templo de la montaña divisamos una puerta de hierro inamovible. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
+INFO_MOUNTAINGATE	The Scythian			En la profundidad del templo de la montaña divisamos una inamovible puerta de hierro. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
 INFO_MOUNTAINGATETRIGON	The Scythian			"En la profundidad del templo de la montaña, por encima de un pasaje elevado, contemplamos tres extrañas formas triangulares."					
 INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			"En la profundidad del templo de la montaña, por encima de un pasaje elevado, contemplamos el icono de la Trigonal Trifecta."					
 INFO_CABINRECORD	The Scythian			En el interior de la choza descubrimos algo redondeado encima del fuego. #theballadofthespacebabies			46	019.jpg	P1D99
