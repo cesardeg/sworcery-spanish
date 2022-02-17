@@ -154,7 +154,7 @@ GRAVE_LOGBRIDGE	The Scythian			Vimos un puñado de tumbas en la maleza al margen
 GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en la maleza al margen del antiguo camino y nos encontramos con unos fantasmas que parecían amigables.			116	025.jpg	62B55
 				El imponente fantasma que habló fue un gigante que conocíamos por viejas historias cuyo famoso retrato demandaba obediencia. #andre					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, reuní a un pelotón y nos propusimos reconstruir la Trigonal Trifecta."""					
-				"""Habíamos oído hablar de la puerta de entrada al infinito en la cima del Mingi Taw y pensamos que sería genial verla."""					
+				"""Habíamos oído hablar de la puerta al infinito en la cima del Mingi Taw y pensamos que sería genial verla."""					
 			triangle/Triangle	"""Así que domamos el Trígono Dorado e investigamos la Arboleda Trigonal antes de salir a buscar el Trígono Luna Brillante."""					
 				"""Localizar el Trígono Luna Brillante no fue muy bien... acabamos bastante perdidos para ser honesto."""					
 				"""Poco a poco nos dimos cuenta de la importancia del ciclo lunar y su influencia en los duendecillos que duermen en los reinos del ocaso."""					
@@ -291,7 +291,7 @@ ARCHETYPE_TRIFECTAINTRO	The Archetype
 			Archetype/trifecta	Considera la cósmica geometría de la Trigonal Trifecta.					
 			MoonCrescent/moonCrescent	Observa los estados de la luna.			118	045.jpg	Y4E5Q
 				Nuestra investigación ha demostrado que aquellos pocos que persisten a través de la locura oblicua que sigue pueden convertirse en amigos cósmicos para siempre.					
-				Ten en cuenta que de ahora en adelante estaremos monitoreando todas tus entradas en relativo silencio.					
+				Ten en cuenta que de ahora en adelante estaremos monitoreando todas tus aportes en relativo silencio.					
 ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	¿Así que has domado los dos Trigones restantes y has reconstruido la Trigonal Trifecta?			165	046.jpg	P4B6A
 			Archetype/trifecta	"Eres especial, y esa es exactamente la razón por la que me encantas tanto."					
 				Fue muy valiente y generoso ofrecer como mártir a la Escita en la cima del Mingi Taw.					
@@ -431,11 +431,11 @@ GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra ext
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estoy bastante preocupada por la Escita... desapareció varios días después de que la tormenta se disipara. Espero que esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			"Vaya, ¿así que la Escita estaba desmayada en el prado? Qué locura."					
 DOGFELLA_GETDARKTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Perrolega.					
-			Archetype/trifecta	"De repente parecíamos comprenderlo, y nos instó a buscar el Trígono Luna Oscura y completar la Trigonal Trifecta."					
+			Archetype/trifecta	"De repente parecía que entendíamos a Perrolega, nos instó a buscar el Trígono Luna Oscura y completar la Trigonal Trifecta."					
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Perrolega.					
-			Archetype/trifecta	"De repente parecíamos comprenderlo, y nos instó a buscar el Trígono Luna Brillante y completar la Trigonal Trifecta."					
+			Archetype/trifecta	"De repente parecía que entendíamos a Perrolega, nos instó a buscar el Trígono Luna Brillante y completar la Trigonal Trifecta."					
 DOGFELLA_THREETRIGONS	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Perrolega.					
-			Archetype/trifecta	"De repente parecíamos comprenderlo, y nos instó a activar el tercer haz de luz y abrir una puerta de entrada al infinito."					
+			Archetype/trifecta	"De repente parecía que entendíamos a Perrolega, nos instó a activar el tercer haz de luz y abrir la puerta al infinito."					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
 				Guau Guau Sniff Guau.					
 				El arremolinado infinito del cosmos en la cima del Mingi Taw espera a aquel que carga con El Megatomo.					
@@ -465,7 +465,7 @@ MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			"Estuvimos tentados de abandon
 				"Cuando las luces y los sonidos se calmaron, nos encontramos a orillas de un lago con un dolor de cabeza brutal y una nariz ensangrentada."					
 GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trígono Luna Brillante y nuestra intención de volver a reconstruir la Trigonal Trifecta.					
 				Samae dijo que nuestro encuentro en sueños parecía realmente genial y que le hubiera encantado haber estado allí. #lies					
-				Nos preguntó si nos habíamos pasado por la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
+				Samae nos preguntó si nos habíamos pasado por la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
 LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinaje por los sueños y obras milagrosas se había cobrado un alto precio en nuestra salud física.					
 				Tronco parecía sospechar que nuestro funesto cometido muy probablemente no tendría un final feliz.					
 				Tronco nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
