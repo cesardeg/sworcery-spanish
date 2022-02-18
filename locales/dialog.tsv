@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			En la escarpada ladera del Mingi Taw una s
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la escarpada ladera del Mingi Taw una solitaria tumba marcaba el final de un camino de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima del Mingi Taw había un siniestro poste adornado con una calavera astada.					
 INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima del Mingi Taw descansaba una solitaria tumba como siniestro recuerdo de las muchas personas que habían muerto allí.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo engastado entre dos huesudas manos y sentimos nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo engastado entre dos esqueléticas manos y sentimos nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Una puerta pequeña sin pomo hecha de un material desconocido. Una señal reza 'Solo personal autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			Una puerta cerrada en la rocosa muralla bloqueaba el antiguo camino al Mingi Taw.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía en un matorral en el bosque bajo el antiguo camino que asciende al Mingi Taw. #moongrotto					
@@ -29,18 +29,18 @@ LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El leñador no
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el abismo y nos sentíamos super inteligentes.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Tronco que estábamos buscando un libro de siniestra magia conocido como El Megatomo.					
 			adventureUI/megatomeItem	"El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del precipicio, bajo el Mingi Taw."					
-			adventureUI/megatomeItem	Decidimos ir a por El Megatomo y luego escapar con vida.					
+			adventureUI/megatomeItem	Decidimos ir a por El Megatomo y despúes escapar con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador confirmó al 100% que el tenía la única llave para la puerta de la rocosa muralla.					
 			AdventureUI/keyItem	Era una llave realmente bonita.					
 				Estábamos totalmente preparados para mantener presionado el camino para avanzar.					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Tronco nos esperaría aquí a que volvieramos con El Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Tronco había elegido relajarse en un refugio de piedra cerca del Peligroso Precipicio.					
 				Tronco parecía saberlo todo acerca del repugnante arcoíris y el glifo que representaba a una espada que miraba hacia el cielo.					
-				"Y, sin embargo, Tronco ofreció cero ayuda sobre qué hacer a continuación, lo cual nos desconcertó un poco para ser sinceros."					
-LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador vio algún tipo de espeluznante monstruo y supuso que era mejor dejarlo en nuestras manos.			26	010.jpg	Q1B00
+				"Y, sin embargo, Tronco no ofreció ninguna ayuda sobre qué hacer a continuación, lo cual nos desconcertó un poco, si somos sinceros."					
+LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto algún tipo de espeluznante monstruo y supuso que era mejor dejarlo en nuestras manos.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado El Megatomo y Tronco estaba 100% listo para llevarlo a la seguridad de su morada.					
 				"Sentimos el acecho de una tormenta eléctrica y, aún así, una pequeña canción comenzó a sonar en nuestro corazón."					
-LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		"A la luz de la tormenta que se avecinaba, Tronco admitió en ese momento que estaba un poco preocupado."					
+LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		"A la luz de la tormenta que se avecinaba, Tronco admitió en ese momento que estaba muy preocupado."					
 				¿Estaba Tronco vacilándonos intencionadamente? #yes #no #maybe					
 				"En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo."					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y nos sentíamos super listos. #gotmegatome			40	011.jpg	81C1E
@@ -138,7 +138,7 @@ INFO_ROCKSHOWARCHETYPE	The Scythian			En el concierto de rock divisamos al tipo 
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Un siniestro poste adornado con una calavera astada conecta este lugar con el inmortal espectro que acecha bajo el Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			"En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, divisamos una solitaria tumba que despertó nuestra curiosidad."					
 GRAVE_TRIGONGROVEGHOST	The Scythian			"En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, nos acercamos a una solitaria tumba donde nos recibió un resplandeciente fantasma."					
-				"El resplandeciente fantasma de la Arboleda Trigonal nos asustó un poco al principio, para ser sinceros."			96	022.jpg	T2B2H
+				"El resplandeciente fantasma de la Arboleda Trigonal nos asustó un poco al principio, si somos sinceros."			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Reconoció nuestro atuendo Escita y vio que poseíamos El Megatomo. Se preguntó si comprendíamos las esotéricas marcas que contenía.					
 				En un susurro nos dijo el nombre del inmortal espectro que habíamos despertado en la oscuridad bajo el Mingi Taw - La Masa Gogolítica.			166	023.jpg	O2B39
 				Conocíamos ese espeluznante nombre por las viejas historias y sentimos nuestra sangre helarse.					
@@ -167,7 +167,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al
 				"""Así que estábamos preguntándonos qué hacer... cuando de repente apareció La Masa Gogolítica... ¡Buff!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Divisamos una solitaria tumba en el borde del Peligroso Precipicio y nos preguntamos de quién sería.					
 GRAVE_CHASMGHOST	The Scythian			En el Peligroso Precipicio nos acercamos a la solitaria tumba del tramposo bribón y conocimos a un fulgente fantasma.					
-			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André ""El Gigante"" armó a un pelotón y nos propusimos reconstruir la Trigonal Trifecta."""					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André 'El Gigante' armó a un pelotón y nos propusimos reconstruir la Trigonal Trifecta."""					
 				"""Los otros integrantes del pelotón están enterrados en un matorral al margen del antiguo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar el Trígono Dorado con bastante facilidad pero no avanzamos nada después de eso."""					
 				"""Buscamos el Trígono Luna Brillante, así que decidimos sentarnos y observar el cielo, esperando que la fase de la luna cambiara."""					
@@ -241,7 +241,7 @@ GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignifi
 LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado el tiempo de los milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Se está empezando a disipar la tormenta? Eso espero.					
 				Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo tan sombrío.					
-LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento un poco intranquilo... Sin duda algo está sucediendo... ¿Se está disipando la tormenta?					
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento realmente intranquilo... Sin duda algo está sucediendo... ¿Se está disipando la tormenta?					
 				"Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas."					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades del gran mago ""Al Jaffee""."					
@@ -280,7 +280,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				¿Abrumado? Excelente. Mantén la calma y continúa.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la cósmica geometría del Trígono Dorado.			86	044.jpg	24E4H
 				"Milagrosamente, la siniestra tormenta se ha disipado y la gloriosa luz del sol ha vuelto al reino, lo que está muy bien."					
-				"Tus heroicas hazañas reflejan bien tu percepción, intuición y perseverancia - ¡Lo has hecho excelente hasta ahora!"					
+				"Tus heroicas hazañas reflejan bien tu percepción, intuición y perseverancia - ¡Lo has hecho muy bien hasta ahora!"					
 				"Nota: Si decides continuar con el experimento S:S&S EP, las cualidades antes mencionadas serán desafiadas y puestas a prueba."					
 				"En cualquier caso, vamos a tomarnos otro pequeño descanso, ¿no crees? Como siempre, estaré justo aquí cuando quieras comenzar con la sesión III."					
 ARCHETYPE_TRIFECTAINTRO	The Archetype								
@@ -525,32 +525,32 @@ ARCHETYPE_CRESCENTWAX	The Archetype			"La brizna de una luna creciente ha aparec
 LOGFELLA_HALFWAX	The Scythian			"El leñador admitió que sí, que de hecho había cortado una cantidad decente de leña a tiempo."					
 				"Habló de los helados inviernos y las profundas nieves que gobernaban las poderosas montañas del Cáucaso, aquellas que se elevaban por encima de las estepas de Escitia."					
 				El leñador esperaba tener suficiente comida y leña para sobrevivir los largos y fríos meses que estaban por llegar.					
-GIRL_HALFWAX	The Scythian			"Anoche soñé que estaba caminando por el bosque y estaba como loca por comerme una magdalena, pero encontré cero."			108	078.jpg	07D87
+GIRL_HALFWAX	The Scythian			"Anoche soñé que estaba caminando por el bosque y deseando una magdalena, pero había magdalenas."			108	078.jpg	07D87
 ARCHETYPE_HALFWAX	The Archetype			Los folcloristas majaderos han afirmado que no hay relación causal entre la locura y las fases de la luna.					
 LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demasiado en la Masa Gogolítica y en la montaña desierta del Mingi Taw.					
 				"Sin embargo, dijo que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo."					
-				El leñador dijo que le inquietaba cuando la Luna Brillante se cernía sobre el cielo y cuando la Luna Oscura reinaba.					
+				El leñador admitió que le inquietaba cuando la Luna Brillante se cernía sobre el cielo... y cuando la Luna Oscura reinaba.					
 GIRL_ALMOSTWAX	The Scythian			La muchacha comentó algo sobre la luna creciente... Se preguntó cuánto tiempo tardaría hasta que la Luna Brillante se alzara en el cielo.					
 ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece ligeramente con cada día que pasa... en pocos días se convertirá en la Luna Brillante... ¿Y qué?			165	046.jpg	P4B6A
-LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro parecía un poco extraño cada vez que la Luna Brillante se alzaba en el cielo.			135	061.jpg	M6F1I
+LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba un poco extraño cada vez que la Luna Brillante se alzaba en el cielo.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			"Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, con la Luna Brillante acercándose a el cielo."					
 				Habló del aire fresco de la mañana y de una isla imposible en medio de un plácido lago.					
 ARCHETYPE_BRIGHTMOON	The Archetype			"Sal fuera y mira hacia arriba, ¡maravíllate con la Luna Brillante que se avecina!"			95	079.jpg	07D95
-LOGFELLA_ALMOSTWANE	The Scythian			"El leñador tenía tolerancia cero al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
+LOGFELLA_ALMOSTWANE	The Scythian			"El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
 				El leñador sabía todo sobre el Mingi Taw y por qué era conocido como El Reino de las Nubes.					
 				"Sabía que el Mingi Taw era la montaña más alta del mundo conocido, más alta incluso que el Monte Olimpo, donde habitaban los dioses Aqueos."					
 				"También sabía que la cima del Mingi Taw, siempre envuelta en nubes, era considerada la entrada al arremolinado infinito."					
 				"El leñador nunca se había atrevido a pisar las temibles laderas del Mingi Taw, y nunca lo haría."					
 GIRL_ALMOSTWANE	The Scythian			Samae se preguntó por qué tantos hongos crecían inmediatamente antes y después de la Luna Brillante... ¿Cuál era la causa?					
 ARCHETYPE_ALMOSTWANE	The Archetype			"La luna está ligeramente menos brillante de lo que estaba ayer, y el ciclo lunar está empezando a disminuir."					
-LOGFELLA_HALFWANE	The Scythian			"El leñador tenía tolerancia cero al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
+LOGFELLA_HALFWANE	The Scythian			"El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
 				El leñador explicó que en Escitia y Persia el Mingi Taw era conocido como La Montaña Eterna.					
 				"El leñador habló de cómo, hace siglos, una olvidada raza había tallado un templo en la roca debajo del Mingi Taw."					
 				El leñador habló de los pasajes subterráneos y los cavernosos espacios excavados en la roca bajo el Mingi Taw.					
 				"Según el leñador, esos cavernosos espacios fueron creados hace siglos para custodiar El Megatomo."					
 GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá de la rocosa muralla y haber sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
 ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y la Luna Oscura está a poco menos de una semana de distancia.					
-LOGFELLA_CRESCENTWANE	The Scythian			"El leñador tenía tolerancia cero al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
+LOGFELLA_CRESCENTWANE	The Scythian			"El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
 				"El leñador conocía a la Masa Gogolítica, el inmortal espectro que acechaba en la oscuridad bajo el Mingi Taw."					
 				"Tronco habló del arremolinado infinito, más allá de nuestra comprensión, del que surgió El Megatomo en la apenas recordada edad de piedra."					
 				Habló de una raza de seres inmortales del espacio que provocó en la humanidad una forma rudimentaria de pensamiento y transmisión lingüística.					
