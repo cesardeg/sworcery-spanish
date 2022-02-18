@@ -98,9 +98,9 @@ INFO_LOCKEDDOORSTONEWALL	The Scythian			"Una puerta cerrada en la rocosa muralla
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Descubrimos la escultura de un enfadado pájaro que se cernía sobre el prado. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			Descubrimos un báculo de extraño aspecto sobre el prado.					
 INFO_CABINWELL	The Scythian			Descubrimos un pozo sólidamente construido con un amplio tejado de madera.					
-INFO_UNWELLWELL	The Scythian			The well seemed unwell. #unwell #well					
-INFO_WELLNESS	The Scythian			All's well that ends well. #unwell #well #welfare					
-INFO_WELLWHITESTAG	The Scythian			Long live new flesh					
+INFO_UNWELLWELL	The Scythian			El pozo parecía estar indispuesto. #unwell #well					
+INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #welfare					
+INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un profundo estanque.					
 INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de madera cortada, no es para tanto."					
