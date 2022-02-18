@@ -11,9 +11,9 @@ SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del ant
 				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...allí donde se pueden alterar las fases de la luna."""					
 				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			Al margen del antiguo camino había una piedra tallada con un par de glifos con la forma de una espada y un escudo. #hinthint			16	004.jpg	T0C4X
-SIGN_ANTECHAMBERLEFT	The Scythian			"En un pasaje subterráneo descubrimos una ominosa estatua, pero no le prestamos demasiada atención. #lore"			29	005.jpg	V0B53
-INFO_CROSSMOUNTAINLEFT	The Scythian			En las escarpadas montañas del Mingi Taw una solitaria tumba marcaba el final de un camino de grava.					
-INFO_CROSSMOUNTAINRIGHT	The Scythian			En las escarpadas montañas del Mingi Taw una solitaria tumba marcaba el final de un camino de grava.					
+SIGN_ANTECHAMBERLEFT	The Scythian			"En un pasaje subterráneo descubrimos una ominosa estatua a la que no le prestamos demasiada atención. #lore"			29	005.jpg	V0B53
+INFO_CROSSMOUNTAINLEFT	The Scythian			En la escarpada ladera del Mingi Taw una solitaria tumba marcaba el final de un camino de grava.					
+INFO_CROSSMOUNTAINRIGHT	The Scythian			En la escarpada ladera del Mingi Taw una solitaria tumba marcaba el final de un camino de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima del Mingi Taw había un siniestro poste adornado con una calavera astada.					
 INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima del Mingi Taw descansaba una solitaria tumba como siniestro recuerdo de las muchas personas que habían muerto allí.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo engastado entre dos huesudas manos y sentimos nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
@@ -90,10 +90,10 @@ INFO_BIRDEYESCULPTURE	The Scythian			Descubrimos una escultura de un enfadado p�
 INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas ovejas insignificantes holgazaneando por el prado. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			"Otra oveja insignificante, ¿por qué seguimos mirándolas? #worthlesssheep"					
 INFO_MEADOWSUN	The Scythian			Podemos recordar vívidamente cuán impresionante parecía el sol en ese primer día de primavera.					
-INFO_MEADOWGATE	The Scythian			En el prado había una inamovible verja de hierro bloqueando el paso a una cavernosa cueva.					
-INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había una verja de hierro y tuvimos la sensación de que, tal vez, podríamos abrirla de alguna manera."					
-INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de Trígono Dorado sobre la verja de hierro, ¿tal vez reaccionaría a nuestra Canción de Espadachicería?"					
-INFO_MEADOWGATETRIGON	The Scythian			Descubrimos un nosequé sobre la verja de hierro.					
+INFO_MEADOWGATE	The Scythian			En el prado había un inamovible portón de hierro bloqueando el paso a una cavernosa cueva.					
+INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había un portón de hierro y tuvimos la sensación de que, tal vez, podríamos abrirla de alguna manera."					
+INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de Trígono Dorado sobre el portón de hierro, ¿tal vez reaccionaría a nuestra Canción de Espadachicería?"					
+INFO_MEADOWGATETRIGON	The Scythian			Descubrimos un nosequé sobre el portón de hierro.					
 INFO_LOCKEDDOORSTONEWALL	The Scythian			"Una puerta cerrada en la rocosa muralla bloqueaba el antiguo camino al Mingi Taw y, al parecer, la llave estaba perdida en los sueños."					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Descubrimos la escultura de un enfadado pájaro que se cernía sobre el prado. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			Descubrimos un báculo de extraño aspecto sobre el prado.					
@@ -121,7 +121,7 @@ INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura de roca labrada
 INFO_CHASMSTONESHELTER	The Scythian			A un lado del Peligroso Precipicio se alzaba una especie de dolmen que custodiaba dos asientos de piedra de cómodo aspecto.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un sienestro poste adornado con una calavera astada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la rocosa entrada de un templo en la montaña divisamos una representación pictográfica de la Trigonal Trifecta.					
-INFO_MOUNTAINGATE	The Scythian			En la profundidad del templo de la montaña divisamos una inamovible verja de hierro. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
+INFO_MOUNTAINGATE	The Scythian			En la profundidad del templo de la montaña divisamos un inamovible portón de hierro. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
 INFO_MOUNTAINGATETRIGON	The Scythian			"En la profundidad del templo de la montaña, por encima de un pasaje elevado, descubrimos tres extrañas formas triangulares."					
 INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			"En la profundidad del templo de la montaña, por encima de un pasaje elevado, descubrimos el símbolo de la Trigonal Trifecta."					
 INFO_CABINRECORD	The Scythian			En el interior de la choza descubrimos un pequeño y redondeado cacharro encima del fuego. #theballadofthespacebabies			46	019.jpg	P1D99
@@ -418,10 +418,10 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Nos despertamos aturdidos de un su
 			triangle/Triangle	Recordamos el milagro en el prado y nuestro encuentro con el Trígono Dorado... 					
 			triangle/Triangle	...¿Qué nuevos poderes nos habrían sido concedidos?					
 			triangle/Triangle	Tronco estaba totalmente anonadado cuando le contamos cómo fue la batalla contra el Trígono Dorado.			81	071.jpg	R7C14
-			triangle/Triangle	Tronco preguntó de que modo el Trígono Dorado podría estar conectado con los sombríos misterios de más allá de la verja de hierro del prado..					
+			triangle/Triangle	Tronco preguntó de que modo el Trígono Dorado podría estar conectado con los sombríos misterios de más allá del portón de hierro del prado..					
 				Tronco no quiso excavar en más sombríos misterios y decidió volver a casa y empezar a cortar madera. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Tronco estaba super encantado de que la tormenta se hubiera disipado y estaba super emocionado de volver a cortar leña de nuevo.					
-				Nos preguntó si sabíamos algo sobre la verja de hierro del prado que bloqueaba la cavernosa cueva... ¿de qué iba todo eso?					
+				Nos preguntó si sabíamos algo sobre el portón de hierro del prado que bloqueaba la cavernosa cueva... ¿de qué iba todo eso?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Es extraño... He visto un haz dorado elevarse hacia el cielo en los bosques tras el prado... ¿Habrá aprendido alguien los secretos de la Arboleda Trigonal?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			"Estoy muy preocupado por la Escita, parece hecha un desastre."					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija contemplaron cómo recobrábamos el sentido.					
