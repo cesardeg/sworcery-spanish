@@ -3,11 +3,11 @@ GIRL_TONGUES	Girl			"Lejos de las estepas de Escitia devastadas por la guerra, c
 				"La gente montesa del Cáucaso la conocía como Samae y parecía amable. #obviously"					
 SIGN_TADPOL	The Scythian			"""El hogar está donde se encuentra el corazón."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, estos son todos los reinos de los hombres. Mingi Taw es el Reino de las Nubes."""					
-SIGN_CHASM	The Scythian			"En el borde del Precipicio Peligroso, había una piedra tallada con el glifo de una espada bajo los colores del arcoíris."					
+SIGN_CHASM	The Scythian			"En el borde del Peligroso Precipicio, había una piedra tallada con el glifo de una espada alzada bajo los colores del arcoíris."					
 				"Nosotros, los escitas, detestamos los arcoíris. #loathsomerainbows"			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de glifos indescifrables.					
 				En medio de los glifos indescifrables descubrimos una serie de glifos lunares.					
-SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de glifos lunares que logramos descifrar.					
+SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de glifos lunares antes indescifrables.					
 				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...allí donde se pueden alterar las fases de la luna."""					
 				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			Al margen del antiguo camino había una piedra tallada con un par de glifos con la forma de una espada y un escudo. #hinthint			16	004.jpg	T0C4X
@@ -34,7 +34,7 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador confirmó al 1
 			AdventureUI/keyItem	Era una llave realmente bonita.					
 				Estábamos totalmente preparados para mantener presionado el camino para moverlo.					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Tronco nos esperaría aquí a que volvieramos con El Megatomo.					
-LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Tronco había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
+LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Tronco había elegido relajarse en un refugio de piedra cerca del Peligroso Precipicio.					
 				Tronco parecía saberlo todo acerca del repugnante arcoíris y el glifo que representaba a una espada que miraba hacia el cielo.					
 				"Y, sin embargo, Tronco ofreció cero ayuda sobre qué hacer a continuación, lo cual nos desconcertó un poco para ser sinceros."					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador vio algún tipo de espeluznante monstruo y supuso que era mejor dejarlo en nuestras manos.			26	010.jpg	Q1B00
@@ -115,10 +115,10 @@ INFO_DARKTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructu
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra con un glifo circular que hacía referencia a la Luna Brillante. #brightmoontrigon					
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
-INFO_STONEHEAD	The Scythian			"En el Precipicio Peligroso había una enorme escultura de roca labrada con la boca entreabierta y de familiar aspecto."			24	017.jpg	61B76
+INFO_STONEHEAD	The Scythian			"En el Peligroso Precipicio había una enorme escultura de roca labrada con la boca entreabierta y de familiar aspecto."			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			En el Precipio Peligroso había una enorme escultura de roca labrada y de familiar aspecto.					
 INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura de roca labrada se hallaba un siniestro mástil adornado con calaveras o algo por el estilo.					
-INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso se alzaba una especie de dolmen que custodiaba dos asientos de piedra de cómodo aspecto.			25	018.jpg	O1C8M
+INFO_CHASMSTONESHELTER	The Scythian			A un lado del Peligroso Precipicio se alzaba una especie de dolmen que custodiaba dos asientos de piedra de cómodo aspecto.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un sienestro poste adornado con una calavera astada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la rocosa entrada de un templo en la montaña divisamos una representación pictográfica de la Trigonal Trifecta.					
 INFO_MOUNTAINGATE	The Scythian			En la profundidad del templo de la montaña divisamos una inamovible puerta de hierro. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
@@ -163,10 +163,10 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al
 				"""Bueno, en realidad morimos debido a una discusión que tuvimos a causa del aburrimiento."""					
 				"""Realmente no quiero entrar en detalles ahora mismo, si no te importa."""					
 				"""Bueno, lo que pasó fue que uno de los nuestros era un tramposo bribón y lo atrapamos con las manos en la masa."""					
-				"""Estalló una pelea y el tramposo bribón huyó por el antiguo camino hacia el Precipicio Peligroso."""					
+				"""Estalló una pelea y el tramposo bribón huyó por el antiguo camino hacia el Peligroso Precipicio."""					
 				"""Así que estábamos preguntándonos qué hacer... cuando de repente apareció La Masa Gogolítica... ¡Buff!"""			113	027.jpg	62B75
-GRAVE_CHASM	The Scythian			Divisamos una solitaria tumba en el borde del Precipicio Peligroso y nos preguntamos de quién sería.					
-GRAVE_CHASMGHOST	The Scythian			En el Precipicio Peligroso nos acercamos a la solitaria tumba del tramposo bribón y conocimos a un fulgente fantasma.					
+GRAVE_CHASM	The Scythian			Divisamos una solitaria tumba en el borde del Peligroso Precipicio y nos preguntamos de quién sería.					
+GRAVE_CHASMGHOST	The Scythian			En el Peligroso Precipicio nos acercamos a la solitaria tumba del tramposo bribón y conocimos a un fulgente fantasma.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André ""El Gigante"" armó a un pelotón y nos propusimos reconstruir la Trigonal Trifecta."""					
 				"""Los otros integrantes del pelotón están enterrados en un matorral al margen del antiguo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar el Trígono Dorado con bastante facilidad pero no avanzamos nada después de eso."""					
@@ -216,7 +216,7 @@ LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñ
 GIRL_FOUNDKEY	The Scythian			Encontramos empapada a Samae de pie a lado del camino.					
 			gourd/gourd	Había oído las sutiles sonoras espumas de los duendecillos silvanos más alla de la rocosa muralla en el antiguo camino al Mingi Taw.					
 			gourd/gourd	Habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
-			gourd/gourd	Habló de un débil arcoíris en el borde del Precipicio Peligroso.					
+			gourd/gourd	Habló de un débil arcoíris en el borde del Peligroso Precipicio.					
 			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos perdíamos o nos confundíamos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la llave si eso significa disipar la tormenta.					
 				Debo haber asentido en algún momento durante la super épica historia de la Escita. Tengo una tolerancia muy baja para el folclore.					
@@ -334,7 +334,7 @@ GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamo
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Cantamos la Canción de Espadachicería e invocamos a un duendecillo silvano que suavemente dormitaba en las frescas aguas de un profundo estanque, ¡qué raro!"			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en una pajarera de curioso aspecto hogar de tres pájaros cantores empapados por la lluvia.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba junto a un puente de troncos donde cuatro pares de árboles se elevan sobre un río.					
-GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba entre dos arcoíris repugnantes al lado del Peligroso Precipicio.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba en un matorral en lo alto de un peñasco rocoso.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que dormitaba en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
