@@ -90,17 +90,17 @@ INFO_BIRDEYESCULPTURE	The Scythian			Descubrimos una escultura de un enfadado p�
 INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas ovejas insignificantes holgazaneando por el prado. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			"Otra oveja insignificante, ¿por qué seguimos mirándolas? #worthlesssheep"					
 INFO_MEADOWSUN	The Scythian			Podemos recordar vívidamente cuán impresionante parecía el sol en ese primer día de primavera.					
-INFO_MEADOWGATE	The Scythian			En el prado había una inamovible puerta de hierro bloqueando el paso a una cavernosa cueva.					
-INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había una puerta de hierro y tuvimos la sensación de que, tal vez, podríamos abrirla de alguna manera."					
-INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de Trígono Dorado sobre la puerta de hierro, ¿tal vez reaccionaría a nuestra Canción de Espadachicería?"					
-INFO_MEADOWGATETRIGON	The Scythian			Descubrimos algo raro sobre la puerta de hierro.					
+INFO_MEADOWGATE	The Scythian			En el prado había una inamovible verja de hierro bloqueando el paso a una cavernosa cueva.					
+INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había una verja de hierro y tuvimos la sensación de que, tal vez, podríamos abrirla de alguna manera."					
+INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de Trígono Dorado sobre la verja de hierro, ¿tal vez reaccionaría a nuestra Canción de Espadachicería?"					
+INFO_MEADOWGATETRIGON	The Scythian			Descubrimos un nosequé sobre la verja de hierro.					
 INFO_LOCKEDDOORSTONEWALL	The Scythian			"Una puerta cerrada en la rocosa muralla bloqueaba el antiguo camino al Mingi Taw y, al parecer, la llave estaba perdida en los sueños."					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Descubrimos la escultura de un enfadado pájaro que se cernía sobre el prado. #subtlereference					
-INFO_MEADOWSUNSTICK	The Scythian			Vimos un báculo de extraño aspecto con vistas al prado.					
-INFO_CABINWELL	The Scythian			Descubrimos un pozo de agua sólidamente construido con un amplio techo de madera.					
-INFO_UNWELLWELL	The Scythian			El pozo parecía estar indispuesto. #unwell #well					
-INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #welfare					
-INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE					
+INFO_MEADOWSUNSTICK	The Scythian			Descubrimos un báculo de extraño aspecto sobre el prado.					
+INFO_CABINWELL	The Scythian			Descubrimos un pozo sólidamente construido con un amplio tejado de madera.					
+INFO_UNWELLWELL	The Scythian			The well seemed unwell. #unwell #well					
+INFO_WELLNESS	The Scythian			All's well that ends well. #unwell #well #welfare					
+INFO_WELLWHITESTAG	The Scythian			Long live new flesh					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un profundo estanque.					
 INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de madera cortada, no es para tanto."					
@@ -121,7 +121,7 @@ INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura de roca labrada
 INFO_CHASMSTONESHELTER	The Scythian			A un lado del Peligroso Precipicio se alzaba una especie de dolmen que custodiaba dos asientos de piedra de cómodo aspecto.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un sienestro poste adornado con una calavera astada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la rocosa entrada de un templo en la montaña divisamos una representación pictográfica de la Trigonal Trifecta.					
-INFO_MOUNTAINGATE	The Scythian			En la profundidad del templo de la montaña divisamos una inamovible puerta de hierro. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
+INFO_MOUNTAINGATE	The Scythian			En la profundidad del templo de la montaña divisamos una inamovible verja de hierro. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
 INFO_MOUNTAINGATETRIGON	The Scythian			"En la profundidad del templo de la montaña, por encima de un pasaje elevado, descubrimos tres extrañas formas triangulares."					
 INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			"En la profundidad del templo de la montaña, por encima de un pasaje elevado, descubrimos el símbolo de la Trigonal Trifecta."					
 INFO_CABINRECORD	The Scythian			En el interior de la choza descubrimos un pequeño y redondeado cacharro encima del fuego. #theballadofthespacebabies			46	019.jpg	P1D99
@@ -370,12 +370,12 @@ GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		"También 
 				Hay dos tipos de incógnitas: las incógnitas conocidas y las incógnitas desconocidas.			32	063.jpg	L6E31
 				Guau Guau Guau. 					
 GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		"Mi leña guarda muchos secretos... secretos sobre los duendecillos silvanos e islas imposibles. Lamentablemente, no hablo leño."					
-				"En mi experiencia, hay momentos en que los búhos no son lo que parecen y otras veces son simples búhos."			126	064.jpg	86A47
-GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		¿Has oído hablar o has leído en internet sobre una isla imposible bajo una Luna Brillante que se avecina?			134	065.jpg	H6A5I
+				"En mi experiencia, hay momentos en que los búhos no son lo que parecen... y otros que son simples búhos."			126	064.jpg	86A47
+GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oído hablar sobre una isla imposible bajo la Luna Brillante, puede que... ¿lo hayas leído en internet?			134	065.jpg	H6A5I
 				"Hemos estado siguiendo silenciosamente tus acciones y nos gustaría señalar que cuanto más larga sea la duda, más pequeña será la celebración."					
-				"Parece que te has esforzado significativamente para localizar y domar al Trígono Luna Brillante, muy bien hecho."					
-GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		"¿Son los duendecillos silvanos los niños de la Tierra, o son visitantes solitarios del arremolinado infinito?"					
-				"Para ser honesta, los duendecillos silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde salen?"					
+				"Parece que has progresado bastante en tu esfuerzo para localizar y domar al Trígono Luna Brillante, muy bien hecho."					
+GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		"¿Son los duendecillos silvanos hijos de la madre Tierra o son visitantes solitarios del arremolinado infinito?"					
+				"Para ser honesta, los duendecillos silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?"					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendecillos hayan sido enviados hacia el cielo y el tiempo de los milagros se acerque, debes buscar el titánico árbol."					
 				Sé que sabes lo que sé y quiero que sepas que tienes razón al 100%.			109	066.jpg	F6D6H
 				Guau Guau Guau Sniff Guau Guau Guau.					
@@ -406,7 +406,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Volver a cruzar el umbral de la limina
 				"Cuando estás lúcido en un sueño te darás cuenta de quién has imaginado ser... pero identificarse con el sueño es convertirse en hechizado."					
 				Incluso en un bien conocido sueño siempre hay lugares nuevos por explorar y conexiones que considerar... si continúas creyendo.					
 GIRL_MOONGROTTOCOMMENT	Girl			Me siento como si el cosmos acabara de dar un vuelco y ahora todo estuviera un poco... apagado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino del 0 al 1, y si un alien dijera 'Hola Mundo' sería en un código críptico en el estéreo. Espera... ¿qué?"					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino del 0 al 1, y si un alien dijera 'hola' sería en un código críptico en el estéreo. Espera... ¿qué?"					
 GIRL_HUGETREETHOUGHTS	Girl			"Por supuesto, nunca le hablo a la gente sobre estos sueños de la diosa/árbol porque probablemente me llamarían hippie o algo parecido."					
 				"En mi lugar especial, visito un titánico árbol hueco... Es una diosa muerta desde hace mucho tiempo y que precede a la humanidad desde eternos eones."					
 				"En mi sueño hay un lugar especial al que siempre voy, una arboleda circular en el corazón del mundo."					
@@ -418,10 +418,10 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Nos despertamos aturdidos de un su
 			triangle/Triangle	Recordamos el milagro en el prado y nuestro encuentro con el Trígono Dorado... 					
 			triangle/Triangle	...¿Qué nuevos poderes nos habrían sido concedidos?					
 			triangle/Triangle	Tronco estaba totalmente anonadado cuando le contamos cómo fue la batalla contra el Trígono Dorado.			81	071.jpg	R7C14
-			triangle/Triangle	Tronco preguntó de que modo el Trígono Dorado podría estar conectado con los sombríos misterios de más allá de la puerta de hierro del prado..					
+			triangle/Triangle	Tronco preguntó de que modo el Trígono Dorado podría estar conectado con los sombríos misterios de más allá de la verja de hierro del prado..					
 				Tronco no quiso excavar en más sombríos misterios y decidió volver a casa y empezar a cortar madera. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Tronco estaba super encantado de que la tormenta se hubiera disipado y estaba super emocionado de volver a cortar leña de nuevo.					
-				Nos preguntó si sabíamos algo de la puerta de hierro del prado que bloqueaba la cavernosa cueva... ¿de qué iba todo eso?					
+				Nos preguntó si sabíamos algo sobre la verja de hierro del prado que bloqueaba la cavernosa cueva... ¿de qué iba todo eso?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Es extraño... He visto un haz dorado elevarse hacia el cielo en los bosques tras el prado... ¿Habrá aprendido alguien los secretos de la Arboleda Trigonal?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			"Estoy muy preocupado por la Escita, parece hecha un desastre."					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija contemplaron cómo recobrábamos el sentido.					
