@@ -430,12 +430,12 @@ GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra ext
 			triangle/Triangle	Se preguntaba cuáles eran los secretos de la Arboleda Trigonal más allá de la cavernosa cueva del prado... ¿habría alguna conexión?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estoy bastante preocupada por la Escita... desapareció hace varios días después de que la tormenta se disipara. Espero que esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			"Vaya, ¿así que la Escita estaba desmayada en el prado? Qué locura."					
-DOGFELLA_GETDARKTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Sombra.					
-			Archetype/trifecta	"De repente parecía que entendíamos a Sombra, nos instó a buscar el Trígono Luna Oscura y completar la Trigonal Trifecta."					
-DOGFELLA_GETBRIGHTTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Sombra.					
-			Archetype/trifecta	"De repente parecía que entendíamos a Sombra, nos instó a buscar el Trígono Luna Brillante y completar la Trigonal Trifecta."					
-DOGFELLA_THREETRIGONS	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Sombra.					
-			Archetype/trifecta	"De repente parecía que entendíamos a Sombra, nos instó a activar el tercer haz de luz y abrir la entrada al infinito."					
+DOGFELLA_GETDARKTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Colega.					
+			Archetype/trifecta	"De repente parecía que entendíamos a Colega, nos instó a buscar el Trígono Luna Oscura y completar la Trigonal Trifecta."					
+DOGFELLA_GETBRIGHTTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Colega.					
+			Archetype/trifecta	"De repente parecía que entendíamos a Colega, nos instó a buscar el Trígono Luna Brillante y completar la Trigonal Trifecta."					
+DOGFELLA_THREETRIGONS	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Colega.					
+			Archetype/trifecta	"De repente parecía que entendíamos a Colega, nos instó a activar el tercer haz de luz y abrir la entrada al infinito."					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
 				Guau Guau Sniff Guau.					
 				El arremolinado infinito del cosmos en la cima del Mingi Taw espera a aquel que carga con El Megatomo.					
@@ -479,7 +479,7 @@ GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae
 				Le contamos cómo acabamos con el ataque arcoíris del Trígono Luna Oscura y a ella le pareció realmente impresionante.					
 				No parecía importarle escuchar nuestras locas historias.					
 LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinar por los sueños y obras milagrosas había pasado factura en nuestra salud física.					
-			Archetype/trifecta	Tronco nos preguntó si habíamos visitado con Sombra la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
+			Archetype/trifecta	Tronco nos preguntó si habíamos visitado con Colega la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Así que ahora la pregunta es... ¿Y ahora qué?					
 				"A pesar de la escasa información útil que te hemos proporcionado, has logrado dominar al Trígono Luna Oscura."					
 				"Me acaban de informar que has conseguido el Trígono Luna Oscura. Grandes noticias, sin duda."					
