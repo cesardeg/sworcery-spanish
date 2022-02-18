@@ -18,7 +18,7 @@ INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima de
 INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima del Mingi Taw descansaba una solitaria tumba como siniestro recuerdo de las muchas personas que habían muerto allí.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo engastado entre dos huesudas manos y sentimos nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			"Una pequeña puerta sin pomo hecha de un material desconocido. Una señal reza ""Solo personal autorizado""."					
-DOOR_UPSLOPEWOODS1	The Scythian			El antiguo camino al Mingi Taw estaba bloqueado por una puerta cerrada.					
+DOOR_UPSLOPEWOODS1	The Scythian			Una puerta en la rocosa muralla bloqueaba el antiguo camino al Mingi Taw.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía en un matorral en el bosque bajo el antiguo camino que asciende al Mingi Taw. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba leña. #obviously #woodchopping			71	007.jpg	7E+71
@@ -30,7 +30,7 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salv
 			adventureUI/megatomeItem	Le contamos a Tronco que estábamos buscando un libro de siniestra magia conocido como El Megatomo.					
 			adventureUI/megatomeItem	"El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del precipicio, bajo el Mingi Taw."					
 			adventureUI/megatomeItem	Decidimos ir a por El Megatomo y luego escapar con vida.					
-LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador confirmó al 100% que el tenía la única llave para la puerta cerrada de la rocosa muralla.					
+LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador confirmó al 100% que el tenía la única llave para la puerta de la rocosa muralla.					
 			AdventureUI/keyItem	Era una llave realmente bonita.					
 				Estábamos totalmente preparados para mantener presionado el camino para moverlo.					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Tronco nos esperaría aquí a que volvieramos con El Megatomo.					
@@ -94,7 +94,7 @@ INFO_MEADOWGATE	The Scythian			En el prado había un inamovible portón de hierr
 INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había un portón de hierro y tuvimos la sensación de que, tal vez, podríamos abrirla de alguna manera."					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de Trígono Dorado sobre el portón de hierro, ¿tal vez reaccionaría a nuestra Canción de Espadachicería?"					
 INFO_MEADOWGATETRIGON	The Scythian			Descubrimos un nosequé sobre el portón de hierro.					
-INFO_LOCKEDDOORSTONEWALL	The Scythian			"Una puerta cerrada en la rocosa muralla bloqueaba el antiguo camino al Mingi Taw y, al parecer, la llave estaba perdida en los sueños."					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			"Una puerta en la rocosa muralla bloqueaba el antiguo camino al Mingi Taw y, al parecer, la llave estaba perdida en los sueños."					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Descubrimos la escultura de un enfadado pájaro que se cernía sobre el prado. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			Descubrimos un báculo de extraño aspecto sobre el prado.					
 INFO_CABINWELL	The Scythian			Descubrimos un pozo sólidamente construido con un amplio tejado de madera.					
@@ -539,7 +539,7 @@ ARCHETYPE_BRIGHTMOON	The Archetype			"Sal fuera y mira hacia arriba, ¡maravíll
 LOGFELLA_ALMOSTWANE	The Scythian			"El leñador tenía tolerancia cero al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
 				El leñador sabía todo sobre el Mingi Taw y por qué era conocido como El Reino de las Nubes.					
 				"Sabía que el Mingi Taw era la montaña más alta del mundo conocido, más alta incluso que el Monte Olimpo, donde habitaban los dioses Aqueos."					
-				"También sabía que la cima del Mingi Taw, siempre envuelta en nubes, era considerada la puerta al arremolinado infinito."					
+				"También sabía que la cima del Mingi Taw, siempre envuelta en nubes, era considerada la entrada al arremolinado infinito."					
 				"El leñador nunca se había atrevido a pisar las temibles laderas del Mingi Taw, y nunca lo haría."					
 GIRL_ALMOSTWANE	The Scythian			Samae se preguntó por qué tantos hongos crecían inmediatamente antes y después de la Luna Brillante... ¿Cuál era la causa?					
 ARCHETYPE_ALMOSTWANE	The Archetype			"La luna está ligeramente menos brillante de lo que estaba ayer, y el ciclo lunar está empezando a disminuir."					
