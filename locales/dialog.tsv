@@ -85,7 +85,7 @@ ARCHETYPE_TADPOLES	The Archetype			"Era 100% obvio que el hombre extrañamente a
 			gourd/gourd	"""Canta una Canción de Espadachicería en cualquier momento manteniendo presionado sobre la Escita para acceder a una realidad dentro de la que ya conoces."""					
 			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde dormita el duendecillo y envíale hacia el cielo con tres toques de espadachicería."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el ancho techo de madera del pozo.					
-				"Había abandonado la comodidad del fuego en la choza porque, al parecer, Tronco estaba desvariando por una cosa u otra."					
+				"Ella había abandonado la comodidad del fuego en la choza porque, al parecer, Tronco estaba desvariando por una cosa u otra."					
 INFO_BIRDEYESCULPTURE	The Scythian			Descubrimos una escultura de un enfadado pájaro que se cernía sobre el prado. #subtlereference			6	014.jpg	F1D48
 INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas ovejas insignificantes holgazaneando por el prado. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			"Otra oveja insignificante, ¿por qué seguimos mirándolas? #worthlesssheep"					
@@ -176,16 +176,16 @@ GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la solitaria tumba del tramposo 
 				El fulgurante fantasma habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
 				"El fantasma describió sobre la opción de Fecha/Hora y los horrores que precedían al alterar el ciclo lunar con este método."					
 				"""La cosa es que, desde que hice trampa, sufrí de una terrible angustia y morí de vergüenza."""					
-GRAVE_HOLLOW	The Scythian			"Dentro de un titánico árbol hueco vimos una solitaria tumba y sentimos cierta curiosidad por ella."					
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
+GRAVE_HOLLOW	The Scythian			"Dentro de un titánico árbol hueco divisamos una solitaria tumba y sentimos cierta curiosidad por ella."					
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
 				"""Monitorea las fases de la luna y así aprenderás el cuándo, el dónde y el cómo."""					
 				"""También quiero que sepas que no intento deliberadamente asustarte luciendo así de impresionante."""					
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
 				"""Busca a los duendecillos silvanos en el camino tras de ti, con ojos y oidos abiertos a sus sonoras espumas."""					
 				"""Envía a los cinco duendecillos silvanos hacia el cielo para provocar un milagro que reveleará al Trígono que buscas."""					
-GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma apareció y nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Busca la señal de los duendecillos silvanos y canta la Canción de Espadachicería para así revelear un Trígono escondido."""					
-GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma se apareció y nos contó algunas cosas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma apareció y nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Veo que la Canción del Trígono ha terminado por ahora. Me pregunto cuándo volveré a escucharla."""					
 LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Tronco estaba totalmente fuera de sí por algo.					
 			AdventureUI/keyItem	"Al parecer Tronco había perdido la llave de la puerta de la rocosa muralla que bloqueaba el antiguo camino al Mingi Taw."					
@@ -214,9 +214,9 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba super ali
 			AdventureUI/keyItem	Pensamos que podríamos simplemente llevarnos la llave e ir a dar un paseo por el antiguo camino más allá de la rocosa muralla.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tomaramos su llave y nos dijo que estaba de acuerdo.					
 GIRL_FOUNDKEY	The Scythian			Encontramos empapada a Samae de pie a lado del camino.					
-			gourd/gourd	Había oído las sutiles sonoras espumas de los duendecillos silvanos más alla de la rocosa muralla en el antiguo camino al Mingi Taw.					
-			gourd/gourd	Habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
-			gourd/gourd	Habló de un débil arcoíris en el borde del Peligroso Precipicio.					
+			gourd/gourd	Ella había oído las sutiles sonoras espumas de los duendecillos silvanos más alla de la rocosa muralla en el antiguo camino al Mingi Taw.					
+			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
+			gourd/gourd	Ella habló de un débil arcoíris en el borde del Peligroso Precipicio.					
 			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos perdíamos o nos confundíamos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la llave si eso significa disipar la tormenta.					
 				Debo haber asentido en algún momento durante la super épica historia de la Escita. Tengo una tolerancia muy baja para el folclore.					
@@ -377,7 +377,7 @@ GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oíd
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		"¿Son los duendecillos silvanos hijos de la madre Tierra o son visitantes solitarios del arremolinado infinito?"					
 				"Para ser honesta, los duendecillos silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?"					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendecillos hayan sido enviados hacia el cielo y el tiempo de los milagros se acerque, debes buscar el titánico árbol."					
-				Sé que sabes lo que sé y quiero que sepas que tienes razón al 100%.			109	066.jpg	F6D6H
+				Sé que sabes lo que sé y quiero que sepas que estás 100% en lo cierto.			109	066.jpg	F6D6H
 				Guau Guau Guau Sniff Guau Guau Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solamente el fin de tu funesto cometido traerá la paz de vuelta a nuestras vidas.					
 				Sólo la Trigonal Trifecta te permitirá comprender los secretos de la Arboleda Trigonal.					
@@ -397,7 +397,7 @@ JIM_POSTSWORCERY	The Scythian			El tipo misterioso y musical conocido como Jim G
 JIM_POSTGOURD	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
 				Jim nos invitó a sentarnos junto al fuego.					
 JIM_POSTSONG	The Scythian			Jim Guthrie nos enseñó que no se podían negar los malos pensamientos ni la mordedura de un dragón.					
-			Archetype/trifecta	Nos habló sobre un concierto de rock al otro lado del lago que iba a dar en dentro de una quincena.					
+			Archetype/trifecta	Jim nos habló sobre un concierto de rock al otro lado del lago que iba a dar en dentro de una quincena.					
 JIM_LOGFELLATHOUGHTS	Logfella			La canción sonaba tan familiar... ¿dónde la había escuchado antes? #1000songs					
 				De repente tenía esa extraña canción metida en la cabeza. #andwegotolder					
 LOGFELLA_JIMTHOUGHTS	Logfella			He tenido esa canción metida en la cabeza durante años... Sólo unas pocas notas que se repiten una y otra vez. Me pregunto a qué se deberá.					
@@ -420,14 +420,14 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Nos despertamos aturdidos de un su
 			triangle/Triangle	Tronco estaba totalmente anonadado cuando le contamos cómo fue la batalla contra el Trígono Dorado.			81	071.jpg	R7C14
 			triangle/Triangle	Tronco preguntó de que modo el Trígono Dorado podría estar conectado con los sombríos misterios de más allá del portón de hierro del prado..					
 				Tronco no quiso excavar en más sombríos misterios y decidió volver a casa y empezar a cortar madera. #woodchopping					
-LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Tronco estaba super encantado de que la tormenta se hubiera disipado y estaba super emocionado de volver a cortar leña de nuevo.					
+LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Tronco estaba super encantado de que la tormenta se hubiera disipado y estaba emocionado de volver a cortar leña de nuevo.					
 				Nos preguntó si sabíamos algo sobre el portón de hierro del prado que bloqueaba la cavernosa cueva... ¿de qué iba todo eso?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Es extraño... He visto un haz dorado elevarse hacia el cielo en los bosques tras el prado... ¿Habrá aprendido alguien los secretos de la Arboleda Trigonal?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			"Estoy muy preocupado por la Escita, parece hecha un desastre."					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija contemplaron cómo recobrábamos el sentido.					
 				"Nos dimos cuenta que el prado no había cambiado, y que toda evidencia de nuestro místico encuentro había desaparecido."					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra extraña historia sobre nuestro encuentro con el Trígono Dorado.					
-			triangle/Triangle	Se preguntaba cuáles eran los secretos de la Arboleda Trigonal más allá de la cavernosa cueva del prado... ¿habría alguna conexión?					
+			triangle/Triangle	Ella se preguntaba cuáles eran los secretos de la Arboleda Trigonal más allá de la cavernosa cueva del prado... ¿habría alguna conexión?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estoy bastante preocupada por la Escita... desapareció hace varios días después de que la tormenta se disipara. Espero que esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			"Vaya, ¿así que la Escita estaba desmayada en el prado? Qué locura."					
 DOGFELLA_GETDARKTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Colega.					
@@ -442,8 +442,8 @@ DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una roca junto al leñador que cortaba leña.					
-			Archetype/trifecta	Le preguntamos sobre los secretos de la Arboleda Trigonal y los peculiares sueños de la gente montesa del Cáucaso.					
-				Nos contó cómo los sueños de su gente contenían muchos misterios y cómo reflejaban las fases de la luna de maneras extrañas.					
+			Archetype/trifecta	Le preguntamos a ella sobre los secretos de la Arboleda Trigonal y los peculiares sueños de la gente montesa del Cáucaso.					
+				Ella nos contó cómo los sueños de su gente contenían muchos misterios y cómo reflejaban las fases de la luna de maneras extrañas.					
 				"Samae nos invitó a sentárnos junto al fuego en la choza de piedra siempre que quisieramos, ya fuera para caminar por los sueños o para recobrar fuerzas."					
 			Archetype/trifecta	"Tenemos la sensación de que los dos Trígonos restantes podrían estar perdidos en los sueños, o algo así."					
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Tronco había vuelto a su corte de leña y parecía estar realmente concentrado.					
@@ -512,34 +512,34 @@ DOGFELLA_FOUNDATION	Dogfella			...
 				...					
 				...					
 LOGFELLA_DARKMOON	The Scythian			"El leñador habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta."					
-				Habló de una vibrante luz rosa y de una misteriosa canción emanando de los bosques sin nombre tras el prado.					
+				Él habló de una vibrante luz rosa y de una misteriosa canción emanando de los bosques sin nombre tras el prado.					
 				Supusimos que Tronco probablemente hablaba del concierto de rock de la Luna Oscura.					
 GIRL_DARKMOON	The Scythian			"Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta."					
-				Habló de cómo se había refugiado de la tormenta en un titánico árbol hueco.					
-				Sabíamos de qué titánico árbol hueco estaba hablando.					
+				Ella habló de cómo se había refugiado de la tormenta en un titánico árbol hueco.					
+				Sabíamos de qué titánico árbol hueco estaba ella hablando.					
 ARCHETYPE_DARKMOON	The Archetype			Ten cuidado. Reina la Luna Oscura.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			"El leñador habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo una luna creciente."					
-				"Habló sobre una criatura que había conocido, algo o alguien extraño y desnudo. ¿Era un oso? ¿Un hombre? O... ¿El Tosco Pardo?"			57	077.jpg	I7G7U
+				"Él habló sobre una criatura que había conocido, algo o alguien extraño y desnudo. ¿Era un oso? ¿Un hombre? O... ¿El Tosco Pardo?"			57	077.jpg	I7G7U
 GIRL_CRESCENTWAX	The Scythian			"Samae estaba emocionada, ¡hoy comenzaba un nuevo mes lunar! Le esperaban largos días sentada sobre rocas."					
 ARCHETYPE_CRESCENTWAX	The Archetype			"La brizna de una luna creciente ha aparecido, marcando el comienzo de un nuevo ciclo lunar de veintiocho días."			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			"El leñador admitió que sí, que de hecho había cortado una cantidad decente de leña a tiempo."					
-				"Habló de los helados inviernos y las profundas nieves que gobernaban las poderosas montañas del Cáucaso, aquellas que se elevaban por encima de las estepas de Escitia."					
+				"El habló de fríos inviernos y profundas nevadas aquí, en las majestuosas montañas del Cáucaso, aquellas que se elevaban por encima de las estepas de Escitia."					
 				El leñador esperaba tener suficiente comida y leña para sobrevivir los largos y fríos meses que estaban por llegar.					
-GIRL_HALFWAX	The Scythian			"Anoche soñé que estaba caminando por el bosque y deseando una magdalena, pero había magdalenas."			108	078.jpg	07D87
+GIRL_HALFWAX	The Scythian			"La chica nos contó que la noche anterior soñó que caminaba por el bosque deseando una magdalena, pero no había magdalenas."			108	078.jpg	07D87
 ARCHETYPE_HALFWAX	The Archetype			Los folcloristas majaderos han afirmado que no hay relación causal entre la locura y las fases de la luna.					
 LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demasiado en la Masa Gogolítica y en la montaña desierta del Mingi Taw.					
-				"Sin embargo, dijo que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo."					
+				"Sin embargo, él dijo que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo."					
 				El leñador admitió que le inquietaba cuando la Luna Brillante se cernía sobre el cielo... y cuando la Luna Oscura reinaba.					
-GIRL_ALMOSTWAX	The Scythian			La muchacha comentó algo sobre la luna creciente... Se preguntó cuánto tiempo tardaría hasta que la Luna Brillante se alzara en el cielo.					
+GIRL_ALMOSTWAX	The Scythian			La chica comentó algo sobre la luna creciente... Se preguntó cuánto tiempo tardaría hasta que la Luna Brillante se alzara en el cielo.					
 ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece ligeramente con cada día que pasa... en pocos días se convertirá en la Luna Brillante... ¿Y qué?			165	046.jpg	P4B6A
 LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba un poco extraño cada vez que la Luna Brillante se alzaba en el cielo.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			"Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, con la Luna Brillante acercándose a el cielo."					
-				Habló del aire fresco de la mañana y de una isla imposible en medio de un plácido lago.					
+				Ella habló del aire fresco de la mañana y de una isla imposible en medio de un plácido lago.					
 ARCHETYPE_BRIGHTMOON	The Archetype			"Sal fuera y mira hacia arriba, ¡maravíllate con la Luna Brillante que se avecina!"			95	079.jpg	07D95
 LOGFELLA_ALMOSTWANE	The Scythian			"El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
 				El leñador sabía todo sobre el Mingi Taw y por qué era conocido como El Reino de las Nubes.					
-				"Sabía que el Mingi Taw era la montaña más alta del mundo conocido, más alta incluso que el Monte Olimpo, donde habitaban los dioses Aqueos."					
-				"También sabía que la cima del Mingi Taw, siempre envuelta en nubes, era considerada la entrada al arremolinado infinito."					
+				Él sabía que el Mingi Taw era la montaña más alta del mundo conocido, más alta incluso que el Monte Olimpo, donde habitaban los dioses Aqueos.					
+				También sabía que la cima del Mingi Taw, siempre envuelta en nubes, era considerada la entrada al arremolinado infinito.					
 				"El leñador nunca se había atrevido a pisar las temibles laderas del Mingi Taw, y nunca lo haría."					
 GIRL_ALMOSTWANE	The Scythian			Samae se preguntó por qué tantos hongos crecían inmediatamente antes y después de la Luna Brillante... ¿Cuál era la causa?					
 ARCHETYPE_ALMOSTWANE	The Archetype			"La luna está ligeramente menos brillante de lo que estaba ayer, y el ciclo lunar está empezando a disminuir."					
@@ -553,10 +553,10 @@ ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y la Luna O
 LOGFELLA_CRESCENTWANE	The Scythian			"El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
 				"El leñador conocía a la Masa Gogolítica, el inmortal espectro que acechaba en la oscuridad bajo el Mingi Taw."					
 				"Tronco habló del arremolinado infinito, más allá de nuestra comprensión, del que surgió El Megatomo en la apenas recordada edad de piedra."					
-				Habló de una raza de seres inmortales del espacio que provocó en la humanidad una forma rudimentaria de pensamiento y transmisión lingüística.					
-				Estos inmortales bendicieron a la humanidad con la capacidad de ser una civilización y así los condenaron a una eventual e inevitable extinción.					
-				"Los escitas intentaron detener el insidioso crecimiento de la civilización, y por eso aislaron El Megatomo con su protector inmortal."					
-				"El inmortal ha permanecido en la oscuridad desde entonces, deteriorándose para convertirse en un inmortal espectro conocido como La Masa Gogolítica."					
+				Él habló de una raza de seres inmortales del espacio que provocó en la humanidad una forma rudimentaria de pensamiento y transmisión lingüística.					
+				"""Estos inmortales bendicieron a la humanidad con la capacidad de ser una civilización y así los condenaron a una eventual e inevitable extinción."""					
+				"""Los escitas intentaron detener el insidioso crecimiento de la civilización, y por eso aislaron El Megatomo con su protector inmortal."""					
+				"""El inmortal ha permanecido en la oscuridad desde entonces, deteriorándose para convertirse en un inmortal espectro conocido como La Masa Gogolítica."""					
 				El leñador probablemente habría seguido y seguido con la tontería si no lo hubiéramos cortado educadamente.					
 GIRL_CRESCENTWANE	The Scythian			Samae observó la luna encogida. Dijo que pronto se iría y que la Luna Oscura reinaría.					
 ARCHETYPE_CRESCENTWANE	The Archetype			El ciclo lunar está casi completo. La Luna Oscura está muy cerca.					
