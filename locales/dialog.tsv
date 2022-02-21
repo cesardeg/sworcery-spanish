@@ -108,7 +108,7 @@ INFO_SPUME	The Scythian			Encontramos las sutiles sonoras espumas de un duendeci
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de curioso aspecto, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Descubrimos una pajarera de desgastado aspecto que parecía una espeluznante cara.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el antiguo camino había un siniestro mástil adornado con calaveras.					
-INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado nos encontramos con una aislada arboleda con una extraña colección de estructuras de piedra.					
+INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado nos encontramos con una aislada arboleda con unas extrañas estructuras de piedra.					
 			Archetype/trifecta	... ¿Era esta la Arboleda Trigonal? #trigongrove			93	016.jpg	B1D6J
 			triangle/Triangle	"Mientras estábamos al lado de la primera estructura de piedra, pensamos en el Trígono Dorado y sentimos nuestra espada agitarse."					
 INFO_DARKTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra desgastada y enmohecida. #darkmoontrigon					
@@ -221,7 +221,7 @@ GIRL_FOUNDKEY	The Scythian			Encontramos empapada a Samae de pie a lado del cami
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la llave si eso significa disipar la tormenta.					
 				Debo haber asentido en algún momento durante la super épica historia de la Escita. Tengo una tolerancia muy baja para el folclore.					
 				Le pregunté a la Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
-GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvanos más enviados hacia el cielo disiparán la incesante tormenta... ¡y entonces será el tiempo de los milagros! #miracles			129	034.jpg	33A44
+GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvanos más enviados hacia el cielo disiparán la incesante tormenta... ¡y entonces será temporada de milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mi paseo por el sueño hay una quietud emocionante cuando la luna es más brillante... y cuando la luna es más oscura los bosques se vuelven salvajes.					
 				En el sueño siempre son los mismos lugares y espacios excepto cuando difieren según las fases de la luna.					
 				Cada noche desde que se disipó la tormenta he tenido ese mismo sueño en el que estoy deambulando por el bosque justo antes del amanecer.					
@@ -236,16 +236,16 @@ ARCHETYPE_TRIGONGROVE	The Archetype			¿Puedes sentirlo? ¿Estás empezando a en
 				"Este haz es un puente que une el mundo de los vivos y el mundo de los muertos, por lo que puedes encontrar un fantasma o dos y hablar con ellos en tus viajes."					
 				Acabo de recibir la notificación de que has enviado el primer haz celeste en la Arboleda Trigonal.					
 GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y nos dijo que se habían asustado hacia un rato.					
-			gourd/gourd	"Le dijimos a Samae que habíamos enviado cinco duendecillos silvanos hacia el cielo y nos dijo que, tal vez, el tiempo de los milagros estaba cerca."					
+			gourd/gourd	"Le dijimos a Samae que habíamos enviado cinco duendecillos silvanos hacia el cielo y nos dijo que, tal vez, la temporada de milagros estaba cerca."					
 				Pensamos que tal vez deberíamos ir a investigar el prado donde solían holgazanear las ovejas.					
-LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado el tiempo de los milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
+LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado la temporada de milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Se está empezando a disipar la tormenta? Eso espero.					
 				Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo tan sombrío.					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento realmente intranquilo... Sin duda algo está sucediendo... ¿Se está disipando la tormenta?					
 				"Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas."					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades del gran mago ""Al Jaffee""."					
-				¿Sientes esa sensación tan peculiar? ¡Es el tiempo de los milagros! Canta la Canción de Espadachicería y busca los enfadados pájaros vigilantes.			76	038.jpg	A3G84
+				¿Sientes esa sensación tan peculiar? ¡Es temporada de milagros! Canta la Canción de Espadachicería y busca los enfadados pájaros vigilantes.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira a el cielo en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira el Trígono Dorado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interesante la forma con que has manejado el encuentro con el caníbal cabeza de oso.			120	039.jpg	O3G9D
 				"No no, está bien, sólo que me pareció interesante. Nunca vi a nadie hacer lo que hiciste tú. Es excepcional, pero no te alarmes."					
@@ -341,12 +341,12 @@ GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	L
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que dormitaba en un sereno estanque donde una madre pato estaba fuera de sí.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que dormitaba en un plácido lago bajo una trifecta de búhos.					
-GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	"Tenemos esa peculiar sensación de que, tal vez, estemos ante un tiempo de los milagros. #miracles"					
+GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	"Tenemos la peculiar sensación de que, tal vez, estemos ante la temporada de milagros. #miracles"					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba rodeado por tres pequeñas cascadas.					
 GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba rodeado por cuatro pequeños árboles en los bosques más oscuros.					
 GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba en un matorral al otro lado de un lago.					
 GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que acechaba en la raíz de un titánico árbol.					
-GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	"Tenemos la peculiar sensación de que, tal vez, estemos ante un tiempo de los milagros. ¿Dónde están mis milagros? #miracles"			77	060.jpg	86D06
+GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	"Tenemos la peculiar sensación de que, tal vez, estemos ante la temporada de milagros. ¿Dónde están mis milagros? #miracles"			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Guau Guau. #barking			135	061.jpg	M6F1I
 				Guau Guau Guau. #justbarking					
 				"A veces me canso de ladrar todo el tiempo, pero un perro tiene que hacer lo que se supone que un perro tiene que hacer."					
@@ -358,7 +358,7 @@ GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que la Escita 
 				La tormenta ha estado afectando mi ánimo y me ha hecho desear que los videojuegos existieran... sea lo que sea que eso signifique.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha sido totalmente mental desde que la Escita apareció.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo taaan sombrío.					
-				La lluvia ha comenzado a cesar y el cielo parece estar brillando... ¿Es el tiempo de los milagros? Eso espero. Me encantan los milagros.					
+				La lluvia ha comenzado a cesar y el cielo parece estar brillando... ¿Será temporada de milagros? Eso espero. Me encantan los milagros.					
 				Vaya... ¿Qué? Las ovejas del prado se han asustado... ¿Me pregunto qué estará pasando? Podría ser... ¿el Trígono Dorado?					
 GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau. 					
 				"A veces cuando las cosas están demasiado oscuras para mi, ingiero algo y veo incluso lo que no está ahí."					
@@ -376,7 +376,7 @@ GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oíd
 				"Parece que has progresado bastante en tu esfuerzo para localizar y domar al Trígono Luna Brillante, muy bien hecho."					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		"¿Son los duendecillos silvanos hijos de la madre Tierra o son visitantes solitarios del arremolinado infinito?"					
 				"Para ser honesta, los duendecillos silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?"					
-GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendecillos hayan sido enviados hacia el cielo y el tiempo de los milagros se acerque, debes buscar el titánico árbol."					
+GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendecillos hayan sido enviados hacia el cielo y la temporada de milagros se acerque, debes buscar el titánico árbol."					
 				Sé que sabes lo que sé y quiero que sepas que estás 100% en lo cierto.			109	066.jpg	F6D6H
 				Guau Guau Guau Sniff Guau Guau Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solamente el fin de tu funesto cometido traerá la paz de vuelta a nuestras vidas.					
@@ -389,7 +389,7 @@ GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		"Hay un montón de dichos ex
 YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos el Trígono Dorado. Somos impresionantes.			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			"Contra todo pronóstico, conseguimos el Trígono Luna Brillante."			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			"A pesar de todas las adversidades, conseguimos el Trígono Luna Oscura."			112	069.jpg	T6G94
-GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		"Parece como si todos los duendecillos Luna Oscura hubieran sido enviados hacia el cielo, así que de nuevo es el tiempo de los milagros. ¡Adoro los milagros!"					
+GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		"Parece como si todos los duendecillos Luna Oscura hubieran sido enviados hacia el cielo, así que es de nuevo temporada de milagros. ¡Adoro los milagros!"					
 JIM_HINT1_OFF	The Scythian			En una arboleda oculta nos encontramos con un tipo misterioso y musical situado junto a un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En una arboleda oculta encontramos a un tipo misterioso junto a un fuego crepitante. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			"Mientras que la luna brillante se cernía, nos encontramos con un tipo misterioso y musical junto a un fuego crepitante. Dijo responder al nombre de Jim Guthrie."			128	070.jpg	07G00
