@@ -87,8 +87,8 @@ ARCHETYPE_TADPOLES	The Archetype			"Era 100% obvio que el hombre extrañamente a
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el ancho techo de madera del pozo.					
 				"Ella había abandonado la comodidad del fuego en la choza porque, al parecer, Tronco estaba desvariando por una cosa u otra."					
 INFO_BIRDEYESCULPTURE	The Scythian			Descubrimos una escultura de un enfadado pájaro que se cernía sobre el prado. #subtlereference			6	014.jpg	F1D48
-INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas ovejas insignificantes holgazaneando por el prado. #worthlesssheep					
-INFO_CABINSHEEP	The Scythian			"Otra oveja insignificante, ¿por qué seguimos mirándolas? #worthlesssheep"					
+INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas insignificantes ovejas holgazaneando por el prado. #worthlesssheep					
+INFO_CABINSHEEP	The Scythian			"Otra insignificante oveja, ¿por qué seguimos mirándolas? #worthlesssheep"					
 INFO_MEADOWSUN	The Scythian			Podemos recordar vívidamente cuán impresionante parecía el sol en ese primer día de primavera.					
 INFO_MEADOWGATE	The Scythian			En el prado había un inamovible portón de hierro bloqueando el paso a una cavernosa cueva.					
 INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había un portón de hierro y tuvimos la sensación de que, tal vez, podríamos abrirla de alguna manera."					
@@ -103,7 +103,7 @@ INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #welfar
 INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un profundo estanque.					
-INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de madera cortada, no es para tanto."					
+INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de leña, no es para tanto."					
 INFO_SPUME	The Scythian			Encontramos las sutiles sonoras espumas de un duendecillo dormitante. Y ahora... ¿cómo lo invocamos?					
 INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de curioso aspecto, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Descubrimos una pajarera de desgastado aspecto que parecía una espeluznante cara.					
@@ -235,7 +235,7 @@ ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adi
 ARCHETYPE_TRIGONGROVE	The Archetype			¿Puedes sentirlo? ¿Estás empezando a entender? ¿Las esotéricas marcas y las formas dentro de El Megatomo tienen un nuevo significado?					
 				"Este haz es un puente que une el mundo de los vivos y el mundo de los muertos, por lo que puedes encontrar un fantasma o dos y hablar con ellos en tus viajes."					
 				Acabo de recibir la notificación de que has enviado el primer haz celeste en la Arboleda Trigonal.					
-GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y nos dijo que se habían asustado hacia un rato.					
+GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las insignificantes ovejas que holgazaneaban por la choza y nos dijo que hace un momento se habían asustado.					
 			gourd/gourd	"Le dijimos a Samae que habíamos enviado cinco duendecillos silvanos hacia el cielo y nos dijo que, tal vez, la temporada de milagros estaba cerca."					
 				Pensamos que tal vez deberíamos ir a investigar el prado donde solían holgazanear las ovejas.					
 LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado la temporada de milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
@@ -273,7 +273,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 			adventureUI/megatomeItem	"Muy bien, ¿por dónde íbamos? Oh sí, ya me acuerdo. Conseguiste el pesado libro conocido como El Megatomo."					
 				"Despertaste al inmortal espectro que aletargaba en la oscuridad bajo el Mingi Taw. Qué pena, ¿no?"			204	042.jpg	24B2J
 				"Es un tiempo de angustia, una siniestra tormenta ha nublado el cielo y la encantadora gente que vive en la choza es desdichada."					
-				"Silenciar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros..."					
+				"Disipar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros..."					
 			adventureUI/megatomeItem	"1. El toque de un espadachicero liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otros materiales esotéricos."					
 			gourd/gourd	"2. Extraños duendecillos silvanos, generadores de espadachicería, dormitan en estanques, bosques y prados. Busca sus sutiles sonoras espumas."					
 			triangle/Triangle	"3. El espadachicero que pueda localizar, invocar y domar la cósmica geometría del Trígono Dorado poseerá la habilidad de obrar milagros."					
@@ -330,7 +330,7 @@ URSULA_AVATAR			Ursula/idleSEhandsonhip
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		EEstos dos tipos declararon encontrarse entre los creadores de este estrafalario mundo.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Los dos chistosos declararon encontrarse entre los creadores de este estrafalario mundo.			159	055.jpg	A5G55
-GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en la rica tierra de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
+GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en la rica tierra de un prado habitado por cuatro pares de insignificantes ovejas.			52	056.jpg	15B63
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Cantamos la Canción de Espadachicería e invocamos a un duendecillo silvano que suavemente dormitaba en las frescas aguas de un profundo estanque, ¡qué raro!"			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en una pajarera de curioso aspecto hogar de tres pájaros cantores empapados por la lluvia.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba junto a un puente de troncos donde cuatro pares de árboles se elevan sobre un río.					
