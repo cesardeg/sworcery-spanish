@@ -216,7 +216,7 @@ LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñ
 GIRL_FOUNDKEY	The Scythian			Encontramos empapada a Samae de pie a lado del camino.					
 			gourd/gourd	Ella había oído las sutiles sonoras espumas de los duendecillos silvanos más alla de la rocosa muralla en el antiguo camino al Mingi Taw.					
 			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
-			gourd/gourd	Ella habló de un débil arcoíris en el borde del Peligroso Precipicio.					
+			gourd/gourd	Ella habló de unos débiles arcoíris en el borde del Peligroso Precipicio.					
 			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos perdíamos o nos confundíamos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la llave si eso significa disipar la tormenta.					
 				Debo haber asentido en algún momento durante la super épica historia de la Escita. Tengo una tolerancia muy baja para el folclore.					
@@ -334,7 +334,7 @@ GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamo
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Cantamos la Canción de Espadachicería e invocamos a un duendecillo silvano que suavemente dormitaba en las frescas aguas de un profundo estanque, ¡qué raro!"			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en una pajarera de curioso aspecto hogar de tres pájaros cantores empapados por la lluvia.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba junto a un puente de troncos donde cuatro pares de árboles se elevan sobre un río.					
-GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba entre dos arcoíris repugnantes al lado del Peligroso Precipicio.					
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba entre dos repugnantes arcoíris al lado del Peligroso Precipicio.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba en un matorral en lo alto de un peñasco rocoso.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que dormitaba en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
