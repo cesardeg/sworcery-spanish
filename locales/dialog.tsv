@@ -91,7 +91,7 @@ INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas insignificantes ovejas
 INFO_CABINSHEEP	The Scythian			"Otra insignificante oveja, ¿por qué seguimos mirándolas? #worthlesssheep"					
 INFO_MEADOWSUN	The Scythian			Podemos recordar vívidamente cuán impresionante parecía el sol en ese primer día de primavera.					
 INFO_MEADOWGATE	The Scythian			En el prado había un inamovible portón de hierro bloqueando el paso a una cavernosa cueva.					
-INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había un portón de hierro y tuvimos la sensación de que, tal vez, podríamos abrirla de alguna manera."					
+INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había un portón de hierro y tuvimos la sensación de que, tal vez, podríamos abrirlo de alguna manera."					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de Trígono Dorado sobre el portón de hierro, ¿tal vez reaccionaría a nuestra Canción de Espadachicería?"					
 INFO_MEADOWGATETRIGON	The Scythian			Descubrimos un nosequé sobre el portón de hierro.					
 INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta cerrada en la rocosa muralla bloqueaba el antiguo camino al Mingi Taw y, al parecer, la llave estaba perdida en los sueños.					
@@ -157,7 +157,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al
 				"""Habíamos oído hablar de la entrada al infinito en la cima del Mingi Taw y pensamos que sería algo digno de ver."""					
 			triangle/Triangle	"""Así que domamos el Trígono Dorado e investigamos la Arboleda Trigonal antes de salir a buscar el Trígono Luna Brillante."""					
 				"""Localizar el Trígono Luna Brillante no fue muy bien... acabamos totalmente perdidos para ser honesto."""					
-				"""Lentamente nos dimos cuenta de la importancia del ciclo lunar y su influencia en los duendecillos que duermen en los reinos crepusculares."""					
+				"""Lentamente nos dimos cuenta de la importancia del temperamento de la luna y su influencia en los duendecillos que duermen en los reinos crepusculares."""					
 				"""Ahí es cuando nos sentamos y empezamos a vigilar el temperamento de la luna para poder saber el cuándo, el dónde y el cómo."""			7	026.jpg	Q2D6P
 				"""Morimos de aburrimiento esperando a que el temperamento de la luna cambiara."""					
 				"""Bueno, en realidad morimos debido a una discusión que tuvimos a causa del aburrimiento."""					
@@ -174,7 +174,7 @@ GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la solitaria tumba del tramposo 
 				"""¡Fue super aburrido! No iba a esperar días y días hasta que la Luna Brillante se alzara."""					
 				"""Deje a esos perdedores deambular sin sentido mientras yo investigaba más sobre esa treta lógico-lunar."""					
 				El fulgurante fantasma habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
-				"El fantasma describió sobre la opción de Fecha/Hora y los horrores que precedían al alterar el ciclo lunar con este método."					
+				"El fantasma describió sobre la opción de Fecha/Hora y los horrores que precedían al alterar el temperamento de la luna con este método."					
 				"""La cosa es que, desde que hice trampa, sentí una tremenda deshonra y así morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			"Dentro de un titánico árbol hueco divisamos una solitaria tumba y sentimos cierta curiosidad por ella."					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
@@ -441,7 +441,7 @@ DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.
 				El arremolinado infinito del cosmos en la cima del Mingi Taw espera a aquel que carga con El Megatomo.					
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
-GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una roca junto al leñador que cortaba leña.					
+GIRL_AFTERYELLOWBEAM	The Scythian			Samae estaba sentada en una roca junto al leñador que estaba cortando leña.					
 			Archetype/trifecta	Le preguntamos a ella sobre los secretos de la Arboleda Trigonal y los peculiares sueños de la gente montesa del Cáucaso.					
 				Ella nos contó cómo los sueños de su gente contenían muchos misterios y cómo reflejaban el temperamento de la luna de maneras extrañas.					
 				"Samae nos invitó a sentárnos junto al fuego en la choza de piedra siempre que quisieramos, ya fuera para caminar por los sueños o para recobrar fuerzas."					
