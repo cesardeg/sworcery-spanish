@@ -1,307 +1,307 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
-GIRL_TONGUES	Girl			"Lejos de las estepas de Escitia devastadas por la guerra, conocimos a una chica de cabello oscuro en un prado bañado por el sol. #helloworld"			72	001.jpg	Z0E1Q
-				"La gente montesa del Cáucaso la conocía como Samae y parecía amable. #obviously"					
+GIRL_TONGUES	Girl			Lejos de las estepas de Escitia devastadas por la guerra, conocimos a una chica de cabello oscuro en un prado bañado por el sol. #helloworld			72	001.jpg	Z0E1Q
+				Los montañeses del Cáucaso la conocían como Samae y parecía agradable. #obviously					
 SIGN_TADPOL	The Scythian			"""El hogar está donde se encuentra el corazón."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, estos son todos los reinos de los hombres. Mingi Taw es el Reino de las Nubes."""					
-SIGN_CHASM	The Scythian			"En el borde del Peligroso Precipicio, había una piedra tallada con el glifo de una espada que miraba hacia el cielo bajo los colores del arcoíris."					
-				"Nosotros, los escitas, detestamos los arcoíris. #loathsomerainbows"			21	002.jpg	40C27
-SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de glifos indescifrables.					
+SIGN_CHASM	The Scythian			En el borde del Precipicio Peligroso, había una piedra tallada con el glifo de una espada que miraba hacia el cielo bajo los colores del arcoíris.					
+				Nosotros los escitas detestamos los arcoíris. #loathsomerainbows			21	002.jpg	40C27
+SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del camino antiguo había una piedra tallada con una serie de glifos indescifrables.					
 				En medio de los glifos indescifrables descubrimos una serie de glifos lunares.					
-SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del antiguo camino había una piedra tallada con una serie de glifos lunares antes indescifrables.					
+SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del camino antiguo había una piedra tallada con una serie de glifos lunares antes indescifrables.					
 				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...allí donde se puede alterar el temperamento de la luna."""					
 				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
-SIGN_WOLF	The Scythian			Al margen del antiguo camino había una piedra tallada con un par de glifos con la forma de una espada y un escudo. #hinthint			16	004.jpg	T0C4X
-SIGN_ANTECHAMBERLEFT	The Scythian			"En un pasaje subterráneo descubrimos una ominosa estatua a la que no le prestamos demasiada atención. #lore"			29	005.jpg	V0B53
-INFO_CROSSMOUNTAINLEFT	The Scythian			En la escarpada ladera del Mingi Taw una solitaria tumba marcaba el final de un camino de grava.					
-INFO_CROSSMOUNTAINRIGHT	The Scythian			En la escarpada ladera del Mingi Taw una solitaria tumba marcaba el final de un camino de grava.					
-INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima del Mingi Taw había un siniestro poste adornado con una calavera astada.					
-INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima del Mingi Taw descansaba una solitaria tumba como siniestro recuerdo de las muchas personas que habían muerto allí.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo engastado entre dos esqueléticas manos y sentimos nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
-DOOR_SIDEBMEADOW	The Scythian			Una puerta pequeña sin pomo hecha de un material desconocido. Una señal reza 'Solo personal autorizado'.					
-DOOR_UPSLOPEWOODS1	The Scythian			Una puerta cerrada en la rocosa muralla bloqueaba el antiguo camino al Mingi Taw.					
-DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía en un matorral en el bosque bajo el antiguo camino que asciende al Mingi Taw. #moongrotto					
+SIGN_WOLF	The Scythian			Al margen del camino antiguo había una piedra tallada con un par de glifos con la forma de una espada y un escudo. #hinthint			16	004.jpg	T0C4X
+SIGN_ANTECHAMBERLEFT	The Scythian			En un pasaje subterráneo descubrimos una ominosa estatua a la que no le prestamos demasiada atención. #lore			29	005.jpg	V0B53
+INFO_CROSSMOUNTAINLEFT	The Scythian			En la escarpada ladera del Mingi Taw una tumba solitaria marcaba el final de un camino de grava.					
+INFO_CROSSMOUNTAINRIGHT	The Scythian			En la escarpada ladera del Mingi Taw una tumba solitaria marcaba el final de un camino de grava.					
+INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima del Mingi Taw había un poste siniestro adornado con una calavera astada.					
+INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima del Mingi Taw descansaba una tumba solitaria como siniestro recuerdo de las muchas personas que habían muerto allí.					
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo engastado entre dos manos esqueléticas y sentimos a nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
+DOOR_SIDEBMEADOW	The Scythian			"Una puerta pequeña sin pomo hecha de un material desconocido. Una señal reza ""Solo personal autorizado""."					
+DOOR_UPSLOPEWOODS1	The Scythian			Una puerta cerrada en la rocosa muralla bloqueaba el camino antiguo al Mingi Taw.					
+DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía en un matorral en el bosque bajo el camino antiguo que asciende al Mingi Taw. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba leña. #obviously #woodchopping			71	007.jpg	7E+71
-				"La gente montesa del Cáucaso lo conocía como 'Tronco' y parecía afable."					
-				Tronco sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el antiguo camino.					
-				"Aún así, nos dio la sensación de que no estaba muy emocionado que digamos con tal encomienda."					
-LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		"El leñador nos esperó para continuar el recorrido hacia el inicio del antiguo camino."			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el abismo y nos sentíamos super inteligentes.			22	009.jpg	L0B9S
-			adventureUI/megatomeItem	Le contamos a Tronco que estábamos buscando un libro de siniestra magia conocido como El Megatomo.					
-			adventureUI/megatomeItem	"El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del precipicio, bajo el Mingi Taw."					
+				Los montañeses del Cáucaso lo conocían como Sr. Tronco y parecía amable.					
+				Sr. Tronco sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el camino antiguo.					
+				Aún así, nos dio la sensación de que no estaba muy emocionado que digamos con tal encomienda.					
+LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar el recorrido hacia el camino antiguo.			12	008.jpg	U0D88
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el precipicio y nos sentíamos super inteligentes.			22	009.jpg	L0B9S
+			adventureUI/megatomeItem	Le contamos a Sr. Tronco que estábamos buscando un libro de siniestra magia conocido como El Megatomo.					
+			adventureUI/megatomeItem	El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del precipicio, bajo el Mingi Taw.					
 			adventureUI/megatomeItem	Decidimos ir por El Megatomo y despúes escapar con vida.					
-LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador confirmó al 100% que el tenía la única llave para la puerta de la rocosa muralla.					
+LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó al 100% que el tenía la única llave de la puerta de la rocosa muralla.					
 			AdventureUI/keyItem	Era una llave realmente bonita.					
-				Estábamos totalmente listos para mantener presionado el camino por delante para avanzar.					
-LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Tronco nos esperaría aquí a que volvieramos con El Megatomo.					
-LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Tronco había elegido relajarse en un refugio de piedra cerca del Peligroso Precipicio.					
-				Tronco parecía saberlo todo acerca del repugnante arcoíris y el glifo que representaba a una espada que miraba hacia el cielo.					
-				"Y, sin embargo, Tronco no ofreció ninguna ayuda sobre qué hacer a continuación, lo cual nos desconcertó un poco, si somos sinceros."					
+				Estábamos completamente listos para mantener presionado sobre el camino para avanzar.					
+LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Sr. Tronco nos esperaría aquí a que volvieramos con El Megatomo.					
+LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Sr. Tronco había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
+				Sr. Tronco parecía saberlo todo acerca del arcoíris repugnante y el glifo que representaba a una espada que miraba hacia el cielo.					
+				Y, sin embargo, Sr. Tronco no ofreció ninguna ayuda sobre qué hacer a continuación, lo cual nos desconcertó un poco si somos sinceros.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto algún tipo de espeluznante monstruo y supuso que era mejor dejarlo en nuestras manos.			26	010.jpg	Q1B00
-LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado El Megatomo y Tronco estaba 100% listo para llevarlo a la seguridad de su morada.					
-				"Sentimos el acecho de una tormenta eléctrica y, aún así, una pequeña canción comenzó a sonar en nuestro corazón."					
-LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		"A la luz de la tormenta que se avecinaba, Tronco admitió en ese momento que estaba muy preocupado."					
-				¿Estaba Tronco vacilándonos intencionadamente? #yes #no #maybe					
-				"En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo."					
+LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado El Megatomo y Sr. Tronco estaba 100% listo para llevarlo a la seguridad de su morada.					
+				Sentimos el acecho de una tormenta eléctrica y, aún así, una pequeña canción comenzó a sonar en nuestro corazón.					
+LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la tormenta que se avecinaba, Sr. Tronco admitió en ese momento que estaba muy intranquilo.					
+				¿Estaba Sr. Tronco asustandonos intencionadamente? #yes #no #maybe					
+				En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo.					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y nos sentíamos super listos. #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			"Damas y caballeros, ¿por qué no presionan sobre estos dos pequeños duendecillos silvanos para darme una idea de cómo suenan sus sistemas estéreo?"					
-	The Archetype			"Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad."					
+	The Archetype			Damas y caballeros, ¿Qué tal si presionan sobre estos dos pequeños duendecillos silvanos para darme una idea de cómo suenan sus sistemas estéreo?					
+	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				Esta vez alentamos el aislamiento y la reflexión arrepentida.					
 				Te estamos profundamente agradecidos por haber elegido participar en este tratamiento experimental para tratar la enfermedad aguda del alma.					
-				Descubrirás que la primera sesión de S:S&S EP es bastante sencilla. Generalmente sólo requiere de 15 a 30 minutos para completarla.					
-				¿Tienes tus auriculares? ¿Listo para comenzar? Presiona jugar y vamos a ello.					
+				Descubrirás que la primera sesión de S:S&S EP es bastante sencilla. Generalmente sólo requiere de 15 a 30 minutos para ser completada.					
+				¿Tienes tus auriculares? ¿Estas listo? Presiona jugar y comencemos.					
 ARCHETYPE_FOUNDATION	The Archetype			Vamos a hablar sobre el conjunto y la configuración para una experiencia positiva con el altamente psicoactivo Superbrothers: Sword & Sworcery EP.					
-				"""Conjunto"" se refiere al estado mental y estructura de personalidad que aportas a la experiencia - pensamientos, estados de ánimo y/o expectativas."					
+				"""Conjunto"" se refiere al estado mental y la personalidad que aportas a la experiencia - pensamientos, estados de ánimo y/o expectativas."					
 				Hemos descubierto que con una actitud relajada y curiosa es más probable disfrutar de la experiencia de S:S&S EP.					
-				"""Configuración"" incluye la comodidad, seguridad y calidez de la habitación o entorno exterior donde la experiencia tendrá lugar."					
-				"El segundo aspecto de ""Configuración"" es el cultural - nociones comunes de la realidad y normalidad. Evitaremos este tema por ahora."					
-				"S:S&S EP no produce ninguna experiencia transcendente, está meramente destinado a liberar el sistema nervioso de los patrones ordinarios."					
+				"""Configuración"" consiste en la comodidad, seguridad y calidez del entorno donde la experiencia tendrá lugar."					
+				"Otro aspecto de ""Configuración"" es el cultural - nociones comunes de la realidad y normalidad. Evitaremos este tema por ahora."					
+				S:S&S EP no produce ninguna experiencia transcendente, está meramente destinado a liberar el sistema nervioso de los patrones ordinarios.					
 				"El conocimiento expandido, el ilimitado y sin explorar potencial de la mente, es a lo que en Superbrothers denominamos ""Espadachicería"" #sworcery."					
-				La canción de espadachicería puede entenderse como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
-				"Para detener la canción de espadachicería simplemente toca dos veces en el aura espadachicera que rodea a la Escita."					
-				"Una vez que hayas comenzado a cantar la canción de espadachicería, mantén presionado sobre el aura espadachicera y desliza para mirar alrededor."					
-				"Para cantar la canción de espadachicería, mantén presionado sobre la Escita durante un momento y observa cómo crece su aura espadachicera."					
-				"Como puedes ver, El Megatomo recoge y almacena transmisiones de pensamiento lingüístico. Desplaza hacia abajo para ver qué estaba pensando antes."					
-ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la Canción de Espadachicería y ahora el insondable poder de El Megatomo es tuyo."""			47	012.jpg	31E2F
+				La canción de Espadachicería puede entenderse como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
+				Para detener la canción de Espadachicería simplemente toca dos veces el aura que rodea a la Escita.					
+				Una vez que hayas comenzado a cantar la canción de Espadachicería, mantén presionado sobre el aura y desliza para mirar alrededor.					
+				Para cantar la canción de Espadachicería, mantén presionado sobre la Escita durante un momento y observa cómo crece su aura.					
+				Como puedes ver, El Megatomo recoge y almacena transmisiones de pensamiento lingüístico. Desplaza hacia abajo para ver qué estaba pensando antes.					
+ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la canción de Espadachicería y ahora el insondable poder de El Megatomo es tuyo."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
 			adventureUI/megatomeItem	Se me acaba de ocurrir algo... ¿por qué no abres El Megatomo y descubres lo qué se oculta en mi mente?					
 				"""Busca un triángulo blanco en la esquina superior derecha... presiónalo y equipa El Megatomo para revelar lo qué está oculto."""					
-LOGFELLA_STORM	The Scythian			El leñador conocido como Tronco había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
-			adventureUI/megatomeItem	Tronco nos recordó cómo la tormenta había comenzado poco después de que recuperaramos El Megatomo bajo el Mingi Taw.					
-				¿Acaso Tronco nos estaba sutilmente sugiriendo que deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
+LOGFELLA_STORM	The Scythian			El leñador conocido como Sr. Tronco había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
+			adventureUI/megatomeItem	Sr. Tronco nos recordó cómo la tormenta había comenzado poco después de que recuperaramos El Megatomo bajo el Mingi Taw.					
+				¿Estaba acaso Sr. Tronco sugiriendo sutilmente que encontraramos una manera de disipar la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de cabello oscuro conocida como Samae estaba bastante afligida. #woe					
-			gourd/gourd	"Desde que comenzó la tormenta, Samae había estado contemplando las sonoras espumas de los duendecillos silvanos que dormitaban en los bosques cercanos."					
+			gourd/gourd	Desde que comenzó la tormenta, Samae había estado observando las espumas sonoras de los duendecillos silvanos que dormitaban en los bosques cercanos.					
 			gourd/gourd	Se preguntó si tal vez los tres duendecillos silvanos podrían ayudar a disipar la tormenta. #yes					
-			gourd/gourd	Nos pidió que investigáramos las sonoras espumas burbujeando en el profundo estanque frente a la choza.					
+			gourd/gourd	Nos pidió que investigáramos las espumas sonoras burbujeando en el estanque profundo frente a la choza.					
 			gourd/gourd	Samae habló de un duendecillo en un prado cercano y de otro en una pajarera, hogar de tres pájaros cantores empapados por la lluvia.					
-			gourd/gourd	"Samae nos dijo que buscáramos las sonoras espumas de estos tres duendecillos silvanos, y que los enviáramos hacia el cielo usando la canción de espadachicería."					
-ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canción de Espadachicería, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
-			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para invocar al duendecillo silvano que suavemente dormita en las frescas aguas del profundo estanque."""					
-ARCHETYPE_TADPOLES	The Archetype			"Era 100% obvio que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué."					
-			gourd/gourd	"""¿Ves las sonoras espumas en el profundo estanque? Un duendecillo silvano suavemente dormita allí y debes invocarlo."""					
-			gourd/gourd	"""Canta una Canción de Espadachicería en cualquier momento manteniendo presionado sobre la Escita para acceder a una realidad dentro de la que ya conoces."""					
-			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde dormita el duendecillo y envíale hacia el cielo con tres toques de espadachicería."""			49	013.jpg	61D3A
+			gourd/gourd	Samae nos dijo que buscáramos las espumas sonoras de estos tres duendecillos silvanos, y que los enviáramos hacia el cielo usando la canción de espadachicería.					
+ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la canción de Espadachicería, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
+			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para invocar al duendecillo silvano que dormita suavemente en las frescas aguas del estanque profundo."""					
+ARCHETYPE_TADPOLES	The Archetype			Era 100% obvio que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué.					
+			gourd/gourd	"""¿Ves las espumas sonoras en el estanque profundo? Un duendecillo silvano dormita suavemente allí y debes invocarlo."""					
+			gourd/gourd	"""Canta una canción de Espadachicería en cualquier momento manteniendo presionado sobre la Escita para acceder a una realidad dentro de la que ya conoces."""					
+			gourd/gourd	"""Guía las dos pequeñas cosas nadadoras hacia donde dormita el duendecillo y envíale hacia el cielo con tres toques de Espadachicería."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el ancho techo de madera del pozo.					
-				"Ella había abandonado la comodidad del fuego en la choza porque, al parecer, Tronco estaba desvariando por una cosa u otra."					
-INFO_BIRDEYESCULPTURE	The Scythian			Descubrimos una escultura de un enfadado pájaro que se cernía sobre el prado. #subtlereference			6	014.jpg	F1D48
-INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas insignificantes ovejas holgazaneando por el prado. #worthlesssheep					
-INFO_CABINSHEEP	The Scythian			"Otra insignificante oveja, ¿por qué seguimos mirándolas? #worthlesssheep"					
+				Ella había abandonado la comodidad del fuego en la choza porque, al parecer, Sr. Tronco estaba desvariando por una cosa u otra.					
+INFO_BIRDEYESCULPTURE	The Scythian			Descubrimos una escultura de un pájaro enfadado que vigilaba sobre el prado. #subtlereference			6	014.jpg	F1D48
+INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas ovejas insignificantes holgazaneando por el prado. #worthlesssheep					
+INFO_CABINSHEEP	The Scythian			Otra oveja insignificante, ¿por qué seguimos mirándolas? #worthlesssheep					
 INFO_MEADOWSUN	The Scythian			Podemos recordar vívidamente cuán impresionante parecía el sol en ese primer día de primavera.					
 INFO_MEADOWGATE	The Scythian			En el prado había un inamovible portón de hierro bloqueando el paso a una cavernosa cueva.					
-INFO_MEADOWGATEACTIVE	The Scythian			"En el prado había un portón de hierro y tuvimos la sensación de que, tal vez, podríamos abrirlo de alguna manera."					
-INFO_MEADOWGATETRIGONACTIVE	The Scythian			"Descubrimos un nosequé con forma de Trígono Dorado sobre el portón de hierro, ¿tal vez reaccionaría a nuestra Canción de Espadachicería?"					
+INFO_MEADOWGATEACTIVE	The Scythian			En el prado había un portón de hierro y tuvimos la sensación de que, tal vez, podríamos abrirlo de alguna manera.					
+INFO_MEADOWGATETRIGONACTIVE	The Scythian			Descubrimos un nosequé con forma de Trígono Dorado sobre el portón de hierro, ¿tal vez reaccionaría a nuestra canción de Espadachicería?					
 INFO_MEADOWGATETRIGON	The Scythian			Descubrimos un nosequé sobre el portón de hierro.					
-INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta cerrada en la rocosa muralla bloqueaba el antiguo camino al Mingi Taw y, al parecer, la llave estaba perdida en los sueños.					
-INFO_LOOMINGBIRDSCULPTURES	The Scythian			Descubrimos la escultura de un enfadado pájaro que se cernía sobre el prado. #subtlereference					
-INFO_MEADOWSUNSTICK	The Scythian			Descubrimos un báculo de extraño aspecto sobre el prado.					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta cerrada en la rocosa muralla bloqueaba el camino antiguo al Mingi Taw y, al parecer, la llave estaba perdida en los sueños.					
+INFO_LOOMINGBIRDSCULPTURES	The Scythian			Descubrimos la escultura de un pájaro enfadado que vigilaba sobre el prado. #subtlereference					
+INFO_MEADOWSUNSTICK	The Scythian			Descubrimos un báculo de aspecto extraño sobre el prado.					
 INFO_CABINWELL	The Scythian			Descubrimos un pozo sólidamente construido con un amplio tejado de madera.					
-INFO_UNWELLWELL	The Scythian			El pozo parecía estar indispuesto. #unwell #well					
+INFO_UNWELLWELL	The Scythian			El pozo emitió un sollozo. #unwell #well					
 INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #welfare					
 INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE					
-ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
-INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un profundo estanque.					
-INFO_CABINWOODPILE	The Scythian			"Descubrimos una pila de leña, no es para tanto."					
-INFO_SPUME	The Scythian			Encontramos las sutiles sonoras espumas de un duendecillo dormitante. Y ahora... ¿cómo lo invocamos?					
-INFO_NESTBOX	The Scythian			"Descubrimos una pajarera de curioso aspecto, ahora hogar de una desafortunada colmena."			13	015.jpg	B1C5F
-INFO_NESTBOXWEATHERED	The Scythian			Descubrimos una pajarera de desgastado aspecto que parecía una espeluznante cara.					
-INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el antiguo camino había un siniestro mástil adornado con calaveras.					
-INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado nos encontramos con una aislada arboleda con una extraña colección de estructuras de piedra.					
+ARCHETYPE_UNWELLWELLOUTRO	The Archetype							
+INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un estanque profundo.					
+INFO_CABINWOODPILE	The Scythian			Descubrimos una pila de leña, no es para tanto.					
+INFO_SPUME	The Scythian			Encontramos las sutiles espumas sonoras de un duendecillo dormitante. Y ahora... ¿cómo lo invocamos?					
+INFO_NESTBOX	The Scythian			Descubrimos una pajarera de aspecto curioso ahora hogar de una desafortunada colmena.			13	015.jpg	B1C5F
+INFO_NESTBOXWEATHERED	The Scythian			Descubrimos una pajarera de aspecto desgastado que parecía una cara espeluznante.					
+INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el camino antiguo había un mástil siniestro adornado con calaveras.					
+INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado encontramos una arboleda aislada con una extraña colección de estructuras de piedra.					
 			Archetype/trifecta	... ¿Era esta la Arboleda Trigonal? #trigongrove			93	016.jpg	B1D6J
-			triangle/Triangle	"Mientras estábamos al lado de la primera estructura de piedra, pensamos en el Trígono Dorado y sentimos nuestra espada agitarse."					
+			triangle/Triangle	Mientras estábamos al lado de la primera estructura de piedra, pensamos en el Trígono Dorado y sentimos a nuestra espada agitarse.					
 INFO_DARKTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra desgastada y enmohecida. #darkmoontrigon					
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
-INFO_BRIGHTTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra con un glifo circular que hacía referencia a la Luna Brillante. #brightmoontrigon					
+INFO_BRIGHTTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra con un glifo circular que hacía referencia a La Luna Brillante. #brightmoontrigon					
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
-INFO_STONEHEAD	The Scythian			"En el Peligroso Precipicio había una enorme escultura de roca labrada con la boca entreabierta y de familiar aspecto."			24	017.jpg	61B76
-INFO_STONEHEADSHUT	The Scythian			En el Precipio Peligroso había una enorme escultura de roca labrada y de familiar aspecto.					
-INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura de roca labrada se hallaba un siniestro mástil adornado con calaveras o algo por el estilo.					
-INFO_CHASMSTONESHELTER	The Scythian			A un lado del Peligroso Precipicio se alzaba una especie de dolmen que custodiaba dos asientos de piedra de cómodo aspecto.			25	018.jpg	O1C8M
-INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un sienestro poste adornado con una calavera astada.					
-INFO_TRIFECTASYMBOL	The Scythian			Sobre la rocosa entrada de un templo en la montaña divisamos una representación pictográfica de la Trigonal Trifecta.					
-INFO_MOUNTAINGATE	The Scythian			En la profundidad del templo de la montaña divisamos un inamovible portón de hierro. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
-INFO_MOUNTAINGATETRIGON	The Scythian			"En la profundidad del templo de la montaña, por encima de un pasaje elevado, descubrimos tres extrañas formas triangulares."					
-INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			"En la profundidad del templo de la montaña, por encima de un pasaje elevado, descubrimos el símbolo de la Trigonal Trifecta."					
+INFO_STONEHEAD	The Scythian			En el Precipicio Peligroso había una enorme escultura de roca labrada con la boca entreabierta y de aspecto familiar.			24	017.jpg	61B76
+INFO_STONEHEADSHUT	The Scythian			En el Precipio Peligroso había una enorme escultura de roca labrada y de aspecto familiar.					
+INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura de roca labrada se hallaba un mástil siniestro adornado con calaveras o algo por el estilo.					
+INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso había un magnífico dolmen que albergaba dos asientos de piedra de aspecto cómodo.			25	018.jpg	O1C8M
+INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un poste siniestro adornado con una calavera astada.					
+INFO_TRIFECTASYMBOL	The Scythian			Sobre la rocosa entrada del templo de la montaña divisamos una representación pictográfica de la Trigonal Trifecta.					
+INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña divisamos un inamovible portón de hierro. Más allá podíamos ver el nublado paisaje montañoso del Mingi Taw.					
+INFO_MOUNTAINGATETRIGON	The Scythian			En lo profundo del templo de la montaña sobre un pasaje alto descubrimos tres extrañas formas triangulares.					
+INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			En lo profundo del templo de la montaña sobre un pasaje alto descubrimos el símbolo de la Trigonal Trifecta.					
 INFO_CABINRECORD	The Scythian			En el interior de la choza descubrimos un pequeño y redondeado cacharro encima del fuego. #theballadofthespacebabies			46	019.jpg	P1D99
-INFO_CABINHEARTH	The Scythian			"Dentro de la choza, el fuego crepitaba suavemente proporcionando una calidez familiar."					
-INFO_CABINSEAT	The Scythian			"Dentro de la choza, a ambos lados del fuego, había dos toscos asientos de madera."					
+INFO_CABINHEARTH	The Scythian			Dentro de la choza, el fuego crepitaba suavemente proporcionando una calidez familiar.					
+INFO_CABINSEAT	The Scythian			Dentro de la choza, a ambos lados del fuego, había dos toscos asientos de madera.					
 INFO_GOGOLITHICMASS	The Scythian			Descubrimos un calavera astada flotando en la oscuridad bajo el Mingi Taw.					
-INFO_MEGATOMBTRIFECTA	The Scythian			"En la oscuridad, descubrimos una representación pictográfica de la Trigonal Trifecta bajo el Mingi Taw."					
-INFO_ROCKSHOWGIRL	The Scythian			En el concierto de rock divisamos a Samae y pensamos que tal vez ella dijo 'fuego camina conmigo'.					
+INFO_MEGATOMBTRIFECTA	The Scythian			En la oscuridad, descubrimos una representación pictográfica de la Trigonal Trifecta bajo el Mingi Taw.					
+INFO_ROCKSHOWGIRL	The Scythian			"En el concierto de rock vimos a Samae y nos pareció escucharla decir ""fuego camina conmigo""."					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			En el concierto de rock vimos uno de esos esqueletos vibrando ante el ominoso ritmo.					
 INFO_ROCKSHOWJIM	The Scythian			Encabezando el concierto de rock no había otro que el misterioso músico conocido como Jim Guthrie.			160	020.jpg	T2G03
 INFO_ROCKSHOWBOOR	The Scythian			En el concierto de rock vimos al Tosco Pardo meneando su cosa.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock había un considerable número de damas y caballeros.					
-INFO_ROCKSHOWARCHETYPE	The Scythian			En el concierto de rock divisamos al tipo conocido como El Arquetipo y nos quedamos preguntándonos qué tenía que ver él con todo esto.					
-INFO_TRIGONGROVESKULLSTICK	The Scythian			Un siniestro poste adornado con una calavera astada conecta este lugar con el inmortal espectro que acecha bajo el Mingi Taw.					
-GRAVE_TRIGONGROVE	The Scythian			"En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, divisamos una solitaria tumba que despertó nuestra curiosidad."					
-GRAVE_TRIGONGROVEGHOST	The Scythian			"En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, nos acercamos a una solitaria tumba donde nos recibió un resplandeciente fantasma."					
-				"El resplandeciente fantasma de la Arboleda Trigonal nos asustó un poco al principio, si somos sinceros."			96	022.jpg	T2B2H
+INFO_ROCKSHOWARCHETYPE	The Scythian			En el concierto de rock divisamos al tipo conocido como El Arquetipo y nos preguntámos qué tenía que ver él con todo esto.					
+INFO_TRIGONGROVESKULLSTICK	The Scythian			Un poste siniestro adornado con una calavera astada conecta este lugar con el espectro inmortal que acecha bajo el Mingi Taw.					
+GRAVE_TRIGONGROVE	The Scythian			En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, divisamos una tumba solitaria que despertó nuestra curiosidad.					
+GRAVE_TRIGONGROVEGHOST	The Scythian			En la Arboleda Trigonal, más allá de la cavernosa cueva del prado, nos acercamos a una tumba solitaria donde nos recibió un fantasma resplandeciente.					
+				El fantasma resplandeciente de la Arboleda Trigonal nos asustó un poco al principio, si somos sinceros.			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Reconoció nuestro atuendo Escita y vio que poseíamos El Megatomo. Se preguntó si comprendíamos las esotéricas marcas que contenía.					
-				En un susurro nos dio el nombre del inmortal espectro que habíamos despertado en la oscuridad bajo el Mingi Taw - La Masa Gogolítica.			166	023.jpg	O2B39
+				En un susurro nos dio el nombre del espectro inmortal que habíamos despertado en la oscuridad bajo el Mingi Taw - La Masa Gogolítica.			166	023.jpg	O2B39
 				Conocíamos ese espeluznante nombre por las viejas historias y sentimos nuestra sangre helarse.					
 				"""Hasta ahora tenía la sensación de que La Masa Gogolítica te veía como a una especie de turista."""					
-			triangle/Triangle	"""Ahora que has aprendido la Canción de Espadachicería y domado al Trígono Dorado, descubrirás que cada paso que des está maldito."""					
-				"No podíamos decir si el resplandeciente fantasma nos estaba animando, desalentando o qué."					
+			triangle/Triangle	"""Ahora que has aprendido la canción de Espadachicería y domado al Trígono Dorado, descubrirás que cada paso que des está maldito."""					
+				No podíamos decir si el fantasma resplandeciente nos estaba animando, desalentando o qué.					
 				Le contamos al fantasma nuestra intención de detonar El Megatomo en la cima del Mingi Taw y liberar a La Masa Gogolítica de la inmortalidad.					
-			Archetype/trifecta	"Preguntamos sobre la Trigonal Trifecta y la ubicación de los Trígonos restantes, pero su respuesta fue irritantemente obtusa."					
+			Archetype/trifecta	Preguntamos sobre la Trigonal Trifecta y la ubicación de los Trígonos restantes, pero su respuesta fue irritantemente obtusa.					
 				"""Los Trígonos restantes existen sólo en los sueños de la gente de la montaña."""			43	024.jpg	8.2E+46
 				"""Localizar los Trígonos restantes no es tanto una cuestión del dónde, sino del cuándo y el cómo."""					
-				El resplandeciente fantasma sin duda había dicho cantidad de inútiles sinsentidos.					
-GRAVE_LOGBRIDGE	The Scythian			Vimos un puñado de tumbas en un matorral al margen del antiguo camino y nos preguntamos de quiénes serían.					
-GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al margen del antiguo camino y nos encontramos con unos fantasmas que parecían amigables.			116	025.jpg	62B55
-				El imponente fantasma que habló fue un gigante que conocíamos por viejas historias cuyo famoso retrato demandaba obediencia. #andre					
+				Sin duda el fantasma resplandeciente había dicho cantidad de inútiles sinsentidos.					
+GRAVE_LOGBRIDGE	The Scythian			Vimos un puñado de tumbas en un matorral al margen del camino antiguo que despertaron nuestra curiosidad.					
+GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al margen del camino antiguo y nos encontramos con unos fantasmas que parecían amigables.			116	025.jpg	62B55
+				El fantasma imponente que habló fue un gigante que conocíamos por viejas historias cuyo famoso retrato demandaba obediencia. #andre					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, armé a un pelotón y nos dispusimos a reconstruir la Trigonal Trifecta."""					
 				"""Habíamos oído hablar de la entrada al infinito en la cima del Mingi Taw y pensamos que sería algo digno de ver."""					
 			triangle/Triangle	"""Así que domamos el Trígono Dorado e investigamos la Arboleda Trigonal antes de salir a buscar el Trígono Luna Brillante."""					
-				"""Localizar el Trígono Luna Brillante no fue muy bien... acabamos totalmente perdidos para ser honesto."""					
+				"""Localizar el Trígono Luna Brillante no resultó muy bien... acabamos totalmente perdidos para ser honesto."""					
 				"""Lentamente nos dimos cuenta de la importancia del temperamento de la luna y su influencia en los duendecillos que duermen en los reinos crepusculares."""					
 				"""Ahí es cuando nos sentamos y empezamos a vigilar el temperamento de la luna para poder saber el cuándo, el dónde y el cómo."""			7	026.jpg	Q2D6P
 				"""Morimos de aburrimiento esperando a que el temperamento de la luna cambiara."""					
 				"""Bueno, en realidad morimos debido a una discusión que tuvimos a causa del aburrimiento."""					
 				"""Realmente no quiero entrar en detalles ahora mismo, si no te importa."""					
 				"""Bueno, lo que pasó fue que uno de los nuestros era un tramposo bribón y lo atrapamos con las manos en la masa."""					
-				"""Estalló una pelea y el tramposo bribón huyó por el antiguo camino hacia el Peligroso Precipicio."""					
+				"""Estalló una pelea y el tramposo bribón huyó por el camino antiguo hacia el Precipicio Peligroso."""					
 				"""Así que estábamos preguntándonos qué hacer... cuando de repente apareció La Masa Gogolítica... y ¡Buff!"""			113	027.jpg	62B75
-GRAVE_CHASM	The Scythian			Divisamos una solitaria tumba en el borde del Peligroso Precipicio y nos preguntamos de quién sería.					
-GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la solitaria tumba del tramposo bribón en el Peligroso Precipicio y conocimos a un fulgurante fantasma.					
+GRAVE_CHASM	The Scythian			Divisamos una tumba solitaria en el borde del Precipicio Peligroso que despertó nuestra curiosidad.					
+GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la tumba solitaria del tramposo bribón en el Precipicio Peligroso y conocimos a un fantasma radiante.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André 'El Gigante' armó a un pelotón y nos dispusimos a reconstruir la Trigonal Trifecta."""					
-				"""Los otros integrantes del pelotón están enterrados en un matorral al margen del antiguo camino, cerca del puente de troncos."""					
+				"""Los otros integrantes del pelotón están enterrados en un matorral al margen del camino antiguo, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar el Trígono Dorado con bastante facilidad pero no avanzamos nada después de eso."""					
 				"""Buscamos el Trígono Luna Brillante, así que decidimos sentarnos y observar el cielo, esperando que el temperamento de la luna cambiara."""					
-				"""¡Fue super aburrido! No iba a esperar días y días hasta que la Luna Brillante se alzara."""					
+				"""¡Fue super aburrido! No iba a esperar días y días hasta que La Luna Brillante se alzara."""					
 				"""Deje a esos perdedores deambular sin sentido mientras yo investigaba más sobre esa treta lógico-lunar."""					
-				El fulgurante fantasma habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
-				"El fantasma describió sobre la opción de Fecha/Hora y los horrores que precedían al alterar el temperamento de la luna con este método."					
-				"""La cosa es que, desde que hice trampa, sentí una tremenda deshonra y así morí de vergüenza."""					
-GRAVE_HOLLOW	The Scythian			"Dentro de un titánico árbol hueco divisamos una solitaria tumba y sentimos cierta curiosidad por ella."					
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
+				El fantasma radiante habló de cómo había hecho trampa saliendo de S:S&S EP y yendo a Configuración.					
+				El fantasma describió sobre la opción de Fecha/Hora y los horrores que precedían al alterar el temperamento de la luna con este método.					
+				"""La cosa es que desde que hice trampa, mi conciencia no me dejó y así morí de vergüenza."""					
+GRAVE_HOLLOW	The Scythian			Dentro de un titánico árbol hueco divisamos una tumba solitaria que despertó nuestra curiosidad.					
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una tumba solitaria y un fantasma taimado apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
 				"""Monitorea el temperamento de la luna y así aprenderás el cuándo, el dónde y el cómo."""					
-				"""También quiero que sepas que no intento deliberadamente asustarte luciendo así de impresionante."""					
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
-				"""Busca a los duendecillos silvanos en el camino tras de ti, con ojos y oidos abiertos a sus sonoras espumas."""					
-				"""Envía a los cinco duendecillos silvanos hacia el cielo para provocar un milagro que reveleará al Trígono que buscas."""					
-GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma apareció y nos contó algunas cosas.			117	028.jpg	E2A80
-				"""Busca la señal de los duendecillos silvanos y canta la Canción de Espadachicería para así revelear un Trígono escondido."""					
-GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una solitaria tumba y un taimado fantasma apareció y nos contó algunas cosas.			117	028.jpg	E2A80
-				"""Veo que la Canción del Trígono ha terminado por ahora. Me pregunto cuándo volveré a escucharla."""					
-LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Tronco estaba totalmente fuera de sí por algo.					
-			AdventureUI/keyItem	"Al parecer Tronco había perdido la llave de la puerta de la rocosa muralla que bloqueaba el antiguo camino al Mingi Taw."					
-				"Nosotros estábamos en plan de ""otra misión de buscar y traer o ¿me equivoco?""."					
-				Tronco nos dijo haber estado sentado aquí mismo cuando cayó en un sueño profundo.					
-			AdventureUI/keyItem	Tronco nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
-				"Ya habíamos oído hablar de los extraños sueños de la gente montesa del Cáucaso, de modo que tenía sentido para nosotros."					
-				Tronco nos invitó a calentar nuestras botas junto al fuego y soñar junto a él.			63	029.jpg	U2C92
-ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			"Pensamos en la vigilia y en la psicofocosmología mitopoética de los sueños como estados separados, sin embargo interoperan de maneras curiosas."					
+				"""No creas que intento deliberadamente asustarte, luciendo así de impresionante."""					
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una tumba solitaria y un fantasma taimado apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
+				"""Busca a los duendecillos silvanos en el camino tras de ti, con ojos y oidos abiertos a sus espumas sonoras."""					
+				"""Envía a cinco duendecillos silvanos hacia el cielo para provocar un milagro que reveleará al Trígono que buscas."""					
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una tumba solitaria y un fantasma taimado apareció y nos contó algunas cosas.			117	028.jpg	E2A80
+				"""Busca la señal de los duendecillos silvanos y canta la canción de Espadachicería para así revelear el Trígono escondido."""					
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco nos acercamos a una tumba solitaria y un fantasma taimado apareció y nos contó algunas cosas.			117	028.jpg	E2A80
+				"""Veo que la canción del Trígono ha terminado por ahora. Me pregunto cuándo volveré a escucharla."""					
+LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Sr. Tronco estaba totalmente fuera de sí por algo.					
+			AdventureUI/keyItem	Al parecer Sr. Tronco había perdido la llave de la puerta de la rocosa muralla que bloqueaba el camino antiguo al Mingi Taw.					
+				"Nosotros estábamos en plan de ""otra misión de busqueda y rescate ¿o me equivoco?""."					
+				Sr. Tronco nos dijo haber estado sentado aquí mismo cuando cayó en un sueño profundo.					
+			AdventureUI/keyItem	Sr. Tronco nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
+				Ya habíamos oído hablar de los extraños sueños de los montañeses del Cáucaso, de modo que tenía sentido para nosotros.					
+				Sr. Tronco nos invitó a calentar nuestras botas junto al fuego y soñar junto a él.			63	029.jpg	U2C92
+ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos en la vigilia y en la psicosmología mitopoética de los sueños como estados separados, sin embargo interoperan de maneras curiosas.					
 				El umbral de liminalidad es un espacio entre la vigilia y los sueños donde el pensamiento dirigido es imposible.			56	030.jpg	13A0A
 				Busca un hogar cálido y permite que el sueño te arrope para descubrir el umbral de la liminalidad.					
-ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si vas a sentarte junto al fuego en la choza y cruzas el umbral liminal para encontrar la llave perdida de Tronco?			55	031.jpg	23C1X
-GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		"Vaya, Tronco está fuera de sí por algo... Me pregunto qué pasará. He preferido salir fuera y dejarlo solo un momento."					
-				He visto a la Escita cantar la Canción de Espadachicería y enviar tres duendecillos silvanos hacia el cielo. Me pregunto si ayudarán a disipar la tormenta.					
+ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si vas a sentarte junto al fuego en la choza y cruzas el umbral liminal para encontrar la llave perdida de Sr. Tronco?			55	031.jpg	23C1X
+GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Vaya, Sr. Tronco está fuera de sí por algo... Me pregunto qué pasará. He preferido salir fuera y dejarlo solo un momento.					
+				He visto a la Escita cantar la canción de Espadachicería y enviar tres duendecillos silvanos hacia el cielo. Me pregunto si ayudarán a disipar la tormenta.					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que la Escita pueda encontrar mi llave... la perdí en la orilla arenosa de un plácido lago.			62	032.jpg	U3A20
-LOGFELLA_LOSTKEYTHOUGHTS	Logfella			"Oh vaya, me gustaría que no estuviera lloviendo fuera... Me gustaría que mis botas no estuvieran tan mojadas... Me gustaría volver a cortar leña."					
-				"¡Rayos!, ¿¡dónde está mi llave!? ¡Estoy tan furioso y avergonzado que estoy fuera de mí!"					
+LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Oh vaya, me gustaría que no estuviera lloviendo fuera... Me gustaría que mis botas no estuvieran tan mojadas... Me gustaría volver a cortar leña.					
+				¡Rayos!, ¿¡dónde está mi llave!? ¡Estoy tan furioso y avergonzado que estoy fuera de mí!					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba super aliviado de que hubiéramos conseguido recuperar su llave perdida en el reino crepuscular de los sueños.					
-				El leñador conocido como Tronco se preguntó cómo éramos tan inteligentes y nos preguntó sobre nuestro funesto cometido.					
+				El leñador conocido como Sr. Tronco se preguntó cómo es que éramos tan inteligentes y nos preguntó sobre nuestro funesto cometido.					
 				Le contamos al leñador cómo habíamos llegado a la mayoría de edad en las estepas junto a nuestros intrépidos hermanos y hermanas escitas.					
-				"Le contamos a Tronco por qué deambulabamos por aquí, en esta montaña desierta, y cómo nos guiaba el dedo de un Dios omnisciente."					
-			adventureUI/megatomeItem	Le contamos a Tronco lo que sospechábamos sobre las esotéricas marcas dentro de El Megatomo y lo que podían significar.					
+				Le contamos a Sr. Tronco por qué deambulabamos por aquí, en esta montaña desierta, y cómo nos guiaba el dedo de un Dios omnisciente.					
+			adventureUI/megatomeItem	Le contamos a Sr. Tronco lo que sospechábamos sobre las esotéricas marcas dentro de El Megatomo y lo que podían significar.					
 			gourd/gourd	Teníamos la corazonada de que necesitábamos invocar a unos cuantos duendecillos silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
-			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de cósmica geometría conocida como el Trígono Dorado.					
-				Estaba 100% claro que el leñador conocido como Tronco había dejado de prestar atención.					
-			AdventureUI/keyItem	Pensamos que podríamos simplemente llevarnos la llave e ir a dar un paseo por el antiguo camino más allá de la rocosa muralla.					
+			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de geometría cósmica conocida como el Trígono Dorado.					
+				Estaba 100% claro que el leñador conocido como Sr. Tronco había dejado de prestar atención.					
+			AdventureUI/keyItem	Pensamos que podríamos simplemente llevarnos la llave e ir a dar un paseo por el camino antiguo más allá de la rocosa muralla.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tomaramos su llave y nos dijo que estaba de acuerdo.					
-GIRL_FOUNDKEY	The Scythian			Encontramos empapada a Samae de pie a lado del camino.					
-			gourd/gourd	Ella había oído las sutiles sonoras espumas de los duendecillos silvanos más alla de la rocosa muralla en el antiguo camino al Mingi Taw.					
+GIRL_FOUNDKEY	The Scythian			Encontramos a Samae empapada de pie a lado del camino.					
+			gourd/gourd	Ella había oído las sutiles espumas sonoras de los duendecillos silvanos más alla de la rocosa muralla en el camino antiguo al Mingi Taw.					
 			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
-			gourd/gourd	Ella habló de unos débiles arcoíris en el borde del Peligroso Precipicio.					
-			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos perdíamos o nos confundíamos.					
+			gourd/gourd	Ella habló de unos débiles arcoíris en el borde del Precipicio Peligroso.					
+			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos perdíamos o confundíamos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la llave si eso significa disipar la tormenta.					
 				Debo haber asentido en algún momento durante la super épica historia de la Escita. Tengo una tolerancia muy baja para el folclore.					
 				Le pregunté a la Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
-GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvanos más enviados hacia el cielo disiparán la incesante tormenta... ¡y entonces será temporada de milagros! #miracles			129	034.jpg	33A44
+GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos duendecillos silvanos más enviados hacia el cielo disiparán la incesante tormenta... ¡y entonces será la temporada de milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mi paseo por el sueño hay una quietud emocionante cuando la luna es más brillante... y cuando la luna es más oscura los bosques se vuelven salvajes.					
 				En el sueño siempre son los mismos lugares y espacios excepto cuando difieren según el temperamento de la luna.					
 				Cada noche desde que se disipó la tormenta he tenido ese mismo sueño en el que estoy deambulando por el bosque justo antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosque puede ofrecer una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
-				Busca las sonoras espumas de los duendecillos silvanos e investiga sus alrededores.					
-				Una vez que hayas comenzado la canción de espadachicería puedes mantener presionado el aura espadachicera y deslizar para mirar alrededor.					
+				Busca las espumas sonoras de los duendecillos silvanos e investiga sus alrededores.					
+				Una vez que hayas comenzado la canción de Espadachicería puedes mantener presionado el aura y deslizar para mirar alrededor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adivinatorios pueden haber jugado un papel significativo en el desarrollo de la psique humana.					
-				"La evidencia arqueológica indica que el uso chamánico de hongos para la comunión religiosa, adivinación y curación es bastante antigua."					
-				"Fisiológicamente puedes notar sentimientos de bienestar y percepciones aumentadas, una disipación del estrés y una pérdida del apetito."					
+				La evidencia arqueológica indica que el uso chamánico de hongos para la comunión religiosa, adivinación y curación es bastante antigua.					
+				Fisiológicamente puedes notar sentimientos de bienestar y percepciones aumentadas, una disipación del estrés y una pérdida del apetito.					
 				Los hongos del bosque pueden ofrecer una cierta visión oblicua sobre el paradero de un duendecillo silvano y sus peculiares acciones.			60	035.jpg	53A5Y
 ARCHETYPE_TRIGONGROVE	The Archetype			¿Puedes sentirlo? ¿Estás empezando a entender? ¿Las esotéricas marcas y las formas dentro de El Megatomo tienen un nuevo significado?					
-				"Este haz es un puente que une el mundo de los vivos con el mundo de los muertos, puede que encuentres a un fantasma o dos con los que hablar en tus viajes."					
+				Este haz es un puente que une el mundo de los vivos y los muertos, puede que encuentres a uno o dos fantasmas con los que hablar en tus viajes.					
 				Acabo de recibir la notificación de que has enviado el primer haz celeste en la Arboleda Trigonal.					
-GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las insignificantes ovejas que holgazaneaban por la choza y nos dijo que hace un momento se habían asustado.					
-			gourd/gourd	"Le dijimos a Samae que habíamos enviado cinco duendecillos silvanos hacia el cielo y nos dijo que, tal vez, la temporada de milagros estaba cerca."					
+GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y nos dijo que hace un momento se habían asustado.					
+			gourd/gourd	Le dijimos a Samae que habíamos enviado cinco duendecillos silvanos hacia el cielo y nos dijo que tal vez la temporada de milagros estaba cerca.					
 				Pensamos que tal vez deberíamos ir a investigar el prado donde solían holgazanear las ovejas.					
-LOGFELLA_CABINSHEEP	The Scythian			Tronco tenía la sensación de que había llegado la temporada de milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
+LOGFELLA_CABINSHEEP	The Scythian			Sr. Tronco tenía la sensación de que había llegado la temporada de milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Se está empezando a disipar la tormenta? Eso espero.					
 				Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo tan sombrío.					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento realmente intranquilo... Sin duda algo está sucediendo... ¿Se está disipando la tormenta?					
-				"Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas."					
+				Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades de plegado del gran mago ""Al Jaffee""."					
-				¿Sientes esa sensación tan peculiar? ¡Es temporada de milagros! Canta la Canción de Espadachicería y busca los enfadados pájaros vigilantes.			76	038.jpg	A3G84
-ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira a el cielo en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira el Trígono Dorado.					
+				¿Sientes esa sensación tan peculiar? ¡Es la temporada de milagros! Canta la canción de Espadachicería y busca los vigilantes pájaros enfadados.			76	038.jpg	A3G84
+ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira al cielo en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira el Trígono Dorado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interesante la forma con que has manejado el encuentro con el caníbal cabeza de oso.			120	039.jpg	O3G9D
-				"No no, está bien, sólo que me pareció interesante. Nunca vi a nadie hacer lo que hiciste tú. Es excepcional, pero no te alarmes."					
-				"Bueno, sigamos. Aún te quedan muchas cosas por disfrutar en tu experiencia con S:S&S EP, particularmente en la Cara B."					
+				No no, está bien, sólo que me pareció interesante. Nunca vi a nadie hacer lo que hiciste tú. Es excepcional, pero no te alarmes.					
+				Bueno, sigamos. Aún te quedan muchas cosas por disfrutar en tu experiencia con S:S&S EP, particularmente en la Cara B.					
 ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar al Trígono Dorado debes aprender a sobrevivir a los tres movimientos de su extraña canción usando una mezcla de ataque y defensa.					
-				Es absolutamente fundamental que mantengas presionado el botón de escudo siempre que puedas para recuperar tu fuerza perdida.					
+				Es absolutamente fundamental que mantengas presionado el botón de escudo siempre que puedas para recobrar tu fuerza perdida.					
 				Veo que ya has convocado e intentado domar al Trígono Dorado. Tengo algunas cosas que comentarte que creo te serán de útilidad.					
 ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Repele los ataques de proyectiles psiónicos del Trígono con tu espada y espera al momento justo para esquivar los ataques cargados.			83	040.jpg	3.4E+02
 				La lógica inescrutable e insondable del Trígono Dorado ha reclamado las almas de todos aquellos que te precedieron... ellos carecían de tenacidad y coraje.					
-ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			"El Trígono Dorado debe ser domado, no hay otra opción."					
-				En el tercer patrón debes repeler los pequeños proyectiles triangulares con tu espada y esquivar los ataques cargados. 					
+ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			El Trígono Dorado debe ser domado, no hay otra opción.					
+				En el tercer patrón debes repeler los pequeños proyectiles triangulares con tu espada y esquivar los ataques cargados.					
 				En el segundo patrón debes esperar al ataque cargado y presionar el botón de escudo en el momento adecuado para esquivarlo.					
 				En el primer patrón debes utilizar tu espada para devolver la bola de energía.					
 ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Es posible que hayas notado que el Trígono Luna Brillante reparte muerte desde arriba... así que espera al momento justo y usa tu escudo para esquivar.			144	041.jpg	8.4E+12
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trígono Luna Brillante requerirá que uses tu espada contra los proyectiles y esquives los ataques cargados.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Es posible que ya te hayas encontrado con el ataque de arcoíris del Trígono Luna Oscura. Rebana ese arcoíris tan rápido como puedas.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trígono Luna Oscura implica sutiles proyectiles triangulares. Aplástalos y sobrevivirás.					
-ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que has despertado al inmortal espectro que aletargaba en la oscuridad bajo el Mingi Taw... ¡Uff!					
-				"En consecuencia, se cierne una siniestra tormenta y la encantadora gente que vive en la choza de piedra está desolada."					
+ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que has despertado al espectro inmortal que aletargaba en la oscuridad bajo el Mingi Taw... ¡Uff!					
+				En consecuencia, se cierne una siniestra tormenta y la encantadora gente que vive en la choza de piedra está desolada.					
 			adventureUI/megatomeItem	El resultado es que tienes el pesado libro conocido como El Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
-				Nuestra investigación ha demostrado que la exposición prolongada a la psicofocosmología mitopoética de S:S&S EP puede tener efectos adversos.					
-				"Así que ahora que has completado la sesión I, ¿qué te parece si nos tomamos un pequeño descanso? Estaré justo aquí cuando quieras comenzar la sesión II."					
+				Nuestra investigación ha demostrado que la exposición prolongada a la psicosmología mitopoética de S:S&S EP puede tener efectos adversos.					
+				Así que ahora que has completado la sesión I, ¿qué te parece si nos tomamos un pequeño descanso? Estaré justo aquí cuando quieras comenzar la sesión II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				Me alegra volver a verte por aquí. ¿Todo listo para comenzar con la sesión II de S:S&S EP?					
-			adventureUI/megatomeItem	"Muy bien, ¿por dónde íbamos? Oh sí, ya me acuerdo. Conseguiste el pesado libro conocido como El Megatomo."					
-				"Despertaste al inmortal espectro que aletargaba en la oscuridad bajo el Mingi Taw. Qué pena, ¿no?"			204	042.jpg	24B2J
-				"Es un tiempo de angustia, una siniestra tormenta ha nublado el cielo y la encantadora gente que vive en la choza es desdichada."					
-				"Disipar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros..."					
-			adventureUI/megatomeItem	"1. El toque de un espadachicero liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otros materiales esotéricos."					
-			gourd/gourd	"2. Extraños duendecillos silvanos, generadores de espadachicería, dormitan en estanques, bosques y prados. Busca sus sutiles sonoras espumas."					
-			triangle/Triangle	"3. El espadachicero que pueda localizar, invocar y domar la cósmica geometría del Trígono Dorado poseerá la habilidad de obrar milagros."					
+			adventureUI/megatomeItem	Muy bien, ¿por dónde íbamos? Oh sí, ya me acuerdo. Conseguiste el pesado libro conocido como El Megatomo.					
+				Despertaste al espectro inmortal que aletargaba en la oscuridad bajo el Mingi Taw. Qué pena, ¿no?			204	042.jpg	24B2J
+				Es un tiempo de angustia, una siniestra tormenta ha nublado el cielo y la encantadora gente que vive en la choza es desdichada.					
+				Disipar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros...					
+			adventureUI/megatomeItem	1. El toque de un espadachicero liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otros materiales esotéricos.					
+			gourd/gourd	2. Extraños duendecillos silvanos, generadores de Espadachicería, dormitan en estanques, bosques y prados. Busca sus sutiles espumas sonoras.					
+			triangle/Triangle	3. El espadachicero que pueda localizar, invocar y domar la cósmica geometría del Trígono Dorado poseerá la habilidad de obrar milagros.					
 				¿Abrumado? Excelente. Mantén la calma y continúa.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la cósmica geometría del Trígono Dorado.			86	044.jpg	24E4H
-				"Milagrosamente, la siniestra tormenta se ha disipado y la gloriosa luz del sol ha vuelto al reino, lo que está muy bien."					
-				"Tus heroicas hazañas reflejan bien tu percepción, intuición y perseverancia - ¡Lo has hecho muy bien hasta ahora!"					
-				"Nota: Si decides continuar con el experimento S:S&S EP, las cualidades antes mencionadas serán desafiadas y puestas a prueba."					
-				"En cualquier caso, vamos a tomarnos otro pequeño descanso, ¿no crees? Como siempre, estaré justo aquí cuando quieras comenzar con la sesión III."					
+				Milagrosamente, la siniestra tormenta se ha disipado y la gloriosa luz del sol ha vuelto al reino, lo que está muy bien.					
+				Tus heroicas hazañas reflejan bien tu percepción, intuición y perseverancia - ¡Lo has hecho muy bien hasta ahora!					
+				Nota: Si decides continuar con el experimento S:S&S EP, las cualidades antes mencionadas serán desafiadas y puestas a prueba.					
+				En cualquier caso, vamos a tomarnos otro pequeño descanso, ¿no crees? Como siempre, estaré justo aquí cuando quieras comenzar con la sesión III.					
 ARCHETYPE_TRIFECTAINTRO	The Archetype								
 				Comencemos con la sesión III. Nota: Esta sesión requiere normalmente de un mes lunar para ser completada.					
 			triangle/Triangle	¿Así que domaste el Trígono Dorado y la tormenta se disipó milagrosamente? Bravo por eso.					
 			adventureUI/megatomeItem	Consulta El Megatomo y estudia su funcionamiento si te sientes perdido o confundido.					
-				Un inmortal espectro aún acecha en la oscuridad bajo el Mingi Taw.					
+				Un espectro inmortal aún acecha en la oscuridad bajo el Mingi Taw.					
 			Archetype/trifecta	Considera la cósmica geometría de la Trigonal Trifecta.					
 			MoonCrescent/moonCrescent	Observa el temperamento de la luna.			118	045.jpg	Y4E5Q
 				Nuestra investigación ha demostrado que aquellos pocos que persisten a la locura oblicua que sigue pueden convertirse en amigos cósmicos para siempre.					
 				Ten en cuenta que de ahora en adelante estaremos monitoreando todas tus acciones en relativo silencio.					
 ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	¿Así que has domado los dos Trígonos restantes y has reconstruido la Trigonal Trifecta?			165	046.jpg	P4B6A
-			Archetype/trifecta	"Eres especial, y esa es exactamente la razón por la que me agradas tanto."					
+			Archetype/trifecta	Eres especial, y esa es exactamente la razón por la que me agradas tanto.					
 				Fue muy valiente y generoso ofrecer como mártir a la Escita en la cima del Mingi Taw.					
-				"En serio, te debemos una."					
+				En serio, te debemos una.					
 				Todo lo que resta es que arrastres a la Escita a la cima y seas testigo del arremolinado infinito.					
-				"Sé valiente, ¡el final está cerca!"					
+				Sé valiente, ¡el final está cerca!					
 ARCHETYPE_GHOULINTRO	The Archetype								
-				"Bueno, aquí estamos. Esta sesión informativa finalizará el tratamiento S:S&S EP."					
+				Bueno, aquí estamos. Esta sesión informativa finalizará el tratamiento S:S&S EP.					
 				El funesto cometido de la Escita está cerca de completarse.					
-				"Por desgracia, el cuerpo y la psique de la Escita han sido significativamente socavados por la espadachicería. Ahora se encuentra a las puertas de la muerte."			162	047.jpg	J4F7B
+				Por desgracia, el cuerpo y la psique de la Escita han sido significativamente socavados por la Espadachicería. Ahora se encuentra a las puertas de la muerte.			162	047.jpg	J4F7B
 			Archetype/trifecta	Todo lo que resta es desvelar los secretos de la Arboleda Trigonal y subir El Megatomo al arremolinado infinito en la cima del Mingi Taw.					
 				Presiona jugar solo si estás listo para ser testigo del espantoso tormento del martirio.					
 END	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la eterna seguridad del arremolinado infinito.					
@@ -314,69 +314,69 @@ END_MOONGROTTO_LOVE	The Scythian			En la cima del Mingi Taw subimos El Megatomo 
 END_HONEST_PSYCHO	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la eterna seguridad del arremolinado infinito. #honest #psycho			179	051.jpg	M5C1H
 END_HONEST_LOVE	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la eterna seguridad del arremolinado infinito. #honest #love			177	052.jpg	55E2B
 END_HONEST_NOBOOR	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la eterna seguridad del arremolinado infinito. #honest #noboor			178	053.jpg	75G3V
-GIRL_GHOULTHOUGHTS	Girl			¿Sabe la Escita que es posible detener a La Masa Gogolítica tocando su calavera con espadachicería? Probablemente no.					
-				Espero que la Escita sepa que se moverá mucho más rápido si presiona dos veces sobre el final del camino. Si no estará en problemas.					
+GIRL_GHOULTHOUGHTS	Girl			¿Sabe la Escita que es posible detener a La Masa Gogolítica tocando su calavera con Espadachicería? Probablemente no.					
+				Espero que la Escita sepa que se moverá mucho más rápido si presiona dos veces al final del camino. Si no estará en problemas.					
 				¿Dónde estoy? ¿Qué ha pasado? Lo último que recuerdo es que soñaba caminar por el bosque cuando vi una extraña luz rosa.					
-LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto cometido de abrir una entrada al infinito en la cima del Mingi Taw.					
+LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto cometido de abrir una entrada al arremolinado infinito en la cima del Mingi Taw.					
 				Todo ha sido totalmente mental desde que la Escita apareció muchas lunas atrás.					
-LOGFELLA_GHOUL	The Scythian			Nos despertamos aturdidos de un sueño super profundo cerca de la Arboleda Trigonal con el leñador conocido como Tronco a nuestro lado.			88	054.jpg	J5D44
-				Tronco habló sobre cómo Samae había desaparecido la noche anterior.					
+LOGFELLA_GHOUL	The Scythian			Nos despertamos aturdidos de un sueño super profundo cerca de la Arboleda Trigonal con el leñador conocido como Sr. Tronco a nuestro lado.			88	054.jpg	J5D44
+				Sr. Tronco habló sobre cómo Samae había desaparecido la noche anterior.					
 				El leñador sabía que estábamos cerca del final y que debíamos volver al Mingi Taw para finalizar nuestro funesto cometido.					
-LOGFELLA_TRIGONGROVETIPS	The Scythian			El leñador conocido como Tronco nunca había visto antes la Arboleda Trigonal y se preguntó de qué iba todo esto.					
-LOGFELLA_TRIFECTATIPS	The Scythian			El leñador conocido como Tronco estaba sintiendo una gran aflicción por Samae desaparecida.					
-				Le dijimos a Tronco que sabíamos dónde podría estar y que pronto pondríamos las cosas en su sitio. 					
-				Él miró el pedestal cercano y nos agradeció por adelantado todo el asunto del martirio.					
+LOGFELLA_TRIGONGROVETIPS	The Scythian			El leñador conocido como Sr. Tronco nunca había visto antes la Arboleda Trigonal y se preguntó de se trataba.					
+LOGFELLA_TRIFECTATIPS	The Scythian			El leñador conocido como Sr. Tronco estaba sintiendo una gran aflicción por Samae desaparecida.					
+				"Le dijimos a Sr. Tronco que sabíamos dónde podría estar y que pronto pondríamos las cosas en su sitio. "					
+				Él miró el pedestal cercano y nos agradeció por adelantado todo este asunto del martirio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
-AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		EEstos dos tipos declararon encontrarse entre los creadores de este estrafalario mundo.			159	055.jpg	A5G55
+AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos tipos declararon encontrarse entre los creadores de este estrafalario mundo.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Los dos chistosos declararon encontrarse entre los creadores de este estrafalario mundo.			159	055.jpg	A5G55
-GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en la rica tierra de un prado habitado por cuatro pares de insignificantes ovejas.			52	056.jpg	15B63
-GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Cantamos la Canción de Espadachicería e invocamos a un duendecillo silvano que suavemente dormitaba en las frescas aguas de un profundo estanque, ¡qué raro!"			50	057.jpg	G5F78
-GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba en una pajarera de curioso aspecto hogar de tres pájaros cantores empapados por la lluvia.					
-GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba junto a un puente de troncos donde cuatro pares de árboles se elevan sobre un río.					
-GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Acabamos de despertar a un duendecillo silvano que dormitaba entre dos repugnantes arcoíris al lado del Peligroso Precipicio.					
-GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba rodeado por cinco cascadas.					
-GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba en un matorral en lo alto de un peñasco rocoso.					
-GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que dormitaba en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que dormitaba en un sereno lago donde una madre pato estaba fuera de sí.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
-GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que dormitaba en un plácido lago bajo una trifecta de búhos.					
-GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	"Tenemos la peculiar sensación de que, tal vez, estemos ante la temporada de milagros. #miracles"					
-GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba rodeado por tres pequeñas cascadas.					
-GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba rodeado por cuatro pequeños árboles en los bosques más oscuros.					
-GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y acabamos de despertar a un duendecillo silvano que dormitaba en un matorral al otro lado de un lago.					
-GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y acabamos de despertar a un duendecillo silvano que acechaba en la raíz de un titánico árbol.					
-GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	"Tenemos la peculiar sensación de que, tal vez, estemos ante la temporada de milagros. ¿Dónde están mis milagros? #miracles"			77	060.jpg	86D06
+GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un duendecillo silvano que dormitaba en la tierra fértil de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Cantamos la canción de Espadachicería e invocamos a un duendecillo silvano que dormitaba suavemente en las frescas aguas de un estanque profundo, ¡qué raro!			50	057.jpg	G5F78
+GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un duendecillo silvano que dormitaba en una pajarera de aspecto curioso hogar de tres pájaros cantores empapados por la lluvia.					
+GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un duendecillo silvano que dormitaba junto a un puente de troncos donde cuatro pares de árboles se elevan sobre un río.					
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un duendecillo silvano que dormitaba entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
+GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un duendecillo silvano que dormitaba rodeado por cinco cascadas.					
+GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un duendecillo silvano que dormitaba en un matorral en lo alto de un peñasco rocoso.					
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a un duendecillo silvano que dormitaba en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a un duendecillo silvano que dormitaba en un lago sereno donde una madre pato estaba fuera de sí.					
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a un duendecillo silvano que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a un duendecillo silvano que dormitaba en un plácido lago bajo una trifecta de búhos.					
+GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos la peculiar sensación de que, tal vez, estemos ante la temporada de milagros. #miracles					
+GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un duendecillo silvano que dormitaba rodeado por tres pequeñas cascadas.					
+GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un duendecillo silvano que dormitaba rodeado por cuatro pequeños árboles en los bosques más oscuros.					
+GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un duendecillo silvano que dormitaba en un matorral al otro lado de un lago.					
+GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a un duendecillo silvano que acechaba en la raíz de un titánico árbol.					
+GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos la peculiar sensación de que, tal vez, estemos ante la temporada de milagros. ¿Dónde están mis milagros? #miracles			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Guau Guau. #barking			135	061.jpg	M6F1I
 				Guau Guau Guau. #justbarking					
-				"A veces me canso de ladrar todo el tiempo, pero un perro tiene que hacer lo que se supone que un perro tiene que hacer."					
+				A veces me canso de ladrar todo el tiempo, pero un perro tiene que hacer lo que se supone que un perro tiene que hacer.					
 				Guau Sniff Guau. #mixingitup					
 				Guau Guau Guau Guau Guau Guau.					
-GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		"Hay algo extraño en cómo se comportó la Escita, casi como si estuviera siendo controlada por una fuerza invisible."					
-				"Me gustaría saber más sobre la épica historia de la Escita, apuesto a que entonces todo tendría sentido."					
+GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Hay algo extraño en cómo se comportó la Escita, casi como si estuviera siendo controlada por una fuerza invisible.					
+				Me gustaría saber más sobre la épica historia de la Escita, apuesto a que entonces todo tendría sentido.					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que la Escita esté invirtiendo todos sus esfuerzos en el tema de los duendecillos silvanos.					
 				La tormenta ha estado afectando mi ánimo y me ha hecho desear que los videojuegos existieran... sea lo que sea que eso signifique.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha sido totalmente mental desde que la Escita apareció.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo taaan sombrío.					
-				La lluvia ha comenzado a cesar y el cielo parece estar brillando... ¿Será temporada de milagros? Eso espero. Me encantan los milagros.					
+				La lluvia ha comenzado a cesar y el cielo parece estar brillando... ¿Será la temporada de milagros? Eso espero. Me encantan los milagros.					
 				Vaya... ¿Qué? Las ovejas del prado se han asustado... ¿Me pregunto qué estará pasando? Podría ser... ¿el Trígono Dorado?					
-GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau. 					
-				"A veces cuando las cosas están demasiado oscuras para mi, ingiero algo y veo incluso lo que no está ahí."					
+GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		"Guau Guau Guau. "					
+				A veces cuando las cosas están demasiado oscuras para mi, ingiero algo y veo incluso lo que no está ahí.					
 				Guau Guau Guau Guau Guau.					
 GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Tengo esa canción en mi cabeza... una pequeña canción feliz y triste al mismo tiempo que me llena de un temor extrañamente bello.					
 GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Sé que pretendes evitar tu funesto martirio, pero debes saber esto: el tiempo es una fuerza y es inevitable que tome su curso.					
 				Guau Guau Guau. Sniff.					
-GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		"También hay sustantivos desconocidos, aunque estos se aprenden fácilmente."					
+GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		También hay sustantivos desconocidos, aunque estos se aprenden fácilmente.					
 				Hay dos tipos de incógnitas - las incógnitas conocidas y las incógnitas desconocidas.			32	063.jpg	L6E31
-				Guau Guau Guau. 					
-GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		"Mi leña guarda muchos secretos... secretos sobre los duendecillos silvanos e islas imposibles. Lamentablemente, no hablo leño."					
-				"En mi experiencia, hay momentos en que los búhos no son lo que parecen... y otros que son simples búhos."			126	064.jpg	86A47
-GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oído hablar sobre una isla imposible bajo la Luna Brillante, puede que... ¿lo hayas leído en internet?			134	065.jpg	H6A5I
-				"Hemos estado siguiendo silenciosamente tus acciones y nos gustaría señalar que cuanto más larga sea la duda, más pequeña será la celebración."					
-				"Parece que has progresado bastante en tu esfuerzo para localizar y domar al Trígono Luna Brillante, muy bien hecho."					
-GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		"¿Son los duendecillos silvanos hijos de la madre Tierra o son visitantes solitarios del arremolinado infinito?"					
-				"Para ser honesta, los duendecillos silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?"					
-GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Cuando los duendecillos hayan sido enviados hacia el cielo y la temporada de milagros se acerque, debes buscar el titánico árbol."					
+				"Guau Guau Guau. "					
+GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mi leña guarda muchos secretos... secretos sobre los duendecillos silvanos e islas imposibles. Lamentablemente, no hablo leño.					
+				En mi experiencia, hay momentos en que los búhos no son lo que parecen... y otros en que son simples búhos.			126	064.jpg	86A47
+GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oído hablar sobre una isla imposible bajo La Luna Brillante, puede que... ¿lo hayas leído en internet?			134	065.jpg	H6A5I
+				Hemos estado siguiendo silenciosamente tus acciones y nos gustaría señalar que cuanto más larga sea la duda, más pequeña será la celebración.					
+				Parece que has progresado bastante en tu esfuerzo para localizar y domar al Trígono Luna Brillante, muy bien hecho.					
+GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los duendecillos silvanos hijos de la madre Tierra o son visitantes solitarios del arremolinado infinito?					
+				Para ser honesta, los duendecillos silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?					
+GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los duendecillos hayan sido enviados hacia el cielo y la temporada de milagros se acerque, debes buscar el titánico árbol.					
 				Sé que sabes lo que sé y quiero que sepas que estás 100% en lo cierto.			109	066.jpg	F6D6H
 				Guau Guau Guau Sniff Guau Guau Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu funesto cometido devolverá la paz de vuelta a nuestras vidas.					
@@ -384,16 +384,16 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu fu
 				El arremolinado infinito en la cima del Mingi Taw te espera.					
 				Guau Guau Guau.					
 GCLUE_WATERFALLS	Girl			¿Te has dado cuenta de que a veces las palabras suenan como simple ruido pero otras veces el ruido emite el sonido más bello?			132	058.jpg	G5F8U
-GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		"Hay un montón de dichos extraños aquí entre la gente montesa del Cáucaso."					
+GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí entre los montañeses del Cáucaso.					
 				Hay un refrán aquí en el Cáucaso que dice que un bosque necesita al fuego como el fuego necesita a un árbol.					
 YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos el Trígono Dorado. Somos impresionantes.			85	067.jpg	36G7U
-PINKTRIGON_COLLECTED	The Scythian			"Contra todo pronóstico, conseguimos el Trígono Luna Brillante."			155	068.jpg	56F8U
-BLUETRIGON_COLLECTED	The Scythian			"A pesar de todas las adversidades, conseguimos el Trígono Luna Oscura."			112	069.jpg	T6G94
-GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		"Parece como si todos los duendecillos Luna Oscura hubieran sido enviados hacia el cielo, así que es de nuevo temporada de milagros. ¡Adoro los milagros!"					
+PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, conseguimos el Trígono Luna Brillante.			155	068.jpg	56F8U
+BLUETRIGON_COLLECTED	The Scythian			A pesar de todas las adversidades, conseguimos el Trígono Luna Oscura.			112	069.jpg	T6G94
+GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece como si todos los duendecillos Luna Oscura hubieran sido enviados hacia el cielo, así que es de nuevo la temporada de milagros. ¡Adoro los milagros!					
 JIM_HINT1_OFF	The Scythian			En una arboleda oculta nos encontramos con un tipo misterioso y musical situado junto a un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En una arboleda oculta encontramos a un tipo misterioso junto a un fuego crepitante. #jimguthrie					
-JIM_BRIGHTMOON	The Scythian			"Mientras que la luna brillante se cernía, nos encontramos con un tipo misterioso y musical junto a un fuego crepitante. Dijo responder al nombre de Jim Guthrie."			128	070.jpg	07G00
-JIM_POSTSWORCERY	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie había presenciado nuestra espadachicería y parecía haberle gustado bastante.					
+JIM_BRIGHTMOON	The Scythian			Mientras que La Luna Brillante vigilaba, nos encontramos con un tipo misterioso y musical junto a un fuego crepitante. Dijo responder al nombre de Jim Guthrie.			128	070.jpg	07G00
+JIM_POSTSWORCERY	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie había presenciado nuestra Espadachicería y parecía haberle gustado bastante.					
 JIM_POSTGOURD	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
 				Jim nos invitó a sentarnos junto al fuego.					
 JIM_POSTSONG	The Scythian			Jim Guthrie nos enseñó que no se podían negar los malos pensamientos ni la mordedura de un dragón.					
@@ -402,106 +402,106 @@ JIM_LOGFELLATHOUGHTS	Logfella			La canción sonaba tan familiar... ¿dónde la h
 				De repente tenía esa extraña canción metida en la cabeza. #andwegotolder					
 LOGFELLA_JIMTHOUGHTS	Logfella			He tenido esa canción metida en la cabeza durante años... Sólo unas pocas notas que se repiten una y otra vez. Me pregunto a qué se deberá.					
 ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Volver a cruzar el umbral de la liminalidad con seguridad es simple. Busca los lugares familiares y la calidez del hogar.					
-				"Si logras estabilizar tu lucidez podrás co-crear con ella... en lugar de luchar, resistirte y maldecirla."					
-				"Cuando estás lúcido en un sueño te darás cuenta de quién has imaginado ser... pero identificarse con el sueño es convertirse en hechizado."					
+				Si logras estabilizar tu lucidez podrás co-crear con ella... en lugar de luchar, resistirte y maldecirla.					
+				Cuando estás lúcido en un sueño te darás cuenta de quién has imaginado ser... pero identificarse con el sueño es convertirse en hechizado.					
 				Incluso en un bien conocido sueño siempre hay lugares nuevos por explorar y conexiones que considerar... si continúas creyendo.					
 GIRL_MOONGROTTOCOMMENT	Girl			Me siento como si el cosmos acabara de dar un vuelco y ahora todo estuviera un poco... apagado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino del 0 al 1, y si un alien dijera 'hola' sería en un código críptico en el estéreo. Espera... ¿qué?"					
-GIRL_HUGETREETHOUGHTS	Girl			"Por supuesto, nunca le hablo a la gente sobre estos sueños de la diosa/árbol porque probablemente me llamarían hippie o algo parecido."					
-				"En mi lugar especial, visito un titánico árbol hueco... Es una diosa muerta desde hace mucho tiempo y que precede a la humanidad desde eternos eones."					
-				"En mi sueño hay un lugar especial al que siempre voy, un parlamento de árboles en el corazón del mundo."					
-LOGFELLA_HUGETREETHOUGHTS	Logfella			"Me encanta ver los mismos bosques con diferente clima y me encanta simplemente detenerme y escuchar... y pensar o no pensar según sea el caso."					
-				"No paso mucho tiempo caminando por mis sueños, pero cuando lo hago tiendo a volver a visitar mis lugares favoritos para ver lo que ha cambiado."					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino del 0 al 1, y si un alien dijera ""hola"" sería en un código críptico en el estéreo. Espera... ¿qué?"					
+GIRL_HUGETREETHOUGHTS	Girl			Por supuesto, nunca le hablo a la gente sobre estos sueños de la diosa/árbol porque probablemente me llamarían hippie o algo parecido.					
+				En mi lugar especial, visito un titánico árbol hueco... Es una diosa muerta desde hace mucho tiempo y que precede a la humanidad desde eternos eones.					
+				En mi sueño hay un lugar especial al que siempre voy, un parlamento de árboles en el corazón del mundo.					
+LOGFELLA_HUGETREETHOUGHTS	Logfella			Me encanta ver los mismos bosques con diferente clima y me encanta simplemente detenerme y escuchar... y pensar o no pensar según sea el caso.					
+				No paso mucho tiempo caminando por mis sueños, pero cuando lo hago tiendo a volver a visitar mis lugares favoritos para ver lo que ha cambiado.					
 MIRACLE1_MOUNTAINMEADOW	The Scythian			"Hemos realizado un milagro disipa-tormentas en un prado bañado por el sol al estilo de plegado del mago loco ""Al Jaffee""."					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Nos quedamos confundidos y desconcertados en un prado bañado por el sol con uno de esos dolores de cabeza realmente brutales.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Nos despertamos aturdidos de un sueño super profundo sin un recuerdo en firme sobre lo que había sucedido.					
-			triangle/Triangle	Recordamos el milagro en el prado y nuestro encuentro con el Trígono Dorado... 					
+			triangle/Triangle	"Recordamos el milagro en el prado y nuestro encuentro con el Trígono Dorado... "					
 			triangle/Triangle	...¿Qué nuevos poderes nos habrían sido concedidos?					
-			triangle/Triangle	Tronco estaba totalmente anonadado cuando le contamos cómo fue la batalla contra el Trígono Dorado.			81	071.jpg	R7C14
-			triangle/Triangle	Tronco preguntó de que modo el Trígono Dorado podría estar conectado con los sombríos misterios de más allá del portón de hierro del prado..					
-				Tronco no quiso excavar en más sombríos misterios y decidió volver a casa y empezar a cortar madera. #woodchopping					
-LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Tronco estaba super encantado de que la tormenta se hubiera disipado y estaba emocionado de volver a cortar leña de nuevo.					
+			triangle/Triangle	Sr. Tronco estaba totalmente anonadado cuando le contamos cómo fue la batalla contra el Trígono Dorado.			81	071.jpg	R7C14
+			triangle/Triangle	Sr. Tronco se preguntó de que modo el Trígono Dorado podría estar conectado con los sombríos misterios de más allá del portón de hierro del prado..					
+				Sr. Tronco no quiso excavar en más sombríos misterios y decidió volver a casa y empezar a cortar madera. #woodchopping					
+LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Sr. Tronco estaba super encantado de que la tormenta se hubiera disipado y estaba emocionado de volver a cortar leña de nuevo.					
 				Nos preguntó si sabíamos algo sobre el portón de hierro del prado que bloqueaba la cavernosa cueva... ¿de qué iba todo eso?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Es extraño... He visto un haz dorado elevarse hacia el cielo en los bosques tras el prado... ¿Habrá aprendido alguien los secretos de la Arboleda Trigonal?			89	072.jpg	67F24
-LOGFELLA_URSULAMEADOW	Logfella			"Estoy muy preocupado por la Escita, parece hecha un desastre."					
+LOGFELLA_URSULAMEADOW	Logfella			Estoy muy preocupado por la Escita, parece hecha un desastre.					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija contemplaron cómo recobrábamos el sentido.					
-				"Nos dimos cuenta que el prado no había cambiado, y que toda evidencia de nuestro místico encuentro había desaparecido."					
+				Nos dimos cuenta que el prado no había cambiado, y que toda evidencia de nuestro místico encuentro había desaparecido.					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra extraña historia sobre nuestro encuentro con el Trígono Dorado.					
 			triangle/Triangle	Ella se preguntaba cuáles eran los secretos de la Arboleda Trigonal más allá de la cavernosa cueva del prado... ¿habría alguna conexión?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estoy bastante preocupada por la Escita... desapareció hace varios días después de que la tormenta se disipara. Espero que esté bien.					
-GIRL_URSULAMEADOW_OFF	Girl			"Vaya, ¿así que la Escita estaba desmayada en el prado? Qué locura."					
-DOGFELLA_GETDARKTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Colega.					
-			Archetype/trifecta	"De repente parecía que entendíamos a Colega, nos instó a buscar el Trígono Luna Oscura y completar la Trigonal Trifecta."					
-DOGFELLA_GETBRIGHTTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Colega.					
-			Archetype/trifecta	"De repente parecía que entendíamos a Colega, nos instó a buscar el Trígono Luna Brillante y completar la Trigonal Trifecta."					
-DOGFELLA_THREETRIGONS	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Colega.					
-			Archetype/trifecta	"De repente parecía que entendíamos a Colega, nos instó a activar el tercer haz de luz y abrir la entrada al infinito."					
+GIRL_URSULAMEADOW_OFF	Girl			Vaya, ¿así que la Escita estaba desmayada en el prado? Qué locura.					
+DOGFELLA_GETDARKTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Cometa.					
+			Archetype/trifecta	De repente parecía que entendíamos a Cometa, nos instó a buscar el Trígono Luna Oscura y completar la Trigonal Trifecta.					
+DOGFELLA_GETBRIGHTTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Cometa.					
+			Archetype/trifecta	De repente parecía que entendíamos a Cometa, nos instó a buscar el Trígono Luna Brillante y completar la Trigonal Trifecta.					
+DOGFELLA_THREETRIGONS	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Cometa.					
+			Archetype/trifecta	De repente parecía que entendíamos a Cometa, nos instó a activar el tercer haz de luz y abrir la entrada al infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
 				Guau Guau Sniff Guau.					
 				El arremolinado infinito del cosmos en la cima del Mingi Taw espera a aquel que carga con El Megatomo.					
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
-GIRL_AFTERYELLOWBEAM	The Scythian			Samae estaba sentada en una roca junto al leñador que estaba cortando leña.					
-			Archetype/trifecta	Le preguntamos a ella sobre los secretos de la Arboleda Trigonal y los peculiares sueños de la gente montesa del Cáucaso.					
+GIRL_AFTERYELLOWBEAM	The Scythian			Samae estaba sentada en una roca junto al leñador que cortaba leña.					
+			Archetype/trifecta	Le preguntamos a ella sobre los secretos de la Arboleda Trigonal y los peculiares sueños de los montañeses del Cáucaso.					
 				Ella nos contó cómo los sueños de su gente contenían muchos misterios y cómo reflejaban el temperamento de la luna de maneras extrañas.					
-				"Samae nos invitó a sentárnos junto al fuego en la choza de piedra siempre que quisieramos, ya fuera para caminar por los sueños o para recobrar fuerzas."					
-			Archetype/trifecta	"Tenemos la sensación de que los dos Trígonos restantes podrían estar perdidos en los sueños, o algo así."					
-LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Tronco había vuelto a su corte de leña y parecía estar realmente concentrado.					
-			triangle/Triangle	Tronco había visto el haz enviado a el cielo tras el prado y por eso le preguntamos sobre los secretos de la Arboleda Trigonal.					
+				Samae nos invitó a sentárnos junto al fuego en la choza de piedra siempre que quisieramos, ya fuera para caminar por los sueños o recobrar fuerzas.					
+			Archetype/trifecta	Tenemos la sensación de que los dos Trígonos restantes podrían estar perdidos en los sueños, o algo así.					
+LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Sr. Tronco había vuelto a su corte de leña y parecía estar realmente concentrado.					
+			triangle/Triangle	Sr. Tronco había visto el haz enviado al cielo tras el prado y por eso le preguntamos los secretos de la Arboleda Trigonal.					
 				Nos contó una vieja historia que su gente relataba habitualmente a sus hijos para asustarlos.					
-			Archetype/trifecta	Tronco habló de un pelotón de Escitas que llegó hace muchas lunas a estas olvidadas montañas buscando la Trigonal Trifecta.					
-			gourd/gourd	"""El pelotón había aprendido a buscar a los duendecillos silvanos y enviarlos a el cielo... y luego habían buscado un lugar para realizar un milagro."""					
+			Archetype/trifecta	Sr. Tronco habló de un pelotón de Escitas que llegó hace muchas lunas a estas olvidadas montañas buscando la Trigonal Trifecta.					
+			gourd/gourd	"""El pelotón había aprendido a buscar a los duendecillos silvanos y enviarlos al cielo... y luego habían buscado un lugar para realizar un milagro."""					
 			Archetype/trifecta	"""El pelotón esperaba envíar los tres haces hacia el cielo en la Arboleda Trigonal, pero no tenían ni idea de cuándo o dónde estaban los Trígonos."""					
-				"""El pelotón deambuló sin rumbo durante bastante tiempo por el antiguo camino hacia el Mingi Taw... en un momento determinado se cansaron y se detuvieron."""					
-				"""Entonces el pelotón fue aniquilado repentinamente por un inmortal espectro al margen del antiguo camino donde un puñado de tumbas perduran hasta el día de hoy."""					
-				Le dijimos a Tronco que la historia había estado bien, pero que no nos había asustado mucho.					
+				"""El pelotón deambuló sin rumbo durante bastante tiempo por el camino antiguo hacia el Mingi Taw... en un momento determinado se cansaron y se detuvieron."""					
+				"""Entonces el pelotón fue fulminado por un espectro inmortal al margen del camino antiguo donde un puñado de tumbas perduran hasta el día de hoy."""					
+				Le dijimos a Sr. Tronco que la historia había estado bien, pero que no nos había asustado mucho.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que has podido alterar el temperamento de la luna en la Gruta Lunar. Me pregunto cuánto durará esta paradoja temporal.					
-MIRACLE2_ISLAND	The Scythian			"Mientras la Luna Brillante se cernía sobre nosotros, hemos realizado un extraño milagro lunar en una isla imposible en medio de un plácido lago."			136	073.jpg	W7A3K
+MIRACLE2_ISLAND	The Scythian			Mientras La Luna Brillante vigilaba sobre nosotros, hemos realizado un extraño milagro lunar en una isla imposible en medio de un plácido lago.			136	073.jpg	W7A3K
 MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos el Trígono Luna Brillante para nuestra gloria y desesperación. #trigontamed			155	068.jpg	56F8U
-MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			"Estuvimos tentados de abandonar todo el tema del funesto cometido, pero había algo atractivo en el martirio."					
-				"Aunque probablemente no importará demasiado al final. No es como que se tenga que superar un examen físico para acceder al arremolinado infinito."					
+MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Estuvimos tentados de abandonar todo el tema del funesto cometido, pero había algo atractivo en el martirio.					
+				Aunque probablemente no importará demasiado al final. No es como que se tenga que superar un examen físico para acceder al arremolinado infinito.					
 				Nos daba la sensación que todo esto de caminar en los sueños y domar Trígonos se estaba empezando a cobrar su peaje.					
-				"Cuando las luces y los sonidos se calmaron, nos encontramos a orillas de un lago con un dolor de cabeza brutal y una nariz ensangrentada."					
+				Cuando las luces y los sonidos se calmaron, nos encontramos a orillas de un lago con un dolor de cabeza brutal y una nariz ensangrentada.					
 GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trígono Luna Brillante y nuestra intención de reconstruir la Trigonal Trifecta.					
 				Samae dijo que nuestro encuentro en sueños parecía realmente impresionante y que le hubiera encantado haber estado allí. #lies					
 				Samae nos preguntó si nos habíamos pasado por la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
 LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinaje por los sueños y obras milagrosas se había cobrado un alto precio en nuestra salud física.					
-				Tronco parecía sospechar que nuestro funesto cometido muy probablemente no tendría un final feliz.					
-				Tronco nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
+				Sr. Tronco parecía sospechar que nuestro funesto cometido muy probablemente no tendría un final feliz.					
+				Sr. Tronco nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestros datos de investigación muestran una alta correlación entre el progreso de un participante en S:S&S EP y su aptitud para ser impresionante.			45	074.jpg	87A43
-				"Veo que has conseguido localizar y recuperar el Trígono Luna Brillante. Una gran noticia, sin duda."					
-MIRACLE3_HUGETREE	The Scythian			"Mientras reinaba la Luna Oscura, hemos realizado un asombroso milagro en medio de un parlamento de árboles."					
-MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			"Además... llevar El Megatomo de arriba a abajo todo el tiempo era insufrible, realmente es un libro muy pesado en más de un sentido."					
+				Veo que has conseguido localizar y recuperar el Trígono Luna Brillante. Una gran noticia, sin duda.					
+MIRACLE3_HUGETREE	The Scythian			Mientras reinaba La Luna Oscura, hemos realizado un asombroso milagro en medio de un parlamento de árboles.					
+MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... llevar El Megatomo de arriba a abajo todo el tiempo era insufrible, realmente es un libro muy pesado en más de un sentido.					
 				Nos sentíamos un poco peor por el desgaste... probablemente se debiera a todos esos haces de láser cósmico.					
-				"Cuando las luces y los sonidos cesaron, nos encontramos empapados por la fría lluvia en medio de un parlamento de árboles."					
+				Cuando las luces y los sonidos cesaron, nos encontramos empapados por la fría lluvia en medio de un parlamento de árboles.					
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trígono Luna Oscura y nuestra intención de reconstruir la Trigonal Trifecta.					
 				Le contamos cómo acabamos con el ataque arcoíris del Trígono Luna Oscura y a ella le pareció realmente impresionante.					
 				No parecía importarle escuchar nuestras locas historias.					
 LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinar por los sueños y obras milagrosas había pasado factura en nuestra salud física.					
-			Archetype/trifecta	Tronco nos preguntó si habíamos visitado con Colega la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
+			Archetype/trifecta	Sr. Tronco nos preguntó si habíamos visitado con Cometa la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Así que ahora la pregunta es... ¿Y ahora qué?					
-				"A pesar de la escasa información útil que te hemos proporcionado, has logrado dominar al Trígono Luna Oscura."					
-				"Me acaban de informar que has conseguido el Trígono Luna Oscura. Grandes noticias, sin duda."					
+				A pesar de la escasa información útil que te hemos proporcionado, has logrado dominar al Trígono Luna Oscura.					
+				Me acaban de informar que has conseguido el Trígono Luna Oscura. Grandes noticias, sin duda.					
 LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	El leñador no reconoció la llave que habíamos encontrado y no tenía idea de para qué servía.					
 			AdventureUI/keyItem	¿...?					
 GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae vio la llave que habíamos encontrado y nos animó a mantener los ojos abiertos ante las puertas cerradas.					
-				"No tenía ninguna otra idea, pero nos recordó algo que habíamos visto en el antiguo camino al Mingi Taw."					
+				No tenía ninguna otra idea, pero nos recordó algo que habíamos visto en el camino antiguo al Mingi Taw.					
 ARCHETYPE_GROTTOPARADOX	The Archetype								
-				El temperamento de la luna ha sido alterado en la Gruta Lunar 					
-ARCHETYPE_KILLBOOR	The Archetype			"Imagino que ahora te estarás preguntando para qué es esa llave. Para ser honesto, no tengo ni idea."			119	075.jpg	87C5S
-				"No es que esté sugiriendo que seas un sociópata violento... jeje... Estoy seguro que tenías tus buenas razones, ¿verdad? #thegrizzledboor"					
+				El temperamento de la luna ha sido alterado en la Gruta Lunar					
+ARCHETYPE_KILLBOOR	The Archetype			Imagino que ahora te estarás preguntando para qué es esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
+				No es que esté sugiriendo que seas un sociópata violento... jeje... Estoy seguro que tenías tus buenas razones, ¿verdad? #thegrizzledboor					
 				Debería mencionar que el Tosco Pardo fue incluido en S:S&S EP para tentar a los participantes e identificar si eran unos sociópatas violentos.					
 				Me acaban de informar que el Tosco Pardo ha sido asesinado... ¿Sabes algo de esto? #slaughter					
-ARCHETYPE_SPAREBOOR	The Archetype			"Imagino que ahora te estarás preguntando para qué es esa llave. Para ser honesto, no tengo ni idea."			119	075.jpg	87C5S
-				"Así que sí, eres impresionante y te queremos por ello."					
+ARCHETYPE_SPAREBOOR	The Archetype			Imagino que ahora te estarás preguntando para qué es esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
+				Así que sí, eres impresionante y te queremos por ello.					
 				El Tosco Pardo fue incluido en S:S&S EP para permitir a los participantes identificarse como personas compasivas y razonables.					
 				Me acaban de informar que el Tosco Pardo ha podido escapar ileso. Es una noticia alentadora.					
 LOGFELLA_FOUNDATION	Logfella			...					
 				...					
 				...					
-SCYTHIAN_FOUNDATION	The Scythian			"Acabamos de despertar a un duendecillo silvano que suavemente dormitaba en un profundo estanque, al lado de una choza de piedra. Todo esto nos sorprende."					
-				"Con una tormenta sobre nuestras cabezas, hemos aprendido a cantar la Canción de Espadachicería e invocar a un duendecillo silvano dormitante."					
+SCYTHIAN_FOUNDATION	The Scythian			Despertamos a un duendecillo silvano que dormitaba suavemente en un estanque profundo, al lado de una choza de piedra. Todo esto nos sorprende.					
+				Con una tormenta sobre nuestras cabezas, hemos aprendido a cantar la canción de Espadachicería e invocar a un duendecillo silvano dormitante.					
 				Espera... ¿Por qué me estoy refiriendo a mí misma en primera persona? Pensaba que nuestra historia íbamos a contarla en segunda persona. #editingoversight					
 				¿Están mis pensamientos ordenados cronológicamente en el orden en que los he pensado? ¿Así que esto es lo que estaba pensando hace unos segundos?					
 				¿Esto es El Megatomo? ¿Absorbe transmisiones de pensamiento lingüístico? ¿Estoy leyendo mis pensamientos mientras los estoy pensando? Hmm...					
@@ -511,61 +511,61 @@ GIRL_FOUNDATION	Girl			...
 DOGFELLA_FOUNDATION	Dogfella			...					
 				...					
 				...					
-LOGFELLA_DARKMOON	The Scythian			"El leñador habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta."					
+LOGFELLA_DARKMOON	The Scythian			El leñador habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta.					
 				Él habló de una vibrante luz rosa y de una misteriosa canción emanando de los bosques sin nombre tras el prado.					
-				Supusimos que Tronco probablemente hablaba del concierto de rock de la Luna Oscura.					
-GIRL_DARKMOON	The Scythian			"Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta."					
+				Supusimos que Sr. Tronco probablemente hablaba del concierto de rock de La Luna Oscura.					
+GIRL_DARKMOON	The Scythian			Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta.					
 				Ella habló de cómo se había refugiado de la tormenta en un titánico árbol hueco.					
 				Sabíamos de qué titánico árbol hueco estaba ella hablando.					
-ARCHETYPE_DARKMOON	The Archetype			Ten cuidado. Reina la Luna Oscura.			94	076.jpg	I7F69
-LOGFELLA_CRESCENTWAX	The Scythian			"El leñador habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo una luna creciente."					
-				"Él habló sobre una criatura que había conocido, algo o alguien extraño y desnudo. ¿Era un oso? ¿Un hombre? O... ¿El Tosco Pardo?"			57	077.jpg	I7G7U
-GIRL_CRESCENTWAX	The Scythian			"Samae estaba emocionada, ¡hoy comenzaba un nuevo mes lunar! Le esperaban largos días sentada sobre rocas."					
-ARCHETYPE_CRESCENTWAX	The Archetype			"La brizna de una luna creciente ha aparecido, marcando el comienzo de un nuevo ciclo lunar de veintiocho días."			118	045.jpg	Y4E5Q
-LOGFELLA_HALFWAX	The Scythian			"El leñador admitió que sí, que de hecho había cortado una cantidad decente de leña a tiempo."					
-				"El habló de fríos inviernos y profundas nevadas aquí, en las majestuosas montañas del Cáucaso, aquellas que se elevaban por encima de las estepas de Escitia."					
+ARCHETYPE_DARKMOON	The Archetype			Ten cuidado. Reina La Luna Oscura.			94	076.jpg	I7F69
+LOGFELLA_CRESCENTWAX	The Scythian			El leñador habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo una luna creciente.					
+				Él habló sobre una criatura que había conocido, algo o alguien extraño y desnudo. ¿Era un oso? ¿Un hombre? O... ¿El Tosco Pardo?			57	077.jpg	I7G7U
+GIRL_CRESCENTWAX	The Scythian			Samae estaba emocionada, ¡hoy comenzaba un nuevo mes lunar! Le esperaban largos días sentada sobre rocas.					
+ARCHETYPE_CRESCENTWAX	The Archetype			La brizna de una luna creciente ha aparecido, marcando el comienzo de un nuevo ciclo lunar de veintiocho días.			118	045.jpg	Y4E5Q
+LOGFELLA_HALFWAX	The Scythian			El leñador admitió que sí, que de hecho había cortado una cantidad decente de leña a tiempo.					
+				El habló de fríos inviernos y profundas nevadas aquí, en las majestuosas montañas del Cáucaso, aquellas que se elevaban por encima de las estepas de Escitia.					
 				El leñador esperaba tener suficiente comida y leña para sobrevivir los largos y fríos meses que estaban por llegar.					
-GIRL_HALFWAX	The Scythian			"La chica nos contó que la noche anterior soñó que caminaba por el bosque deseando una magdalena, pero no había magdalenas."			108	078.jpg	07D87
+GIRL_HALFWAX	The Scythian			La chica nos contó que la noche anterior soñó que caminaba por el bosque deseando una magdalena, pero no había magdalenas.			108	078.jpg	07D87
 ARCHETYPE_HALFWAX	The Archetype			Los folcloristas majaderos han afirmado que no hay relación causal entre la locura y el temperamento de la luna.					
 LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demasiado en la Masa Gogolítica y en la montaña desierta del Mingi Taw.					
-				"Sin embargo, él dijo que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo."					
-				El leñador admitió que le inquietaba cuando la Luna Brillante se cernía sobre el cielo... y cuando la Luna Oscura reinaba.					
-GIRL_ALMOSTWAX	The Scythian			La chica comentó algo sobre la luna creciente... Se preguntó cuánto tiempo tardaría hasta que la Luna Brillante se alzara en el cielo.					
-ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece ligeramente con cada día que pasa... en pocos días se convertirá en la Luna Brillante... ¿Y qué?			165	046.jpg	P4B6A
-LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba un poco extraño cada vez que la Luna Brillante se alzaba en el cielo.			135	061.jpg	M6F1I
-GIRL_BRIGHTMOON	The Scythian			"Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, con la Luna Brillante acercándose a el cielo."					
+				Sin embargo, él dijo que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo.					
+				El leñador admitió que le inquietaba cuando La Luna Brillante se cernía sobre el cielo... y cuando La Luna Oscura reinaba.					
+GIRL_ALMOSTWAX	The Scythian			La chica comentó algo sobre la luna creciente... Se preguntó cuánto tiempo tardaría hasta que La Luna Brillante se alzará en el cielo.					
+ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece ligeramente con cada día que pasa... en pocos días se convertirá en La Luna Brillante... ¿Y qué?			165	046.jpg	P4B6A
+LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba un poco extraño cada vez que La Luna Brillante se alzaba en el cielo.			135	061.jpg	M6F1I
+GIRL_BRIGHTMOON	The Scythian			Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, con La Luna Brillante acercándose al cielo.					
 				Ella habló del aire fresco de la mañana y de una isla imposible en medio de un plácido lago.					
-ARCHETYPE_BRIGHTMOON	The Archetype			"Sal fuera y mira hacia arriba, ¡maravíllate con la Luna Brillante que se avecina!"			95	079.jpg	07D95
-LOGFELLA_ALMOSTWANE	The Scythian			"El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
+ARCHETYPE_BRIGHTMOON	The Archetype			Sal fuera y mira hacia arriba, ¡maravíllate con La Luna Brillante que se avecina!			95	079.jpg	07D95
+LOGFELLA_ALMOSTWANE	The Scythian			El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos.					
 				El leñador sabía todo sobre el Mingi Taw y por qué era conocido como El Reino de las Nubes.					
 				Él sabía que el Mingi Taw era la montaña más alta del mundo conocido, más alta incluso que el Monte Olimpo, donde habitaban los dioses Aqueos.					
 				Él también sabía que la cima del Mingi Taw, siempre envuelta en nubes, era considerada la entrada al arremolinado infinito.					
-				"El leñador nunca se había atrevido a pisar las temibles laderas del Mingi Taw, y nunca lo haría."					
-GIRL_ALMOSTWANE	The Scythian			Samae se preguntó por qué tantos hongos crecían inmediatamente antes y después de la Luna Brillante... ¿Cuál era la causa?					
-ARCHETYPE_ALMOSTWANE	The Archetype			"La luna está ligeramente menos brillante de lo que estaba ayer, y el ciclo lunar está empezando a disminuir."					
-LOGFELLA_HALFWANE	The Scythian			"El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
+				El leñador nunca se había atrevido a pisar las temibles laderas del Mingi Taw, y nunca lo haría.					
+GIRL_ALMOSTWANE	The Scythian			Samae se preguntó por qué tantos hongos crecían inmediatamente antes y después de La Luna Brillante... ¿Cuál era la causa?					
+ARCHETYPE_ALMOSTWANE	The Archetype			La luna está ligeramente menos brillante de lo que estaba ayer, y el ciclo lunar está empezando a disminuir.					
+LOGFELLA_HALFWANE	The Scythian			El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos.					
 				El leñador explicó que en Escitia y Persia el Mingi Taw era conocido como La Montaña Eterna.					
-				"El leñador habló de cómo, hace siglos, una olvidada raza había tallado un templo en la roca debajo del Mingi Taw."					
+				El leñador habló de cómo hace siglos una olvidada raza había tallado un templo en la roca bajo el Mingi Taw.					
 				El leñador habló de los pasajes subterráneos y los cavernosos espacios excavados en la roca bajo el Mingi Taw.					
-				"Según el leñador, esos cavernosos espacios fueron creados hace siglos para custodiar El Megatomo."					
+				Según el leñador, esos cavernosos espacios fueron creados hace siglos para custodiar El Megatomo.					
 GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá de la rocosa muralla y haber sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
-ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y la Luna Oscura está a poco menos de una semana de distancia.					
-LOGFELLA_CRESCENTWANE	The Scythian			"El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos."					
-				"El leñador conocía a la Masa Gogolítica, el inmortal espectro que acechaba en la oscuridad bajo el Mingi Taw."					
-				"Tronco habló del arremolinado infinito, más allá de nuestra comprensión, del que surgió El Megatomo en la apenas recordada edad de piedra."					
+ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y La Luna Oscura está a poco menos de una semana de distancia.					
+LOGFELLA_CRESCENTWANE	The Scythian			El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos.					
+				El leñador conocía a la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad bajo el Mingi Taw.					
+				Sr. Tronco habló del arremolinado infinito, más allá de nuestra comprensión, del que surgió El Megatomo en la apenas recordada edad de piedra.					
 				Él habló de una raza de seres inmortales del espacio que provocó en la humanidad una forma rudimentaria de pensamiento y transmisión lingüística.					
 				"""Estos inmortales bendicieron a la humanidad con la capacidad de ser una civilización y así los condenaron a una eventual e inevitable extinción."""					
 				"""Los escitas intentaron detener el insidioso crecimiento de la civilización, y por eso aislaron El Megatomo con su protector inmortal."""					
-				"""El inmortal ha permanecido en la oscuridad desde entonces, deteriorándose para convertirse en un inmortal espectro conocido como La Masa Gogolítica."""					
+				"""El inmortal ha permanecido en la oscuridad desde entonces, deteriorándose para convertirse en un espectro inmortal conocido como La Masa Gogolítica."""					
 				El leñador probablemente habría seguido y seguido con la tontería si no lo hubiéramos cortado educadamente.					
-GIRL_CRESCENTWANE	The Scythian			Samae observó la luna encogida. Dijo que pronto se iría y que la Luna Oscura reinaría.					
+GIRL_CRESCENTWANE	The Scythian			Samae observó la luna menguante. Dijo que pronto se iría y que La Luna Oscura reinaría.					
 ARCHETYPE_CRESCENTWANE	The Archetype			El ciclo lunar está casi completo. La Luna Oscura está muy cerca.					
-DARKMOONLOOMS_ARCHETYPE	The Archetype			"La Luna Oscura se cierne, el final del ciclo lunar está muy cerca."					
+DARKMOONLOOMS_ARCHETYPE	The Archetype			La Luna Oscura se cierne, el final del ciclo lunar está muy cerca.					
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Oscura!			94	076.jpg	I7F69
-DARKMOON_GIRLTHOUGHTS	Girl			"En mi sueño, llegué a un parlamento de árboles sacudido por un rayo y sentí la presencia de algo profundamente sagrado."					
-DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una vibrante música filtrandose a través de los bosques tras mi choza. ¿De qué iba todo eso?					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño sólo vi las sutiles sonoras espumas de los duendecillos silvanos.					
-AMPHITHEATRE_OUTRO	The Scythian			Hemos reconstruido la Trigonal Trifecta y ahora somos héroes.			164	081.jpg	48G1Q
+DARKMOON_GIRLTHOUGHTS	Girl			En mi sueño llegué a un parlamento de árboles sacudido por un rayo y sentí la presencia de algo profundamente sagrado.					
+DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una vibrante música filtrandose a través de los bosques tras mi choza. ¿Qué sería?					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño sólo vi las sutiles espumas sonoras de los duendecillos silvanos.					
+AMPHITHEATRE_OUTRO	The Scythian			Reconstruimos la Trigonal Trifecta y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Hemos asesinado inexplicablemente a 3 conejos indefensos.					
 RABBITS_7MURDERS	The Scythian			Hemos asesinado inexplicablemente a 7 conejos indefensos. ¿Estamos ante la evidencia de una mente transtornada?					
 RABBITS_13MURDERS	The Scythian			Hemos asesinado inexplicablemente a 13 conejos indefensos.					
@@ -581,7 +581,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Canciones y algunos sonidos del amado compositor y estrella de rock conocido como Jim Guthrie en jimguthrie.org					
 			Logos/capy	Ingeniería y milagros del estudio independiente de videojuegos conocido como Capy en capybaragames.com					
 			Logos/eightfour	Traducción al japonés, marketing, relaciones públicas y cariño proporcionados por 8-4, Ltd. TODO EL EQUIPO en 8-4.jp					
-				"Traducción al castellano de: Miguel ""Sheen"" Ávila @sheen de Tradupixel, @donkikote y @cesardeg en Steam"					
+				"Traducción al castellano por @cesardeg"					
 				* * * EL EQUIPO S:S&S EP * * *					
 				Concepto, arte, diseño, dirección y guión por representantes de Superbrothers Inc. @the1console					
 				Diseño, líder de proyecto, incansable apoyo y más por Kris Piotrowski, director creativo de Capy @krispiotrowski					
@@ -589,93 +589,93 @@ ARCHETYPE_CREDITS	The Archetype
 				Programación, combate y trabajo milagroso por Frankie Leung, programador jefe de gameplay de S:S&S EP de Capy @mpfTempVar					
 				Inspiración, canciones, sonidos, alma y mucho más cortesía de Jim Guthrie, compositor, héroe folk y estrella de rock @jampants					
 				* * * Y LO QUE ES MÁS * * *					
-				"Voz de Tronco por Robert Ashley, creador del programa de radio ""A Life Well Wasted"" @robertashley en www.alifewellwasted.com"					
+				"Voz de Sr. Tronco por Robert Ashley, creador del programa de radio ""A Life Well Wasted"" @robertashley en www.alifewellwasted.com"					
 				Voz de la Escita por la fotógrafa Robyn Cumming en robyncumming.com					
 				Voz del Arquetipo por el artista y cineasta Clive Holden @cliveholden en cliveholden.com					
 				Sonidos cósmicos de la Gruta Lunar por Scientific American @scntfc en scntfc.com					
 				* * * SOPORTE CAPY * * *					
-				"Productor ejecutivo, héroe del pueblo, liderazgo y estratificación por Nathan Vella, presidente de Capy @Capy_Nathan"					
+				Productor ejecutivo, héroe del pueblo, liderazgo y estratificación por Nathan Vella, presidente de Capy @Capy_Nathan					
 				"Productor de PC, asistencia técnica de audio, integración FMOD y muchos sonidos encantadores por Sean ""Uber"" Lohrisch, co-fundador de Capy."					
 				"Asistencia administrativa y comercial por Matt ""Juggalord"" Repetski, co-fundador de Capy."					
 				"Garantía de calidad y héroe del megatesteo por Christian ""Sea Dawg"" Meyer de Capy @fiddler6"					
 				Núcleo de programación del port de PC y calidad 1080p proporcionado por ningún otro que Hubert Wong.					
-				"Apoyo adicional de programación PC/Mac/Linux, experiencia en Steam y muchas más cosas por Drew Grainge @firstelder_d"					
+				Apoyo adicional de programación PC/Mac/Linux, experiencia en Steam y muchas más cosas por Drew Grainge @firstelder_d					
 				"Algunos assets de arte y sonrisas provistas por Vic ""Meow"" Nguyen de Super TIME Force @cowceda"					
 				Control de calidad adicional por el único e inimitable Aaron Eves @AaronEves					
-				"Control de calidad adicional de PC por Phil Sandhop, Crystal Edwards y Sebastian Andersson de GameInstinct."					
-				"Agradecimientos a Xavier Xaden Xen, Joseppe Theodore Blocco y Hank Hudson"					
+				Control de calidad adicional de PC por Phil Sandhop, Crystal Edwards y Sebastian Andersson de GameInstinct.					
+				Agradecimientos a Xavier Xaden Xen, Joseppe Theodore Blocco y Hank Hudson					
 				Galletas y otros deliciosos dulces proporcionado por Thea Gaerlan @doodlegirl					
 				* * * SOPORTE SUPERBROTHERS * * *					
-				"Enlace, comunicaciones, CC, inspiración, paciencia infinita y apoyo moral interminable cortesía de Jori Baldwin @aurorajorealis"					
-				"Asistencia de negocios, apoyo financiero y apoyo moral inquebrantable por Mack C. Adams @mackaraja"					
-				"Muchos agradecimientos a Sheila Precious, David Adams, Sarah Adams y Cimarron Corpe por mantener el barco a flote ante mares tormentosos."					
+				Enlace, comunicaciones, CC, inspiración, paciencia infinita y apoyo moral interminable cortesía de Jori Baldwin @aurorajorealis					
+				Asistencia de negocios, apoyo financiero y apoyo moral inquebrantable por Mack C. Adams @mackaraja					
+				Muchos agradecimientos a Sheila Precious, David Adams, Sarah Adams y Cimarron Corpe por mantener el barco a flote ante mares tormentosos.					
 				Mega gracias a Jim Guthrie por embarcarse en esta aventura loca hacia lo desconocido.					
 				Sonidos adicionales cortesía de Timothy Muirhead.					
 				* * * SOPORTE 8-4 * * *					
 				Traducción al japonés por el maestro de las palabras RYUTA YAZAWA @lye_					
-				"Edición japonesa, consejo crucial y apoyo sin fin por MASAHIRO YUKI @You_to_the_ki de Grasshopper Manufacture www.ghm.jp"					
-				"Diseño del increíble logotipo japonés cortesía de POLYGRAPH, @polygraph_suwa en www.polygraph.jp"					
+				Edición japonesa, consejo crucial y apoyo sin fin por MASAHIRO YUKI @You_to_the_ki de Grasshopper Manufacture www.ghm.jp					
+				Diseño del increíble logotipo japonés cortesía de POLYGRAPH, @polygraph_suwa en www.polygraph.jp					
 				Magia del sitio web japonés por Jonathan Lumb @jonnyram de www.jonnyram.com					
-				"Y finalmente, agradecimientos por al apoyo y amistad de: @suda_51, Tomoaki Takahashi, @eightbear"					
-				"Artista de remezclas:  @baiyon, @akirayamaoka, Michiru Yamane, @macotom3 y Decasségui Hip"					
+				Y finalmente, agradecimientos por al apoyo y amistad de: @suda_51, Tomoaki Takahashi, @eightbear					
+				Artista de remezclas:  @baiyon, @akirayamaoka, Michiru Yamane, @macotom3 y Decasségui Hip					
 				* * * THE DOMINION OF CANADA * * *					
 			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de la Ontario Media Development Corporation (OMDC).					
 				* * * LOS QUEREMOS MUCHO MUCHO * * *					
-				"A Brandon Boyer @brandonnn, Mathew Kumar @mathewkumar y Jason DeGroot @jason6955 por alinear las estrellas."					
+				A Brandon Boyer @brandonnn, Mathew Kumar @mathewkumar y Jason DeGroot @jason6955 por alinear las estrellas.					
 				"Mucho amor a las increíbles comunidades de videojuegos de Toronto y a la gente encantadora de ""The Hand Eye Society"", TOJam y Gamercamp."					
 				A la familia y amigos: los queremos y realmente esperamos volver a verlos. ¿Cómo han estado desde la última vez que hablamos?					
-				"A todos los que han apoyado y animado este proyecto: ¡muchas gracias por su paciencia, curiosidad y fe!"					
+				A todos los que han apoyado y animado este proyecto: ¡muchas gracias por su paciencia, curiosidad y fe!					
 				* * * PROCESO * * *					
-				"Pixel artwork creado por Cosmigo enteramente en Promotion, con otros elementos visuales creados en Illustrator y Photoshop de Adobe."					
+				Pixel artwork creado por Cosmigo enteramente en Promotion, con otros elementos visuales creados en Illustrator y Photoshop de Adobe.					
 				Sonidos y canciones creadas usando MTV Music Generator de Codemasters para PSOne y/o Garageband y Logic Studio de Apple.					
 			Logos/FMOD	Los sonidos y las canciones se integraron en el proyecto utilizando FMOD de Firelight Technologies.					
 				El código fue programado utilizando C++ y Lua script con tolua++. Los mapas y elementos del mundo fueron creados con herramientas propiedad de Capy.					
 				Cálculo de ciclos lunares y algoritmos astronómicos cortesía de voidware.com/moon_phase.htm					
-				"Las APIs utilizadas en la creación de S:S&S EP incluyen twitcurl, tinyxml, libpng/zlib, SDL, cmake, y minizip"					
+				Las APIs utilizadas en la creación de S:S&S EP incluyen twitcurl, tinyxml, libpng/zlib, SDL, cmake, y minizip					
 				"Un build absurdamente temprano fue presentado en el ""Independent Games Festival"" el 1 de Noviembre de 2009."					
 				S:S&S EP fue anunciado el 1 de Diciembre de 2009.					
 				"A principios de 2010 se anunció que el proyecto había ganado el premio IGF Mobile ""Achievement in Art""."					
-				La primera demostración pública en directo de S:S&S EP ocurrió en un evento social de la 'Hand Eye Society' de Toronto el 14 de febrero de 2010.					
+				"La primera demostración pública en directo de S:S&S EP ocurrió en un evento social de la ""Hand Eye Society"" de Toronto el 14 de febrero de 2010."					
 				La primera versión jugable de S:S&S EP fue presentada a los asistentes y amigos en la GDC 2010 de San Francisco del 9 al 13 de marzo de 2010.					
 				El primer gameplay no editado de la GDC apareció simultáneamente en internet.					
 				"""Less Talk, More Rock: The Native Language of Videogames"" fue publicado online en Boing Boing en Marzo de 2010 y puedes buscarlo en Google."					
-				"El proyecto 'se oscureció' durante unos meses, mientras nosotros, ya sabes, hacíamos el videojuego. Clic clic clic clic."					
+				El proyecto 'se oscureció' durante unos meses, mientras nosotros, ya sabes, hacíamos el videojuego. Clic clic clic clic.					
 				Llevó un poco más de tiempo del esperado finalizarlo.					
 				"""The Intoxication of Mythology"" fue presentado por Superbrothers el 22 de Septiembre de 2010 en el Fantastic Arcade de Austin."					
 				"""Aiming for Audiovisual Alchemy"" fue presentado por Jim Guthrie, Kris Piotrowski y Superbrothers en la Gamercamp de Toronto."					
 				"Un nuevo vídeo titulado ""Audience Calibration Procedure"" fue posteado el jueves 24 de febrero de 2011 para empezar a poner en marcha las cosas."					
-				"S:S&S EP estuvo finalmente disponible para iPad alrededor del equinoccio vernal de 2011, poco antes del fin del mundo."					
+				S:S&S EP estuvo finalmente disponible para iPad alrededor del equinoccio vernal de 2011, poco antes del fin del mundo.					
 				"Pusimos ""MIDSUMMER ROCKSHOWCASE"" en la TIFF Lightbox de Toronto con material S&S de Jim Guthrie. ¡Fue impresionante!"					
-				"S:S&S EP se lanzó en iPhone y iPod Touch, y hubo mucho regocijo."					
-				"En los meses posteriores del lanzamiento algunos de nosotros nos casamos, algunos de nosotros nos separamos y todos nos movimos."					
+				S:S&S EP se lanzó en iPhone y iPod Touch, y hubo mucho regocijo.					
+				En los meses posteriores del lanzamiento algunos de nosotros nos casamos, algunos de nosotros nos separamos y todos nos movimos.					
 				"Se le pidió a Jim Guthrie que creara la banda sonora del documental ""Indie Game: The Movie"" @indiegamemovie."					
 				Capy está concentrada actualmente en crear un puñado de videojuegos entre los que se encuentra el impresionante SUPER T.I.M.E. FORCE.					
 				El personal de Superbrothers Inc se está tomando un tiempo para soñar nuevos sueños.					
-				"S:S&S EP fue uno de los videojuegos Top 10 de 2011 para la revista Time Magazine junto a juegos AAA como Dark Souls y Skyrim, ¡vaya!"					
+				S:S&S EP fue uno de los videojuegos Top 10 de 2011 para la revista Time Magazine junto a juegos AAA como Dark Souls y Skyrim, ¡vaya!					
 				La música de Jim Guthrie fue reconocida como 'La mejor música de videojuego de 2011' por Kirk Hamilton @kirkhamilton en Kotaku.					
 				El hashtag sworcery de S:S&S EP fue 'uno de los mayores eventos de internet de 2011' según Co.Design & Syzygy.					
-				"S:S&S EP ganó un Game Developer's Choice Award en la GDC de 2012, superando a títulos AAA... lo cual fue increíble."					
+				S:S&S EP ganó un Game Developer's Choice Award en la GDC de 2012, superando a títulos AAA... lo cual fue increíble.					
 				"Jim Guthrie sacó un nuevo disco llamado ""The Children of the Clone"" con temas de S:S&S EP."					
-				"Después de eso la historia se pone un poco turbia, así que sintoniza swordandsworcery.com para saber más."					
-				"Ha sido un viaje positivo y loco, esperamos que sigas cavando."					
+				Después de eso la historia se pone un poco turbia, así que sintoniza swordandsworcery.com para saber más.					
+				Ha sido un viaje positivo y loco, esperamos que sigas cavando.					
 				Sigue el boletín en superbrothers.ca para estar a la última sobre Superbrothers inc.					
 				* * * QUÉ ES S:S&S EP? * * *					
-				"S:S&S EP está destinado a ser un valiente experimento en Input Output Cinema, sea lo que sea que signifique eso."					
+				S:S&S EP está destinado a ser un valiente experimento en Input Output Cinema, sea lo que sea que signifique eso.					
 				S:S&S EP es un nuevo enfoque para el videojuego de aventuras de la vieja escuela con un énfasis en el estilo audiovisual.					
-				"S:S&S EP se inspira en el trabajo de creadores de videojuegos pioneros como Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda."					
+				S:S&S EP se inspira en el trabajo de creadores de videojuegos pioneros como Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda.					
 				S:S&S EP es un febril sueño Famicom.			38	082.jpg	28B24
 				S:S&S EP se ha creado con las historias de psicocosmología mitopoética de espadas y brujería de Robert E. Howard en mente.					
 				S:S&S EP es un enlace al pasado.			167	083.jpg	18E3V
-				"S:S&S EP es un primer esfuerzo, así que sí, es un poco experimental."					
+				S:S&S EP es un primer esfuerzo, así que sí, es un poco experimental.					
 				El concepto estético de S:S&S EP es el de 'el arquetípico videojuego de aventuras'.					
 				S:S&S EP hace referencias oblicuas por todos lados a Carl G. Jung y su fascinante 'Libro Rojo'.					
 				S:S&S EP es una pequeña cosa que creo que todo el mundo debería jugar en su dispositivo táctil o PC.					
-				"S:S&S EP es un crudo videojuego haiku sobre la vida, el amor y la muerte."					
+				S:S&S EP es un crudo videojuego haiku sobre la vida, el amor y la muerte.					
 				S:S&S EP trata sobre mitos y sueños.					
 				S:S&S EP ha sido creado pensando en una audiencia amplia y con cierto nivel educativo en mente.					
 				S:S&S EP iba a llamarse en un primer momento 'Poopsock'. Es en serio.					
 				* * * ESTO ES TODO * * *					
-				"Entonces, ¿qué sucede después? ¿Y de qué va esa transmisión tan extraña? ¿Qué depara el futuro?"					
-				"¡Si quieres ordenar impresiones, ropa, discos, videojuegos o lo que sea, búscanos en Internet!"					
-				"¡Si disfrutas con el estilo de entretenimiento audiovisual ofrecido por S:S&S EP entonces, por favor, corre la voz!"					
-				"Ahora somos amigos cósmicos para siempre, ¿de acuerdo?"			87	084.jpg	L8A48
+				Entonces, ¿qué sucede después? ¿Y de qué va esa transmisión tan extraña? ¿Qué depara el futuro?					
+				¡Si quieres ordenar impresiones, ropa, discos, videojuegos o lo que sea, búscanos en Internet!					
+				¡Si disfrutas con el estilo de entretenimiento audiovisual ofrecido por S:S&S EP entonces, por favor, corre la voz!					
+				Ahora somos amigos cósmicos para siempre, ¿de acuerdo?			87	084.jpg	L8A48
