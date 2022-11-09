@@ -6,7 +6,7 @@ SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, estos son todos l
 SIGN_CHASM	The Scythian			En el borde del Precipicio Peligroso, había una piedra tallada con el glifo de una espada que miraba hacia el cielo bajo los colores del arcoíris.					
 				Nosotros los escitas detestamos los arcoíris. #loathsomerainbows			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del camino antiguo había una piedra tallada con una serie de glifos indescifrables.					
-				En medio de los glifos indescifrables descubrimos una serie de glifos lunares.					
+				En medio de los glifos indescifrables reconocimos una serie de glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del camino antiguo había una piedra tallada con una serie de glifos lunares antes indescifrables.					
 				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...allí donde se puede alterar el temperamento de la luna."""					
 				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
@@ -90,7 +90,7 @@ INFO_BIRDEYESCULPTURE	The Scythian			Descubrimos una escultura de un pájaro enf
 INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas ovejas insignificantes holgazaneando por el prado. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			Otra oveja insignificante, ¿Por qué seguimos mirándolas? #worthlesssheep					
 INFO_MEADOWSUN	The Scythian			Podemos recordar vívidamente cuán impresionante parecía el sol en ese primer día de primavera.					
-INFO_MEADOWGATE	The Scythian			En el prado había portón de hierro inamovible que bloqueaba una cueva cavernosa.					
+INFO_MEADOWGATE	The Scythian			En el prado había un portón de hierro inamovible que bloqueaba una cueva cavernosa.					
 INFO_MEADOWGATEACTIVE	The Scythian			En el prado había un portón de hierro y tuvimos la sensación de que, tal vez, podríamos abrirlo de alguna manera.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Descubrimos un nosequé con forma de Trígono Dorado sobre el portón de hierro, ¿Tal vez reaccionaría a nuestra canción de Espadachicería?					
 INFO_MEADOWGATETRIGON	The Scythian			Descubrimos un nosequé sobre el portón de hierro.					
@@ -127,7 +127,7 @@ INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			En lo profundo del templo de la mon
 INFO_CABINRECORD	The Scythian			En el interior de la choza descubrimos un pequeño y redondeado cacharro encima del fuego. #theballadofthespacebabies			46	019.jpg	P1D99
 INFO_CABINHEARTH	The Scythian			Dentro de la choza, el fuego crepitaba tranquilamente proporcionando una calidez familiar.					
 INFO_CABINSEAT	The Scythian			Dentro de la choza, a ambos lados del fuego, había dos toscos asientos de madera.					
-INFO_GOGOLITHICMASS	The Scythian			Descubrimos un calavera astada flotando en la oscuridad bajo el Mingi Taw.					
+INFO_GOGOLITHICMASS	The Scythian			Descubrimos una calavera astada flotando en la oscuridad bajo el Mingi Taw.					
 INFO_MEGATOMBTRIFECTA	The Scythian			En la oscuridad, descubrimos una representación pictográfica de la Trigonal Trifecta bajo el Mingi Taw.					
 INFO_ROCKSHOWGIRL	The Scythian			"En el concierto de rock vimos a Samae y nos pareció escucharla decir ""fuego camina conmigo""."					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			En el concierto de rock vimos uno de esos esqueletos vibrando ante el siniestro ritmo.					
