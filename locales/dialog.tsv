@@ -8,7 +8,7 @@ SIGN_CHASM	The Scythian			En el borde del Precipicio Peligroso, había una piedr
 SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del camino antiguo había una piedra tallada con una serie de glifos indescifrables.					
 				En medio de los glifos indescifrables reconocimos una serie de glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del camino antiguo había una piedra tallada con una serie de glifos lunares antes indescifrables.					
-				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...allí donde se puede alterar el temperamento de la luna."""					
+				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...Allí donde se puede alterar el temperamento de la luna."""					
 				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			Al margen del camino antiguo había una piedra tallada con un par de glifos con la forma de una espada y un escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			En un corredor subterráneo descubrimos una estatua siniestra, pero no nos preocupamos demasiado por ella. #lore			29	005.jpg	V0B53
@@ -406,7 +406,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Volver a cruzar el umbral de la limina
 				Cuando estás lúcido en un sueño te darás cuenta de quién has imaginado ser... pero identificarse con el sueño es convertirse en hechizado.					
 				Incluso en un bien conocido sueño siempre hay lugares nuevos por explorar y conexiones que considerar... si continúas creyendo.					
 GIRL_MOONGROTTOCOMMENT	Girl			Me siento como si el cosmos acabara de dar un vuelco y ahora todo estuviera un poco... apagado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino del 0 al 1, y si un alien dijera ""hola"" sería en un código críptico en el estéreo. Espera... ¿Qué?"					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino del 0 al 1, y si un alien dijera ""Hola"" sería en un código críptico en el estéreo. Espera... ¿Qué?"					
 GIRL_HUGETREETHOUGHTS	Girl			Por supuesto, nunca le hablo a la gente sobre estos sueños de la diosa/árbol porque probablemente me llamarían hippie o algo parecido.					
 				En mi lugar especial, visito un árbol hueco titánico... Es una diosa muerta desde hace mucho tiempo y que precede a la humanidad desde eternos eones.					
 				En mi sueño hay un lugar especial al que siempre voy, un parlamento de árboles en el corazón del mundo.					
