@@ -115,9 +115,9 @@ INFO_DARKTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructu
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			En la Arboleda Trigonal había otra estructura de piedra con un glifo circular que hacía referencia a La Luna Brillante. #brightmoontrigon					
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
-INFO_STONEHEAD	The Scythian			En el Precipicio Peligroso había una enorme escultura de roca labrada con la boca entreabierta y de aspecto familiar.			24	017.jpg	61B76
-INFO_STONEHEADSHUT	The Scythian			En el Precipicio Peligroso había una enorme escultura de roca labrada y de aspecto familiar.					
-INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura de roca labrada se hallaba un mástil siniestro adornado con calaveras o algo por el estilo.					
+INFO_STONEHEAD	The Scythian			En el Precipicio Peligroso había una enorme escultura tallada en la roca de una cabeza de aspecto familiar y con la boca entreabierta.			24	017.jpg	61B76
+INFO_STONEHEADSHUT	The Scythian			En el Precipicio Peligroso había una enorme escultura tallada en la roca de una cabeza de aspecto familiar.					
+INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura tallada en la roca se hallaba un mástil siniestro adornado con calaveras o algo por el estilo.					
 INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso había un magnífico dolmen que albergaba dos asientos de piedra de aspecto cómodo.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un poste siniestro adornado con una calavera astada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada excavada en la roca del templo de la montaña divisamos una representación pictográfica de la Trigonal Trifecta.					
@@ -198,7 +198,7 @@ ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos en la vigilia y en la psicosm
 				El umbral de liminalidad es un espacio entre la vigilia y los sueños donde el pensamiento dirigido es imposible.			56	030.jpg	13A0A
 				Busca un hogar cálido y permite que el sueño te arrope para descubrir el umbral de la liminalidad.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si vas a sentarte junto al fuego en la choza y cruzas el umbral liminal para encontrar la llave perdida de Sr. Tronco?			55	031.jpg	23C1X
-GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Vaya, Sr. Tronco está fuera de sí por algo... Me pregunto qué pasará. He preferido salir fuera y dejarlo solo un momento.					
+GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Vaya, Sr. Tronco está fuera de sí por algo... Me pregunto qué pasará. He preferido salir afuera y dejarlo solo un momento.					
 				He visto a la Escita cantar la canción de Espadachicería y enviar tres duendes silvanos hacia el cielo. Me pregunto si ayudarán a disipar la tormenta.					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que la Escita pueda encontrar mi llave... la perdí en la orilla arenosa de un lago plácido.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Oh vaya, me gustaría que no estuviera lloviendo afuera... Me gustaría que mis botas no estuvieran tan mojadas... Me gustaría volver a cortar leña.					
@@ -338,7 +338,7 @@ GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despe
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un duende silvano que dormitaba rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un duende silvano que dormitaba en un matorral en lo alto de un peñasco rocoso.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante emerge y despertamos a un duende silvano que dormitaba en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante emerge y despertamos a un duende silvano que dormitaba en un lago sereno donde una madre pato estaba fuera de sí.					
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante emerge y despertamos a un duende silvano que dormitaba en unas aguas serenas donde una mamá pata estaba asustada.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante emerge y despertamos a un duende silvano que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante emerge y despertamos a un duende silvano que dormitaba en un lago plácido bajo una trifecta de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa sensación peculiar de que, tal vez, estemos ante la temporada de milagros. #miracles					
@@ -466,7 +466,7 @@ MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Estuvimos tentados de abandona
 GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trígono Luna Brillante y nuestra intención de reconstruir la Trigonal Trifecta.					
 				Samae dijo que nuestro encuentro en sueños parecía realmente impresionante y que le hubiera encantado haber estado allí. #lies					
 				Samae nos preguntó si nos habíamos pasado por la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
-LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinaje por los sueños y obras milagrosas se había cobrado un alto precio en nuestra salud física.					
+LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinar por los sueños y obras milagrosas habían pasado factura en nuestra salud física.					
 				Sr. Tronco parecía sospechar que nuestro funesto cometido muy probablemente no tendría un final feliz.					
 				Sr. Tronco nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestros datos de investigación muestran una alta correlación entre el progreso de un participante en S:S&S EP y su aptitud para ser impresionante.			45	074.jpg	87A43
@@ -477,8 +477,8 @@ MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... llevar El Megatomo de
 				Cuando las luces y los sonidos cesaron, nos encontramos empapados por la fría lluvia en medio de un parlamento de árboles.					
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trígono Luna Oscura y nuestra intención de reconstruir la Trigonal Trifecta.					
 				Le contamos cómo acabamos con el ataque arcoíris del Trígono Luna Oscura y a ella le pareció realmente impresionante.					
-				No parecía importarle escuchar nuestras locas historias.					
-LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinar por los sueños y obras milagrosas había pasado factura en nuestra salud física.					
+				A ella no parecía importarle escuchar nuestras locas historias.					
+LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuestro peregrinar por los sueños y obras milagrosas habían pasado factura en nuestra salud física.					
 			Archetype/trifecta	Sr. Tronco nos preguntó si habíamos visitado con Colega la Arboleda Trigonal... ¿Tal vez podríamos enviar otro haz celeste?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Así que ahora la pregunta es... ¿Y ahora qué?					
 				A pesar de la escasa información útil que te hemos proporcionado, has logrado dominar al Trígono Luna Oscura.					
@@ -535,7 +535,7 @@ ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece ligeramente con cada día que 
 LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba un poco extraño cada vez que La Luna Brillante emergía del cielo.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, con La Luna Brillante emergiendo del cielo.					
 				Ella habló del aire fresco de la mañana y de una isla imposible en medio de un lago plácido.					
-ARCHETYPE_BRIGHTMOON	The Archetype			Sal fuera y mira hacia arriba, ¡Maravíllate con La Luna Brillante que se avecina!			95	079.jpg	07D95
+ARCHETYPE_BRIGHTMOON	The Archetype			Sal afuera y mira hacia arriba, ¡Maravíllate con La Luna Brillante que se avecina!			95	079.jpg	07D95
 LOGFELLA_ALMOSTWANE	The Scythian			El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos.					
 				El leñador sabía todo sobre el Mingi Taw y por qué era conocido como El Reino de las Nubes.					
 				Él sabía que el Mingi Taw era la montaña más alta del mundo conocido, más alta incluso que el Monte Olimpo, donde habitaban los dioses Aqueos.					
@@ -606,10 +606,10 @@ ARCHETYPE_CREDITS	The Archetype
 				Agradecimientos a Xavier Xaden Xen, Joseppe Theodore Blocco y Hank Hudson					
 				Galletas y otros deliciosos dulces proporcionado por Thea Gaerlan @doodlegirl					
 				* * * SOPORTE SUPERBROTHERS * * *					
-				Enlace, comunicaciones, CC, inspiración, paciencia infinita y apoyo moral interminable cortesía de Jori Baldwin @aurorajorealis					
+				Enlace, comunicaciones, CC, inspiración, paciencia infinita y apoyo moral interminable cortesía por Jori Baldwin @aurorajorealis					
 				Asistencia de negocios, apoyo financiero y apoyo moral inquebrantable por Mack C. Adams @mackaraja					
 				Muchos agradecimientos a Sheila Precious, David Adams, Sarah Adams y Cimarron Corpe por mantener el barco a flote ante mares tormentosos.					
-				Mega gracias a Jim Guthrie por embarcarse en esta aventura loca hacia lo desconocido.					
+				Muchas gracias a Jim Guthrie por embarcarse en esta aventura loca hacia lo desconocido.					
 				Sonidos adicionales cortesía de Timothy Muirhead.					
 				* * * SOPORTE 8-4 * * *					
 				Traducción al japonés por el maestro de las palabras RYUTA YAZAWA @lye_					
@@ -644,9 +644,9 @@ ARCHETYPE_CREDITS	The Archetype
 				"""The Intoxication of Mythology"" fue presentado por Superbrothers el 22 de Septiembre de 2010 en el Fantastic Arcade de Austin."					
 				"""Aiming for Audiovisual Alchemy"" fue presentado por Jim Guthrie, Kris Piotrowski y Superbrothers en la Gamercamp de Toronto."					
 				"Un nuevo vídeo titulado ""Audience Calibration Procedure"" fue posteado el jueves 24 de febrero de 2011 para empezar a poner en marcha las cosas."					
-				S:S&S EP estuvo finalmente disponible para iPad alrededor del equinoccio vernal de 2011, poco antes del fin del mundo.					
+				S:S&S EP estuvo finalmente disponible para iPad alrededor del equinoccio de primavera de 2011, poco antes del fin del mundo.					
 				"Pusimos ""MIDSUMMER ROCKSHOWCASE"" en la TIFF Lightbox de Toronto con material S&S de Jim Guthrie. ¡Fue impresionante!"					
-				S:S&S EP se lanzó en iPhone y iPod Touch, y hubo mucho regocijo.					
+				S:S&S EP se eventualmente se lanzó para iPhone y iPod Touch, y hubo mucho regocijo.					
 				En los meses posteriores del lanzamiento algunos de nosotros nos casamos, algunos de nosotros nos separamos y todos nos movimos.					
 				"Se le pidió a Jim Guthrie que creara la banda sonora del documental ""Indie Game: The Movie"" @indiegamemovie."					
 				Capy está concentrada actualmente en crear un puñado de videojuegos entre los que se encuentra el impresionante SUPER T.I.M.E. FORCE.					
