@@ -26,9 +26,9 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba 
 				Sr. Tronco sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el camino antiguo.					
 				Aún así, nos dio la sensación de que no estaba muy emocionado que digamos con tal encomienda.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar el recorrido hacia el camino antiguo.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el precipicio y nos sentíamos súper inteligentes.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el abismo y nos sentíamos súper listos.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Sr. Tronco que estábamos buscando un libro de magia siniestra conocido como El Megatomo.					
-			adventureUI/megatomeItem	El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del precipicio, bajo el Mingi Taw.					
+			adventureUI/megatomeItem	El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del Precipicio Peligroso, bajo el Mingi Taw.					
 			adventureUI/megatomeItem	Decidimos ir por El Megatomo y después escapar con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó al 100% que el tenía la única llave de la puerta de la muralla de piedra.					
 			AdventureUI/keyItem	Era una llave realmente bonita.					
@@ -137,7 +137,7 @@ INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock había un considerable
 INFO_ROCKSHOWARCHETYPE	The Scythian			En el concierto de rock divisamos al tipo conocido como El Arquetipo y nos preguntamos qué tenía que ver él con todo esto.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Un poste siniestro adornado con una calavera astada conecta este lugar con el espectro inmortal que acecha bajo el Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			En la Arboleda Trigonal, más allá de la cueva cavernosa del prado, divisamos una tumba solitaria que despertó nuestra curiosidad.					
-GRAVE_TRIGONGROVEGHOST	The Scythian			En la Arboleda Trigonal, más allá de la cueva cavernosa del prado, nos acercamos a una tumba solitaria donde nos recibió un fantasma resplandeciente.					
+GRAVE_TRIGONGROVEGHOST	The Scythian			En la Arboleda Trigonal, más allá de la cueva cavernosa del prado, vimos una tumba solitaria donde nos recibió un fantasma resplandeciente.					
 				El fantasma resplandeciente de la Arboleda Trigonal nos asustó un poco al principio, si somos sinceros.			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Reconoció nuestro atuendo Escita y vio que poseíamos El Megatomo. Se preguntó si comprendíamos las marcas esotéricas que contenía.					
 				En un susurro nos dio el nombre del espectro inmortal que habíamos despertado en la oscuridad bajo el Mingi Taw - La Masa Gogolítica.			166	023.jpg	O2B39
@@ -149,12 +149,12 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En la Arboleda Trigonal, más allá de la 
 			Archetype/trifecta	Preguntamos sobre la Trigonal Trifecta y la ubicación de los Trígonos restantes, pero su respuesta fue irritantemente obtusa.					
 				"""Los Trígonos restantes sólo existen en los sueños de la gente de la montaña."""			43	024.jpg	8.2E+46
 				"""Localizar los Trígonos restantes no es tanto una cuestión del dónde, sino del cuándo y el cómo."""					
-				Sin duda, el fantasma resplandeciente dijo cantidad de cosas sinsentido.					
+				Sin duda, el fantasma resplandeciente había dicho cantidad de tonterías.					
 GRAVE_LOGBRIDGE	The Scythian			Vimos un puñado de tumbas en un matorral al margen del camino antiguo que despertaron nuestra curiosidad.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al margen del camino antiguo y nos encontramos con unos fantasmas que parecían amigables.			116	025.jpg	62B55
 				El fantasma imponente que habló fue un gigante que conocíamos por viejas historias cuyo famoso retrato demandaba obediencia. #andre					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, armé a un pelotón y nos dispusimos a reconstruir la Trigonal Trifecta."""					
-				"""Habíamos oído hablar de la entrada al infinito en la cima del Mingi Taw y pensamos que sería algo digno de ver."""					
+				"""Habíamos oído hablar de la entrada al Infinito en la cima del Mingi Taw y pensamos que sería algo digno de ver."""					
 			triangle/Triangle	"""Así que domamos el Trígono Dorado e investigamos la Arboleda Trigonal antes de salir a buscar el Trígono Luna Brillante."""					
 				"""Localizar el Trígono Luna Brillante no resultó muy bien... acabamos totalmente perdidos para ser honesto."""					
 				"""Lentamente nos dimos cuenta de la importancia del temperamento de la luna y su influencia en los duendes que duermen en los reinos crepusculares."""					
@@ -296,28 +296,28 @@ ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	¿Así que domaste los
 			Archetype/trifecta	Eres especial, y esa es exactamente la razón por la que me agradas tanto.					
 				Fue muy valiente y generoso ofrecer como mártir a la Escita en la cima del Mingi Taw.					
 				En serio, te debemos una.					
-				Todo lo que resta es que arrastres a la Escita a la cima y seas testigo del arremolinado infinito.					
+				Todo lo que resta es que arrastres a la Escita a la cima y seas testigo del Arremolinado Infinito.					
 				Sé valiente, ¡El final está cerca!					
 ARCHETYPE_GHOULINTRO	The Archetype								
 				Bueno, aquí estamos. Esta sesión informativa finalizará el tratamiento S:S&S EP.					
 				El funesto cometido de la Escita está cerca de completarse.					
 				Por desgracia, el cuerpo y la psique de la Escita han sido significativamente socavados por la Espadachicería. Ahora se encuentra a las puertas de la muerte.			162	047.jpg	J4F7B
-			Archetype/trifecta	Todo lo que resta es desvelar los secretos de la Arboleda Trigonal y subir El Megatomo al arremolinado infinito en la cima del Mingi Taw.					
+			Archetype/trifecta	Todo lo que resta es desvelar los secretos de la Arboleda Trigonal y subir El Megatomo al Arremolinado Infinito en la cima del Mingi Taw.					
 				Presiona jugar solo si estás listo para ser testigo del terrible tormento del martirio.					
-END	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del arremolinado infinito.					
-END_CHEAT	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del arremolinado infinito. #cheat					
-END_CHEAT_NOBOOR	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del arremolinado infinito. #cheat #noboor					
-END_CHEAT_PSYCHO	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del arremolinado infinito. #cheat #psycho					
-END_CHEAT_LOVE	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del arremolinado infinito. #cheat #love			202	048.jpg	D4A81
-END_MOONGROTTO_PSYCHO	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del arremolinado infinito. #moongrotto #psycho			180	049.jpg	74D9P
-END_MOONGROTTO_LOVE	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del arremolinado infinito. #moongrotto #love			176	050.jpg	Y5F0P
-END_HONEST_PSYCHO	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del arremolinado infinito. #honest #psycho			179	051.jpg	M5C1H
-END_HONEST_LOVE	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del arremolinado infinito. #honest #love			177	052.jpg	55E2B
-END_HONEST_NOBOOR	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del arremolinado infinito. #honest #noboor			178	053.jpg	75G3V
+END	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito.					
+END_CHEAT	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat					
+END_CHEAT_NOBOOR	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat #noboor					
+END_CHEAT_PSYCHO	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat #psycho					
+END_CHEAT_LOVE	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat #love			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #moongrotto #psycho			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #moongrotto #love			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #psycho			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #love			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			En la cima del Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #noboor			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			¿Sabrá la Escita que es posible detener a La Masa Gogolítica tocando su calavera con Espadachicería? Probablemente no.					
 				Espero que la Escita sepa que se moverá mucho más rápido si presiona dos veces al final del camino. Si no estará en problemas.					
 				¿Dónde estoy? ¿Qué ha pasado? Lo último que recuerdo es que soñaba caminar por el bosque cuando vi una extraña luz rosa.					
-LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto cometido de abrir una entrada al arremolinado infinito en la cima del Mingi Taw.					
+LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto cometido de abrir una entrada al Arremolinado Infinito en la cima del Mingi Taw.					
 				Todo ha sido totalmente mental desde que la Escita apareció muchas lunas atrás.					
 LOGFELLA_GHOUL	The Scythian			Nos despertamos aturdidos de un sueño súper profundo cerca de la Arboleda Trigonal con el leñador conocido como Sr. Tronco a nuestro lado.			88	054.jpg	J5D44
 				Sr. Tronco habló sobre cómo Samae había desaparecido la noche anterior.					
@@ -338,7 +338,7 @@ GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despe
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un duende silvano que dormitaba rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un duende silvano que dormitaba en un matorral en lo alto de un peñasco rocoso.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante emerge y despertamos a un duende silvano que dormitaba en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante emerge y despertamos a un duende silvano que dormitaba en unas aguas serenas donde una mamá pata estaba asustada.					
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante emerge y despertamos a un duende silvano que dormitaba en unas aguas serenas donde una mamá pata estaba fuera de sí.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante emerge y despertamos a un duende silvano que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante emerge y despertamos a un duende silvano que dormitaba en un lago plácido bajo una trifecta de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa sensación peculiar de que, tal vez, estemos ante la temporada de milagros. #miracles					
@@ -374,14 +374,14 @@ GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mi leña guarda muchos 
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oído hablar sobre una isla imposible bajo La Luna Brillante, puede que... ¿lo hayas leído en internet?			134	065.jpg	H6A5I
 				Hemos estado siguiendo silenciosamente tus acciones y nos gustaría señalar que cuanto más larga sea la duda, más pequeña será la celebración.					
 				Parece que has progresado bastante en tu esfuerzo para localizar y domar al Trígono Luna Brillante, muy bien hecho.					
-GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los duendes silvanos hijos de la Madre Tierra o son visitantes solitarios del arremolinado infinito?					
+GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los duendes silvanos hijos de la Madre Tierra o son visitantes solitarios del Arremolinado Infinito?					
 				Para ser honesta, los duendes silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los duendes hayan sido enviados hacia el cielo y la temporada de milagros se acerque, debes buscar el árbol titánico.					
 				Sé que sabes lo que sé y quiero que sepas que estás 100% en lo cierto.			109	066.jpg	F6D6H
 				Guau Guau Guau Sniff Guau Guau Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu funesto cometido devolverá la paz de vuelta a nuestras vidas.					
 				Sólo la Trigonal Trifecta te permitirá comprender los secretos de la Arboleda Trigonal.					
-				El arremolinado infinito en la cima del Mingi Taw te espera.					
+				El Arremolinado Infinito en la cima del Mingi Taw te espera.					
 				Guau Guau Guau.					
 GCLUE_WATERFALLS	Girl			¿Te has dado cuenta de que a veces las palabras suenan como ruido pero otras veces el ruido emite el sonido más bello?			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí entre los montañeses del Cáucaso.					
@@ -435,10 +435,10 @@ DOGFELLA_GETDARKTRIGON	The Scythian			Tras activar otro haz celeste en la Arbole
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Colega.					
 			Archetype/trifecta	De repente parecía que entendíamos a Colega, nos instó a buscar el Trígono Luna Brillante y completar la Trigonal Trifecta.					
 DOGFELLA_THREETRIGONS	The Scythian			Tras activar otro haz celeste en la Arboleda Trigonal notamos algo peculiar en el perro conocido como Colega.					
-			Archetype/trifecta	De repente parecía que entendíamos a Colega, nos instó a activar el tercer haz de luz y abrir la entrada al infinito.					
+			Archetype/trifecta	De repente parecía que entendíamos a Colega, nos instó a activar el tercer haz de luz y abrir la entrada al Infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
 				Guau Guau Sniff Guau.					
-				El arremolinado infinito del cosmos en la cima del Mingi Taw espera a aquel que carga con El Megatomo.					
+				El Arremolinado Infinito del cosmos en la cima del Mingi Taw espera a aquel que carga con El Megatomo.					
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae estaba sentada en una roca junto al leñador que cortaba leña.					
@@ -460,8 +460,8 @@ ARCHETYPE_MOONGROTTO	The Archetype			Veo que has podido alterar el temperamento 
 MIRACLE2_ISLAND	The Scythian			Mientras La Luna Brillante emergía, hemos realizado un extraño milagro lunar en una isla imposible en medio de un lago plácido.			136	073.jpg	W7A3K
 MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos el Trígono Luna Brillante para nuestra gloria y desesperación. #trigontamed			155	068.jpg	56F8U
 MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Estuvimos tentados de abandonar todo el tema del funesto cometido, pero había algo atractivo en el martirio.					
-				Aunque probablemente no importará demasiado al final. No es como que se tenga que superar un examen físico para acceder al arremolinado infinito.					
-				Nos daba la sensación que todo esto de caminar en los sueños y domar Trígonos se estaba empezando a cobrar su peaje.					
+				Aunque probablemente no importará demasiado al final. No es como que se tenga que superar un examen físico para acceder al Arremolinado Infinito.					
+				Nos daba la sensación que todo esto de caminar en los sueños y domar Trígonos estaba pasando factura en nuestra salud física.					
 				Cuando las luces y los sonidos se calmaron, nos encontramos a orillas de un lago con un dolor de cabeza brutal y una nariz ensangrentada.					
 GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trígono Luna Brillante y nuestra intención de reconstruir la Trigonal Trifecta.					
 				Samae dijo que nuestro encuentro en sueños parecía realmente impresionante y que le hubiera encantado haber estado allí. #lies					
@@ -517,7 +517,7 @@ LOGFELLA_DARKMOON	The Scythian			El leñador habló de su sueño en el que camin
 GIRL_DARKMOON	The Scythian			Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo un cielo oscuro y lleno de tormenta.					
 				Ella habló de cómo se había refugiado de la tormenta en un árbol hueco titánico.					
 				Sabíamos de qué árbol hueco titánico estaba ella hablando.					
-ARCHETYPE_DARKMOON	The Archetype			Ten cuidado. Reina La Luna Oscura.			94	076.jpg	I7F69
+ARCHETYPE_DARKMOON	The Archetype			Ten cuidado. La Luna Oscura reina.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			El leñador habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, bajo una luna creciente.					
 				Él habló sobre una criatura que había conocido, algo o alguien extraño y desnudo. ¿Era un oso? ¿Un hombre? o... ¿El Tosco Pardo?			57	077.jpg	I7G7U
 GIRL_CRESCENTWAX	The Scythian			Samae estaba emocionada, ¡Hoy comenzaba un nuevo mes lunar! Le esperaban largos días sentada sobre rocas.					
@@ -535,11 +535,11 @@ ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece ligeramente con cada día que 
 LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba un poco extraño cada vez que La Luna Brillante emergía del cielo.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			Samae habló de su sueño en el que caminaba por el bosque una hora antes del amanecer, con La Luna Brillante emergiendo del cielo.					
 				Ella habló del aire fresco de la mañana y de una isla imposible en medio de un lago plácido.					
-ARCHETYPE_BRIGHTMOON	The Archetype			Sal afuera y mira hacia arriba, ¡Maravíllate con La Luna Brillante que se avecina!			95	079.jpg	07D95
+ARCHETYPE_BRIGHTMOON	The Archetype			Sal afuera y mira hacia arriba, ¡Maravíllate con La Luna Brillante que emerge del cielo!			95	079.jpg	07D95
 LOGFELLA_ALMOSTWANE	The Scythian			El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos.					
 				El leñador sabía todo sobre el Mingi Taw y por qué era conocido como El Reino de las Nubes.					
 				Él sabía que el Mingi Taw era la montaña más alta del mundo conocido, más alta incluso que el Monte Olimpo, donde habitaban los dioses Aqueos.					
-				Él también sabía que la cima del Mingi Taw, siempre envuelta en nubes, era considerada la entrada al arremolinado infinito.					
+				Él también sabía que la cima del Mingi Taw, siempre envuelta en nubes, era considerada la entrada al Arremolinado Infinito.					
 				El leñador nunca se había atrevido a pisar las temibles laderas del Mingi Taw, y nunca lo haría.					
 GIRL_ALMOSTWANE	The Scythian			Samae se preguntó por qué tantos hongos crecían inmediatamente antes y después de La Luna Brillante... ¿Cuál era la causa?					
 ARCHETYPE_ALMOSTWANE	The Archetype			La luna está ligeramente menos brillante de lo que estaba ayer, y el ciclo lunar está empezando a disminuir.					
@@ -552,7 +552,7 @@ GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá de la muralla 
 ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y La Luna Oscura está a poco menos de una semana de distancia.					
 LOGFELLA_CRESCENTWANE	The Scythian			El leñador tenía muy baja tolerancia al folclore y admitió que por lo general le provocaba sueño. Sin embargo, tenía bastantes conocimientos.					
 				El leñador conocía a la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad bajo el Mingi Taw.					
-				Sr. Tronco habló del arremolinado infinito, más allá de nuestra comprensión, del que surgió El Megatomo en la apenas recordada edad de piedra.					
+				Sr. Tronco habló del Arremolinado Infinito, más allá de nuestra comprensión, del que surgió El Megatomo en la apenas recordada Edad de Piedra.					
 				Él habló de una raza de seres inmortales del espacio que provocó en la humanidad una forma rudimentaria de pensamiento y transmisión lingüística.					
 				"""Estos inmortales bendicieron a la humanidad con la capacidad de ser una civilización y así los condenaron a una eventual e inevitable extinción."""					
 				"""Los escitas intentaron detener el insidioso crecimiento de la civilización, y por eso aislaron El Megatomo con su protector inmortal."""					
