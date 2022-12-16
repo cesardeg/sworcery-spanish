@@ -40,7 +40,7 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñad
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto algún tipo de espeluznante monstruo y supuso que era mejor dejarlo en nuestras manos.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado El Megatomo y Sr. Tronco estaba 100% listo para llevarlo a la seguridad de su morada.					
 				Sentimos el acecho de una tormenta eléctrica y, sin embargo, una pequeña canción comenzó a sonar en nuestro corazón.					
-LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la tormenta que se avecinaba, Sr. Tronco admitió que en ese momento estaba muy intranquilo.					
+LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la tormenta que se avecinaba, Sr. Tronco admitió que en ese momento tenía la piel de gallina.					
 				¿Estaba Sr. Tronco asuntándonos intencionadamente? #yes #no #maybe					
 				En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo.					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y nos sentíamos súper inteligentes. #gotmegatome			40	011.jpg	81C1E
@@ -175,7 +175,7 @@ GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la tumba solitaria del tramposo 
 				"""Deje a esos perdedores deambular sin sentido mientras yo investigaba más sobre esa treta lógico-lunar."""					
 				El fantasma radiante habló de cómo había hecho trampa al salir de S:S&S EP e ir a Configuración del Sistema.					
 				El fantasma describió sobre la opción de Fecha/Hora y los horrores que precedían al alterar el temperamento de la luna con este método.					
-				"""La cosa es que desde que hice trampa, mi conciencia no me dejó y así morí de vergüenza."""					
+				"""La cuestion es que he tenido un caso grave de escalofríos desde entonces, y en realidad me morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			Dentro de un árbol hueco titánico vimos una tumba solitaria que despertó nuestra curiosidad.					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una tumba solitaria y un fantasma taimado apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
 				"""Monitorea el temperamento de la luna y así aprenderás el cuándo, el dónde y el cómo."""					
@@ -241,12 +241,12 @@ GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignifi
 LOGFELLA_CABINSHEEP	The Scythian			Sr. Tronco tenía la sensación de que había llegado la temporada de milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Se está empezando a disipar la tormenta? Eso espero.					
 				Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo tan sombrío.					
-LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Me siento realmente intranquilo... Sin duda algo está sucediendo... ¿Se está disipando la tormenta?					
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Tengo la piel de gallina... Sin duda algo está pasando... ¿Se está disipando la tormenta?					
 				Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			"Una vez que el sol esté alineado, se te concederán las milagrosas capacidades de plegado del gran mago ""Al Jaffee""."					
-				¿Sientes esa sensación tan peculiar? ¡Es la temporada de milagros! Canta la canción de Espadachicería y busca los vigilantes pájaros enfadados.			76	038.jpg	A3G84
-ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira al cielo en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira el Trígono Dorado.					
+				¿Sientes esa sensación tan peculiar? ¡Es la temporada de milagros! Canta la canción de Espadachicería y busca a los vigilantes pájaros enfadados.			76	038.jpg	A3G84
+ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira al cielo en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira al Trígono Dorado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interesante la forma con que has manejado el encuentro con el caníbal cabeza de oso.			120	039.jpg	O3G9D
 				No no, está bien, sólo que me pareció interesante. Nunca vi a nadie hacer lo que hiciste tú. Es excepcional, pero no te alarmes.					
 				Bueno, sigamos. Aún te quedan muchas cosas por disfrutar en tu experiencia con S:S&S EP, particularmente en la Cara B.					
@@ -529,7 +529,7 @@ GIRL_HALFWAX	The Scythian			La chica nos contó que la noche anterior soñó que
 ARCHETYPE_HALFWAX	The Archetype			Los folcloristas majaderos han afirmado que no hay relación causal entre la locura y el temperamento de la luna.					
 LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demasiado en la Masa Gogolítica y en la montaña desierta del Mingi Taw.					
 				Sin embargo, él dijo que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo.					
-				El leñador admitió que le inquietaba cuando La Luna Brillante emergía... y cuando La Luna Oscura reinaba.					
+				El leñador admitió que se le ponía la piel de gallina cuando La Luna Brillante emergía... y cuando La Luna Oscura reinaba.					
 GIRL_ALMOSTWAX	The Scythian			La chica comentó algo sobre la luna creciente... Se preguntó cuánto tiempo tardaría hasta que La Luna Brillante emergiera del cielo.					
 ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece ligeramente con cada día que pasa... en pocos días se convertirá en La Luna Brillante... ¿Y qué?			165	046.jpg	P4B6A
 LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba un poco extraño cada vez que La Luna Brillante emergía del cielo.			135	061.jpg	M6F1I
