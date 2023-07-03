@@ -12,4 +12,5 @@ This info plist fix the orientation issue on iOS/iPadOS 16.X
 ```
 
 unzip S:SS.ipa
+
 zip -qr S:SS-patched.ipa Payload
