@@ -24,7 +24,7 @@ LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba leña. #obviously #woodchopping			71	007.jpg	7E+71
 				Los montañeses del Cáucaso lo conocían como Sr. Tronco y parecía amable.					
 				Sr. Tronco sabía todo acerca de nuestro funesto cometido y accedió a llevarnos hasta el camino antiguo.					
-				Aún así, nos dio la sensación de que no estaba muy emocionado que digamos con tal encomienda.					
+				Aún así, nos dio la impresión de que no estaba muy emocionado que digamos con tal encomienda.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar el recorrido hacia el camino antiguo.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el abismo y nos sentíamos súper listos.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Sr. Tronco que estábamos buscando un libro de magia siniestra conocido como El Megatomo.					
@@ -69,9 +69,9 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien he
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
 			adventureUI/megatomeItem	Se me acaba de ocurrir algo...  ¿Qué tal si abres El Megatomo y descubres lo qué se oculta en mi mente?					
 				"""Busca un triángulo blanco en la esquina superior derecha... presiónalo para equipar El Megatomo y revelar lo qué está oculto."""					
-LOGFELLA_STORM	The Scythian			El leñador conocido como Sr. Tronco había renunciado a cortar leña debido a la tormenta siniestra. #wetboots					
+LOGFELLA_STORM	The Scythian			El leñador conocido como Sr. Tronco había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Sr. Tronco nos recordó cómo la tormenta había comenzado poco después de que recuperáramos El Megatomo bajo el Mingi Taw.					
-				¿Estaba acaso Sr. Tronco sugiriendo sutilmente que encontraramos una manera de disipar la tormenta? #yes #no #maybe					
+				¿Estaba insinuando Sr. Tronco de una manera no tan sutil que quizás deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de pelo oscuro conocida como Samae estaba bastante afligida. #woe					
 			gourd/gourd	Desde que comenzó la tormenta, Samae había estado observando las melodiosas brumas de las hadas silvanas que dormitaban en los bosques cercanos.					
 			gourd/gourd	Se preguntó si tal vez las tres hadas silvanas podrían ayudar a disipar la tormenta. #yes					
@@ -79,7 +79,7 @@ GIRL_STORM	The Scythian			La chica de pelo oscuro conocida como Samae estaba bas
 			gourd/gourd	Samae habló de una hada en un prado cercano y de otra en una pajarera, hogar de tres pájaros cantores empapados por la lluvia.					
 			gourd/gourd	Samae nos dijo que buscáramos las melodiosas brumas de estas tres hadas silvanas, y que las enviáramos hacia el cielo usando la Canción de Espadamancia.					
 ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canción de Espadamancia, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
-			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para despertar al hada silvana que dormita en las frescas aguas del estanque profundo."""					
+			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para despertar a la hada silvana que dormita en las frescas aguas del estanque profundo."""					
 ARCHETYPE_TADPOLES	The Archetype			Era muy obvio que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué.					
 			gourd/gourd	"""¿Ves las melodiosas brumas en el estanque profundo? Una hada silvana dormita allí y debes despertarla."""					
 			gourd/gourd	"""Canta una Canción de Espadamancia en cualquier momento manteniendo presionado sobre la Escita para acceder a una realidad dentro de la que ya conoces."""					
@@ -215,7 +215,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba súper al
 				Estaba muy claro que el leñador conocido como Sr. Tronco había dejado de prestar atención.					
 			AdventureUI/keyItem	Pensamos que podríamos simplemente llevarnos la llave e ir a dar un paseo por el camino antiguo más allá de la muralla de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tomáramos su llave y nos dijo que estaba de acuerdo.					
-GIRL_FOUNDKEY	The Scythian			Encontramos a Samae empapada de pie a lado del camino.					
+GIRL_FOUNDKEY	The Scythian			Nos encontramos con Samae empapada parada bajo la lluvia al lado del camino.					
 			gourd/gourd	Ella había oído las sutiles melodiosas brumas de las hadas silvanas más allá de la muralla de piedra en el camino antiguo al Mingi Taw.					
 			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
 			gourd/gourd	Ella habló de unos arcoíris débiles en el borde del Precipicio Peligroso.					
@@ -266,7 +266,7 @@ ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna 
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Es posible que ya te hayas encontrado con el ataque de arcoíris del Trigón Luna Oscura. Rebana ese arcoíris tan rápido como puedas.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna Oscura implica sutiles proyectiles triangulares. Aplástalos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que has despertado al espectro inmortal que aletargaba en la oscuridad bajo el Mingi Taw... ¡Uff!					
-				En consecuencia, se vislumbra una tormenta siniestra y la gente encantadora que vive en la choza de piedra se siente desolada.					
+				En consecuencia, se vislumbra una siniestra tormenta y la gente encantadora que vive en la choza de piedra se siente desolada.					
 			adventureUI/megatomeItem	El resultado es que tienes el pesado libro conocido como El Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
 				Nuestra investigación ha demostrado que la exposición prolongada a la psicosmología mitopoética de S:S&S EP puede tener efectos adversos.					
 				Así que ahora que has completado la Sesión I, ¿qué te parece si nos tomamos un pequeño descanso? Estaré justo aquí cuando quieras comenzar la sesión II.					
@@ -274,14 +274,14 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				Me alegra volver a verte por aquí. ¿Todo listo para comenzar con la Sesión II de S:S&S EP?					
 			adventureUI/megatomeItem	Muy bien, ¿por dónde íbamos? Oh sí, ya me acuerdo. Conseguiste el pesado libro conocido como El Megatomo.					
 				Despertaste al espectro inmortal que aletargaba en la oscuridad bajo el Mingi Taw. Una pena, ¿verdad?			204	042.jpg	24B2J
-				Son tiempos de angustia, una tormenta siniestra ha nublado el cielo y la gente encantadora que vive en la choza es desdichada.					
+				Son tiempos de angustia, una siniestra tormenta ha nublado el cielo y la gente encantadora que vive en la choza es desdichada.					
 				Disipar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadamante liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otros materiales esotéricos.					
-			gourd/gourd	2. Extrañas hadas silvanas, generadores de Espadamancia, dormitan en estanques, bosques y prados. Busca sus sutiles melodiosas brumas.					
+			gourd/gourd	2. Extrañas hadas silvanas, generadoras de Espadamancia, dormitan en estanques, bosques y prados. Busca sus sutiles melodiosas brumas.					
 			triangle/Triangle	3. El espadamante que pueda localizar, invocar y domar la geometría cósmica del Trigón Dorado poseerá la habilidad de obrar milagros.					
 				¿Abrumado? Excelente. Mantén la calma y continúa.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la geometría cósmica del Trigón Dorado.			86	044.jpg	24E4H
-				Milagrosamente, la tormenta siniestra se ha disipado y la gloriosa luz del sol ha vuelto al reino, lo que es grandioso.					
+				Milagrosamente, la siniestra tormenta se ha disipado y la gloriosa luz del sol ha vuelto al reino, lo que es grandioso.					
 				Tus heroicas hazañas reflejan bien tu percepción, intuición y perseverancia, ¡Lo has hecho muy bien hasta ahora!					
 				Nota: Si decides continuar con el experimento S:S&S EP, las cualidades antes mencionadas serán desafiadas y puestas a prueba.					
 				En cualquier caso, vamos a tomarnos otro pequeño descanso, ¿no crees?. Como siempre, estaré justo aquí cuando quieras comenzar con la Sesión III.					
@@ -615,9 +615,9 @@ ARCHETYPE_CREDITS	The Archetype
 				Sonidos adicionales cortesía de Timothy Muirhead.					
 				* * * SOPORTE 8-4 * * *					
 				Traducción al japonés por el maestro de las palabras RYUTA YAZAWA (@lye_)					
-				Edición japonesa, consejo crucial y apoyo sin fin por MASAHIRO YUKI (@You_to_the_ki) de Grasshopper Manufacture www.ghm.jp					
+				Edición japonesa, consejo crucial y apoyo sin fin por MASAHIRO YUKI (@You_to_the_ki) de Grasshopper Manufacture en www.ghm.jp					
 				Diseño del increíble logotipo japonés cortesía de POLYGRAPH (@polygraph_suwa) en www.polygraph.jp					
-				Magia del sitio web japonés por Jonathan Lumb (@jonnyram) de www.jonnyram.com					
+				Magia del sitio web japonés por Jonathan Lumb (@jonnyram) en www.jonnyram.com					
 				Y finalmente, agradecimientos por al apoyo y amistad de @suda_51, Tomoaki Takahashi, @eightbear					
 				Y los artistas de remezcla  @baiyon, @akirayamaoka, Michiru Yamane, @macotom3 y Decasségui Hip					
 				* * * THE DOMINION OF CANADA * * *					
