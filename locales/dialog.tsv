@@ -18,7 +18,7 @@ INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima de
 INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima de Mingi Taw descansaba una solitaria tumba como siniestro recuerdo de las muchas personas que habían muerto allí.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo engastado entre dos manos esqueléticas y sentimos a nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			"Una puerta pequeña sin pomo hecha de un material desconocido. Una señal reza ""Solo personal autorizado""."					
-DOOR_UPSLOPEWOODS1	The Scythian			Una puerta cerrada en la muralla de piedra bloqueaba el camino antiguo a Mingi Taw.					
+DOOR_UPSLOPEWOODS1	The Scythian			Una puerta cerrada en el muro de piedra bloqueaba el camino antiguo a Mingi Taw.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía en un matorral en el bosque bajo el camino antiguo que asciende a Mingi Taw. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba leña. #obviously #woodchopping			71	007.jpg	7E+71
@@ -30,7 +30,7 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salv
 			adventureUI/megatomeItem	Le contamos a Don Tronco que estábamos buscando un libro de magia siniestra conocido como El Megatomo.					
 			adventureUI/megatomeItem	El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del Precipicio Peligroso, debajo de Mingi Taw.					
 			adventureUI/megatomeItem	Decidimos ir por El Megatomo y después escapar con vida.					
-LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos aseguró que el tenía la única llave de la puerta de la muralla de piedra.					
+LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó que él tenía la única llave para la puerta cerrada en el muro de piedra.					
 			AdventureUI/keyItem	Era una llave realmente bonita.					
 				Estábamos totalmente listos para mantener presionado sobre el camino para avanzar.					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Don Tronco nos esperaría aquí a que volviéramos con El Megatomo.					
@@ -94,7 +94,7 @@ INFO_MEADOWGATE	The Scythian			En el prado había un portón de hierro inamovibl
 INFO_MEADOWGATEACTIVE	The Scythian			En el prado había un portón de hierro y tuvimos la sensación de que, tal vez, podríamos abrirlo de alguna manera.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Descubrimos un nosequé con forma de Trigón Dorado sobre el portón de hierro, ¿Tal vez reaccionaría a nuestra Canción de Espadamancia?					
 INFO_MEADOWGATETRIGON	The Scythian			Descubrimos un nosequé sobre el portón de hierro.					
-INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta cerrada en la muralla de piedra bloqueaba el camino antiguo a Mingi Taw y, al parecer, la llave estaba perdida en los sueños.					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta cerrada en el muro de piedra bloqueaba el camino antiguo a Mingi Taw y, al parecer, la llave estaba perdida en los sueños.					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Descubrimos la escultura de un pájaro enojado que se cernía sobre el prado. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			Descubrimos un báculo de aspecto extraño sobre el prado.					
 INFO_CABINWELL	The Scythian			Descubrimos un pozo sólidamente construido con un amplio tejado de madera.					
@@ -190,7 +190,7 @@ GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico nos a
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una solitaria tumba y apareció un fantasma audaz y nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Veo que la canción del Trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharla."""					
 LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Don Tronco estaba totalmente fuera de sí por algo.					
-			AdventureUI/keyItem	Al parecer Don Tronco había perdido la llave de la puerta de la muralla de piedra que bloqueaba el camino antiguo a Mingi Taw.					
+			AdventureUI/keyItem	Al parecer Don Tronco había perdido la llave de la puerta del muro de piedra que bloqueaba el camino antiguo a Mingi Taw.					
 				"Nosotros estábamos en plan de ""otra misión de búsqueda y rescate o... ¿Me equivoco?"""					
 				Don Tronco nos dijo haber estado sentado aquí mismo cuando cayó en un sueño profundo.					
 			AdventureUI/keyItem	Don Tronco nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
@@ -213,10 +213,10 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba súper al
 			gourd/gourd	Teníamos la corazonada de que necesitábamos despertar a unas cuantas hadas silvanas más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de geometría cósmica conocida como el Trigón Dorado.					
 				Estaba muy claro que el leñador conocido como Don Tronco había dejado de prestar atención.					
-			AdventureUI/keyItem	Pensamos que podríamos simplemente llevarnos la llave e ir a dar un paseo por el camino antiguo más allá de la muralla de piedra.					
+			AdventureUI/keyItem	Pensamos que podríamos simplemente llevarnos la llave e ir a dar un paseo por el camino antiguo más allá del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tomáramos su llave y nos dijo que estaba de acuerdo.					
 GIRL_FOUNDKEY	The Scythian			Nos encontramos con Samae empapada parada bajo la lluvia en un camino lateral.					
-			gourd/gourd	Ella había oído las sutiles melodiosas brumas de las hadas silvanas más allá de la muralla de piedra en el camino antiguo a Mingi Taw.					
+			gourd/gourd	Ella había oído las sutiles melodiosas brumas de las hadas silvanas más allá del muro de piedra en el camino antiguo a Mingi Taw.					
 			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
 			gourd/gourd	Ella habló de unos arcoíris débiles en el borde del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos sentíamos perdidos o confundidos.					
@@ -231,15 +231,15 @@ ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosq
 				Busca las melodiosas brumas de las hadas silvanas e investiga sus alrededores.					
 				Una vez que hayas comenzado la Canción de Espadamancia puedes tocar el aura y deslizar para mirar alrededor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adivinatorios pueden haber jugado un papel significativo en el desarrollo de la psique humana.					
-				La evidencia arqueológica indica que el uso chamánico de hongos para la comunión religiosa, adivinación y curación es bastante antigua.					
-				Fisiológicamente puedes notar sentimientos de bienestar y percepciones aumentadas, una disipación del estrés y una pérdida del apetito.					
-				Los hongos del bosque pueden ofrecer una cierta visión oblicua sobre el paradero de una hada silvana y sus peculiares activadores.			60	035.jpg	53A5Y
-ARCHETYPE_TRIGONGROVE	The Archetype			¿Puedes sentirlo? ¿Estás empezando a entender? ¿Tienen un nuevo significado las marcas y formas esotéricas dentro de El Megatomo?					
-				Este haz es un puente que une el mundo de los vivos y los muertos, puede que encuentres a uno o dos fantasmas con los que hablar en tus viajes.					
+				La evidencia arqueológica indica que el uso chamánico de los hongos para la comunión religiosa, la adivinación y la curación es bastante antiguo.					
+				Fisiológicamente, es posible que experimentes sensaciones de bienestar y percepciones aumentadas, una disminución del estrés y una pérdida del apetito.					
+				Los hongos del bosque podrían ofrecer una cierta visión oblicua sobre el paradero de una hada silvana y sus peculiares activadores.			60	035.jpg	53A5Y
+ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo puedes sentir? ¿Estás comenzando a entender? ¿Tienen los símbolos y formas esotéricas dentro de El Megatomo un nuevo significado?				
+				Este haz conecta el mundo de los vivos con el mundo de los muertos, así que es posible que encuentres uno o dos fantasmas con los que hablar en tus viajes.					
 				Acabo de recibir la notificación de que has activado el primer haz celeste en el Bosque Trigónico.					
-GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y nos dijo que hace un momento se habían asustado.					
+GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y ella nos dijo que se habían asustado hace un rato.					
 			gourd/gourd	Le dijimos a Samae que habíamos enviado cinco hadas silvanas hacia el cielo y nos dijo que tal vez la temporada de milagros estaba cerca.					
-				Pensamos que tal vez deberíamos ir a investigar al prado donde solían holgazanear las ovejas.					
+				Pensamos que tal vez deberíamos ir a investigar el prado donde solían holgazanear las ovejas.					
 LOGFELLA_CABINSHEEP	The Scythian			Don Tronco tenía la sensación de que había llegado la temporada de milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Está comenzando a disiparse la tormenta? Eso espero.					
 				Todo esto de la tormenta me ha estado afectando el ánimo. Ha sido todo tan sombrío.					
@@ -326,7 +326,7 @@ LOGFELLA_GHOUL	The Scythian			Nos despertamos aturdidos de un sueño súper prof
 				El leñador sabía que estábamos cerca del final y que debíamos volver a Mingi Taw para finalizar nuestro funesto cometido.					
 LOGFELLA_TRIGONGROVETIPS	The Scythian			El leñador conocido como Don Tronco nunca antes había visto el Bosque Trigónico y se preguntaba de qué se trataba todo aquello.					
 LOGFELLA_TRIFECTATIPS	The Scythian			El leñador conocido como Don Tronco se sentía muy triste por la ausencia de Samae.					
-				"Le dijimos a Don Tronco que sabíamos dónde podría estar ella y pronto arreglaríamos las cosas. "					
+				"Le dijimos a Don Tronco que sabíamos dónde podría estar ella y pronto arreglaríamos las cosas."					
 				Él miró la plataforma cercana y nos agradeció de antemano por todo lo relacionado con el martirio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
@@ -420,7 +420,7 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Nos despertamos aturdidos de un su
 			triangle/Triangle	"Recordamos el milagro en el prado y nuestro encuentro con el Trigón Dorado... "					
 			triangle/Triangle	...¿Qué poderes nuevos nos habrían sido concedidos?					
 			triangle/Triangle	Don Tronco estaba totalmente anonadado cuando le contamos cómo fue la batalla contra el Trigón Dorado.			81	071.jpg	R7C14
-			triangle/Triangle	Don Tronco se preguntó de que modo el Trigón Dorado podría estar conectado con los misterios sombríos de más allá del portón de hierro del prado..					
+			triangle/Triangle	Don Tronco se preguntó de que modo el Trigón Dorado podría estar conectado con los misterios sombríos de más allá del portón de hierro del prado...					
 				Don Tronco no quiso excavar más en misterios sombríos y decidió volver a casa y empezar a cortar madera. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Don Tronco estaba súper encantado de que la tormenta se hubiera disipado y estaba emocionado de volver a cortar leña de nuevo.					
 				Nos preguntó si sabíamos algo sobre el portón de hierro del prado que bloqueaba la cavernosa cueva... ¿De qué se trataría?					
@@ -550,7 +550,7 @@ LOGFELLA_HALFWANE	The Scythian			El leñador tenía muy baja tolerancia al folcl
 				El leñador habló de cómo, hace siglos, una raza olvidada había tallado un templo en la roca debajo de Mingi Taw.					
 				El leñador habló de los corredores subterráneos y los espacios cavernosos tallados en la roca debajo de Mingi Taw.					
 				Según el leñador, esos espacios cavernosos fueron tallados hace siglos para custodiar El Megatomo.					
-GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá de la muralla de piedra y haber sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
+GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá del muro de piedra y haber sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
 ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y La Luna Oscura está a poco menos de una semana de distancia.					
 LOGFELLA_CRESCENTWANE	The Scythian			El leñador tenía muy baja tolerancia al folclore y admitía que generalmente lo ponía a dormir. Sin embargo, él era bastante conocedor.					
 				El leñador conocía a la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad debajo de Mingi Taw.					
@@ -640,7 +640,7 @@ ARCHETYPE_CREDITS	The Archetype
 				"Un nuevo vídeo titulado ""Audience Calibration Procedure"" fue posteado el jueves 24 de febrero de 2011 para empezar a poner en marcha las cosas."					
 				S:S&S EP estuvo finalmente disponible para iPad alrededor del equinoccio de primavera de 2011, poco antes del fin del mundo.					
 				"Pusimos ""MIDSUMMER ROCKSHOWCASE"" en la TIFF Lightbox de Toronto con material S&S de Jim Guthrie. ¡Fue impresionante!"					
-				S:S&S EP se eventualmente se lanzó para iPhone y iPod Touch, y hubo mucho regocijo.					
+				S:S&S EP finalmente se lanzó para iPhone y iPod Touch, y hubo mucha alegría.					
 				En los meses posteriores del lanzamiento algunos de nosotros nos casamos, algunos de nosotros nos separamos y todos nos movimos.					
 				"Se le pidió a Jim Guthrie que creara la banda sonora del documental ""Indie Game: The Movie"" (@indiegamemovie)."					
 				Capy está concentrada actualmente en crear un puñado de videojuegos entre los que se encuentra el impresionante SUPER T.I.M.E. FORCE.					
@@ -651,7 +651,7 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&S EP ganó un Game Developer's Choice Award en la GDC de 2012, superando a títulos AAA... lo cual fue increíble.					
 				"Jim Guthrie sacó un nuevo disco llamado ""The Children of the Clone"" con temas de S:S&S EP."					
 				Después de eso, la historia se vuelve un poco confusa, así que sintoniza en swordandsworcery.com para más información.					
-				Ha sido un viaje positivo y loco, esperamos que sigas cavando.					
+				Ha sido un viaje positivo y loco, esperamos que sigas profundizando.					
 				* * * QUÉ ES S:S&S EP? * * *					
 				S:S&S EP se concibe como un valiente experimento en el cine de entrada y salida, sea lo que sea que eso signifique.					
 				S:S&S EP es un nuevo enfoque para el videojuego de aventuras de la vieja escuela con un énfasis en el estilo audiovisual.					
