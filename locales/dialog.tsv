@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			En la escarpada ladera de Mingi Taw una so
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la escarpada ladera de Mingi Taw una solitaria tumba marcaba el final de un camino de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima de Mingi Taw había un poste siniestro adornado con una calavera astada.					
 INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima de Mingi Taw descansaba una solitaria tumba como siniestro recuerdo de las muchas personas que habían muerto allí.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo engastado entre dos manos esqueléticas y sentimos a nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo engastado entre dos manos esqueléticas y sentimos a nuestra espada agitarse en su vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			"Una puerta pequeña sin pomo hecha de un material desconocido. Una señal reza ""Solo personal autorizado""."					
 DOOR_UPSLOPEWOODS1	The Scythian			Una puerta cerrada en el muro de piedra bloqueaba el camino antiguo a Mingi Taw.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía en un matorral en el bosque bajo el camino antiguo que asciende a Mingi Taw. #moongrotto					
@@ -27,23 +27,23 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba 
 				Aún así, nos dio la impresión de que no estaba muy emocionado que digamos con tal encomienda.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar el recorrido hacia el camino antiguo.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el abismo y nos sentíamos súper listos.			22	009.jpg	L0B9S
-			adventureUI/megatomeItem	Le contamos a Don Tronco que estábamos buscando un libro de magia siniestra conocido como El Megatomo.					
+			adventureUI/megatomeItem	Le contamos a Don Tronco que estábamos buscando un libro de magia siniestra conocido como el Megatomo.					
 			adventureUI/megatomeItem	El Megatomo se ocultaba en algún lugar oscuro y encantado más allá del Precipicio Peligroso, debajo de Mingi Taw.					
-			adventureUI/megatomeItem	Decidimos ir por El Megatomo y después escapar con vida.					
+			adventureUI/megatomeItem	Decidimos ir por el Megatomo y después escapar con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó que él tenía la única llave para la puerta cerrada en el muro de piedra.					
 			AdventureUI/keyItem	Era una llave realmente bonita.					
 				Estábamos totalmente listos para mantener presionado sobre el camino para avanzar.					
-LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Don Tronco nos esperaría aquí a que volviéramos con El Megatomo.					
+LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Don Tronco nos esperaría aquí a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Don Tronco había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
 				Don Tronco parecía saberlo todo acerca del arcoíris repugnante y el glifo que representaba a una espada que miraba hacia el cielo.					
 				Y sin embargo, Don Tronco no ofreció ninguna ayuda sobre qué hacer a continuación, lo cual nos molestó un poco si somos totalmente honestos.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto algún tipo de espeluznante monstruo y supuso que era mejor dejarlo en nuestras manos.			26	010.jpg	Q1B00
-LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado El Megatomo y Don Tronco estaba completamente listo para moverlo hacia la seguridad de su morada.					
+LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado el Megatomo y Don Tronco estaba completamente listo para moverlo hacia la seguridad de su morada.					
 				Sentimos una tormenta que se aproximaba y, sin embargo, una pequeña canción comenzó en nuestro corazón.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la tormenta que se avecinaba, Don Tronco admitió que en ese momento tenía la piel de gallina.					
 				¿Estaba Don Tronco asuntándonos intencionadamente? #yes #no #maybe					
 				En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo.					
-QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y nos sentíamos súper inteligentes. #gotmegatome			40	011.jpg	81C1E
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos el Megatomo y nos sentíamos súper inteligentes. #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
@@ -59,18 +59,18 @@ ARCHETYPE_FOUNDATION	The Archetype			Hablemos del entorno y ambiente adecuado pa
 				"""Entorno"" incluye la comodidad, seguridad y calidez de la habitación o el lugar al aire libre donde ocurrirá la experiencia."					
 				"El segundo aspecto del ""Entorno"" es lo cultural, las nociones predominantes de la realidad y la normalidad. Evitaremos esta discusión por ahora."					
 				S:S&S EP no produce una experiencia trascendental, simplemente pretende liberar el sistema nervioso de patrones ordinarios.					
-				"La conciencia expandida, el potencial ilimitado e inexplorado de la mente, es a lo que en Superbrothers nos referimos como ""Espadamancia"" o ""Sworcery"" en inglés. #sworcery"					
+				"La conciencia expandida, el potencial ilimitado e inexplorado de la mente, es a lo que en Superbrothers nos referimos como ""Espadamancia"". #sworcery"					
 				La Canción de Espadamancia puede entenderse como una técnica psiónica y permite percibir una realidad dentro de la que ya conoces.					
 				Para detener la Canción de Espadamancia simplemente toca dos veces el aura que rodea a la Escita.					
 				Una vez que hayas comenzado a cantar la Canción de Espadamancia, toca y desliza el aura para mirar alrededor.					
 				Para cantar la Canción de Espadamancia, mantén presionado sobre la Escita durante un momento y observa cómo se reúne el aura.					
-				Como puedes ver, El Megatomo recoge y almacena transmisiones de pensamiento lingüístico. Desplaza hacia abajo para ver en qué estaba pensando antes.					
-ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la Canción de Espadamancia y ahora el insondable poder de El Megatomo es tuyo."""			47	012.jpg	31E2F
+				Como puedes ver, el Megatomo recoge y almacena transmisiones de pensamiento lingüístico. Desplaza hacia abajo para ver en qué estaba pensando antes.					
+ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la Canción de Espadamancia y ahora el insondable poder del Megatomo es tuyo."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
-			adventureUI/megatomeItem	Se me acaba de ocurrir algo... ¿Qué tal si abres El Megatomo y descubres lo qué se oculta en mi mente?					
-				"""Busca un triángulo blanco en la esquina superior derecha... presiónalo para equipar El Megatomo y revelar lo qué está oculto."""					
+			adventureUI/megatomeItem	Se me acaba de ocurrir algo... ¿Qué tal si abres el Megatomo y descubres lo qué se oculta en mi mente?					
+				"""Busca un triángulo blanco en la esquina superior derecha... presiónalo para equipar el Megatomo y revelar lo qué está oculto."""					
 LOGFELLA_STORM	The Scythian			El leñador conocido como Don Tronco había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
-			adventureUI/megatomeItem	Don Tronco nos recordó cómo la tormenta había comenzado poco después de que recuperáramos El Megatomo debajo de Mingi Taw.					
+			adventureUI/megatomeItem	Don Tronco nos recordó cómo la tormenta había comenzado poco después de que recuperáramos el Megatomo debajo de Mingi Taw.					
 				¿Estaba insinuando Don Tronco de una manera no tan sutil que quizás deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de pelo oscuro conocida como Samae estaba bastante afligida. #woe					
 			gourd/gourd	Desde que comenzó la tormenta, Samae había estado observando las brumas melodiosas de los espíritus silvanos que dormitaban en los bosques cercanos.					
@@ -139,13 +139,13 @@ INFO_TRIGONGROVESKULLSTICK	The Scythian			Un poste siniestro adornado con una ca
 GRAVE_TRIGONGROVE	The Scythian			En el Bosque Trigónico, más allá de la cavernosa cueva del prado, divisamos una solitaria tumba que despertó nuestra curiosidad.					
 GRAVE_TRIGONGROVEGHOST	The Scythian			En el Bosque Trigónico, más allá de la cavernosa cueva del prado, vimos una solitaria tumba donde nos recibió un fantasma resplandeciente.					
 				Al principio, el fantasma resplandeciente del Bosque Trigónico nos asustó bastante, siendo sinceros.			96	022.jpg	T2B2H
-			adventureUI/megatomeItem	Reconoció nuestra vestimenta Escita y vio que llevábamos El Megatomo. Se preguntó si comprendíamos las marcas esotéricas en su interior.					
+			adventureUI/megatomeItem	Reconoció nuestra vestimenta Escita y vio que llevábamos el Megatomo. Se preguntó si comprendíamos las marcas esotéricas en su interior.					
 				En un susurro pronunció el nombre del espectro inmortal que habíamos despertado en la oscuridad debajo de Mingi Taw: La Masa Gogolítica.			166	023.jpg	O2B39
 				Conocíamos el temible nombre por las viejas historias y sentimos cómo se nos helaba la sangre.					
 				"""Hasta ahora tenía la sensación de que La Masa Gogolítica te veía como a un simple turista."""					
 			triangle/Triangle	"""Ahora que has aprendido la Canción de Espadamancia y domado al Trigón Dorado, cada paso tuyo estará embrujado."""					
 				No podíamos decir si el fantasma resplandeciente nos estaba animando, desalentando o qué.					
-				Le contamos al fantasma de nuestra intención de detonar El Megatomo en la cima de Mingi Taw y liberar a La Masa Gogolítica de la inmortalidad.					
+				Le contamos al fantasma de nuestra intención de detonar el Megatomo en la cima de Mingi Taw y liberar a La Masa Gogolítica de la inmortalidad.					
 			Archetype/trifecta	Le preguntamos sobre la Trifecta Trigónica y la ubicación de los dos Trigones restantes, pero su respuesta fue irritantemente ambigua.					
 				"""Los otros dos Trigonos existen solo en los sueños de la gente de la montaña."""			43	024.jpg	8.2E+46
 				"""Encontrar los otros dos Trigones no es tanto una cuestión de dónde, sino de cuándo y cómo."""					
@@ -209,7 +209,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba súper al
 				El leñador conocido como Don Tronco se preguntó cómo es que éramos tan inteligentes y nos preguntó sobre nuestro funesto cometido.					
 				Le contamos al leñador cómo habíamos llegado a la mayoría de edad en las estepas junto a nuestros intrépidos hermanos y hermanas escitas.					
 				Le contamos a Don Tronco por qué deambulabamos por aquí, en esta montaña desierta, y cómo nos guiaba el dedo de un Dios omnisciente.					
-			adventureUI/megatomeItem	Le contamos a Don Tronco lo que sospechábamos sobre las marcas esotéricas dentro de El Megatomo y lo que podían significar.					
+			adventureUI/megatomeItem	Le contamos a Don Tronco lo que sospechábamos sobre las marcas esotéricas dentro del Megatomo y lo que podían significar.					
 			gourd/gourd	Teníamos la corazonada de que necesitábamos despertar a unos cuantos espíritus silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de geometría cósmica conocida como el Trigón Dorado.					
 				Estaba muy claro que el leñador conocido como Don Tronco había dejado de prestar atención.					
@@ -219,7 +219,7 @@ GIRL_FOUNDKEY	The Scythian			Nos encontramos con Samae empapada parada bajo la l
 			gourd/gourd	Ella había oído las sutiles brumas melodiosas de los espíritus silvanos más allá del muro de piedra en el camino antiguo a Mingi Taw.					
 			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
 			gourd/gourd	Ella habló de unos arcoíris débiles en el borde del Precipicio Peligroso.					
-			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos sentíamos perdidos o confundidos.					
+			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos el Megatomo si nos sentíamos perdidos o confundidos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la llave si eso significa disipar la tormenta.					
 				Debo haber asentido en algún momento durante la historia súper épica de la Escita. Tengo muy baja tolerancia al folclore.					
 				Le pregunté a la Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
@@ -234,7 +234,7 @@ ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adi
 				La evidencia arqueológica indica que el uso chamánico de los hongos para la comunión religiosa, la adivinación y la curación es bastante antiguo.					
 				Fisiológicamente, es posible que experimentes sensaciones de bienestar y percepciones aumentadas, una disminución del estrés y una pérdida del apetito.					
 				Los hongos del bosque podrían ofrecer una cierta visión oblicua sobre el paradero de un espíritu silvano y sus peculiares activadores.			60	035.jpg	53A5Y
-ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo puedes sentir? ¿Estás comenzando a entender? ¿Tienen los símbolos y formas esotéricas dentro de El Megatomo un nuevo significado?				
+ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo puedes sentir? ¿Estás comenzando a entender? ¿Tienen los símbolos y formas esotéricas dentro del Megatomo un nuevo significado?				
 				Este haz conecta el mundo de los vivos con el mundo de los muertos, así que es posible que encuentres uno o dos fantasmas con los que hablar en tus viajes.					
 				Acabo de recibir la notificación de que has activado el primer haz celeste en el Bosque Trigónico.					
 GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y ella nos dijo que se habían asustado hace un rato.					
@@ -267,16 +267,16 @@ ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Es posible que ya te hayas encontrad
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna Oscura implica sutiles proyectiles triangulares. Aplástalos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que has despertado al espectro inmortal que aletargaba en la oscuridad debajo de Mingi Taw... ¡Uff!					
 				En consecuencia, se vislumbra una siniestra tormenta y la gente encantadora que vive en la choza de piedra se siente desolada.					
-			adventureUI/megatomeItem	El resultado es que tienes el pesado libro conocido como El Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
+			adventureUI/megatomeItem	El resultado es que tienes el pesado libro conocido como el Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
 				Nuestra investigación ha demostrado que la exposición prolongada a la psicosmología mitopoética de S:S&S EP puede tener efectos adversos.					
-				Así que ahora que has completado la Sesión I, ¿qué te parece si nos tomamos un pequeño descanso? Estaré justo aquí cuando quieras comenzar la sesión II.					
+				Así que ahora que has completado la Sesión I, ¿qué te parece si nos tomamos un pequeño descanso? Estaré justo aquí cuando quieras comenzar con la sesión II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				Me alegra volver a verte por aquí. ¿Todo listo para comenzar con la Sesión II de S:S&S EP?					
-			adventureUI/megatomeItem	Muy bien, ¿por dónde íbamos? Oh sí, ya me acuerdo. Conseguiste el pesado libro conocido como El Megatomo.					
+			adventureUI/megatomeItem	Muy bien, ¿por dónde íbamos? Oh sí, ya me acuerdo. Conseguiste el pesado libro conocido como el Megatomo.					
 				Despertaste al espectro inmortal que aletargaba en la oscuridad debajo de Mingi Taw. Una pena, ¿no crees?			204	042.jpg	24B2J
 				Son tiempos de angustia, una siniestra tormenta ha nublado el cielo y la gente encantadora que vive en la choza es desdichada.					
 				Disipar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros...					
-			adventureUI/megatomeItem	1. El toque de un espadamante liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otros materiales esotéricos.					
+			adventureUI/megatomeItem	1. El toque de un espadamante liberará el Megatomo, revelando los pensamientos no expresados de criaturas vivas y otros materiales esotéricos.					
 			gourd/gourd	2. Extraños espíritus silvanos, generadores de Espadamancia, dormitan en estanques, bosques y prados. Busca sus sutiles brumas melodiosas.					
 			triangle/Triangle	3. El espadamante que pueda localizar, invocar y domar la geometría cósmica del Trigón Dorado poseerá la habilidad de obrar milagros.					
 				¿Abrumado? Excelente. Mantén la calma y continúa.			210	043.jpg	A4C31
@@ -288,7 +288,7 @@ ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localiza
 ARCHETYPE_TRIFECTAINTRO	The Archetype								
 				Comencemos con la Sesión III. Nota: Esta sesión requiere normalmente de un mes lunar para ser completada.					
 			triangle/Triangle	¿Así que domaste el Trigón Dorado y la tormenta se disipó milagrosamente? Bravo por eso.					
-			adventureUI/megatomeItem	Consulta El Megatomo y estudia su funcionamiento si te llegas a sentir perdido o confundido.					
+			adventureUI/megatomeItem	Consulta el Megatomo y estudia su funcionamiento si te llegas a sentir perdido o confundido.					
 				Un espectro inmortal aún acecha en la oscuridad debajo de Mingi Taw.					
 			Archetype/trifecta	Considera la geometría cósmica de la Trifecta Trigónica.					
 			MoonCrescent/moonCrescent	Observa el temperamento de la luna.			118	045.jpg	Y4E5Q
@@ -304,18 +304,18 @@ ARCHETYPE_GHOULINTRO	The Archetype
 				Bueno, aquí estamos. Esta sesión informativa finalizará el tratamiento S:S&S EP.					
 				El funesto cometido de la Escita está cerca de completarse.					
 				Por desgracia, el cuerpo y la psique de la Escita han sido significativamente socavados por la Espadamancia. Ahora se encuentra a las puertas de la muerte.			162	047.jpg	J4F7B
-			Archetype/trifecta	Todo lo que resta es desvelar los secretos de el Bosque Trigónico y subir El Megatomo al Arremolinado Infinito en la cima de Mingi Taw.					
+			Archetype/trifecta	Todo lo que resta es desvelar los secretos de el Bosque Trigónico y subir el Megatomo al Arremolinado Infinito en la cima de Mingi Taw.					
 				Presiona iniciar solo si estás listo para ser testigo del terrible tormento del martirio.					
-END	The Scythian			En la cima de Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito.					
-END_CHEAT	The Scythian			En la cima de Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat					
-END_CHEAT_NOBOOR	The Scythian			En la cima de Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat #noboor					
-END_CHEAT_PSYCHO	The Scythian			En la cima de Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat #psycho					
-END_CHEAT_LOVE	The Scythian			En la cima de Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat #love			202	048.jpg	D4A81
-END_MOONGROTTO_PSYCHO	The Scythian			En la cima de Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #moongrotto #psycho			180	049.jpg	74D9P
-END_MOONGROTTO_LOVE	The Scythian			En la cima de Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #moongrotto #love			176	050.jpg	Y5F0P
-END_HONEST_PSYCHO	The Scythian			En la cima de Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #psycho			179	051.jpg	M5C1H
-END_HONEST_LOVE	The Scythian			En la cima de Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #love			177	052.jpg	55E2B
-END_HONEST_NOBOOR	The Scythian			En la cima de Mingi Taw subimos El Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #noboor			178	053.jpg	75G3V
+END	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la seguridad eterna del Arremolinado Infinito.					
+END_CHEAT	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat					
+END_CHEAT_NOBOOR	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat #noboor					
+END_CHEAT_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat #psycho					
+END_CHEAT_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat #love			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #moongrotto #psycho			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #moongrotto #love			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #psycho			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #love			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #noboor			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			¿Sabrá la Escita que es posible detener a La Masa Gogolítica tocando su calavera con Espadamancia? Probablemente no.					
 				Espero que la Escita sepa que se moverá mucho más rápido si presiona dos veces al final del camino. Si no estará en problemas.					
 				¿Dónde estoy? ¿Qué ha pasado? Lo último que recuerdo es que soñaba caminar por el bosque cuando vi una extraña luz rosa.					
@@ -440,7 +440,7 @@ DOGFELLA_THREETRIGONS	The Scythian			Tras activar otro haz celeste en el Bosque 
 			Archetype/trifecta	De repente parecía que entendíamos a Perronco, nos instó a activar el tercer haz de luz y abrir la entrada al Arremolinado Infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
 				Guau Guau Sniff Guau.					
-				El Arremolinado Infinito del cosmos en la cima de Mingi Taw espera a aquel que carga con El Megatomo.					
+				El Arremolinado Infinito del cosmos en la cima de Mingi Taw espera a aquel que carga con el Megatomo.					
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae estaba sentada en una roca junto al leñador que cortaba leña.					
@@ -474,7 +474,7 @@ LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador pudo ver que nuest
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestros datos de investigación muestran una alta correlación entre el progreso de un participante en S:S&S EP y su aptitud para ser impresionante.			45	074.jpg	87A43
 				Veo que has conseguido localizar y recuperar el Trigón Luna Brillante. Una gran noticia, sin duda.					
 MIRACLE3_HUGETREE	The Scythian			Mientras reinaba La Luna Oscura, hemos realizado un asombroso milagro en medio de un parlamento de árboles.					
-MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... llevar El Megatomo de arriba a abajo todo el tiempo era insufrible, realmente es un libro muy pesado en más de un sentido.					
+MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... llevar el Megatomo de arriba a abajo todo el tiempo era insufrible, realmente es un libro muy pesado en más de un sentido.					
 				Nos sentíamos un poco peor por el desgaste... probablemente se debiera a todos esos haces de láser cósmico.					
 				Cuando las luces y los sonidos cesaron, nos encontramos empapados por la fría lluvia en medio de un parlamento de árboles.					
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro en sueños con el Trigón Luna Oscura y nuestra intención de reconstruir la Trifecta Trigónica.					
@@ -506,7 +506,7 @@ SCYTHIAN_FOUNDATION	The Scythian			Despertamos a un espíritu silvano que dormit
 				Con una tormenta sobre nuestras cabezas, hemos aprendido a cantar la Canción de Espadamancia para despertar a un dormitante espíritu silvano.					
 				Espera... ¿Por qué me estoy refiriendo a mí misma en primera persona? Pensaba que nuestra historia la íbamos a contar en segunda persona. #editingoversight					
 				¿Están mis pensamientos en el orden cronológico en que los he pensado? ¿Así que esto es lo que estaba pensando hace unos segundos?					
-				¿Es este El Megatomo? ¿Absorbe transmisiones de pensamiento lingüístico? ¿Estoy leyendo mis pensamientos mientras los estoy pensando? Hmm...					
+				¿Es este el Megatomo? ¿Absorbe transmisiones de pensamiento lingüístico? ¿Estoy leyendo mis pensamientos mientras los estoy pensando? Hmm...					
 GIRL_FOUNDATION	Girl			...					
 				...					
 				...					
@@ -549,15 +549,15 @@ LOGFELLA_HALFWANE	The Scythian			El leñador tenía muy baja tolerancia al folcl
 				El leñador explicó que en Escitia y Persia Mingi Taw era conocido como La Montaña Eterna.					
 				El leñador habló de cómo, hace siglos, una raza olvidada había tallado un templo en la roca debajo de Mingi Taw.					
 				El leñador habló de los corredores subterráneos y los espacios cavernosos tallados en la roca debajo de Mingi Taw.					
-				Según el leñador, esos espacios cavernosos fueron tallados hace siglos para custodiar El Megatomo.					
+				Según el leñador, esos espacios cavernosos fueron tallados hace siglos para custodiar el Megatomo.					
 GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá del muro de piedra y haber sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
 ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y La Luna Oscura está a poco menos de una semana de distancia.					
 LOGFELLA_CRESCENTWANE	The Scythian			El leñador tenía muy baja tolerancia al folclore y admitía que generalmente lo ponía a dormir. Sin embargo, él era bastante conocedor.					
 				El leñador conocía a la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad debajo de Mingi Taw.					
-				Don Tronco habló del Arremolinado Infinito, más allá de nuestra comprensión, de donde provenía El Megatomo en la apenas recordada Edad de Piedra.					
+				Don Tronco habló del Arremolinado Infinito, más allá de nuestra comprensión, de donde provenía el Megatomo en la apenas recordada Edad de Piedra.					
 				Habló de una raza de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión de pensamiento lingüístico.					
 				"""Estos inmortales bendijeron a la humanidad con la capacidad de ser una civilización, y por lo tanto, los condenaron a una extinción eventual e inevitable."""					
-				"""Los escitas trataron de reprimir la insidiosa propagación de la civilización y por eso aislaron El Megatomo con su protector inmortal."""					
+				"""Los escitas trataron de reprimir la insidiosa propagación de la civilización y por eso aislaron el Megatomo con su protector inmortal."""					
 				"""El inmortal ha permanecido en la oscuridad desde entonces, deteriorándose para convertirse en un espectro inmortal conocido como La Masa Gogolítica."""					
 				El leñador probablemente habría seguido y seguido con esta tontería si no lo hubiéramos detenido respetuosamente.					
 GIRL_CRESCENTWANE	The Scythian			Samae observó la luna menguante. Dijo que pronto se iría y que La Luna Oscura reinaría.					
