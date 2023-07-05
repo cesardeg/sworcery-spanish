@@ -47,7 +47,7 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y nos 
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Damas y caballeros, ¿Qué tal si tocan a estas dos pequeñas hadas silvanas para que pueda apreciar su sistema de sonido estéreo?					
+	The Archetype			Damas y caballeros, ¿Qué tal si tocan a estos dos pequeños espíritus silvanos para que pueda apreciar su sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				Esta vez alentamos el aislamiento y la reflexión arrepentida.					
 				Estamos profundamente agradecidos de que hayan elegido participar en este tratamiento experimental para la enfermedad aguda del alma.					
@@ -67,23 +67,23 @@ ARCHETYPE_FOUNDATION	The Archetype			Hablemos del entorno y ambiente adecuado pa
 				Como puedes ver, El Megatomo recoge y almacena transmisiones de pensamiento lingüístico. Desplaza hacia abajo para ver en qué estaba pensando antes.					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la Canción de Espadamancia y ahora el insondable poder de El Megatomo es tuyo."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
-			adventureUI/megatomeItem	Se me acaba de ocurrir algo...  ¿Qué tal si abres El Megatomo y descubres lo qué se oculta en mi mente?					
+			adventureUI/megatomeItem	Se me acaba de ocurrir algo... ¿Qué tal si abres El Megatomo y descubres lo qué se oculta en mi mente?					
 				"""Busca un triángulo blanco en la esquina superior derecha... presiónalo para equipar El Megatomo y revelar lo qué está oculto."""					
 LOGFELLA_STORM	The Scythian			El leñador conocido como Don Tronco había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Don Tronco nos recordó cómo la tormenta había comenzado poco después de que recuperáramos El Megatomo debajo de Mingi Taw.					
 				¿Estaba insinuando Don Tronco de una manera no tan sutil que quizás deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de pelo oscuro conocida como Samae estaba bastante afligida. #woe					
-			gourd/gourd	Desde que comenzó la tormenta, Samae había estado observando las melodiosas brumas de las hadas silvanas que dormitaban en los bosques cercanos.					
-			gourd/gourd	Se preguntó si tal vez las tres hadas silvanas podrían ayudar a disipar la tormenta. #yes					
-			gourd/gourd	Nos pidió que investigáramos las melodiosas brumas burbujeando en el estanque profundo frente a la choza.					
-			gourd/gourd	Samae habló de una hada en un prado cercano y de otra en una pajarera, hogar de tres pájaros cantores empapados por la lluvia.					
-			gourd/gourd	Samae nos dijo que buscáramos las melodiosas brumas de estas tres hadas silvanas, y que las enviáramos hacia el cielo usando la Canción de Espadamancia.					
+			gourd/gourd	Desde que comenzó la tormenta, Samae había estado observando las brumas melodiosas de los espíritus silvanos que dormitaban en los bosques cercanos.					
+			gourd/gourd	Se preguntó si tal vez los tres espíritus silvanos podrían ayudar a disipar la tormenta. #yes					
+			gourd/gourd	Nos pidió que investigáramos las brumas melodiosas burbujeando en el estanque profundo frente a la choza.					
+			gourd/gourd	Samae habló de un espíritu en un prado cercano y de otro en una pajarera, hogar de tres pájaros cantores empapados por la lluvia.					
+			gourd/gourd	Samae nos dijo que buscáramos las brumas melodiosas de estos tres espíritus silvanos, y que los enviáramos hacia el cielo usando la Canción de Espadamancia.					
 ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canción de Espadamancia, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
-			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para despertar a la hada silvana que dormita en las frescas aguas del estanque profundo."""					
+			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para despertar al espíritu silvano que dormita en las frescas aguas del estanque profundo."""					
 ARCHETYPE_TADPOLES	The Archetype			Era muy obvio que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué.					
-			gourd/gourd	"""¿Ves las melodiosas brumas en el estanque profundo? Una hada silvana dormita allí y debes despertarla."""					
+			gourd/gourd	"""¿Ves las brumas melodiosas en el estanque profundo? un espíritu silvano dormita allí y debes despertarlo."""					
 			gourd/gourd	"""Canta una Canción de Espadamancia en cualquier momento manteniendo presionado sobre la Escita para acceder a una realidad dentro de la que ya conoces."""					
-			gourd/gourd	"""Guía las dos pequeñas cosas que nadan hacia donde dormita la hada y envíale hacia el cielo con tres toques de Espadamancia."""			49	013.jpg	61D3A
+			gourd/gourd	"""Guía las dos pequeñas cosas que nadan hacia donde dormita el espíritu y envíale hacia el cielo con tres toques de Espadamancia."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se mantenía a salvo de la lluvia bajo el amplio tejado de madera del pozo.					
 				Ella había abandonado la comodidad del fuego en la choza porque, al parecer, Don Tronco estaba desvariando por una cosa u otra.					
 INFO_BIRDEYESCULPTURE	The Scythian			Descubrimos una escultura de un pájaro enojado que se cernía sobre el prado. #subtlereference			6	014.jpg	F1D48
@@ -104,7 +104,7 @@ INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un estanque profundo.					
 INFO_CABINWOODPILE	The Scythian			Descubrimos una pila de leña, no es para tanto.					
-INFO_SPUME	The Scythian			Encontramos las sutiles melodiosas brumas de una dormitante hada silvana. Y ahora... ¿Cómo la despertamos?					
+INFO_SPUME	The Scythian			Encontramos las sutiles brumas melodiosas de un dormitante espíritu silvano. Y ahora... ¿Cómo lo despertamos?					
 INFO_NESTBOX	The Scythian			Descubrimos una pajarera de aspecto curioso ahora hogar de una desafortunada colmena.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Descubrimos una pajarera de aspecto desgastado que parecía una cara espeluznante.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el camino antiguo había un mástil siniestro adornado con calaveras.					
@@ -120,21 +120,21 @@ INFO_STONEHEADSHUT	The Scythian			En el Precipicio Peligroso había una enorme e
 INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura tallada en la roca se hallaba un mástil siniestro adornado con calaveras o algo por el estilo.					
 INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso había un magnífico dolmen que albergaba dos asientos de piedra de aspecto cómodo.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un poste siniestro adornado con una calavera astada.					
-INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada excavada en la roca del templo de la montaña divisamos una representación pictográfica de la Trifecta Trigónica.					
-INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña descubrimos un portón de hierro inamovible. Más allá podíamos ver el nublado paisaje montañoso de Mingi Taw.					
-INFO_MOUNTAINGATETRIGON	The Scythian			En lo profundo del templo de la montaña sobre un pasaje alto descubrimos tres extrañas formas triangulares.					
-INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			En lo profundo del templo de la montaña sobre un pasaje alto descubrimos el símbolo de la Trifecta Trigónica.					
-INFO_CABINRECORD	The Scythian			En el interior de la choza descubrimos un pequeño y redondeado cacharro encima del fuego. #theballadofthespacebabies			46	019.jpg	P1D99
+INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada tallada en la roca del templo de la montaña, divisamos una representación pictográfica de la Trifecta Trigónica.					
+INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña, divisamos un portón de hierro inamovible. Más allá podíamos ver el nublado paisaje montañoso de Mingi Taw.					
+INFO_MOUNTAINGATETRIGON	The Scythian			En lo profundo del templo de la montaña, sobre un pasaje alto, divisamos tres extrañas formas triangulares.					
+INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			En lo profundo del templo de la montaña, sobre un pasaje alto, divisamos el símbolo de la Trifecta Trigónica.					
+INFO_CABINRECORD	The Scythian			Dentro de la choza, divisamos un pequeño y redondeado cacharro encima del fuego. #theballadofthespacebabies			46	019.jpg	P1D99
 INFO_CABINHEARTH	The Scythian			Dentro de la choza, el fuego crepitaba tranquilamente proporcionando un calor familiar.					
 INFO_CABINSEAT	The Scythian			Dentro de la choza, a ambos lados del fuego, había dos toscos asientos de madera.					
 INFO_GOGOLITHICMASS	The Scythian			Descubrimos una calavera astada flotando en la oscuridad debajo de Mingi Taw.					
 INFO_MEGATOMBTRIFECTA	The Scythian			En la oscuridad, descubrimos una representación pictográfica de la Trifecta Trigónica debajo de Mingi Taw.					
-INFO_ROCKSHOWGIRL	The Scythian			"En el concierto de rock vimos a Samae y nos pareció escucharla decir ""fuego camina conmigo""."					
-INFO_ROCKSHOWSKOLOTOI	The Scythian			En el concierto de rock vimos uno de esos esqueletos vibrando ante el siniestro ritmo.					
-INFO_ROCKSHOWJIM	The Scythian			Encabezando el concierto de rock no había otro que el misterioso músico conocido como Jim Guthrie.			160	020.jpg	T2G03
-INFO_ROCKSHOWBOOR	The Scythian			En el concierto de rock vimos al Tosco Pardo meneando su cosa.			121	021.jpg	E2G15
-INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock había un considerable número de damas y caballeros.					
-INFO_ROCKSHOWARCHETYPE	The Scythian			En el concierto de rock divisamos al tipo conocido como El Arquetipo y nos preguntamos qué tenía que ver él con todo esto.					
+INFO_ROCKSHOWGIRL	The Scythian			"En el concierto de rock, avistamos a Samae y nos pareció que dijo ""caminen por el fuego conmigo""."					
+INFO_ROCKSHOWSKOLOTOI	The Scythian			En el concierto de rock, avistamos uno de esos esqueletos vibrando ante el siniestro ritmo.					
+INFO_ROCKSHOWJIM	The Scythian			Encabezando el concierto de rock estaba nada menos que el misterioso músico conocido como Jim Guthrie.			160	020.jpg	T2G03
+INFO_ROCKSHOWBOOR	The Scythian			En el concierto de rock, avistamos al Tosco Pardo meneando su cosa nudista.			121	021.jpg	E2G15
+INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock, había una multitud considerable de damas y caballeros.					
+INFO_ROCKSHOWARCHETYPE	The Scythian			En el concierto de rock, avistamos al tipo conocido como El Arquetipo y nos preguntamos qué estaría tramando con todo esto.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Un poste siniestro adornado con una calavera astada conecta este lugar con el espectro inmortal que acecha debajo de Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			En el Bosque Trigónico, más allá de la cavernosa cueva del prado, divisamos una solitaria tumba que despertó nuestra curiosidad.					
 GRAVE_TRIGONGROVEGHOST	The Scythian			En el Bosque Trigónico, más allá de la cavernosa cueva del prado, vimos una solitaria tumba donde nos recibió un fantasma resplandeciente.					
@@ -157,7 +157,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al
 				"""Habíamos oído hablar de la entrada al Infinito en la cima de Mingi Taw y pensamos que sería algo digno de ver."""					
 			triangle/Triangle	"""Así que domamos el Trigón Dorado e investigamos el Bosque Trigónico antes de salir a buscar el Trigón Luna Brillante."""					
 				"""Localizar el Trigón Luna Brillante no resultó muy bien... acabamos totalmente perdidos para ser honesto."""					
-				"""Lentamente nos dimos cuenta de la importancia del temperamento de la luna y su influencia en las hadas que dormitan en los reinos crepusculares."""					
+				"""Lentamente nos dimos cuenta de la importancia del temperamento de la luna y su influencia en los espíritus que dormitan en los reinos crepusculares."""					
 				"""Ahí es cuando nos sentamos y empezamos a vigilar el temperamento de la luna para poder saber cuándo, dónde y cómo."""			7	026.jpg	Q2D6P
 				"""Morimos de aburrimiento esperando a que el temperamento de la luna cambiara."""					
 				"""Bueno, en realidad morimos debido a una discusión que tuvimos a causa del aburrimiento."""					
@@ -183,15 +183,15 @@ GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico nos acercam
 				"""Y no te preocupes, no pretendo asustar"""					
 				"""Con mi impresionante aspecto, solo quiero brillar."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una solitaria tumba y apareció un fantasma audaz para cantarnos una alocada rima.			117	028.jpg	E2A80
-				"""En el camino, busca a las hadas silvanas con melodiosas brumas"""					
-				"""Cinco al cielo envía, un Trigón revelarás, encuentra ayuda en estas tumbas"""					
+				"""Busca en el sendero los espíritus silvanos, Con ojos y oídos abiertos a sus brumas melodiosas"""					
+				"""Envía al cielo los cinco, ¡Un milagro obrarás y al Trigón revelarás!"""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una solitaria tumba y apareció un fantasma audaz y nos contó algunas cosas.			117	028.jpg	E2A80
-				"""Busca la señal de las hadas silvanas y canta la Canción de Espadamancia para revelar un Trigón oculto."""					
+				"""Busca la señal de los espíritus silvanos y canta la Canción de Espadamancia para revelar un Trigón oculto."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una solitaria tumba y apareció un fantasma audaz y nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Veo que la canción del Trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharla."""					
 LOGFELLA_LOSTKEY	The Scythian			El afligido leñador conocido como Don Tronco estaba totalmente fuera de sí por algo.					
 			AdventureUI/keyItem	Al parecer Don Tronco había perdido la llave de la puerta del muro de piedra que bloqueaba el camino antiguo a Mingi Taw.					
-				"Nosotros estábamos en plan de ""otra misión de búsqueda y rescate o... ¿Me equivoco?"""					
+				"Nosotros estábamos en plan de ""otra misión de búsqueda o... ¿Me equivoco?"""					
 				Don Tronco nos dijo haber estado sentado aquí mismo cuando cayó en un sueño profundo.					
 			AdventureUI/keyItem	Don Tronco nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
 				Ya habíamos oído hablar de los extraños sueños de los montañeses del Cáucaso, de modo que tenía sentido para nosotros.					
@@ -201,7 +201,7 @@ ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos en la vigilia y en la psicosm
 				Busca un hogar cálido y permite que el sueño te arrope para descubrir el umbral de la liminalidad.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si vas a sentarte junto al fuego en la choza y cruzas el umbral liminal para encontrar la llave perdida de Don Tronco?			55	031.jpg	23C1X
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Vaya, Don Tronco está fuera de sí por algo... Me pregunto qué pasará. He preferido salir afuera y dejarlo solo un momento.					
-				He visto a la Escita cantar la Canción de Espadamancia y enviar tres hadas silvanas hacia el cielo. Me pregunto si ayudarán a disipar la tormenta.					
+				He visto a la Escita cantar la Canción de Espadamancia y enviar tres espíritus silvanos hacia el cielo. Me pregunto si ayudarán a disipar la tormenta.					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que la Escita pueda encontrar mi llave... la perdí en la orilla arenosa de un lago plácido.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Oh vaya, me gustaría que no estuviera lloviendo afuera... Me gustaría que mis botas no estuvieran tan mojadas... Me gustaría volver a cortar leña.					
 				¡Rayos!, ¿¡Dónde está mi llave!? Estoy tan molesto y avergonzado, ¡ahora estoy completamente alterado!					
@@ -210,35 +210,35 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba súper al
 				Le contamos al leñador cómo habíamos llegado a la mayoría de edad en las estepas junto a nuestros intrépidos hermanos y hermanas escitas.					
 				Le contamos a Don Tronco por qué deambulabamos por aquí, en esta montaña desierta, y cómo nos guiaba el dedo de un Dios omnisciente.					
 			adventureUI/megatomeItem	Le contamos a Don Tronco lo que sospechábamos sobre las marcas esotéricas dentro de El Megatomo y lo que podían significar.					
-			gourd/gourd	Teníamos la corazonada de que necesitábamos despertar a unas cuantas hadas silvanas más para disipar la tormenta.			104	033.jpg	W3D3G
+			gourd/gourd	Teníamos la corazonada de que necesitábamos despertar a unos cuantos espíritus silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de localizar y domar una manifestación de geometría cósmica conocida como el Trigón Dorado.					
 				Estaba muy claro que el leñador conocido como Don Tronco había dejado de prestar atención.					
 			AdventureUI/keyItem	Pensamos que podríamos simplemente llevarnos la llave e ir a dar un paseo por el camino antiguo más allá del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tomáramos su llave y nos dijo que estaba de acuerdo.					
 GIRL_FOUNDKEY	The Scythian			Nos encontramos con Samae empapada parada bajo la lluvia en un camino lateral.					
-			gourd/gourd	Ella había oído las sutiles melodiosas brumas de las hadas silvanas más allá del muro de piedra en el camino antiguo a Mingi Taw.					
+			gourd/gourd	Ella había oído las sutiles brumas melodiosas de los espíritus silvanos más allá del muro de piedra en el camino antiguo a Mingi Taw.					
 			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
 			gourd/gourd	Ella habló de unos arcoíris débiles en el borde del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos sentíamos perdidos o confundidos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo con que la Escita tome la llave si eso significa disipar la tormenta.					
-				Debo haber asentido en algún momento durante la historia súper épica de la Escita. Tengo una tolerancia muy baja para el folclore.					
+				Debo haber asentido en algún momento durante la historia súper épica de la Escita. Tengo muy baja tolerancia al folclore.					
 				Le pregunté a la Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
-GIRL_FOUNDKEYTHOUGHTS	Girl			Una o dos hadas silvanas más enviadas hacia el cielo disiparán la incesante tormenta... ¡Y entonces será la temporada de milagros! #miracles			129	034.jpg	33A44
+GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos espíritus silvanos más enviados hacia el cielo disiparán la incesante tormenta... ¡Y entonces será la temporada de milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mi paseos oníricos hay una emocionante quietud cuando la luna está más brillante... y cuando la luna está más oscura, los bosques son salvajes.					
 				En el sueño siempre son los mismos lugares y espacios, excepto cuando varían según el temperamento de la luna.					
 				Todas las noches desde que la tormenta se disipó he tenido el mismo sueño en el que estoy deambulando por el bosque en la hora antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingestión de hongos del bosque puede ofrecer una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
-				Busca las melodiosas brumas de las hadas silvanas e investiga sus alrededores.					
+				Busca las brumas melodiosas de los espíritus silvanos e investiga sus alrededores.					
 				Una vez que hayas comenzado la Canción de Espadamancia puedes tocar el aura y deslizar para mirar alrededor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adivinatorios pueden haber jugado un papel significativo en el desarrollo de la psique humana.					
 				La evidencia arqueológica indica que el uso chamánico de los hongos para la comunión religiosa, la adivinación y la curación es bastante antiguo.					
 				Fisiológicamente, es posible que experimentes sensaciones de bienestar y percepciones aumentadas, una disminución del estrés y una pérdida del apetito.					
-				Los hongos del bosque podrían ofrecer una cierta visión oblicua sobre el paradero de una hada silvana y sus peculiares activadores.			60	035.jpg	53A5Y
+				Los hongos del bosque podrían ofrecer una cierta visión oblicua sobre el paradero de un espíritu silvano y sus peculiares activadores.			60	035.jpg	53A5Y
 ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo puedes sentir? ¿Estás comenzando a entender? ¿Tienen los símbolos y formas esotéricas dentro de El Megatomo un nuevo significado?				
 				Este haz conecta el mundo de los vivos con el mundo de los muertos, así que es posible que encuentres uno o dos fantasmas con los que hablar en tus viajes.					
 				Acabo de recibir la notificación de que has activado el primer haz celeste en el Bosque Trigónico.					
 GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y ella nos dijo que se habían asustado hace un rato.					
-			gourd/gourd	Le dijimos a Samae que habíamos enviado cinco hadas silvanas hacia el cielo y nos dijo que tal vez la temporada de milagros estaba cerca.					
+			gourd/gourd	Le dijimos a Samae que habíamos enviado cinco espíritus silvanos hacia el cielo y nos dijo que tal vez la temporada de milagros estaba cerca.					
 				Pensamos que tal vez deberíamos ir a investigar el prado donde solían holgazanear las ovejas.					
 LOGFELLA_CABINSHEEP	The Scythian			Don Tronco tenía la sensación de que había llegado la temporada de milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Está comenzando a disiparse la tormenta? Eso espero.					
@@ -277,7 +277,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				Son tiempos de angustia, una siniestra tormenta ha nublado el cielo y la gente encantadora que vive en la choza es desdichada.					
 				Disipar la tormenta requerirá cierta familiaridad con psiónicos, criptozoología y milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadamante liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otros materiales esotéricos.					
-			gourd/gourd	2. Extrañas hadas silvanas, generadoras de Espadamancia, dormitan en estanques, bosques y prados. Busca sus sutiles melodiosas brumas.					
+			gourd/gourd	2. Extraños espíritus silvanos, generadores de Espadamancia, dormitan en estanques, bosques y prados. Busca sus sutiles brumas melodiosas.					
 			triangle/Triangle	3. El espadamante que pueda localizar, invocar y domar la geometría cósmica del Trigón Dorado poseerá la habilidad de obrar milagros.					
 				¿Abrumado? Excelente. Mantén la calma y continúa.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la geometría cósmica del Trigón Dorado.			86	044.jpg	24E4H
@@ -330,24 +330,24 @@ LOGFELLA_TRIFECTATIPS	The Scythian			El leñador conocido como Don Tronco se sen
 				Él miró la plataforma cercana y nos agradeció de antemano por todo lo relacionado con el martirio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
-AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos tipos declararon encontrarse entre los creadores de este estrafalario mundo.			159	055.jpg	A5G55
-AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Los dos chiflados declararon encontrarse entre los creadores de este estrafalario mundo.			159	055.jpg	A5G55
-GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a una hada silvana que dormitaba en la tierra fértil de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
-GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Cantamos la Canción de Espadamancia y despertamos a una hada silvana que dormitaba en las frescas aguas de un estanque profundo, ¡Qué raro!			50	057.jpg	G5F78
-GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a una hada silvana que dormitaba en una pajarera de aspecto curioso hogar de tres pájaros cantores empapados por la lluvia.					
-GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a una hada silvana que dormitaba junto a un puente de troncos donde cuatro pares de árboles se elevan sobre un río.					
-GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a una hada silvana que dormitaba entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
-GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a una hada silvana que dormitaba rodeada por cinco cascadas.					
-GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a una hada silvana que dormitaba en un matorral en lo alto de un peñasco rocoso.					
-GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a una hada silvana que dormitaba en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a una hada silvana que dormitaba en unas aguas serenas donde una mamá pata estaba fuera de sí.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a una hada silvana que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
-GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a una hada silvana que dormitaba en un lago plácido bajo una trifecta de búhos.					
+AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos tipos afirmaban ser parte de los creadores de este mundo estrafalario.			159	055.jpg	A5G55
+AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Los dos chiflados afirmaban ser parte de los creadores de este mundo estrafalario.			159	055.jpg	A5G55
+GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano que dormitaba en la tierra fértil de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Cantamos la Canción de Espadamancia y despertamos a un espíritu silvano que dormitaba en las frescas aguas de un estanque profundo, ¡Qué raro!			50	057.jpg	G5F78
+GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano que dormitaba en una pajarera de aspecto curioso, hogar de tres pájaros cantores empapados por la lluvia.					
+GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano que dormitaba junto a un puente de troncos donde cuatro pares de árboles se elevan sobre un río.					
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano que dormitaba entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
+GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un espíritu silvano que dormitaba rodeado por cinco cascadas.					
+GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un espíritu silvano que dormitaba en un matorral en lo alto de un peñasco rocoso.					
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a un espíritu silvano que dormitaba en una arboleda oculta donde se encontraba Jim Guthrie.			132	058.jpg	G5F8U
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a un espíritu silvano que dormitaba en unas aguas serenas donde una mamá pata estaba fuera de sí.					
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a un espíritu silvano que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a un espíritu silvano que dormitaba en un lago plácido bajo una trifecta de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa sensación peculiar de que, tal vez, estemos ante la temporada de milagros. #miracles					
-GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a una hada silvana que dormitaba rodeada por tres pequeñas cascadas.					
-GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a una hada silvana que dormitaba rodeada por cuatro pequeños árboles en los bosques más oscuros.					
-GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a una hada silvana que dormitaba en un matorral al otro lado de un lago.					
-GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a una hada silvana que dormitaba en la raíz de un árbol titánico.					
+GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un espíritu silvano que dormitaba rodeado por tres pequeñas cascadas.					
+GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un espíritu silvano que dormitaba rodeado por cuatro pequeños árboles en los bosques más oscuros.					
+GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Oscura reina y despertamos a un espíritu silvano que dormitaba en un matorral al otro lado de un lago.					
+GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Brillante se cierne y despertamos a un espíritu silvano que dormitaba en la raíz de un árbol titánico.					
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa sensación peculiar de que, tal vez, estemos ante la temporada de milagros. ¿Dónde están mis milagros? #miracles			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Guau Guau. #barking			135	061.jpg	M6F1I
 				Guau Guau Guau. #justbarking					
@@ -356,7 +356,7 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Gu
 				Guau Guau Guau Guau Guau Guau.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Hay algo extraño en cómo se comportó la Escita, casi como si estuviera siendo controlada por una fuerza invisible.					
 				Me gustaría saber más sobre la historia épica de la Escita, apuesto a que entonces todo tendría sentido.					
-GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que la Escita esté invirtiendo todos sus esfuerzos en el tema de las hadas silvanas.					
+GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que la Escita esté invirtiendo todos sus esfuerzos en el tema de los espíritus silvanos.					
 				La tormenta ha estado afectando mi ánimo y me ha hecho desear que los videojuegos existieran... sea lo que sea que eso signifique.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha sido totalmente mental desde que la Escita apareció.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Todo esto de la tormenta me ha estado afectando el ánimo. ¡Ha sido todo taaan sombrío!.					
@@ -371,14 +371,14 @@ GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Sé que buscas evit
 GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		También hay sustantivos desconocidos, aunque estos se aprenden fácilmente.					
 				Hay dos tipos de incógnitas, las incógnitas conocidas y las incógnitas desconocidas.			32	063.jpg	L6E31
 				"Guau Guau Guau. "					
-GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mi leña guarda muchos secretos... secretos sobre las hadas silvanas e islas imposibles. Lamentablemente, no hablo leño.					
+GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mi leña guarda muchos secretos... secretos sobre los espíritus silvanos e islas imposibles. Lamentablemente, no hablo leño.					
 				En mi experiencia, hay momentos en que los búhos no son lo que parecen... y otros en los que son simples búhos.			126	064.jpg	86A47
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oído hablar sobre una isla imposible bajo La Luna Brillante, puede que... ¿lo hayas leído en internet?			134	065.jpg	H6A5I
 				Hemos estado siguiendo silenciosamente tus acciones y nos gustaría señalar que cuanto más tiempo tardes en decidir, más pequeña será la celebración.					
 				Parece que has progresado bastante en tu esfuerzo para localizar y domar al Trigón Luna Brillante, muy bien hecho.					
-GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son las hadas silvanas hijos de la Madre Tierra o son visitantes solitarios del Arremolinado Infinito?					
-				Para ser honesta, las hadas silvanas me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?					
-GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando las hadas hayan sido enviados hacia el cielo y la temporada de milagros se acerque, debes buscar el árbol titánico.					
+GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvanos hijos de la Madre Tierra o son visitantes solitarios del Arremolinado Infinito?					
+				Para ser honesta, los espíritus silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?					
+GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los espíritus hayan sido enviados hacia el cielo y la temporada de milagros se acerque, debes buscar el árbol titánico.					
 				Sé que sabes lo que sé y quiero que sepas que estás completamente en lo correcto.			109	066.jpg	F6D6H
 				Guau Guau Guau Sniff Guau Guau Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu funesto cometido traerá la paz de vuelta a nuestras vidas.					
@@ -391,7 +391,7 @@ GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos ext
 YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos el Trigón Dorado. Somos impresionantes.			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, conseguimos el Trigón Luna Brillante.			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			A pesar de todas las adversidades, conseguimos el Trigón Luna Oscura.			112	069.jpg	T6G94
-GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece como si todas las hadas Luna Oscura hubieran sido enviadas hacia el cielo, así que de nuevo es la temporada de milagros. ¡Adoro los milagros!					
+GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece como si todos los espíritus Luna Oscura hubieran sido enviados hacia el cielo, así que de nuevo es la temporada de milagros. ¡Adoro los milagros!					
 JIM_HINT1_OFF	The Scythian			En una arboleda oculta nos encontramos con un tipo misterioso y musical situado junto a un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En una arboleda oculta encontramos a un tipo misterioso junto a un fuego crepitante. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			Mientras que La Luna Brillante se cernía, nos encontramos con un tipo misterioso y musical junto a un fuego crepitante. Dijo responder al nombre de Jim Guthrie.			128	070.jpg	07G00
@@ -399,7 +399,7 @@ JIM_POSTSWORCERY	The Scythian			El tipo misterioso y musical conocido como Jim G
 JIM_POSTGOURD	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
 				Jim nos invitó a sentarnos junto al fuego.					
 JIM_POSTSONG	The Scythian			Jim Guthrie nos había enseñado que no se podían negar los pensamientos malvados y no se podía negar la mordida del dragón.					
-			Archetype/trifecta	Él nos contó sobre un concierto de rock que tenía programado tocar al otro lado del lago dentro de quince días.					
+			Archetype/trifecta	Él nos contó sobre el concierto de rock que tenía programado tocar al otro lado del lago dentro de quince días.					
 JIM_LOGFELLATHOUGHTS	Logfella			La canción sonaba tan familiar... ¿Dónde la había escuchado antes? #1000songs					
 				De repente tenía esa extraña canción metida en la cabeza. #andwegotolder					
 LOGFELLA_JIMTHOUGHTS	Logfella			He tenido esa canción metida en la cabeza durante años... Sólo unas pocas notas que se repiten una y otra vez. Me pregunto donde la he escuchado.					
@@ -452,7 +452,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Don Tronco hab
 			triangle/Triangle	Don Tronco había visto el haz celeste en el bosque detrás del prado, así que le preguntamos sobre los secretos del Bosque Trigónico.					
 				Nos contó una vieja historia que su gente relataba habitualmente a sus hijos para asustarlos.					
 			Archetype/trifecta	Don Tronco habló de un pelotón de Escitas que llegó hace muchas lunas a estas montañas olvidadas buscando la Trifecta Trigónica.					
-			gourd/gourd	"""El pelotón había aprendido a buscar hadas silvanas y enviarlas hacia el cielo... y luego buscaron un lugar para llevar a cabo un milagro."""					
+			gourd/gourd	"""El pelotón había aprendido a buscar a los espíritus silvanos y enviarlos hacia el cielo... y luego buscaron un lugar para llevar a cabo un milagro."""					
 			Archetype/trifecta	"""El pelotón esperaba activar los tres haces celestes en el Bosque Trigónico, pero no tenían idea de cuándo ni dónde estaban los Trigones."""					
 				"""El pelotón deambuló sin rumbo durante mucho tiempo por el camino antiguo a Mingi Taw... eventualmente se cansaron y decidieron detenerse."""					
 				"""Entonces el pelotón fue fulminado por un espectro inmortal al costado del camino antiguo, donde todavía quedan un puñado de tumbas en la actualidad."""					
@@ -502,8 +502,8 @@ ARCHETYPE_SPAREBOOR	The Archetype			Imagino que ahora te estarás preguntando pa
 LOGFELLA_FOUNDATION	Logfella			...					
 				...					
 				...					
-SCYTHIAN_FOUNDATION	The Scythian			Despertamos a una hada silvana que dormitaba en un estanque profundo, al lado de una choza de piedra. Todo esto nos sorprende.					
-				Con una tormenta sobre nuestras cabezas, hemos aprendido a cantar la Canción de Espadamancia para despertar a una dormitante hada silvana.					
+SCYTHIAN_FOUNDATION	The Scythian			Despertamos a un espíritu silvano que dormitaba en un estanque profundo, al lado de una choza de piedra. Todo esto nos sorprende.					
+				Con una tormenta sobre nuestras cabezas, hemos aprendido a cantar la Canción de Espadamancia para despertar a un dormitante espíritu silvano.					
 				Espera... ¿Por qué me estoy refiriendo a mí misma en primera persona? Pensaba que nuestra historia la íbamos a contar en segunda persona. #editingoversight					
 				¿Están mis pensamientos en el orden cronológico en que los he pensado? ¿Así que esto es lo que estaba pensando hace unos segundos?					
 				¿Es este El Megatomo? ¿Absorbe transmisiones de pensamiento lingüístico? ¿Estoy leyendo mis pensamientos mientras los estoy pensando? Hmm...					
@@ -533,7 +533,7 @@ LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demas
 				Sin embargo, dijo que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo.					
 				El leñador admitió que se le ponía la piel de gallina cuando La Luna Brillante se cernía... y cuando La Luna Oscura reinaba.					
 GIRL_ALMOSTWAX	The Scythian			La chica comentó algo sobre la luna creciente... Se preguntó cuánto tiempo tardaría hasta que La Luna Brillante se cerniera en el cielo.					
-ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece ligeramente con cada día que pasa... en pocos días se convertirá en La Luna Brillante... ¿Y qué?			165	046.jpg	P4B6A
+ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece un poco cada día... en pocos días se cernirá La Luna Brillante... ¿Y qué?			165	046.jpg	P4B6A
 LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba un poco extraño cada vez que La Luna Brillante se cernía del cielo.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			Samae habló habló de caminar en sueños por el bosque en la hora antes del amanecer, con La Luna Brillante cerniéndose en el cielo.					
 				Ella habló del aire fresco de la mañana y de una isla imposible en medio de un lago plácido.					
@@ -544,7 +544,7 @@ LOGFELLA_ALMOSTWANE	The Scythian			El leñador tenía muy baja tolerancia al fol
 				También sabía que la cima de Mingi Taw, siempre envuelta en nubes, era considerada la entrada al Arremolinado Infinito.					
 				El leñador nunca se había atrevido a pisar las temibles laderas de Mingi Taw, y nunca lo haría.					
 GIRL_ALMOSTWANE	The Scythian			Samae se preguntó por qué tantos hongos crecían inmediatamente antes y después de La Luna Brillante... ¿A que se debería?					
-ARCHETYPE_ALMOSTWANE	The Archetype			La luna está ligeramente menos brillante de lo que estaba ayer, el ciclo lunar está empezando a disminuir.					
+ARCHETYPE_ALMOSTWANE	The Archetype			La luna está ligeramente menos brillante que ayer y el ciclo lunar está comenzando a disminuir.					
 LOGFELLA_HALFWANE	The Scythian			El leñador tenía muy baja tolerancia al folclore y admitía que generalmente lo ponía a dormir. Sin embargo, él era bastante conocedor.					
 				El leñador explicó que en Escitia y Persia Mingi Taw era conocido como La Montaña Eterna.					
 				El leñador habló de cómo, hace siglos, una raza olvidada había tallado un templo en la roca debajo de Mingi Taw.					
@@ -566,7 +566,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			La Luna Oscura reina, el final del ciclo
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Oscura!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			En mi sueño llegué a un parlamento de árboles sacudido por un rayo y sentí la presencia de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una vibrante música filtrandose a través de los bosques tras mi choza. ¿Qué sería?					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño sólo vi las sutiles melodiosas brumas de las hadas silvanas.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño sólo vi las sutiles brumas melodiosas de los espíritus silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruimos la Trifecta Trigónica y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Hemos asesinado inexplicablemente a 3 conejos indefensos.					
 RABBITS_7MURDERS	The Scythian			Hemos asesinado inexplicablemente a 7 conejos indefensos. ¿Estamos ante la evidencia de una mente transtornada?					
@@ -611,7 +611,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Edición japonesa, consejo crucial y apoyo sin fin por MASAHIRO YUKI (@You_to_the_ki) de Grasshopper Manufacture en www.ghm.jp					
 				Diseño del increíble logotipo japonés cortesía de POLYGRAPH (@polygraph_suwa) en www.polygraph.jp					
 				Magia del sitio web japonés por Jonathan Lumb (@jonnyram) en www.jonnyram.com					
-				Y finalmente, agradecimientos por al apoyo y amistad de @suda_51, Tomoaki Takahashi, @eightbear, y los artistas de remezcla  @baiyon, @akirayamaoka, Michiru Yamane, @macotom3 y Decasségui Hip					
+				Y finalmente, agradecimientos por al apoyo y amistad de @suda_51, Tomoaki Takahashi, @eightbear, y los artistas de remezcla @baiyon, @akirayamaoka, Michiru Yamane, @macotom3 y Decasségui Hip					
 				* * * EL DOMINIO DE CANADÁ * * *					
 			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de la Ontario Media Development Corporation (OMDC).					
 				* * * LOS QUEREMOS MUCHO MUCHO * * *					
