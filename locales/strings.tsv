@@ -74,11 +74,11 @@ TWITTER_REQUESTING	SOLICITANDO ACCESO…
 FIGHT	¿LUCHAR?	
 DARKMOON_COUNT_9	LUNA TENEBROSA EN 9 DÍAS	
 DARKMOON	LUNA TENEBROSA	
-BRIGHTMOON	LUNA LUMINOSA	
+BRIGHTMOON	LUNA RADIANTE	
 DARKMOON_BEFORE_NUM	LUNA TENEBROSA EN 	
 DARKMOON_AFTER_1	DÍA	
 DARKMOON_AFTER_MORE	DÍAS	
-BRIGHTMOON_BEFORE_NUM	LUNA LUMINOSA EN 	
+BRIGHTMOON_BEFORE_NUM	LUNA RADIANTE EN 	
 BRIGHTMOON_AFTER_1	DÍA	
 BRIGHTMOON_AFTER_MORE	DÍAS	
 TIME_PARADOX	* PARADOJA TEMPORAL *	
@@ -103,12 +103,12 @@ RUB	FROTA
 QUIT	SALIR	
 TAP_ARROW_LEFT	< < TOCA	
 TAP_QUESTION	¿TOCAR?	
-MOON_TIME_1	hace unos momentos	
-MOON_TIME_2	hace un ratito	
-MOON_TIME_3	hace un rato	
-MOON_TIME_4	hace días	
-MOON_TIME_5	hace muchas lunas	
-MOON_TIME_6	hace mucho tiempo	
+MOON_TIME_1	hace un instante	
+MOON_TIME_2	hace no mucho	
+MOON_TIME_3	hace ya un rato	
+MOON_TIME_4	hace ya unos días	
+MOON_TIME_5	hace ya algunas lunas	
+MOON_TIME_6	hace ya mucho tiempo	
 COSMIC_FRIENDS	AHORA SOMOS AMIGOS CÓSMICOS PARA SIEMPRE... ¿DE ACUERDO?	
 The Scythian	La Escita	
 Girl	Leyla	
@@ -125,7 +125,7 @@ ERRMSG_UNABLE_TO_SAVE	No se puede guardar el archivo
 ERRMSG_UNABLE_TO_DELETE	No se puede borrar el archivo	
 ERRMSG_UNABLE_TO_DELETE_STEAM	Un error impidió borrar el archivo de guardado de Steam.	
 ERRMSG_UNABLE_TO_SAVE_STEAM	Un error impidió crear un archivo de guardado de Steam.	
-ERRMSG_CORRUPT_SAVE_PROGRESS	Los datos guardados están corruptos porque no se puede leer la info. El juego borrará los datos guardados al presionar Aceptar.	
+ERRMSG_CORRUPT_SAVE_PROGRESS	Los datos guardados están corruptos y no fue posible leer la info. El juego reseteará todos los datos al presionar Aceptar.	
 PROMPT_CONFIRM_EXITGAME	¿QUIERES SALIR DEL JUEGO?	
 HASHTAG_SWORCERY	#sworcery	
 DIGIT_STRING	123456789	

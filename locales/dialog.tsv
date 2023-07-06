@@ -113,7 +113,7 @@ INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado e
 			triangle/Triangle	Mientras estábamos al lado de la primera estructura de piedra, pensamos en El Trigón Dorado y sentimos a nuestra espada agitarse.					
 INFO_DARKTRIGONALTAR	The Scythian			En el Bosque Trigonal había otra estructura de piedra desgastada y enmohecida. #darkmoontrigon					
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
-INFO_BRIGHTTRIGONALTAR	The Scythian			En el Bosque Trigonal había otra estructura de piedra con un glifo circular que hacía referencia a La Luna Luminosa. #brightmoontrigon					
+INFO_BRIGHTTRIGONALTAR	The Scythian			En el Bosque Trigonal había otra estructura de piedra con un glifo circular que hacía referencia a La Luna Radiante. #brightmoontrigon					
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
 INFO_STONEHEAD	The Scythian			En el Precipicio Peligroso había una enorme escultura tallada en la roca de una cabeza de aspecto familiar y con la boca entreabierta.			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			En el Precipicio Peligroso había una enorme escultura tallada en la roca de una cabeza de aspecto familiar.					
@@ -155,8 +155,8 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al
 				El fantasma imponente que habló fue un gigante que conocíamos por viejas historias cuyo famoso retrato demandaba obediencia. #andre					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, armé a un pelotón y nos dispusimos a reunir La Tríada Trigonal."""					
 				"""Habíamos oído hablar de la entrada al Infinito en la cima de Mingi Taw y pensamos que sería algo digno de ver."""					
-			triangle/Triangle	"""Así que domamos El Trigón Dorado e investigamos el Bosque Trigonal antes de salir a buscar El Trigón Luna Luminosa."""					
-				"""Localizar El Trigón Luna Luminosa no resultó muy bien... acabamos totalmente perdidos para ser honesto."""					
+			triangle/Triangle	"""Así que domamos El Trigón Dorado e investigamos el Bosque Trigonal antes de salir a buscar El Trigón Luna Radiante."""					
+				"""Localizar El Trigón Luna Radiante no resultó muy bien... acabamos totalmente perdidos para ser honesto."""					
 				"""Lentamente nos dimos cuenta de la importancia del temperamento de la luna y su influencia en los espíritus que dormitan en los reinos crepusculares."""					
 				"""Ahí es cuando nos sentamos y empezamos a vigilar el temperamento de la luna para poder saber cuándo, dónde y cómo."""			7	026.jpg	Q2D6P
 				"""Morimos de aburrimiento esperando a que el temperamento de la luna cambiara."""					
@@ -170,8 +170,8 @@ GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la solitaria tumba del tramposo 
 			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André 'El Gigante' armó a un pelotón y nos dispusimos a reunir La Tríada Trigonal."""					
 				"""Los otros integrantes del pelotón están enterrados en un matorral al costado del camino antiguo, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar El Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente atascados."""					
-				"""Buscamos El Trigón Luna Luminosa, así que decidimos sentarnos y observar el cielo, esperando a que el temperamento de la luna cambiara."""					
-				"""¡Fue súper aburrido! No iba a esperar días y días hasta que La Luna Luminosa se cerniera."""					
+				"""Buscamos El Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando a que el temperamento de la luna cambiara."""					
+				"""¡Fue súper aburrido! No iba a esperar días y días hasta que La Luna Radiante se cerniera."""					
 				"""Deje a esos perdedores deambular sin sentido mientras yo investigaba más sobre esa treta lógico-lunar."""					
 				El fantasma radiante habló de cómo había hecho trampa al salir de S:S&S EP e ir a Configuración del Sistema.					
 				El fantasma describió sobre la opción de Fecha/Hora y los horrores que procedían al alterar el temperamento de la luna con este método.					
@@ -259,8 +259,8 @@ ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			El Trigón Dorado debe ser domado,
 				En el tercer patrón debes repeler los pequeños proyectiles triangulares con tu espada y esquivar los ataques cargados.					
 				En el segundo patrón debes esperar al ataque cargado y presionar el botón de escudo en el momento adecuado para esquivarlo.					
 				En el primer patrón debes utilizar tu espada para devolver la bola de energía.					
-ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Es posible que hayas notado que El Trigón Luna Luminosa reparte muerte desde arriba... así que espera al momento justo y usa tu escudo para esquivar.			144	041.jpg	8.4E+12
-ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final de El Trigón Luna Luminosa requerirá que uses tu espada contra los proyectiles y esquives los ataques cargados.					
+ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Es posible que hayas notado que El Trigón Luna Radiante reparte muerte desde arriba... así que espera al momento justo y usa tu escudo para esquivar.			144	041.jpg	8.4E+12
+ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final de El Trigón Luna Radiante requerirá que uses tu espada contra los proyectiles y esquives los ataques cargados.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Es posible que ya te hayas encontrado con el ataque de arcoíris de El Trigón Luna Tenebrosa. Rebana ese arcoíris tan rápido como puedas.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final de El Trigón Luna Tenebrosa implica sutiles proyectiles triangulares. Aplástalos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que has despertado al espectro inmortal que aletargaba en la oscuridad debajo de Mingi Taw... ¡Uff!					
@@ -337,15 +337,15 @@ GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Desper
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano que dormitaba entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano que dormitaba rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano que dormitaba en un matorral en lo alto de un peñasco rocoso.					
-GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Luminosa se cierne y despertamos a un espíritu silvano que dormitaba en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Luminosa se cierne y despertamos a un espíritu silvano que dormitaba en unas aguas serenas donde una mamá pata estaba fuera de sí.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Luminosa se cierne y despertamos a un espíritu silvano que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
-GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Luminosa se cierne y despertamos a un espíritu silvano que dormitaba en un lago plácido bajo una tríada de búhos.					
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano que dormitaba en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano que dormitaba en unas aguas serenas donde una mamá pata estaba fuera de sí.					
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano que dormitaba en un lago plácido bajo una tríada de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa sensación peculiar de que, tal vez, estemos ante la temporada de milagros. #miracles					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano que dormitaba rodeado por tres pequeñas cascadas.					
 GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano que dormitaba rodeado por cuatro pequeños árboles en los bosques más oscuros.					
 GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano que dormitaba en un matorral al otro lado de un lago.					
-GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Luminosa se cierne y despertamos a un espíritu silvano que dormitaba en la raíz de un árbol titánico.					
+GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano que dormitaba en la raíz de un árbol titánico.					
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa sensación peculiar de que, tal vez, estemos ante la temporada de milagros. ¿Dónde están mis milagros? #miracles			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Guau Guau. #barking			135	061.jpg	M6F1I
 				Guau Guau Guau. #justbarking					
@@ -371,9 +371,9 @@ GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		También h
 				"Guau Guau Guau. "					
 GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mis troncos guardan muchos secretos... secretos sobre los espíritus silvanos e islas imposibles. Desafortunadamente, no hablo el idioma de los troncos.					
 				En mi experiencia, hay momentos en que los búhos no son lo que parecen... y otros en los que son simples búhos.			126	064.jpg	86A47
-GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oído hablar sobre una isla imposible bajo La Luna Luminosa, puede que... ¿Lo hayas leído en internet?.			134	065.jpg	H6A5I
+GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oído hablar sobre una isla imposible bajo La Luna Radiante, puede que... ¿Lo hayas leído en internet?.			134	065.jpg	H6A5I
 				Hemos estado siguiendo silenciosamente tus acciones y nos gustaría señalar que cuanto más tiempo tardes en decidir, más pequeña será la celebración.					
-				Parece que has progresado bastante en tu esfuerzo para localizar y domar a el Trigón Luna Luminosa, muy bien hecho.					
+				Parece que has progresado bastante en tu esfuerzo para localizar y domar a el Trigón Luna Radiante, muy bien hecho.					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvanos hijos de la Madre Tierra o son visitantes solitarios del Arremolinado Infinito?.					
 				Para ser honesta, los espíritus silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?.					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los espíritus hayan sido enviados hacia el cielo y la temporada de milagros se acerque, debes buscar el árbol titánico.					
@@ -387,12 +387,12 @@ GCLUE_WATERFALLS	Girl			¿Alguna vez has notado que a veces las palabras simplem
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí entre los montañeses del Cáucaso.					
 				Aquí en el Cáucaso hay un dicho que dice que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
 YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos El Trigón Dorado. Somos impresionantes.			85	067.jpg	36G7U
-PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, conseguimos El Trigón Luna Luminosa.			155	068.jpg	56F8U
+PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, conseguimos El Trigón Luna Radiante.			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			A pesar de todas las adversidades, conseguimos El Trigón Luna Tenebrosa.			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece como si todos los espíritus Luna Tenebrosa hubieran sido enviados hacia el cielo, así que de nuevo es la temporada de milagros. ¡Adoro los milagros!					
 JIM_HINT1_OFF	The Scythian			En un claro oculto nos encontramos con un tipo misterioso y musical situado junto a un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En un claro oculto nos encontramos con un tipo misterioso junto a un fuego crepitante. #jimguthrie					
-JIM_BRIGHTMOON	The Scythian			Mientras que La Luna Luminosa se cernía, nos encontramos con un tipo misterioso y musical junto a un fuego crepitante. Dijo responder al nombre de Jim Guthrie.			128	070.jpg	07G00
+JIM_BRIGHTMOON	The Scythian			Mientras que La Luna Radiante se cernía, nos encontramos con un tipo misterioso y musical junto a un fuego crepitante. Dijo responder al nombre de Jim Guthrie.			128	070.jpg	07G00
 JIM_POSTSWORCERY	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie había presenciado nuestra Espadamancia y parecía haberle gustado bastante.					
 JIM_POSTGOURD	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
 				Jim nos invitó a sentarnos junto al fuego.					
@@ -433,7 +433,7 @@ GIRL_URSULAMEADOW_OFF	Girl			Vaya, ¿Entonces estaba la Escita desmayada en el p
 DOGFELLA_GETDARKTRIGON	The Scythian			Tras activar otro rayo ascendente en el Bosque Trigonal notamos algo peculiar en el perro conocido como Chacho.					
 			Archetype/trifecta	De repente parecía que entendíamos a Chacho, nos instó a buscar El Trigón Luna Tenebrosa y completar La Tríada Trigonal.					
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Tras activar otro rayo ascendente en el Bosque Trigonal notamos algo peculiar en el perro conocido como Chacho.					
-			Archetype/trifecta	De repente parecía que entendíamos a Chacho, nos instó a buscar El Trigón Luna Luminosa y completar La Tríada Trigonal.					
+			Archetype/trifecta	De repente parecía que entendíamos a Chacho, nos instó a buscar El Trigón Luna Radiante y completar La Tríada Trigonal.					
 DOGFELLA_THREETRIGONS	The Scythian			Tras activar otro rayo ascendente en el Bosque Trigonal notamos algo peculiar en el perro conocido como Chacho.					
 			Archetype/trifecta	De repente parecía que entendíamos a Chacho, nos instó a activar el tercer rayo ascendente y abrir la entrada al Arremolinado Infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
@@ -457,20 +457,20 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Troncacho hab�
 				Le dijimos a Troncacho que era una buena historia, pero en realidad no nos asustó tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que has logrado alterar el temperamento de la luna en la Gruta Lunar. Me pregunto cuánto durará esta paradoja temporal.					
-MIRACLE2_ISLAND	The Scythian			Mientras la Luna Luminosa se cierne, hemos llevado a cabo un milagro lunar súper extraño en una isla imposible en medio de un lago plácido.			136	073.jpg	W7A3K
-MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos El Trigón Luna Luminosa para nuestra gloria y desesperación. #trigontamed			155	068.jpg	56F8U
+MIRACLE2_ISLAND	The Scythian			Mientras la Luna Radiante se cierne, hemos llevado a cabo un milagro lunar súper extraño en una isla imposible en medio de un lago plácido.			136	073.jpg	W7A3K
+MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos El Trigón Luna Radiante para nuestra gloria y desesperación. #trigontamed			155	068.jpg	56F8U
 MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Nos tentaba tal vez abandonar por completo todo esto del funesto cometido, pero había algo tan atractivo en el martirio.					
 				Bueno, probablemente no importará mucho al final. No es como si el ingreso al Arremolinado Infinito implicara un examen físico.					
 				Sentíamos claramente que todos estos paseos oníricos y domar Trigones empezaban a cobrar su precio.					
 				Cuando la luz y el sonido disminuyeron, nos encontramos en las orillas de un lago con un fuerte dolor de cabeza y la nariz ensangrentada.					
-GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Leyla sobre nuestro encuentro onírico con El Trigón Luna Luminosa y nuestra intención de reunir La Tríada Trigonal.					
+GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Leyla sobre nuestro encuentro onírico con El Trigón Luna Radiante y nuestra intención de reunir La Tríada Trigonal.					
 				Ella dijo que nuestro encuentro onírico sonaba realmente genial y deseaba poder haber estado allí. #lies					
 				Ella nos preguntó si habíamos pasado por el Bosque Trigonal... ¿Quizás podríamos activar otro rayo ascendente?.					
 LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador podía ver que nuestros paseos oníricos y obrar milagros habían cobrado un gran costo en nuestra salud física.					
 				Troncacho parecía sospechar que nuestro funesto cometido muy probablemente no tendría un final feliz.					
 				Troncacho nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestros datos de investigación muestran una alta correlación entre el progreso de un participante en S:S&S EP y su aptitud para ser genial.			45	074.jpg	87A43
-				Veo que has logrado localizar y recuperar El Trigón Luna Luminosa. Esto es realmente una noticia extraordinaria..					
+				Veo que has logrado localizar y recuperar El Trigón Luna Radiante. Esto es realmente una noticia extraordinaria..					
 MIRACLE3_HUGETREE	The Scythian			Mientras La Luna Tenebrosa reina, hemos llevado a cabo un milagro en medio de un parlamento de árboles.					
 MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... llevar El Megatomo a todas partes es algo molesto, realmente es un libro muy pesado en más de un sentido.					
 				Nos sentíamos un poco mal... probablemente tenía algo que ver con todos esos rayos láser cósmicos.					
@@ -529,19 +529,19 @@ GIRL_HALFWAX	The Scythian			En mi sueño de anoche estaba caminando en el bosque
 ARCHETYPE_HALFWAX	The Archetype			Los folcloristas lunáticos han afirmado que no existe una relación causal entre la locura y el temperamento de la luna.					
 LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demasiado en la Masa Gogolítica y en la montaña desierta de Mingi Taw.					
 				Sin embargo, dijo que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo.					
-				El leñador admitió que se le ponía la piel de gallina cuando La Luna Luminosa se cernía... y cuando La Luna Tenebrosa reinaba.					
-GIRL_ALMOSTWAX	The Scythian			La chica comentó algo sobre la luna creciente... Se preguntó cuánto tiempo tardaría hasta que La Luna Luminosa se cerniera en el cielo.					
-ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece un poco cada día... en pocos días se cernirá La Luna Luminosa... ¿Y qué?.			165	046.jpg	P4B6A
-LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba un poco extraño cada vez que La Luna Luminosa se cernía en el cielo.			135	061.jpg	M6F1I
-GIRL_BRIGHTMOON	The Scythian			Leyla habló habló de paseos oníricos por el bosque en la hora antes del amanecer, con La Luna Luminosa cerniéndose en el cielo.					
+				El leñador admitió que se le ponía la piel de gallina cuando La Luna Radiante se cernía... y cuando La Luna Tenebrosa reinaba.					
+GIRL_ALMOSTWAX	The Scythian			La chica comentó algo sobre la luna creciente... Se preguntó cuánto tiempo tardaría hasta que La Luna Radiante se cerniera en el cielo.					
+ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece un poco cada día... en pocos días se cernirá La Luna Radiante... ¿Y qué?.			165	046.jpg	P4B6A
+LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba un poco extraño cada vez que La Luna Radiante se cernía en el cielo.			135	061.jpg	M6F1I
+GIRL_BRIGHTMOON	The Scythian			Leyla habló habló de paseos oníricos por el bosque en la hora antes del amanecer, con La Luna Radiante cerniéndose en el cielo.					
 				Ella habló del aire fresco de la mañana y de una isla imposible en medio de un lago plácido.					
-ARCHETYPE_BRIGHTMOON	The Archetype			Sal afuera y mira hacia arriba, ¡Maravíllate con La Luna Luminosa que se cierne en el cielo!			95	079.jpg	07D95
+ARCHETYPE_BRIGHTMOON	The Archetype			Sal afuera y mira hacia arriba, ¡Maravíllate con La Luna Radiante que se cierne en el cielo!			95	079.jpg	07D95
 LOGFELLA_ALMOSTWANE	The Scythian			El leñador tenía muy baja tolerancia al folclore y admitió que normalmente lo adormecía. Sin embargo, él era bastante conocedor.					
 				El leñador sabía todo sobre Mingi Taw y por qué era conocido como El Reino de las Nubes.					
 				Sabía que Mingi Taw era la montaña más alta del mundo conocido, incluso más alta que el Monte Olimpo, donde moraban los dioses Aqueos.					
 				También sabía que la cima de Mingi Taw, siempre envuelta en nubes, era considerada la entrada al Arremolinado Infinito.					
 				El leñador nunca se había atrevido a pisar las temibles laderas de Mingi Taw, y nunca lo haría.					
-GIRL_ALMOSTWANE	The Scythian			Leyla se preguntó por qué tantos hongos crecían inmediatamente antes y después de La Luna Luminosa... ¿A que se debería?.					
+GIRL_ALMOSTWANE	The Scythian			Leyla se preguntó por qué tantos hongos crecían inmediatamente antes y después de La Luna Radiante... ¿A que se debería?.					
 ARCHETYPE_ALMOSTWANE	The Archetype			La luna está ligeramente menos brillante que ayer y el ciclo lunar está comenzando a disminuir.					
 LOGFELLA_HALFWANE	The Scythian			El leñador tenía muy baja tolerancia al folclore y admitió que normalmente lo adormecía. Sin embargo, él era bastante conocedor.					
 				El leñador explicó que en Escitia y Persia Mingi Taw era conocido como La Montaña Eterna.					
