@@ -105,8 +105,8 @@ ARCHETYPE_UNWELLWELLOUTRO	The Archetype
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con techo de paja junto a un estanque profundo.					
 INFO_CABINWOODPILE	The Scythian			Descubrimos una pila de leña, no es para tanto.					
 INFO_SPUME	The Scythian			Encontramos las sutiles brumas melodiosas de un dormitante espíritu silvano. Y ahora... ¿Cómo lo despertamos?.					
-INFO_NESTBOX	The Scythian			Descubrimos una pajarera de aspecto curioso ahora hogar de una desafortunada colmena.			13	015.jpg	B1C5F
-INFO_NESTBOXWEATHERED	The Scythian			Descubrimos una pajarera de aspecto desgastado que parecía una cara espeluznante.					
+INFO_NESTBOX	The Scythian			Descubrimos una curiosa pajarera ahora hogar de una desafortunada colmena.			13	015.jpg	B1C5F
+INFO_NESTBOXWEATHERED	The Scythian			Descubrimos una desgastada pajarera que parecía una cara de manera espeluznante.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas de un puente de troncos en el camino antiguo había un mástil siniestro adornado con calaveras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cavernosa cueva del prado encontramos una arboleda aislada con una extraña colección de estructuras de piedra.					
 			Archetype/trifecta	... ¿Era este el Bosque Trigonal? #trigongrove			93	016.jpg	B1D6J
@@ -115,10 +115,10 @@ INFO_DARKTRIGONALTAR	The Scythian			En el Bosque Trigonal había otra estructura
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			En el Bosque Trigonal había otra estructura de piedra con un glifo circular que hacía referencia a La Luna Radiante. #brightmoontrigon					
 				Nos preguntamos qué pasaría si golpeáramos la estructura de piedra con nuestra espada.					
-INFO_STONEHEAD	The Scythian			En el Precipicio Peligroso había una enorme escultura tallada en la roca de una cabeza de aspecto familiar y con la boca entreabierta.			24	017.jpg	61B76
-INFO_STONEHEADSHUT	The Scythian			En el Precipicio Peligroso había una enorme escultura tallada en la roca de una cabeza de aspecto familiar.					
+INFO_STONEHEAD	The Scythian			En el Precipicio Peligroso había una escultura tallada en roca de una cabeza de aspecto familiar con la boca abierta de par en par.			24	017.jpg	61B76
+INFO_STONEHEADSHUT	The Scythian			En el Precipicio Peligroso había una escultura tallada en roca de una cabeza de aspecto familiar.					
 INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura tallada en la roca se hallaba un mástil siniestro adornado con calaveras o algo por el estilo.					
-INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso había un magnífico dolmen que albergaba dos asientos de piedra de aspecto cómodo.			25	018.jpg	O1C8M
+INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso había un magnífico dolmen que albergaba dos cómodos asientos de piedra.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			A horcajadas de un puente raquítico se alzaba un poste siniestro adornado con una calavera astada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada tallada en la roca del templo de la montaña, divisamos una representación pictográfica de La Tríada Trigonal.					
 INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña, divisamos un portón de hierro inamovible. Más allá podíamos ver el nublado paisaje montañoso de Mingi Taw.					
@@ -330,22 +330,22 @@ URSULA_AVATAR			Ursula/idleSEhandsonhip
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos tipos afirmaban ser parte de los creadores de este mundo estrafalario.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Los dos chiflados afirmaban ser parte de los creadores de este mundo estrafalario.			159	055.jpg	A5G55
-GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano que dormitaba en la tierra fértil de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
-GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entonamos la Canción de Espadamancia y despertamos a un espíritu silvano que dormitaba en las frescas aguas de un estanque profundo, ¡Qué raro!			50	057.jpg	G5F78
-GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano que dormitaba en una pajarera de aspecto curioso, hogar de tres pájaros cantores empapados por la lluvia.					
-GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano que dormitaba junto a un puente de troncos donde cuatro pares de árboles se elevan sobre un río.					
-GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano que dormitaba entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
-GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano que dormitaba rodeado por cinco cascadas.					
-GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano que dormitaba en un matorral en lo alto de un peñasco rocoso.					
-GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano que dormitaba en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano que dormitaba en unas aguas serenas donde una mamá pata estaba fuera de sí.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano que dormitaba donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
-GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano que dormitaba en un lago plácido bajo una tríada de búhos.					
+GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en la tierra fértil de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entonamos la Canción de Espadamancia y despertamos a un espíritu silvano de las frescas aguas de un estanque profundo, ¡Qué raro!			50	057.jpg	G5F78
+GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en una curiosa pajarera rodeada de tres pájaros cantores empapados por la lluvia.					
+GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano junto a un puente de troncos donde cuatro pares de árboles se alzan sobre un río.					
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
+GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano rodeado por cinco cascadas.					
+GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano en la maleza en lo alto de un peñasco rocoso.					
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano en las aguas traquilas de un lago donde una pata madre estaba enloqueciendo.					
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano en un lago plácido bajo una tríada de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa sensación peculiar de que, tal vez, estemos ante la temporada de milagros. #miracles					
-GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano que dormitaba rodeado por tres pequeñas cascadas.					
-GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano que dormitaba rodeado por cuatro pequeños árboles en los bosques más oscuros.					
-GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano que dormitaba en un matorral al otro lado de un lago.					
-GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano que dormitaba en la raíz de un árbol titánico.					
+GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano rodeado por tres pequeñas cascadas.					
+GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano rodeado de cuatro pequeños árboles redondos en los bosques más oscuros.					
+GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano en la maleza al otro lado de un lago.					
+GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano acechando en la raíz de un árbol titánico.					
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa sensación peculiar de que, tal vez, estemos ante la temporada de milagros. ¿Dónde están mis milagros? #miracles			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Guau Guau. #barking			135	061.jpg	M6F1I
 				Guau Guau Guau. #justbarking					
@@ -500,11 +500,11 @@ ARCHETYPE_SPAREBOOR	The Archetype			Ahora me imagino que te estarás preguntando
 LOGFELLA_FOUNDATION	Logfella			...					
 				...					
 				...					
-SCYTHIAN_FOUNDATION	The Scythian			Despertamos a un espíritu silvano que dormitaba en un estanque profundo, al lado de una choza de piedra. Todo esto nos sorprende.					
-				Con una tormenta sobre nuestras cabezas, hemos aprendido a entonar la Canción de Espadamancia para despertar a un dormitante espíritu silvano.					
-				Espera... ¿Por qué me estoy refiriendo a mí misma en primera persona? Pensaba que nuestra historia la íbamos a contar en segunda persona. #editingoversight					
-				¿Están mis pensamientos en el orden cronológico en que los he pensado? ¿Así que esto es lo que estaba pensando hace unos segundos?.					
-				¿Es este El Megatomo? ¿Absorbe transmisiones de pensamiento lingüístico? ¿Estoy leyendo mis pensamientos mientras los estoy pensando? Hmm...					
+SCYTHIAN_FOUNDATION	The Scythian			Despertamos a un espíritu silvano en un estanque profundo con lirios junto a una choza de piedra. No sabemos qué significa.					
+				Con una tormenta incesante hemos aprendido a entonar la Canción de Espadamancia y convocar a un espíritu silvano dormido.					
+				Espera... ¿Por qué me estoy refiriendo a mí misma en primera persona? ¿No se supone que nuestra historia se cuenta en segunda persona?. #editingoversight					
+				¿Mis pensamientos están ordenados cronológicamente, en el orden en que los pensé? ¿Así que esto es lo que estaba pensando hace unos segundos?.					
+				¿Esto es El Megatomo? ¿Absorbe 'transmisiones de pensamiento lingüístico'? ¿Estoy leyendo mis pensamientos mientras los estoy pensando? Hmm...					
 GIRL_FOUNDATION	Girl			...					
 				...					
 				...					
