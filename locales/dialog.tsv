@@ -68,7 +68,7 @@ ARCHETYPE_FOUNDATION	The Archetype			Hablemos del entorno y la configuración pa
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la Canción de Espadamancia y ahora el insondable poder de El Megatomo es tuyo."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
 			adventureUI/megatomeItem	Se me acaba de ocurrir algo... ¿Qué tal si abres El Megatomo y descubres lo qué se oculta en mi mente?.					
-				"""Busca un triángulo blanco en la esquina superior derecha... tócalo y luego equipa El Megatomo... luego gira para revelar lo que está oculto."""					
+				"""Busca un triángulo blanco en la esquina superior derecha... tócalo y luego equipa El Megatomo... luego gira para revelar lo qué está oculto."""					
 LOGFELLA_STORM	The Scythian			El leñador conocido como Troncacho había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Troncacho nos recordó cómo la tormenta había comenzado poco después de que recuperáramos El Megatomo debajo de Mingi Taw.					
 				¿Estaba insinuando Troncacho sutilmente que quizás deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
@@ -158,7 +158,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al
 			triangle/Triangle	"""De todos modos, logramos domar al Trigón Dorado y exploramos el Bosque Trigonal antes de emprender la búsqueda El Trigón Luna Radiante."""					
 				"""La búsqueda del Trigón Luna Radiante no salió tan bien... nos perdimos por completo para ser honesto."""					
 				"""Poco a poco nos dimos cuenta de la importancia de los ciclos de la luna y su influencia en los espíritus que duermen en los reinos crepusculares."""					
-				"""Fue entonces cuando nos sentamos aquí y comenzamos a monitorear el temperamento de la luna para poder saber cuándo, cómo y dónde debíamos estar."""			7	026.jpg	Q2D6P
+				"""Entonces nos sentamos aquí para monitorear el temperamento de la luna, con el fin de saber cuándo, cómo y dónde debíamos estar."""			7	026.jpg	Q2D6P
 				"""Morimos de aburrimiento esperando a que el temperamento de la luna cambiara."""					
 				"""Bueno, en realidad morimos debido a una discusión que tuvimos por aburrimiento."""					
 				"""No quiero entrar en detalles en este momento, si no te importa."""					
