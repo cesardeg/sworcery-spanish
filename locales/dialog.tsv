@@ -153,9 +153,9 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Bosque Trigonal, más allá de la ca
 GRAVE_LOGBRIDGE	The Scythian			Vimos un puñado de tumbas en un matorral al costado del camino antiguo que despertaron nuestra curiosidad.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al costado del camino antiguo y nos encontramos con unos fantasmas que parecían amigables.			116	025.jpg	62B55
 				El fantasma brillante que habló era un gigante que conocíamos de las viejas historias, cuyo retrato famoso exigía obediencia. #andre					
-			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, armé a un pelotón y nos dispusimos a rearmar La Tríada Trigonal."""					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, armé a un pelotón y nos dispusimos a reconstruir La Tríada Trigonal."""					
 				"""Habíamos escuchado sobre la entrada al Infinito en la cima de Mingi Taw y nos pareció algo digno de ver."""					
-			triangle/Triangle	"""De todos modos, logramos domar al Trigón Dorado y exploramos el Bosque Trigonal antes de emprender la búsqueda El Trigón Luna Radiante."""					
+			triangle/Triangle	"""De todos modos, logramos domar a El Trigón Dorado y exploramos el Bosque Trigonal antes de emprender la búsqueda El Trigón Luna Radiante."""					
 				"""La búsqueda del Trigón Luna Radiante no salió tan bien... nos perdimos por completo para ser honesto."""					
 				"""Poco a poco nos dimos cuenta de la importancia de los ciclos de la luna y su influencia en los espíritus que duermen en los reinos crepusculares."""					
 				"""Entonces nos sentamos aquí para monitorear el temperamento de la luna, con el fin de saber cuándo, cómo y dónde debíamos estar."""			7	026.jpg	Q2D6P
@@ -167,7 +167,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al
 				"""Así que estábamos ahí, sin saber qué hacer... cuando de repente apareció La Masa Gogolítica... y ¡Puff!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Divisamos una solitaria tumba en el borde del Precipicio Peligroso que despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la solitaria tumba del tramposo bribón en el Precipicio Peligroso y conocimos a un fantasma radiante.					
-			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André 'El Gigante' armó a un pelotón y nos dispusimos a rearmar La Tríada Trigonal."""					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André 'El Gigante' armó a un pelotón y nos dispusimos a reconstruir La Tríada Trigonal."""					
 				"""Los otros integrantes del pelotón están enterrados en un matorral al costado del camino antiguo, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar El Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente atascados."""					
 				"""Buscamos El Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando a que el temperamento de la luna cambiara."""					
@@ -333,7 +333,7 @@ AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Los dos chiflados afi
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en la tierra fértil de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entonamos la Canción de Espadamancia y despertamos a un espíritu silvano de las frescas aguas de un estanque profundo, ¡Qué raro!.			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en una curiosa pajarera rodeada de tres pájaros cantores empapados por la lluvia.					
-GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano junto a un puente de troncos donde cuatro pares de árboles se alzan sobre un río.					
+GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano junto a un sólido puente de troncos donde cuatro pares de árboles se elevan sobre un río.					
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano en la maleza en lo alto de un peñasco rocoso.					
@@ -380,7 +380,7 @@ GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los esp
 				Sé que sabes lo que sé y quiero que sepas que estás completamente en lo correcto.			109	066.jpg	F6D6H
 				Guau Guau Guau Sniff Guau Guau Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu funesto cometido traerá la paz de vuelta a nuestras vidas.					
-				Sólo La Tríada Trigonal te permitirá comprender los secretos del Bosque Trigonal.					
+				Solo La Tríada Trigonal te permitirá comprender los secretos del Bosque Trigonal.					
 				El Arremolinado Infinito en la cima de Mingi Taw te espera.					
 				Guau Guau Guau.					
 GCLUE_WATERFALLS	Girl			¿Alguna vez has notado que a veces las palabras simplemente suenan como ruido, pero otras veces el ruido produce el sonido más bello?.			132	058.jpg	G5F8U
@@ -390,17 +390,17 @@ YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos El Trigón Dorado. Somos impre
 PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, conseguimos El Trigón Luna Radiante.			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			A pesar de todas las adversidades, conseguimos El Trigón Luna Tenebrosa.			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece como si todos los espíritus Luna Tenebrosa hubieran sido enviados hacia el cielo, así que de nuevo es la temporada de milagros. ¡Adoro los milagros!.					
-JIM_HINT1_OFF	The Scythian			En un claro oculto nos encontramos con misterioso músico junto a un fuego crepitante.					
-JIM_PINKDAWN	The Scythian			En un claro oculto nos encontramos con misterioso músico junto a un fuego crepitante. #jimguthrie					
+JIM_HINT1_OFF	The Scythian			En un claro oculto nos encontramos con un misterioso músico junto a un fuego crepitante.					
+JIM_PINKDAWN	The Scythian			En un claro oculto nos encontramos con un misterioso músico junto a un fuego crepitante. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			Mientras que La Luna Radiante se cernía, nos encontramos con un misterioso músico junto a un fuego crepitante, quien se presentó como Jim Guthrie.			128	070.jpg	07G00
 JIM_POSTSWORCERY	The Scythian			El misterioso músico conocido como Jim Guthrie había presenciado nuestra Espadamancia y parecía estar bien con ello.					
 JIM_POSTGOURD	The Scythian			El misterioso músico conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
 				Jim nos invitó a sentarnos junto al fuego.					
-JIM_POSTSONG	The Scythian			Jim Guthrie nos había enseñado que no se podían negar los malos pensamientos así como no se podía negar la mordida de un dragón.					
+JIM_POSTSONG	The Scythian			Jim Guthrie nos había enseñado que no se podían negar los malos pensamientos así como no se podía negar la mordedura de un dragón.					
 			Archetype/trifecta	Él nos contó sobre el concierto de rock que tenía programado tocar al otro lado del lago dentro de quince días.					
-JIM_LOGFELLATHOUGHTS	Logfella			La canción sonaba tan familiar... ¿Dónde la había escuchado antes? #1000songs					
-				De repente tenía esa extraña canción metida en la cabeza. #andwegotolder					
-LOGFELLA_JIMTHOUGHTS	Logfella			He tenido esa canción metida en la cabeza durante años... Sólo unas pocas notas que se repiten una y otra vez. Me pregunto donde la he escuchado.					
+JIM_LOGFELLATHOUGHTS	Logfella			La canción suena tan familiar... ¿dónde la he escuchado antes? #1000songs					
+				De repente tengo esta extrañamente genial canción en mi cabeza. #andwegotolder					
+LOGFELLA_JIMTHOUGHTS	Logfella			He tenido esta pequeña canción en mi cabeza durante años... solo unas pocas notas que se repiten una y otra vez. Me pregunto qué significa eso.					
 ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Cruzar de manera segura el umbral de la liminalidad es sencillo: busca los lugares familiares y el calor del hogar.					
 				Si logras estabilizar tu lucidez, podrás co-crear con ella... en lugar de luchar, resistir y maldecirla.					
 				Cuando estás lúcido en un sueño, te das cuenta de quién has imaginado que eres... pero identificarte con el sueño es ser hechizado.					
@@ -451,7 +451,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Troncacho hab�
 				Nos contó una vieja historia que su gente relataba habitualmente a sus hijos para asustarlos.					
 			Archetype/trifecta	Troncacho habló de un pelotón de Escitas que llegó hace muchas lunas a estas montañas olvidadas buscando La Tríada Trigonal.					
 			gourd/gourd	"""El pelotón había aprendido a buscar a los espíritus silvanos y enviarlos hacia el cielo... y luego buscaron un lugar para llevar a cabo un milagro."""					
-			Archetype/trifecta	"""El pelotón esperaba activar los tres haces celestes en el Bosque Trigonal, pero no tenían idea de cuándo ni dónde estaban los Trigones."""					
+			Archetype/trifecta	"""El pelotón esperaba activar los tres rayos ascendentes en el Bosque Trigonal, pero no tenían idea de cuándo ni dónde estaban los Trigones."""					
 				"""El pelotón deambuló sin rumbo durante mucho tiempo por el camino antiguo a Mingi Taw... eventualmente se cansaron y decidieron detenerse."""					
 				"""Entonces el pelotón fue fulminado por un espectro inmortal al costado del camino antiguo, donde todavía quedan un puñado de tumbas en la actualidad."""					
 				Le dijimos a Troncacho que era una buena historia, pero en realidad no nos asustó tanto.					
@@ -463,7 +463,7 @@ MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Nos tentaba tal vez abandonar 
 				Bueno, probablemente no importará mucho al final. No es como si el ingreso al Arremolinado Infinito implicara un examen físico.					
 				Sentíamos claramente que todos estos paseos oníricos y domar Trigones empezaban a cobrar su precio.					
 				Cuando la luz y el sonido disminuyeron, nos encontramos en las orillas de un lago con un fuerte dolor de cabeza y la nariz ensangrentada.					
-GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Leyla sobre nuestro encuentro onírico con El Trigón Luna Radiante y nuestra intención de reunir La Tríada Trigonal.					
+GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Leyla sobre nuestro encuentro onírico con El Trigón Luna Radiante y nuestra intención de reconstruir La Tríada Trigonal.					
 				Ella dijo que nuestro encuentro onírico sonaba realmente genial y deseaba poder haber estado allí. #lies					
 				Ella nos preguntó si habíamos pasado por el Bosque Trigonal... ¿Quizás podríamos activar otro rayo ascendente?.					
 LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador podía ver que nuestros paseos oníricos y obrar milagros habían cobrado un gran costo en nuestra salud física.					
@@ -475,7 +475,7 @@ MIRACLE3_HUGETREE	The Scythian			Mientras La Luna Tenebrosa reina, hemos llevado
 MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... llevar El Megatomo a todas partes es algo molesto, realmente es un libro muy pesado en más de un sentido.					
 				Nos sentíamos un poco mal... probablemente tenía algo que ver con todos esos rayos láser cósmicos.					
 				Cuando la luz y el sonido disminuyeron, nos encontramos empapados por la fría lluvia en medio de un parlamento de árboles.					
-GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Leyla sobre nuestro encuentro onírico con El Trigón Luna Tenebrosa y nuestra intención de reunir La Tríada Trigonal.					
+GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Leyla sobre nuestro encuentro onírico con El Trigón Luna Tenebrosa y nuestra intención de reconstruir La Tríada Trigonal.					
 				Le contamos cómo habíamos anulado el despreciable ataque arcoíris de El Trigón Luna Tenebrosa y a ella le pareció impresionante.					
 				No parecía importarle escuchar nuestras historias locas.					
 LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			El leñador podía ver que nuestros paseos oníricos y obrar milagros habían cobrado un gran costo en nuestra salud física.					
@@ -564,8 +564,8 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			La Luna Tenebrosa reina, el final del ci
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Tenebrosa!.			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			En mi sueño llegué a un parlamento de árboles sacudido por un rayo y sentí la presencia de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una vibrante música filtrandose a través de los bosques tras mi choza. ¿Qué sería?.					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño sólo vi las sutiles brumas melodiosas de los espíritus silvanos.					
-AMPHITHEATRE_OUTRO	The Scythian			Reconstruimos La Tríada Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño solo vi las sutiles brumas melodiosas de los espíritus silvanos.					
+AMPHITHEATRE_OUTRO	The Scythian			Hemos reconstruido La Tríada Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Hemos asesinado inexplicablemente a 3 conejos indefensos.					
 RABBITS_7MURDERS	The Scythian			Hemos asesinado inexplicablemente a 7 conejos indefensos. ¿Estamos ante la evidencia de una mente transtornada?.					
 RABBITS_13MURDERS	The Scythian			Hemos asesinado inexplicablemente a 13 conejos indefensos.					
