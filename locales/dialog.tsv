@@ -390,13 +390,13 @@ YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos El Trigón Dorado. Somos impre
 PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, conseguimos El Trigón Luna Radiante.			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			A pesar de todas las adversidades, conseguimos El Trigón Luna Tenebrosa.			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece como si todos los espíritus Luna Tenebrosa hubieran sido enviados hacia el cielo, así que de nuevo es la temporada de milagros. ¡Adoro los milagros!.					
-JIM_HINT1_OFF	The Scythian			En un claro oculto nos encontramos con un tipo misterioso y musical situado junto a un fuego crepitante.					
-JIM_PINKDAWN	The Scythian			En un claro oculto nos encontramos con un tipo misterioso junto a un fuego crepitante. #jimguthrie					
-JIM_BRIGHTMOON	The Scythian			Mientras que La Luna Radiante se cernía, nos encontramos con un tipo misterioso y musical junto a un fuego crepitante. Dijo llamarse Jim Guthrie.			128	070.jpg	07G00
-JIM_POSTSWORCERY	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie había presenciado nuestra Espadamancia y parecía haberle gustado bastante.					
-JIM_POSTGOURD	The Scythian			El tipo misterioso y musical conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
+JIM_HINT1_OFF	The Scythian			En un claro oculto nos encontramos con misterioso músico junto a un fuego crepitante.					
+JIM_PINKDAWN	The Scythian			En un claro oculto nos encontramos con misterioso músico junto a un fuego crepitante. #jimguthrie					
+JIM_BRIGHTMOON	The Scythian			Mientras que La Luna Radiante se cernía, nos encontramos con un misterioso músico junto a un fuego crepitante, quien se presentó como Jim Guthrie.			128	070.jpg	07G00
+JIM_POSTSWORCERY	The Scythian			El misterioso músico conocido como Jim Guthrie había presenciado nuestra Espadamancia y parecía estar bien con ello.					
+JIM_POSTGOURD	The Scythian			El misterioso músico conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
 				Jim nos invitó a sentarnos junto al fuego.					
-JIM_POSTSONG	The Scythian			Jim Guthrie nos había enseñado que no se podían negar los malos pensamientos y no se podía negar la mordida del dragón.					
+JIM_POSTSONG	The Scythian			Jim Guthrie nos había enseñado que no se podían negar los malos pensamientos así como no se podía negar la mordida de un dragón.					
 			Archetype/trifecta	Él nos contó sobre el concierto de rock que tenía programado tocar al otro lado del lago dentro de quince días.					
 JIM_LOGFELLATHOUGHTS	Logfella			La canción sonaba tan familiar... ¿Dónde la había escuchado antes? #1000songs					
 				De repente tenía esa extraña canción metida en la cabeza. #andwegotolder					
@@ -512,7 +512,7 @@ DOGFELLA_FOUNDATION	Dogfella			...
 				...					
 				...					
 LOGFELLA_DARKMOON	The Scythian			El leñador habló de paseos oníricos por el bosque en la hora antes del amanecer bajo un cielo oscuro y lleno de tormenta.					
-				Él habló de una vibrante luz rosa y de una misteriosa canción emanando del bosque sin nombre detrás del prado.					
+				Él habló de una inquietante luz rosada y de una misteriosa canción emanando del bosque sin nombre detrás del prado.					
 				Supusimos que Troncacho probablemente hablaba del concierto de rock de La Luna Tenebrosa.					
 GIRL_DARKMOON	The Scythian			Leyla habló habló de paseos oníricos por el bosque en la hora antes del amanecer bajo un cielo oscuro y lleno de tormenta.					
 				Ella habló de cómo se había refugiado de la tormenta en un árbol hueco titánico.					
