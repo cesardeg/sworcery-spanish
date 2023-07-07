@@ -43,7 +43,7 @@ LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado E
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la tormenta que se avecinaba, Troncacho admitió que en ese momento tenía la piel de gallina.					
 				¿Estaba Troncacho asuntándonos intencionadamente? #yes #no #maybe					
 				En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo.					
-QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y somos los más inteligentes.. #gotmegatome			40	011.jpg	81C1E
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos El Megatomo y somos los más inteligentes. #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
@@ -241,7 +241,7 @@ GIRL_CABINSHEEP	The Scythian			Le preguntamos a Leyla sobre las ovejas insignifi
 LOGFELLA_CABINSHEEP	The Scythian			Troncacho tenía la sensación de que había llegado la temporada de milagros y se preguntó si, tal vez, estaba a punto de suceder algo impresionante.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Está comenzando a disiparse la tormenta? Eso espero.					
 				Esta tormenta entera me ha estado deprimiendo. Ha sido todo tan sombrío.					
-LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm.... Se me puso la piel de gallina... Sin duda algo está pasando... ¿Está comenzando a disiparse la tormenta?.					
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Se me puso la piel de gallina... Sin duda algo está pasando... ¿Está comenzando a disiparse la tormenta?.					
 				Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Una vez que el sol esté alineado, se te concederán las habilidades milagrosas de plegado del gran mago Al Jaffee					
@@ -470,7 +470,7 @@ LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador podía ver que nue
 				Troncacho parecía sospechar que nuestro funesto cometido muy probablemente no tendría un final feliz.					
 				Troncacho nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestros datos de investigación muestran una alta correlación entre el progreso de un participante en S:S&S EP y su aptitud para ser genial.			45	074.jpg	87A43
-				Veo que has logrado localizar y recuperar El Trigón Luna Radiante. Esto es realmente una noticia extraordinaria..					
+				Veo que has logrado localizar y recuperar El Trigón Luna Radiante. Esto es realmente una noticia extraordinaria.					
 MIRACLE3_HUGETREE	The Scythian			Mientras La Luna Tenebrosa reina, hemos llevado a cabo un milagro en medio de un parlamento de árboles.					
 MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... llevar El Megatomo a todas partes es algo molesto, realmente es un libro muy pesado en más de un sentido.					
 				Nos sentíamos un poco mal... probablemente tenía algo que ver con todos esos rayos láser cósmicos.					
@@ -484,7 +484,7 @@ ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Ahora la pregunta es... ¿Qué
 				A pesar de la escasez de información útil que hemos proporcionado, has logrado dominar a El Trigón Luna Tenebrosa.					
 				Me acaban de informar que has recuperado El Trigón Luna Tenebrosa. Esto es realmente una noticia extraordinaria.					
 LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	El leñador no reconoció la llave que encontramos y no tenía ni idea para qué servía.					
-			AdventureUI/keyItem	¿...?.					
+			AdventureUI/keyItem	¿...?					
 GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Leyla vio la llave que encontramos y nos animó a estar atentos a una puerta cerrada.					
 				Ella no tenía ninguna otra idea, pero recordamos algo que habíamos visto en el camino antiguo a Mingi Taw.					
 ARCHETYPE_GROTTOPARADOX	The Archetype								
