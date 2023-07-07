@@ -68,7 +68,7 @@ ARCHETYPE_FOUNDATION	The Archetype			Hablemos del entorno y la configuración pa
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la Canción de Espadamancia y ahora el insondable poder de El Megatomo es tuyo."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
 			adventureUI/megatomeItem	Se me acaba de ocurrir algo... ¿Qué tal si abres El Megatomo y descubres lo qué se oculta en mi mente?.					
-				"""Busca un triángulo blanco en la esquina superior derecha... presiónalo para equipar El Megatomo y revelar lo qué está oculto."""					
+				"""Busca un triángulo blanco en la esquina superior derecha... tócalo y luego equipa El Megatomo... luego gira para revelar lo que está oculto."""					
 LOGFELLA_STORM	The Scythian			El leñador conocido como Troncacho había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Troncacho nos recordó cómo la tormenta había comenzado poco después de que recuperáramos El Megatomo debajo de Mingi Taw.					
 				¿Estaba insinuando Troncacho sutilmente que quizás deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
@@ -152,33 +152,33 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Bosque Trigonal, más allá de la ca
 				Sin duda, el fantasma resplandeciente hablaba mucho de tonterías poco útiles.					
 GRAVE_LOGBRIDGE	The Scythian			Vimos un puñado de tumbas en un matorral al costado del camino antiguo que despertaron nuestra curiosidad.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral al costado del camino antiguo y nos encontramos con unos fantasmas que parecían amigables.			116	025.jpg	62B55
-				El fantasma imponente que habló fue un gigante que conocíamos por viejas historias cuyo famoso retrato demandaba obediencia. #andre					
-			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, armé a un pelotón y nos dispusimos a reunir La Tríada Trigonal."""					
-				"""Habíamos oído hablar de la entrada al Infinito en la cima de Mingi Taw y pensamos que sería algo digno de ver."""					
-			triangle/Triangle	"""Así que domamos El Trigón Dorado e investigamos el Bosque Trigonal antes de salir a buscar El Trigón Luna Radiante."""					
-				"""Localizar El Trigón Luna Radiante no resultó muy bien... acabamos totalmente perdidos para ser honesto."""					
-				"""Lentamente nos dimos cuenta de la importancia del temperamento de la luna y su influencia en los espíritus que dormitan en los reinos crepusculares."""					
-				"""Ahí es cuando nos sentamos y empezamos a vigilar el temperamento de la luna para poder saber cuándo, dónde y cómo."""			7	026.jpg	Q2D6P
+				El fantasma brillante que habló era un gigante que conocíamos de las viejas historias, cuyo retrato famoso exigía obediencia. #andre					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, armé a un pelotón y nos dispusimos a rearmar La Tríada Trigonal."""					
+				"""Habíamos escuchado sobre la entrada al Infinito en la cima de Mingi Taw y nos pareció algo digno de ver."""					
+			triangle/Triangle	"""De todos modos, logramos domar al Trigón Dorado y exploramos el Bosque Trigonal antes de emprender la búsqueda El Trigón Luna Radiante."""					
+				"""La búsqueda del Trigón Luna Radiante no salió tan bien... nos perdimos por completo para ser honesto."""					
+				"""Poco a poco nos dimos cuenta de la importancia de los ciclos de la luna y su influencia en los espíritus que duermen en los reinos crepusculares."""					
+				"""Fue entonces cuando nos sentamos aquí y comenzamos a monitorear el temperamento de la luna para poder saber cuándo, cómo y dónde debíamos estar."""			7	026.jpg	Q2D6P
 				"""Morimos de aburrimiento esperando a que el temperamento de la luna cambiara."""					
-				"""Bueno, en realidad morimos debido a una discusión que tuvimos a causa del aburrimiento."""					
-				"""Realmente no quiero entrar en detalles ahora mismo, si no te importa."""					
+				"""Bueno, en realidad morimos debido a una discusión que tuvimos por aburrimiento."""					
+				"""No quiero entrar en detalles en este momento, si no te importa."""					
 				"""Bueno, lo que pasó fue que uno de los nuestros era un tramposo bribón y lo atrapamos con las manos en la masa."""					
 				"""Estalló una pelea y el tramposo bribón huyó por el camino antiguo hacia el Precipicio Peligroso."""					
-				"""Así que estábamos preguntándonos qué hacer... cuando de repente apareció La Masa Gogolítica... y ¡Puff!"""			113	027.jpg	62B75
+				"""Así que estábamos ahí, sin saber qué hacer... cuando de repente apareció La Masa Gogolítica... y ¡Puff!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Divisamos una solitaria tumba en el borde del Precipicio Peligroso que despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la solitaria tumba del tramposo bribón en el Precipicio Peligroso y conocimos a un fantasma radiante.					
-			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André 'El Gigante' armó a un pelotón y nos dispusimos a reunir La Tríada Trigonal."""					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, André 'El Gigante' armó a un pelotón y nos dispusimos a rearmar La Tríada Trigonal."""					
 				"""Los otros integrantes del pelotón están enterrados en un matorral al costado del camino antiguo, cerca del puente de troncos."""					
 			triangle/Triangle	"""Conseguimos localizar y domar El Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente atascados."""					
 				"""Buscamos El Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando a que el temperamento de la luna cambiara."""					
-				"""¡Fue súper aburrido! No iba a esperar días y días hasta que La Luna Radiante se cerniera."""					
+				"""¡Fue súper aburrido! No iba a esperar días y días hasta que La Luna Radiante se alzara."""					
 				"""Deje a esos perdedores deambular sin sentido mientras yo investigaba más sobre esa treta lógico-lunar."""					
 				El fantasma radiante habló de cómo había hecho trampa al salir de S:S&S EP e ir a Configuración del Sistema.					
 				El fantasma describió sobre la opción de Fecha/Hora y los horrores que procedían al alterar el temperamento de la luna con este método.					
 				"""La cosa es que he tenido un caso serio de nerviosismo desde que hice eso y, de hecho, me morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			Dentro de un árbol hueco titánico vimos una solitaria tumba que despertó nuestra curiosidad.					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una solitaria tumba y apareció un fantasma audaz para cantarnos una alocada rima.			117	028.jpg	E2A80
-				"""Monitorea el temperamento de la luna, aprende a atinar, sabrás dónde, cuándo y cómo, sin equivocar."""					
+				"""Monitorea el temperamento de la luna, aprende a atinar, sabrás cuándo, cómo y dónde, sin equivocar."""					
 				"""Y no te preocupes, no pretendo asustar, con mi impresionante aspecto, solo quiero brillar."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico nos acercamos a una solitaria tumba y apareció un fantasma audaz para cantarnos una alocada rima.			117	028.jpg	E2A80
 				"""El camino recorrido con suerte y fe, captura las brumas melodiosas que se ven."""					
@@ -211,7 +211,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba muy alivi
 			gourd/gourd	Teníamos la corazonada de que necesitábamos convocar a algunos espíritus silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de encontrar y domar una manifestación de geometría cósmica conocida como El Trigón Dorado.					
 				Estaba muy claro que el leñador conocido como Troncacho había dejado de prestar atención.					
-			AdventureUI/keyItem	Nos dimos cuenta de que podríamos quedarnos con la llave y dar un paseo por el antiguo camino más allá del muro de piedra.					
+			AdventureUI/keyItem	Nos dimos cuenta de que podríamos quedarnos con la llave y dar un paseo por el camino antiguo más allá del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tomáramos su llave y nos dijo que estaba de acuerdo.					
 GIRL_FOUNDKEY	The Scythian			Nos encontramos con Leyla empapada parada bajo la lluvia en un camino lateral.					
 			gourd/gourd	Ella había oído las sutiles brumas melodiosas de los espíritus silvanos más allá del muro de piedra en el camino antiguo a Mingi Taw.					
@@ -406,7 +406,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Cruzar de manera segura el umbral de l
 				Cuando estás lúcido en un sueño, te das cuenta de quién has imaginado que eres... pero identificarte con el sueño es ser hechizado.					
 				Incluso en un sueño ya conocido, hay nuevos lugares para explorar y nuevas conexiones para considerar... si sigues creyendo.					
 GIRL_MOONGROTTOCOMMENT	Girl			Siento como si el cosmos hubiera dado un salto y ahora todo estuviera un poco... desequilibrado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino de 0 al 1, y si un extraterrestre dijera ""Hola"", sería en un código críptico en el estéreo. Espera... ¿Qué?"					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino de 0 a 1, y si un extraterrestre dijera ""Hola"", sería en un código críptico en el estéreo. Espera... ¿Qué?"					
 GIRL_HUGETREETHOUGHTS	Girl			Por supuesto, nunca le hablo a la gente sobre estos sueños de diosas y árboles porque probablemente solo me llamarían hippie o algo así.					
 				En mi lugar especial visito a un árbol hueco titánico... ella es una diosa que hace mucho tiempo murió y que antecede a la humanidad por eras incontables.					
 				En mi sueño hay un lugar especial al que siempre voy, un parlamento de árboles en el corazón del mundo.					
@@ -556,7 +556,7 @@ LOGFELLA_CRESCENTWANE	The Scythian			El leñador tenía muy baja tolerancia al f
 				Habló de una raza de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión de pensamiento lingüístico.					
 				"""Estos inmortales bendijeron a la humanidad con la capacidad de ser una civilización, y por lo tanto, los condenaron a una extinción eventual e inevitable."""					
 				"""Los escitas trataron de reprimir la insidiosa propagación de la civilización y por eso aislaron El Megatomo con su protector inmortal."""					
-				"""El inmortal ha permanecido en la oscuridad desde entonces, deteriorándose para convertirse en un espectro inmortal conocido como La Masa Gogolítica."""					
+				"""El inmortal ha acechado en la oscuridad desde entonces, deteriorándose para convertirse en un espectro inmortal conocido como La Masa Gogolítica."""					
 				El leñador probablemente habría seguido y seguido con esta tontería si no lo hubiéramos detenido respetuosamente.					
 GIRL_CRESCENTWANE	The Scythian			Leyla observó la luna menguante. Dijo que pronto se iría y que La Luna Tenebrosa reinaría.					
 ARCHETYPE_CRESCENTWANE	The Archetype			El ciclo lunar está casi completo. La Luna Tenebrosa está muy cerca.					
