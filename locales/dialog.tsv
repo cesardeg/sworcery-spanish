@@ -17,7 +17,7 @@ INFO_CROSSMOUNTAINRIGHT	The Scythian			En la escarpada ladera de Mingi Taw una t
 INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima de Mingi Taw había un poste siniestro adornado con una calavera con astas.					
 INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima de Mingi Taw descansaba una tumba solitaria, un siniestro recuerdo de las muchas personas que habían muerto allí.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos El Megatomo engastado entre dos manos esqueléticas y sentimos cómo nuestra espada vibraba en su vaina. #megatome			33	006.jpg	30D6C
-DOOR_SIDEBMEADOW	The Scythian			"Había una puerta pequeña sin pomo hecha de un material desconocido. Una señal reza: ""Solo personal autorizado""."					
+DOOR_SIDEBMEADOW	The Scythian			Había una puerta pequeña sin pomo hecha de un material desconocido. Una señal reza: 'Solo personal autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			Una puerta cerrada en el muro de piedra bloqueaba el antiguo camino hacia Mingi Taw.					
 DOOR_UPSLOPEWOODS3	The Scythian			En el bosque, bajo el antiguo camino que asciende a Mingi Taw, una puerta cerrada se ocultaba entre los matorrales. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
@@ -54,12 +54,12 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
 				¿Tienes auriculares? ¿Listo para comenzar? Presiona 'iniciar' y ¡allá vamos!.					
 ARCHETYPE_FOUNDATION	The Archetype			Hablemos del entorno y la configuración para tener una experiencia positiva con el altamente psicoactivo Superbrothers: Sword & Sworcery EP.					
-				"""Entorno"" se refiere al estado mental y estructura de personalidad que llevas a la experiencia, como tus pensamientos, estados de ánimo y expectativas."					
+				'Entorno' se refiere al estado mental y estructura de personalidad que llevas a la experiencia, como tus pensamientos, estados de ánimo y expectativas.					
 				Hemos descubierto que las personas relajadas y curiosas tienden a tener una experiencia más placentera con S:S&S EP.					
-				"""Configuración"" incluye la comodidad, seguridad y calidez de la habitación o el lugar al aire libre donde tendrás la experiencia."					
-				"Otro aspecto de la ""Configuración"" es el contexto cultural, las ideas predominantes sobre la realidad y la normalidad. Por ahora, evitaremos discutir esto."					
+				'Configuración' incluye la comodidad, seguridad y calidez de la habitación o el lugar al aire libre donde tendrás la experiencia.					
+				Otro aspecto de la 'Configuración' es el contexto cultural, las ideas predominantes sobre la realidad y la normalidad. Por ahora, evitaremos discutir esto.					
 				S:S&S EP no busca ofrecer una experiencia trascendental, sino liberar el sistema nervioso de los patrones ordinarios.					
-				"La conciencia expandida, el potencial ilimitado e inexplorado de la mente, es lo que en Superbrothers llamamos ""Espadamancia"". #sworcery"					
+				La conciencia expandida, el potencial ilimitado e inexplorado de la mente, es lo que en Superbrothers llamamos 'Espadamancia'. #sworcery					
 				La Canción de Espadamancia se puede entender como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
 				Para detener la Canción de Espadamancia, simplemente toca dos veces el aura que rodea a La Escita.					
 				Una vez que hayas comenzado a entonar la Canción de Espadamancia, desliza el aura para mirar alrededor.					
@@ -67,8 +67,8 @@ ARCHETYPE_FOUNDATION	The Archetype			Hablemos del entorno y la configuración pa
 				Como puedes ver, El Megatomo recopila y almacena transmisiones de pensamiento lingüístico. Desplázate hacia abajo para ver en qué estaba pensando antes.					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la Canción de Espadamancia y ahora el insondable poder de El Megatomo es tuyo."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo que necesitarás para completar tu funesto cometido."""					
-			adventureUI/megatomeItem	Se me acaba de ocurrir algo... ¿Qué tal si abres El Megatomo y descubres lo que se oculta en mi mente?.					
-				Busca un triángulo blanco en la esquina superior derecha... tócalo y luego equipa El Megatomo... luego gira para revelar lo que está oculto.					
+			adventureUI/megatomeItem	"""Se me acaba de ocurrir algo... ¿Qué tal si abres El Megatomo y descubres lo que se oculta en mi mente?."""					
+				"""Busca un triángulo blanco en la esquina superior derecha... tócalo y luego equipa El Megatomo... luego gira para revelar lo que está oculto."""					
 LOGFELLA_STORM	The Scythian			El leñador conocido como Troncucho había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Troncucho nos recordó cómo la tormenta había comenzado poco después de que recuperamos El Megatomo debajo de Mingi Taw.					
 				¿Estaba Troncucho insinuando sutilmente que deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
@@ -129,7 +129,7 @@ INFO_CABINHEARTH	The Scythian			Dentro de la choza, el fuego crepitaba tranquila
 INFO_CABINSEAT	The Scythian			Dentro de la choza, a ambos lados del fuego, había dos asientos de madera toscos.					
 INFO_GOGOLITHICMASS	The Scythian			Descubrimos una calavera con astas flotando en la oscuridad debajo de Mingi Taw.					
 INFO_MEGATOMBTRIFECTA	The Scythian			En la oscuridad, descubrimos una representación pictórica de La Tríada Trigonal debajo de Mingi Taw.					
-INFO_ROCKSHOWGIRL	The Scythian			"En el concierto de rock, vimos a Leyla y parecía que dijo ""camina por el fuego conmigo""."					
+INFO_ROCKSHOWGIRL	The Scythian			En el concierto de rock, vimos a Leyla y parecía que dijo 'camina por el fuego conmigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			En el concierto de rock, vimos a uno de esos esqueletos vibrando al ritmo siniestro.					
 INFO_ROCKSHOWJIM	The Scythian			Encabezando el concierto de rock estaba el misterioso músico conocido como Jim Guthrie.			160	020.jpg	T2G03
 INFO_ROCKSHOWBOOR	The Scythian			En el concierto de rock, vimos al Tosco Pardo meneando su cosa nudista.			121	021.jpg	E2G15
@@ -163,14 +163,14 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un puñado de tumbas en un matorral a 
 				"""Bueno, en realidad, morimos debido a una discusión que tuvimos por aburrimiento."""					
 				"""No quiero entrar en detalles en este momento, si no te importa."""					
 				"""Bueno, lo que pasó fue que uno de los nuestros era un tramposo bribón y lo atrapamos con las manos en la masa."""					
-				""""Estalló una pelea y el tramposo bribón huyó por el antiguo camino hacia el Precipicio Peligroso."""					
+				"""Estalló una pelea y el tramposo bribón huyó por el antiguo camino hacia el Precipicio Peligroso."""					
 				"""Así que estábamos allí, sin saber qué hacer... cuando de repente apareció La Masa Gogolítica... ¡Y zas!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Divisamos una tumba solitaria en el borde del Precipicio Peligroso que despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la tumba solitaria del tramposo bribón en el Precipicio Peligroso y conocimos a un fantasma radiante.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' organizó un pelotón y nos propusimos reconstruir La Tríada Trigonal."""					
 				"""Los demás miembros del pelotón están enterrados en un matorral al lado del antiguo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Logramos localizar y domar a El Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
-				""Buscamos a El Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando a que el temperamento de la luna cambiara."""					
+				"""Buscamos a El Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando a que el temperamento de la luna cambiara."""					
 				"""Fue super aburrido. No estaba dispuesto a esperar días y días hasta que La Luna Radiante surgiera."""					
 				"""Dejé que esos perdedores vagaran sin rumbo mientras yo investigaba más sobre esa trampa lógico-lunar."""					
 				El fantasma radiante habló sobre cómo hizo trampa al salir de S:S&S EP e ir a la Configuración del Sistema.					
@@ -189,7 +189,7 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titáni
 				"""El canto del Trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
 LOGFELLA_LOSTKEY	The Scythian			El leñador afligido conocido como Troncucho estaba completamente alterado por algo.					
 			AdventureUI/keyItem	Al parecer, Troncucho había perdido la llave de la puerta del muro de piedra que bloqueaba el antiguo camino hacia Mingi Taw.					
-				"Nosotros estábamos en una especie de ""misión de búsqueda"", ¿O me equivoco?"					
+				Nosotros estábamos en una especie de 'misión de búsqueda', ¿O me equivoco?					
 				Troncucho nos dijo que había estado sentado justo aquí cuando cayó en un sueño profundo.					
 			AdventureUI/keyItem	Troncucho nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
 				Ya habíamos oído hablar de los extraños sueños de los montañeses del Cáucaso, así que tenía sentido para nosotros.					
@@ -232,7 +232,7 @@ ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adi
 				La evidencia arqueológica indica que el uso chamánico de los hongos para la comunión religiosa, la adivinación y la curación es bastante antiguo.					
 				Fisiológicamente, es posible que experimentes sensaciones de bienestar y percepciones aumentadas, una disminución del estrés y una pérdida del apetito.					
 				Los hongos del bosque podrían ofrecerte una visión oblicua sobre el paradero de un espíritu silvano y sus extraños activadores.			60	035.jpg	53A5Y
-ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo puedes sentir? ¿Estás comenzando a comprender? ¿Tienen los símbolos y formas esotéricas dentro de El Megatomo un nuevo significado?.				
+ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo puedes sentir? ¿Estás comenzando a comprender? ¿Tienen los símbolos y formas esotéricas dentro de El Megatomo un nuevo significado?.					
 				Este rayo conecta el mundo de los vivos y el mundo de los muertos, por lo que es posible que encuentres uno o dos fantasmas con los que hablar en tus viajes.					
 				Me han informado de que has activado el primer rayo ascendente en el Bosque Trigonal.					
 GIRL_CABINSHEEP	The Scythian			Preguntamos a Leyla sobre las ovejas insignificantes que holgazaneaban por la choza y ella nos dijo que se habían asustado hace un rato.					
@@ -243,7 +243,7 @@ GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Está comen
 				Esta tormenta entera me ha estado deprimiendo. Ha sido todo tan sombrío.					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Se me puso la piel de gallina... Sin duda algo está pasando... ¿Está comenzando a disiparse la tormenta?.					
 				Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas.					
-DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
+DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau, Guau, Guau, Guau, Guau, Guau, Guau, Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Una vez que el sol esté alineado, se te concederán las habilidades milagrosas de plegado del gran mago Al Jaffee					
 				¿Sientes esa sensación peculiar? ¡Es la temporada de milagros! Entona la Canción de Espadamancia y mira hacia los pájaros enojados que se alzan imponentes.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira al cielo en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira a El Trigón Dorado.					
@@ -324,7 +324,7 @@ LOGFELLA_GHOUL	The Scythian			Nos despertamos aturdidos de un sueño súper prof
 				El leñador sabía que estábamos cerca del final y que debíamos volver a Mingi Taw para finalizar nuestro funesto cometido.					
 LOGFELLA_TRIGONGROVETIPS	The Scythian			El leñador conocido como Troncucho nunca antes había visto el Bosque Trigonal y se preguntaba de qué se trataba todo aquello.					
 LOGFELLA_TRIFECTATIPS	The Scythian			El leñador conocido como Troncucho se sentía muy triste por la ausencia de Leyla.					
-				"Le dijimos a Troncucho que sabíamos dónde podría estar ella y pronto arreglaríamos las cosas."					
+				Le dijimos a Troncucho que sabíamos dónde podría estar ella y pronto arreglaríamos las cosas.					
 				Él miró la plataforma cercana y nos agradeció de antemano por todo lo relacionado con el martirio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
@@ -337,8 +337,7 @@ GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Desper
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano en la maleza en lo alto de un peñasco rocoso.					
-GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se 
-ne y despertamos a un espíritu silvano en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano en las aguas traquilas de un lago donde una pata madre estaba enloqueciendo.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano en un tranquilo lago bajo una tríada de búhos.					
@@ -348,11 +347,11 @@ GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd
 GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Tenebrosa reina y despertamos a un espíritu silvano en la maleza al otro lado de un lago.					
 GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano acechando en la raíz de un árbol titánico.					
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa sensación peculiar de que, tal vez, estemos ante la temporada de milagros. ¿Dónde están mis milagros? #miracles			77	060.jpg	86D06
-GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Guau Guau. #barking			135	061.jpg	M6F1I
-				Guau Guau Guau. #justbarking					
+GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau, Guau, Guau, Guau, Guau, Guau. #barking			135	061.jpg	M6F1I
+				Guau, Guau, Guau. #justbarking					
 				A veces me canso de ladrar todo el tiempo, pero un perro tiene que hacer lo que se supone que un perro tiene que hacer.					
-				Guau Sniff Guau. #mixingitup					
-				Guau Guau Guau Guau Guau Guau.					
+				Guau, Sniff, Guau. #mixingitup					
+				Guau, Guau, Guau, Guau, Guau, Guau.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Hay algo extraño en cómo se comportó La Escita, casi como si estuviera siendo controlada por una fuerza invisible.					
 				Me gustaría saber más sobre la historia épica de La Escita, apuesto a que entonces todo tendría sentido.					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que La Escita esté invirtiendo todos sus esfuerzos en el tema de los espíritus silvanos.					
@@ -361,15 +360,15 @@ GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha estado completam
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Esta tormenta entera me ha estado deprimiendo. ¡Ha sido todo taaan sombrío!.					
 				La lluvia ha comenzado a ceder y el cielo parece aclararse... ¿Será está la temporada de milagros? Espero que así sea, no hay duda que los amo.					
 				Vaya... ¿Qué? Las ovejas del prado se han asustado... Me pregunto qué estará pasando, podría ser... ¿El Trigón Dorado?.					
-GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		"Guau Guau Guau. "					
+GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Guau, Guau, Guau. 					
 				A veces cuando las cosas están demasiado oscuras para mi, ingiero algo y veo incluso lo que no está ahí.					
-				Guau Guau Guau Guau Guau.					
+				Guau, Guau, Guau, Guau, Guau.					
 GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Tengo esta canción en mi cabeza... una canción alegre y triste que me llena de un extraño y hermoso temor.					
 GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Sé que buscas evitar tu funesto cometido, pero debes saber esto: el tiempo es una fuerza y, sin duda, seguirá su curso.					
-				Guau Guau Guau. Sniff.					
+				Guau, Guau, Guau. Sniff.					
 GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		También hay sustantivos desconocidos, aunque estos se aprenden fácilmente.					
 				Hay dos tipos de incógnitas, las incógnitas conocidas y las incógnitas desconocidas.			32	063.jpg	L6E31
-				"Guau Guau Guau. "					
+				Guau, Guau, Guau. 					
 GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mis troncos guardan muchos secretos... secretos sobre los espíritus silvanos e islas imposibles. Lamentablemente, no hablo el idioma de los troncos.					
 				En mi experiencia, hay momentos en que los búhos no son lo que parecen... y otros en los que son simples búhos.			126	064.jpg	86A47
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oído hablar sobre una isla imposible bajo La Luna Radiante ...¿Quizás lo leíste en internet?.			134	065.jpg	H6A5I
@@ -379,11 +378,11 @@ GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvano
 				Para ser honesta, los espíritus silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?.					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los espíritus hayan sido enviados al cielo y la temporada de milagros se acerque, debes buscar el árbol titánico.					
 				Sé que sabes lo que sé y quiero que sepas que estás completamente en lo cierto.			109	066.jpg	F6D6H
-				Guau Guau Guau Sniff Guau Guau Guau.					
+				Guau, Guau, Guau, Sniff, Guau, Guau, Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu funesto cometido traerá la paz de vuelta a nuestras vidas.					
 				Solo La Tríada Trigonal te permitirá comprender los secretos del Bosque Trigonal.					
 				El Arremolinado Infinito en la cima de Mingi Taw te espera.					
-				Guau Guau Guau.					
+				Guau, Guau, Guau.					
 GCLUE_WATERFALLS	Girl			¿Alguna vez has notado que a veces las palabras simplemente suenan como ruido, pero otras veces el ruido produce el sonido más bello?.			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí, entre los montañeses del Cáucaso.					
 				Hay un dicho aqui en el Cáucaso que dice que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
@@ -407,7 +406,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Cruzar de manera segura el umbral de l
 				Cuando estás lúcido en un sueño, te das cuenta de quién has imaginado que eres... pero identificarte con el sueño es ser hechizado.					
 				Incluso en un sueño ya conocido, hay nuevos lugares para explorar y nuevas conexiones para considerar... si sigues creyendo.					
 GIRL_MOONGROTTOCOMMENT	Girl			Siento como si el cosmos hubiera dado un vuelco y ahora todo estuviera un poco... desequilibrado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			"Es un largo camino de 0 a 1, y si un extraterrestre dijera ""Hola"", sería en un código críptico en el estéreo. Espera... ¿Qué?"					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			Es un largo camino de 0 a 1, y si un extraterrestre dijera 'Hola', sería en un código críptico en el estéreo. Espera... ¿Qué?					
 GIRL_HUGETREETHOUGHTS	Girl			Por supuesto, nunca le hablo a la gente sobre estos sueños de diosas y árboles porque probablemente solo me llamarían hippie o algo así.					
 				En mi lugar especial visito a un árbol hueco titánico... ella es una diosa que hace mucho tiempo murió y que antecede a la humanidad por eras incontables.					
 				En mi sueño hay un lugar especial al que siempre voy, un parlamento de árboles en el corazón del mundo.					
@@ -416,7 +415,7 @@ LOGFELLA_HUGETREETHOUGHTS	Logfella			Me encanta ver los mismos bosques con difer
 MIRACLE1_MOUNTAINMEADOW	The Scythian			Hemos realizado un milagro disipador de tormentas en un prado bañado por el sol, al estilo del mago loco Al Jaffee.					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Nos sentimos confundidos y desconcertados en un prado bañado por el sol, con uno de esos dolores de cabeza realmente intensos.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Nos despertamos aturdidos de un sueño muy profundo sin un recuerdo claro de lo que había sucedido.					
-			triangle/Triangle	"Recordamos el milagro en el prado y nuestro encuentro con El Trigón Dorado... "					
+			triangle/Triangle	Recordamos el milagro en el prado y nuestro encuentro con El Trigón Dorado... 					
 			triangle/Triangle	...¿Qué nuevos poderes se nos han otorgado?.					
 			triangle/Triangle	Troncucho quedó totalmente asombrado por lo impresionante y extraña que sonaba la pelea con el Trigón Dorado.			81	071.jpg	R7C14
 			triangle/Triangle	Troncucho se preguntaba si tal vez el Trigón Dorado podría estar relacionado con los misterios sombríos más allá del portón de hierro en el prado...					
@@ -437,11 +436,11 @@ DOGFELLA_GETBRIGHTTRIGON	The Scythian			Después de activar otro rayo ascendente
 			Archetype/trifecta	De repente parecía que entendíamos a Chucho, nos instó a buscar El Trigón Luna Radiante y completar La Tríada Trigonal.					
 DOGFELLA_THREETRIGONS	The Scythian			Después de activar otro rayo ascendente en el Bosque Trigonal, notamos algo peculiar en el perro llamado Chucho.					
 			Archetype/trifecta	De repente parecía que entendíamos a Chucho, nos instó a activar el tercer rayo ascendente y abrir la entrada al Arremolinado Infinito.					
-DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
-				Guau Guau Sniff Guau.					
+DOGFELLA_TRUTHBOMB	Dogfella			Guau, Guau, Guau.					
+				Guau, Guau, Sniff, Guau.					
 				El cosmos en el Arremolinado Infinito en la cima de Mingi Taw espera a aquel que lleva El Megatomo.					
-				Guau Guau Guau Guau Guau.					
-				Guau Guau Guau.					
+				Guau, Guau, Guau, Guau, Guau.					
+				Guau, Guau, Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Leyla se sentó en una roca cerca del lugar donde el leñador cortaba leña.					
 			Archetype/trifecta	Le preguntamos sobre los secretos del Bosque Trigonal y los peculiares sueños de los montañeses del Cáucaso.					
 				Ella nos contó cómo los sueños de su gente contenían muchos misterios y reflejaban el temperamento de la luna de manera extraña.					
@@ -565,7 +564,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			La Luna Tenebrosa reina, el final del ci
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Tenebrosa!.			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			En mi sueño llegué a un parlamento de árboles sacudido por un rayo y sentí la presencia de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una música vibrante filtrándose a través de los bosques detrás de mi choza. ¿Qué podría ser?.					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño solo vislumbré las sutiles brumas melodiosas de los espíritus silvanos.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau, Guau, Guau. En mi estado de sueño solo vislumbré las sutiles brumas melodiosas de los espíritus silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Hemos reconstruido La Tríada Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Hemos asesinado inexplicablemente a 3 conejos indefensos.					
 RABBITS_7MURDERS	The Scythian			Hemos asesinado inexplicablemente a 7 conejos indefensos. ¿Estamos ante la evidencia de una mente transtornada?.					
@@ -581,7 +580,7 @@ ARCHETYPE_CREDITS	The Archetype
 			Logos/superbrothers	Concepto original a cargo de la organización de arte y diseño conocida como Superbrothers Inc. en superbrothers.ca					
 				Canciones y algunos sonidos a cargo del amado compositor y estrella de rock conocido como Jim Guthrie en jimguthrie.org					
 			Logos/capy	Ingeniería y milagros a cargo del estudio independiente de videojuegos conocido como Capy en capybaragames.com					
-			Logos/eightfour	Traducción al japonés, marketing, relaciones públicas y cariño proporcionados por 8-4, Ltd. Todo el equipo en 8-4.jp										
+			Logos/eightfour	Traducción al japonés, marketing, relaciones públicas y cariño proporcionados por 8-4, Ltd. Todo el equipo en 8-4.jp					
 				* * * EL EQUIPO de S:S&S EP * * *					
 				Concepto, arte, diseño, dirección y guión a cargo de representantes de Superbrothers Inc. (@the1console).					
 				Diseño, líder de proyecto, incansable apoyo y más a cargo de Kris Piotrowski (@krispiotrowski), director creativo en Capy.					
@@ -589,15 +588,15 @@ ARCHETYPE_CREDITS	The Archetype
 				Guiones, combates y milagros a cargo de Frankie Leung (@mpfTempVar), programador de jugabilidad líder de S:S&S EP en Capy.					
 				Inspiración, canciones, sonidos, alma y mucho más a cargo de de Jim Guthrie (@jampants), compositor, héroe del folk y rockero por excelencia.					
 				* * * ADEMÁS DE * * *					
-				"Voz de Troncucho a cargo de Robert Ashley (@robertashley), creador del programa de radio ""A Life Well Wasted"" en www.alifewellwasted.com"					
+				Voz de Troncucho a cargo de Robert Ashley (@robertashley), creador del programa de radio 'A Life Well Wasted' en www.alifewellwasted.com					
 				Voz de La Escita a cargo de la fotógrafa Robyn Cumming en robyncumming.com					
 				Voz del Arquetipo a cargo de el artista y cineasta Clive Holden (@cliveholden) en cliveholden.com					
 				Sonidos cósmicos de la Gruta Lunar a cargo de Scientific American (@scntfc) en scntfc.com					
 				* * * EL EQUIPO DE CAPY * * *					
 				Nathan Vella (@Capy_Nathan), presidente en Capy, productor ejecutivo, héroe del pueblo gracias a su liderazgo y habilidades estratégicas.					
-				"Sean ""Uber"" Lohrisch, co-fundador de Capy, productor de PC, asistencia técnica de audio, integración fMOD y muchos sonidos encantadores."					
-				"Matt ""Juggalord"" Repetski, co-fundador en Capy, asistencia administrativa y comercial."					
-				"Christian ""Sea Dawg"" Meyer (@fiddler6), Control de calidad y heroico mega-tester."					
+				Sean 'Uber' Lohrisch, co-fundador de Capy, productor de PC, asistencia técnica de audio, integración fMOD y muchos sonidos encantadores.					
+				Matt 'Juggalord' Repetski, co-fundador en Capy, asistencia administrativa y comercial.					
+				Christian 'Sea Dawg' Meyer (@fiddler6), Control de calidad y heroico mega-tester.					
 				Agradecimientos a Xavier Xaden Xen, Joseph Theodore Blocco, Hank Hudson.					
 				* * * EL EQUIPO DE SUPERBROTHERS * * *					
 				Jori Baldwin (@aurorajorealis), enlace, comunicaciones, CC, inspiración, paciencia infinita y apoyo moral interminable.					
@@ -610,12 +609,13 @@ ARCHETYPE_CREDITS	The Archetype
 				MASAHIRO YUKI (@You_to_the_ki) de Grasshopper Manufacture, edición japonesa, consejo crucial y apoyo interminable en www.ghm.jp					
 				POLYGRAPH (@polygraph_suwa), diseño del increíble logotipo japonés en www.polygraph.jp					
 				Jonathan Lumb (@jonnyram), magia del sitio web japonés en www.jonnyram.com					
-				Y finalmente, agradecimientos por al apoyo y amistad de @suda_51, Tomoaki Takahashi, @eightbear, y los artistas de remezcla @baiyon, @akirayamaoka, Michiru Yamane, @macotom3 y Decasségui Hip.					
+				Y finalmente, agradecimientos por al apoyo y amistad de Suda 51, Tomoaki Takahashi, Hideto Yamada.					
+				Y a los artistas de remezcla Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, & Decassegui Hip					
 				* * * EL DOMINIO DE CANADÁ * * *					
 			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de la Ontario Media Development Corporation (OMDC).					
 				* * * LOS QUEREMOS MUCHÍSIMO * * *					
 				A Brandon Boyer (@brandonnn), Mathew Kumar (@mathewkumar) y Jason DeGroot (@jason6955) por alinear las estrellas.					
-				"Mucho amor a las increíbles comunidades de videojuegos de Toronto y a la gente encantadora de ""The Hand Eye Society"", TOJam y Gamercamp."					
+				Mucho amor a las increíbles comunidades de videojuegos de Toronto y a la gente encantadora de 'The Hand Eye Society', TOJam y Gamercamp.					
 				A la familia y amigos: los queremos y realmente esperamos volver a verlos. ¿Cómo han estado desde la última vez que hablamos?.					
 				A todos los que han apoyado y animado este proyecto: ¡Muchas gracias por su paciencia, curiosidad y fe!.					
 				* * * PROCESO * * *					
@@ -625,30 +625,30 @@ ARCHETYPE_CREDITS	The Archetype
 				El código fue programado utilizando C++ y Lua script con tolua++. Los mapas y elementos del mundo fueron creados con herramientas propiedad de Capy.					
 				Cálculo de ciclos lunares y algoritmos astronómicos cortesía de voidware.com/moon_phase.htm					
 				Las APIs utilizadas en la creación de S:S&S EP incluyen twitcurl, tinyxml, libpng/zlib, SDL, cmake, y minizip.					
-				"Un build absurdamente temprano fue presentado en el ""Independent Games Festival"" el 1 de Noviembre de 2009."					
+				Un build absurdamente temprano fue presentado en el 'Independent Games Festival' el 1 de Noviembre de 2009.					
 				S:S&S EP fue anunciado el 1 de Diciembre de 2009.					
-				"A principios de 2010 se anunció que el proyecto había ganado el premio IGF Mobile ""Achievement in Art""."					
-				"La primera demostración pública en directo de S:S&S EP ocurrió en un evento social de la ""Hand Eye Society"" de Toronto el 14 de febrero de 2010."					
+				A principios de 2010 se anunció que el proyecto había ganado el premio IGF Mobile 'Achievement in Art'.					
+				La primera demostración pública en directo de S:S&S EP ocurrió en un evento social de la 'Hand Eye Society' de Toronto el 14 de febrero de 2010.					
 				La primera versión jugable de S:S&S EP fue presentada a los asistentes y amigos en la GDC 2010 de San Francisco del 9 al 13 de marzo de 2010.					
 				El primer gameplay no editado de la GDC apareció simultáneamente en internet.					
-				"""Less Talk, More Rock: The Native Language of Videogames"" fue publicado online en Boing Boing en Marzo de 2010 y puedes buscarlo en Google."					
-				"El proyecto ""se oscureció"" durante unos meses, mientras nosotros, ya sabes, hacíamos el videojuego. Clic clic clic clic."					
+				'Less Talk, More Rock: The Native Language of Videogames' fue publicado online en Boing Boing en Marzo de 2010 y puedes buscarlo en Google.					
+				El proyecto 'se oscureció' durante unos meses, mientras nosotros, ya sabes, hacíamos el videojuego. Clic clic clic clic.					
 				Llevó un poco más de tiempo del esperado finalizarlo.					
-				"""The Intoxication of Mythology"" fue presentado por Superbrothers el 22 de Septiembre de 2010 en el Fantastic Arcade de Austin."					
-				"""Aiming for Audiovisual Alchemy"" fue presentado por Jim Guthrie, Kris Piotrowski y Superbrothers en la Gamercamp de Toronto."					
-				"Un nuevo vídeo titulado ""Audience Calibration Procedure"" fue posteado el jueves 24 de febrero de 2011 para empezar a poner en marcha las cosas."					
+				'The Intoxication of Mythology' fue presentado por Superbrothers el 22 de Septiembre de 2010 en el Fantastic Arcade de Austin.					
+				'Aiming for Audiovisual Alchemy' fue presentado por Jim Guthrie, Kris Piotrowski y Superbrothers en la Gamercamp de Toronto.					
+				Un nuevo vídeo titulado 'Audience Calibration Procedure' fue posteado el jueves 24 de febrero de 2011 para empezar a poner en marcha las cosas.					
 				S:S&S EP estuvo finalmente disponible para iPad alrededor del equinoccio de primavera en 2011, poco antes del fin del mundo.					
-				"Pusimos ""MIDSUMMER ROCKSHOWCASE"" en la TIFF Lightbox de Toronto con material S&S de Jim Guthrie. ¡Fue impresionante!."					
+				Pusimos 'MIDSUMMER ROCKSHOWCASE' en la TIFF Lightbox de Toronto con material S&S de Jim Guthrie. ¡Fue impresionante!.					
 				S:S&S EP finalmente se lanzó para iPhone y iPod Touch, y hubo mucha alegría.					
 				En los meses posteriores del lanzamiento algunos de nosotros nos casamos, algunos de nosotros nos separamos y todos nos movimos.					
-				"Se le pidió a Jim Guthrie que creara la banda sonora del documental ""Indie Game: The Movie"" (@indiegamemovie)."					
+				Se le pidió a Jim Guthrie que creara la banda sonora del documental 'Indie Game: The Movie' (@indiegamemovie).					
 				Capy está concentrada actualmente en crear un puñado de videojuegos entre los que se encuentra el impresionante SUPER T.I.M.E. FORCE.					
 				El personal de Superbrothers Inc se está tomando un tiempo para soñar nuevos sueños.					
 				S:S&S EP fue uno de los videojuegos Top 10 de 2011 para la revista Time Magazine junto a juegos AAA como Dark Souls y Skyrim, ¡Vaya!.					
-				"La música de Jim Guthrie fue reconocida como ""La mejor música de videojuego de 2011"" por Kirk Hamilton (@kirkhamilton) en Kotaku."					
-				"El hashtag sworcery de S:S&S EP fue ""uno de los mayores eventos de internet de 2011"" según Co.Design & Syzygy."					
+				La música de Jim Guthrie fue reconocida como 'La mejor música de videojuego de 2011' por Kirk Hamilton (@kirkhamilton) en Kotaku.					
+				El hashtag sworcery de S:S&S EP fue 'uno de los mayores eventos de internet de 2011' según Co.Design & Syzygy.					
 				S:S&S EP ganó un Game Developer's Choice Award en la GDC de 2012, superando a títulos AAA... lo cual fue increíble.					
-				"Jim Guthrie sacó un nuevo disco llamado ""The Children of the Clone"" con temas de S:S&S EP."					
+				Jim Guthrie sacó un nuevo disco llamado 'The Children of the Clone' con temas de S:S&S EP.					
 				Después de eso, la historia se vuelve un poco confusa, así que sintoniza en swordandsworcery.com para más información.					
 				Ha sido un viaje increíblemente positivo, esperamos que sigas profundizando.					
 				* * * QUÉ ES S:S&S EP? * * *					
@@ -659,8 +659,8 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&S EP ha sido construido teniendo en cuenta la mitopoética psicocosmológica de las historias de espadas y brujería de Robert E. Howard.					
 				S:S&S EP es un enlace al pasado.			167	083.jpg	18E3V
 				S:S&S EP es un primer esfuerzo, así que sí, es un poco experimental.					
-				"El concepto estético de S:S&S EP es ""la aventura de videojuego arquetípica""."					
-				"S:S&S EP hace referencias indirectas a Carl G. Jung y su fascinante ""Libro Rojo"" en muchos lugares."					
+				El concepto estético de S:S&S EP es 'la aventura de videojuego arquetípica'.					
+				S:S&S EP hace referencias indirectas a Carl G. Jung y su fascinante 'Libro Rojo' en muchos lugares.					
 				S:S&S EP es una pequeña y genial creación que no entiendo del todo, pero que creo que todos deberían jugar en su dispositivo táctil o PC.					
 				S:S&S EP es un haiku de videojuego crudo sobre la vida, el amor y la muerte.					
 				S:S&S EP trata sobre mitos y sueños.					
