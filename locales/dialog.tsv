@@ -350,7 +350,7 @@ GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	T
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau, Guau, Guau, Guau, Guau, Guau. #barking			135	061.jpg	M6F1I
 				Guau, Guau, Guau. #justbarking					
 				A veces me canso de ladrar todo el tiempo, pero un perro tiene que hacer lo que se supone que un perro tiene que hacer.					
-				Guau, Sniff, Guau. #mixingitup					
+				Guau, Snif, Guau. #mixingitup					
 				Guau, Guau, Guau, Guau, Guau, Guau.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Hay algo extraño en cómo se comportó La Escita, casi como si estuviera siendo controlada por una fuerza invisible.					
 				Me gustaría saber más sobre la historia épica de La Escita, apuesto a que entonces todo tendría sentido.					
@@ -365,12 +365,12 @@ GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Guau, Guau, Guau.
 				Guau, Guau, Guau, Guau, Guau.					
 GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Tengo esta canción en mi cabeza... una canción alegre y triste que me llena de un extraño y hermoso temor.					
 GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Sé que buscas evitar tu funesto cometido, pero debes saber esto: el tiempo es una fuerza y, sin duda, seguirá su curso.					
-				Guau, Guau, Guau. Sniff.					
+				Guau, Guau, Guau. Snif.					
 GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		También hay sustantivos desconocidos, aunque estos se aprenden fácilmente.					
 				Hay dos tipos de incógnitas, las incógnitas conocidas y las incógnitas desconocidas.			32	063.jpg	L6E31
 				Guau, Guau, Guau. 					
-GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mis troncos guardan muchos secretos... secretos sobre los espíritus silvanos e islas imposibles. Lamentablemente, no hablo el idioma de los troncos.					
-				En mi experiencia, hay momentos en que los búhos no son lo que parecen... y otros en los que son simples búhos.			126	064.jpg	86A47
+GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mis troncos guardan muchos secretos... secretos sobre los espíritus silvanos e islas imposibles. Lamentablemente, no hablo Tronqués.					
+				En mi experiencia, hay ocasiones en las que los búhos no son lo que parecen, mientras que en otras simplemente son búhos comunes y corrientes.			126	064.jpg	86A47
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oído hablar sobre una isla imposible bajo La Luna Radiante ...¿Quizás lo leíste en internet?.			134	065.jpg	H6A5I
 				Hemos estado monitoreando tus acciones en silencio y queremos señalar que mientras más tiempo tardes en decidir, más pequeña será la celebración.					
 				Parece que has progresado bastante en tu esfuerzo para localizar y domar a el Trigón Luna Radiante, ¡Muy bien hecho!.					
@@ -378,7 +378,7 @@ GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvano
 				Para ser honesta, los espíritus silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?.					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los espíritus hayan sido enviados al cielo y la temporada de milagros se acerque, debes buscar el árbol titánico.					
 				Sé que sabes lo que sé y quiero que sepas que estás completamente en lo cierto.			109	066.jpg	F6D6H
-				Guau, Guau, Guau, Sniff, Guau, Guau, Guau.					
+				Guau, Guau, Guau, Snif, Guau, Guau, Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu funesto cometido traerá la paz de vuelta a nuestras vidas.					
 				Solo La Tríada Trigonal te permitirá comprender los secretos del Bosque Trigonal.					
 				El Arremolinado Infinito en la cima de Mingi Taw te espera.					
@@ -397,9 +397,9 @@ JIM_POSTSWORCERY	The Scythian			El misterioso músico conocido como Jim Guthrie 
 JIM_POSTGOURD	The Scythian			El misterioso músico conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
 				Jim nos invitó a sentarnos junto al fuego.					
 JIM_POSTSONG	The Scythian			Jim Guthrie nos había enseñado que no se podían negar los malos pensamientos, así como no se podía negar la mordedura de un dragón.					
-			Archetype/trifecta	Él nos contó sobre el concierto de rock que tenía programado tocar al otro lado del lago dentro de quince días.					
+			Archetype/trifecta	Él nos contó acerca de un concierto de rock que tenía programado tocar al otro lado del lago dentro de quince días.					
 JIM_LOGFELLATHOUGHTS	Logfella			La canción suena tan familiar... ¿Dónde la he escuchado antes? #1000songs					
-				De repente tengo esta extrañamente genial canción en mi cabeza. #andwegotolder					
+				De repente, tengo esta melodía extrañamente genial en mi cabeza. #andwegotolder					
 LOGFELLA_JIMTHOUGHTS	Logfella			He tenido esta pequeña canción en mi cabeza durante años... solo unas pocas notas que se repiten una y otra vez. Me pregunto qué significa eso.					
 ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Cruzar de manera segura el umbral de la liminalidad es sencillo: busca los lugares familiares y el calor del hogar.					
 				Si logras estabilizar tu lucidez, podrás co-crear con ella... en lugar de luchar, resistir y maldecirla.					
@@ -437,7 +437,7 @@ DOGFELLA_GETBRIGHTTRIGON	The Scythian			Después de activar otro rayo ascendente
 DOGFELLA_THREETRIGONS	The Scythian			Después de activar otro rayo ascendente en el Bosque Trigonal, notamos algo peculiar en el perro llamado Chucho.					
 			Archetype/trifecta	De repente parecía que entendíamos a Chucho, nos instó a activar el tercer rayo ascendente y abrir la entrada al Arremolinado Infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau, Guau, Guau.					
-				Guau, Guau, Sniff, Guau.					
+				Guau, Guau, Snif, Guau.					
 				El cosmos en el Arremolinado Infinito en la cima de Mingi Taw espera a aquel que lleva El Megatomo.					
 				Guau, Guau, Guau, Guau, Guau.					
 				Guau, Guau, Guau.					
@@ -529,13 +529,13 @@ GIRL_HALFWAX	The Scythian			En mi sueño de anoche, estaba caminando por el bosq
 ARCHETYPE_HALFWAX	The Archetype			Algunos folcloristas lunáticos han afirmado que no existe una relación causal entre la locura y el temperamento de la luna.					
 LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demasiado en La Masa Gogolítica y en la montaña desierta de Mingi Taw.					
 				Sin embargo, mencionó que últimamente la presencia espectral de La Masa Gogolítica había comenzado a acosarlo.					
-				El leñador admitió que se le ponía la piel de gallina cuando La Luna Radiante se alzaba... y cuando La Luna Tenebrosa reinaba.					
+				El leñador admitió que se le ponía la piel de gallina cuando La Luna Radiante se asomaba... y cuando La Luna Tenebrosa reinaba.					
 GIRL_ALMOSTWAX	The Scythian			La chica comentó algo sobre la luna creciente y se preguntó cuánto tiempo pasaría hasta que La Luna Radiante se alzara en el cielo.					
 ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece un poco cada día... en unos pocos días, La Luna Radiante se alzará... ¿Y qué?.			165	046.jpg	P4B6A
-LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba de manera extraña cada vez que La Luna Radiante se alzaba en el cielo.			135	061.jpg	M6F1I
+LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba de manera extraña cada vez que La Luna Radiante se asomaba en el cielo.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			Leyla habló sobre paseos oníricos por el bosque en la hora antes del amanecer, con La Luna Radiante asomándose en el cielo.					
 				Mencionó el aire fresco de la mañana y una isla imposible en medio de un lago sereno.					
-ARCHETYPE_BRIGHTMOON	The Archetype			Sal afuera y mira hacia arriba. ¡Maravíllate con La Luna Radiante que se alza en el cielo!.			95	079.jpg	07D95
+ARCHETYPE_BRIGHTMOON	The Archetype			Sal afuera y mira hacia arriba. ¡Maravíllate con La Luna Radiante que se cierne en el cielo!.			95	079.jpg	07D95
 LOGFELLA_ALMOSTWANE	The Scythian			El leñador tenía poca paciencia para el folclore y admitió que normalmente lo adormecía, aunque poseía un buen conocimiento al respecto.					
 				El leñador era conocedor de todos los detalles sobre Mingi Taw y por qué era conocido como el Reino de las Nubes.					
 				Era consciente de que Mingi Taw era la montaña más alta del mundo conocido, incluso más alta que el Monte Olimpo, donde habitaban los dioses aqueos.					
@@ -576,7 +576,7 @@ RABBITS_53MURDERS	The Scythian			Hemos asesinado inexplicablemente a 53 conejos 
 RABBITS_91MURDERS	The Scythian			Hemos asesinado inexplicablemente a 91 conejos indefensos.					
 RABBITS_107MURDERS	The Scythian			Hemos asesinado inexplicablemente a 107 conejos indefensos. ¿Tal vez disminuya nuestra compulsión asesina si dejamos de contar?.					
 ARCHETYPE_CREDITS	The Archetype								
-				S:S&S EP es un proyecto colaborativo realizado en Toronto. Ponte en contacto o manténte informado en swordandsworcery.com.					
+				S:S&S EP es un proyecto colaborativo de tipo videojuego realizado en Toronto. Ponte en contacto o manténte informado en swordandsworcery.com.					
 			Logos/superbrothers	El concepto original a cargo de la organización de arte y diseño conocida como Superbrothers Inc. en superbrothers.ca.					
 				Las canciones y algunos sonidos a cargo del amado compositor y estrella de rock conocido como Jim Guthrie en jimguthrie.org.					
 			Logos/capy	La ingeniería y los milagros a cargo del estudio independiente de videojuegos conocido como Capy en capybaragames.com.					
@@ -592,23 +592,23 @@ ARCHETYPE_CREDITS	The Archetype
 				La voz de La Escita a cargo de la fotógrafa Robyn Cumming en robyncumming.com.					
 				La voz del Arquetipo a cargo del artista y cineasta Clive Holden en cliveholden.com.					
 				Los sonidos cósmicos de la Gruta Lunar a cargo de Scientific American en scntfc.com.					
-				* * * EL EQUIPO DE CAPY * * *					
+				* * * APOYO DE CAPY * * *					
 				Nathan Vella, presidente en Capy, productor ejecutivo, héroe del pueblo gracias a su liderazgo y habilidades estratégicas.					
 				Sean 'Uber' Lohrisch, cofundador de Capy, productor de PC, asistencia técnica de audio, integración fMOD y muchos sonidos encantadores.					
 				Matt 'Juggalord' Repetski, cofundador en Capy, asistencia administrativa y comercial.					
 				Christian 'Sea Dawg' Meyer, Control de calidad y heroico mega-tester.					
 				Agradecimientos a Xavier Xaden Xen, Joseph Theodore Blocco, Hank Hudson.					
-				* * * EL EQUIPO DE SUPERBROTHERS * * *					
+				* * * APOYO DE SUPERBROTHERS * * *					
 				Jori Baldwin, enlace, comunicaciones, CC, inspiración, paciencia infinita y apoyo moral interminable.					
 				Mack C. Adams, asistencia de negocios, apoyo financiero y apoyo moral inquebrantable.					
 				Muchos agradecimientos a Sheila Precious, David Adams, Sarah Adams y Cimarron Corpe por mantener el barco a flote ante mares tormentosos.					
 				Muchas gracias a Jim Guthrie por embarcarse en esta aventura loca hacia lo desconocido.					
 				Con sonidos adicionales de un millón de dólares cortesía de Timothy Muirhead.					
-				* * * EL EQUIPO DE 8-4 * * *					
+				* * * APOYO DE 8-4 * * *					
 				Maestro de las palabras y traducción al japonés a cargo de RYUTA YAZAWA.					
-				MASAHIRO YUKI de Grasshopper Manufacture, edición japonesa, consejo crucial y apoyo interminable en www.ghm.jp					
-				Diseño del increíble logotipo japonés a cargo de POLYGRAPH en www.polygraph.jp					
-				Magia del sitio web japonés a cargo de Jonathan Lumb en www.jonnyram.com					
+				Edición japonesa, consejo crucial y apoyo interminable a cargo de MASAHIRO YUKI de Grasshopper Manufacture en www.ghm.jp.					
+				Diseño del increíble logotipo japonés a cargo de POLYGRAPH en www.polygraph.jp.					
+				Magia del sitio web japonés a cargo de Jonathan Lumb en www.jonnyram.com.					
 				Y finalmente, agradecimientos por al apoyo y amistad de Suda 51, Tomoaki Takahashi, Hideto Yamada.					
 				Y a los artistas de remezcla Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, & Decassegui Hip					
 				* * * EL DOMINIO DE CANADÁ * * *					
@@ -632,7 +632,7 @@ ARCHETYPE_CREDITS	The Archetype
 				La primera versión jugable de S:S&S EP fue presentada a los asistentes y amigos en la GDC 2010 de San Francisco del 9 al 13 de marzo de 2010.					
 				El primer gameplay no editado de la GDC apareció simultáneamente en internet.					
 				'Less Talk, More Rock: The Native Language of Videogames' fue publicado online en Boing Boing en Marzo de 2010 y puedes buscarlo en Google.					
-				El proyecto 'se oscureció' durante unos meses, mientras nosotros, ya sabes, hacíamos el videojuego. Clic clic clic clic.					
+				El proyecto 'se oscureció' durante unos meses, mientras nosotros, ya sabes, hacíamos el videojuego. Clic, clic, clic, clic.					
 				Llevó un poco más de tiempo del esperado finalizarlo.					
 				'The Intoxication of Mythology' fue presentado por Superbrothers el 22 de Septiembre de 2010 en el Fantastic Arcade de Austin.					
 				'Aiming for Audiovisual Alchemy' fue presentado por Jim Guthrie, Kris Piotrowski y Superbrothers en la Gamercamp de Toronto.					
@@ -670,5 +670,5 @@ ARCHETYPE_CREDITS	The Archetype
 				¿Qué sucede a continuación con todo esto? ¿Y de qué se trata esa transmisión loca? ¿Qué depara el futuro?.					
 				¡Si quieres ordenar impresiones, ropa, discos, videojuegos o lo que sea, búscanos en Internet!.					
 				¡Si disfrutas con el estilo de entretenimiento audiovisual ofrecido por S:S&S EP entonces, por favor, corre la voz!.					
-				Ahora somos amigos cósmicos para siempre, ¿De acuerdo?.			87	084.jpg	L8A48
+				A partir de este momento, seremos amigos cósmicos para siempre, ¿De acuerdo?.			87	084.jpg	L8A48
 				Traducción al español por @cesardeg :P.					
