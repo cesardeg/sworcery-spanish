@@ -6,6 +6,8 @@ This README.md file describes the changes made to the game's font files in order
 
 In the game, when using the "Conduit ITC" font, the text is transformed into uppercase. However, it cannot convert special characters, which remain in lowercase. This limitation results in inconsistency within the uppercase text, particularly in languages that rely on these special characters. For instance, the word "Cáucaso" would be converted as "CáUCASO" instead of "CÁUCASO" due to the lowercase representation of the letter "Á". While the game successfully capitalizes most of the text, it faces difficulties with special characters.
 
+![Problematic special characters](../proof/before.PNG)
+
 ### Implemented Solution
 
 To solve this issue, the following approach was taken:
@@ -15,6 +17,8 @@ To solve this issue, the following approach was taken:
 2. The lowercase special characters were replaced with their corresponding uppercase versions in the font files (conduit_itc.fnt, conduit_itc_2x.fnt, conduit_itc_4x.fnt).
 
 3. Relevant attributes of the characters in the XML font files were modified. The attributes that were updated include: "x", "y", "width", "height", "xoffset", "yoffset", "xadvance", "page", and "chnl".
+
+![Fixed special characters](../proof/after.PNG)
 
 ### Example of Modification
 
@@ -77,6 +81,10 @@ The following table displays the characters that were replaced and their corresp
 | Š         | 352  | š        | 353  |
 
 Test string ÀàÁáÂâÃãÄäÅåÆæ Çç ÈèÉéÊêËë ÌìÍíÎîÏï ÐðÑñ ÒòÓóÔôÕõÖöØø ÙùÚúÛûÜü ÝýÞþßŸÿŒœŠš
+
+![Test Conduit font with special characters](../proof/test-conduit.PNG)
+![Test Arial font with special characters](../proof/test-arial.PNG)
+
 ### Conclusions
 
 With the modifications made to the font files, special characters are now rendered correctly in uppercase, aligning with the style of the rest of the game's text. This provides a more consistent and cohesive gaming experience for players.
