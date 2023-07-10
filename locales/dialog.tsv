@@ -36,7 +36,7 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó 
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Troncucho nos esperaría aquí hasta que regresáramos con El Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Troncucho había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
 				Troncucho parecía saberlo todo acerca del arcoíris repugnante y el glifo que representaba a una espada que apuntaba al cielo.					
-				Y sin embargo, Troncucho no ofreció ninguna ayuda sobre qué hacer a continuación, lo cual nos molestó un poco si somos totalmente honestos.					
+				Y sin embargo, Troncucho no ofreció ninguna ayuda sobre qué hacer a continuación, lo cual nos molestó un poco, si somos totalmente honestos.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto una especie de criatura espeluznante y supuso que era mejor dejarnos encargarnos de ello.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado El Megatomo y Troncucho estaba completamente listo para llevarlo a la seguridad de su morada.					
 				Sentimos una tormenta que se aproximaba y, sin embargo, una pequeña canción comenzó en nuestro corazón.					
@@ -138,7 +138,7 @@ INFO_ROCKSHOWARCHETYPE	The Scythian			En el concierto de rock, vimos al tipo con
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Un poste siniestro adornado con una calavera con astas conecta este lugar con el espectro inmortal que acecha debajo de Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			En el Bosque Trigonal, más allá de la cueva cavernosa en el prado, divisamos una tumba solitaria que despertó nuestra curiosidad.					
 GRAVE_TRIGONGROVEGHOST	The Scythian			En el Bosque Trigonal, más allá de la cueva cavernosa en el prado, vimos una tumba solitaria donde un fantasma resplandeciente nos recibió.					
-				Al principio, el fantasma resplandeciente del Bosque Trigonal nos asustó, siendo sinceros.			96	022.jpg	T2B2H
+				Al principio, el fantasma resplandeciente del Bosque Trigonal nos asustó, si somos honestos.			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Reconoció nuestra vestimenta Escita y vio que llevábamos El Megatomo. Se preguntó si comprendíamos las marcas esotéricas en su interior.					
 				En un susurro pronunció el nombre del espectro inmortal que habíamos despertado en la oscuridad debajo de Mingi Taw: La Masa Gogolítica.			166	023.jpg	O2B39
 				Conocíamos el temible nombre por las antiguas historias y sentimos cómo se nos helaba la sangre.					
@@ -189,7 +189,7 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titáni
 				"""El canto del Trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
 LOGFELLA_LOSTKEY	The Scythian			El leñador afligido conocido como Troncucho estaba completamente alterado por algo.					
 			AdventureUI/keyItem	Al parecer, Troncucho había perdido la llave de la puerta del muro de piedra que bloqueaba el antiguo camino hacia Mingi Taw.					
-				Nosotros estábamos en una especie de 'misión de búsqueda', ¿O me equivoco?					
+				"Estábamos como ""¡Uff!, otra misión de búsqueda, ¿verdad?"""					
 				Troncucho nos dijo que había estado sentado justo aquí cuando cayó en un sueño profundo.					
 			AdventureUI/keyItem	Troncucho nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
 				Ya habíamos oído hablar de los extraños sueños de los montañeses del Cáucaso, así que tenía sentido para nosotros.					
@@ -615,7 +615,7 @@ ARCHETYPE_CREDITS	The Archetype
 			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de la Ontario Media Development Corporation (OMDC).					
 				* * * LOS QUEREMOS MUCHÍSIMO * * *					
 				Un reconocimiento especial a Brandon Boyer, Mathew Kumar y Jason DeGroot por alinear las estrellas.					
-				Mucho amor a las increíbles comunidades de videojuegos independientes de Toronto y a las encantadoras personas de The Hand Eye Society, TOJam y Gamercamp.					
+				Mucho amor a las comunidades de videojuegos independientes de Toronto y a The Hand Eye Society, TOJam y Gamercamp. ¡Gracias!.					
 				A familiares y amigos: los queremos mucho y estamos deseando volver a verlos. ¿Cómo han estado desde la última vez que hablamos?.					
 				A todos los que han apoyado y alentado este proyecto: ¡muchas gracias por su paciencia, curiosidad y fe!.					
 				* * * PROCESO * * *					
@@ -631,7 +631,7 @@ ARCHETYPE_CREDITS	The Archetype
 				La primera demostración pública en vivo de S:S&S EP ocurrió en un evento social de Hand Eye Society en Toronto el 14 de febrero de 2010.					
 				La primera versión jugable de S:S&S EP fue presentada a los asistentes y amigos en la GDC 2010 en San Francisco del 9 al 13 de marzo de 2010.					
 				Las primeras imágenes de juego sin editar del prototipo presentado en la GDC aparecieron en línea al mismo tiempo y causaron cierto revuelo.					
-				'Less Talk, More Rock: The Native Language of Videogames' fue publicado en línea en Boing Boing en marzo de 2010 y puedes buscarlo en Google.					
+				'Less Talk, More Rock: The Native Language of Videogames' fue publicado en línea en Boing Boing en marzo de 2010, puedes buscarlo en Google.					
 				El proyecto 'se mantuvo en silencio' durante unos meses mientras, ya sabes, realmente hacíamos el videojuego. Clic, clic, clic, clic.					
 				Tomó un poco más de tiempo hacerlo realidad.					
 				Craig D. Adams presentó 'The Intoxication of Mythology' el 22 de septiembre de 2010 en el Fantastic Arcade en Austin.					
@@ -643,16 +643,16 @@ ARCHETYPE_CREDITS	The Archetype
 				En los meses posteriores al lanzamiento, algunos de nosotros nos casamos y otros rompimos relaciones, y todos seguimos adelante.					
 				Se le pidió a Jim Guthrie crear la banda sonora del documental 'Indie Game: The Movie'.					
 				Capy ya está inmerso en la creación de la próxima oleada de videojuegos, incluido el alucinante SUPER T.I.M.E. FORCE.					
-				El personal de Superbrothers Inc se está tomando un tiempo para soñar nuevos sueños.					
-				S:S&S EP fue uno de los 'Top 10 Videojuegos de 2011' de la revista Time, junto con grandes esfuerzos AAA como Dark Souls y Skyrim. ¡Increíble!.					
-				Kirk Hamilton de Kotaku reconoció la música de Jim Guthrie como 'la mejor música de videojuego de 2011.					
-				La tormenta de Twitter con el hashtag #sworcery en su lanzamiento fue considerada 'uno de los mayores eventos de Internet de 2011' según Co.Design y Syzygy.					
+				El personal de Superbrothers Inc. se está tomando un tiempo para soñar nuevos sueños.					
+				S:S&S EP fue uno de los Top 10 de videojuegos en 2011 de la revista Time, junto con grandes esfuerzos AAA como Dark Souls y Skyrim. ¡Increíble!.					
+				Kirk Hamilton de Kotaku reconoció la música de Jim Guthrie como 'la mejor música de videojuego en 2011'.					
+				La tormenta de Twitter con el hashtag 'sworcery' en su lanzamiento fue considerada 'uno de los mayores eventos de Internet de 2011' según Co.Design y Syzygy.					
 				S:S&S EP ganó un Game Developer's Choice Award en GDC 2012, superando a títulos AAA... lo cual fue increíblemente asombroso.					
-				Jim Guthrie lanzó un nuevo álbum llamado 'The Children of the Clone' que presenta obras maestras perdidas en sintonía con S:S&S EP..					
+				Jim Guthrie lanzó un nuevo álbum llamado 'The Children of the Clone' que presenta obras maestras perdidas en sintonía con S:S&S EP.					
 				Después de eso, la historia se vuelve un poco confusa, así que sintoniza swordandsworcery.com para obtener más información.					
 				Ha sido un viaje increíblemente positivo, esperamos que sigas profundizando.					
-				* * * QUÉ ES S:S&S EP? * * *					
-				S:S&S EP se concibe como un valiente experimento en I/O Cinema, sea lo que sea que eso signifique.					
+				* * * ¿QUÉ ES S:S&S EP? * * *					
+				S:S&S EP se concibe como un valiente experimento en I/O Cinema, sea lo que sea que signifique eso.					
 				S:S&S EP es un nuevo enfoque para el videojuego de aventuras de la vieja escuela con un énfasis en el estilo audiovisual.					
 				S:S&S EP se inspira en el trabajo de creadores de videojuegos pioneros como Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda.					
 				S:S&S EP es un febril sueño Famicom.			38	082.jpg	28B24
