@@ -11,7 +11,7 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 | Girl                        | Leyla                       | Selene                     |
 | The Grizzled Boor           | Tosco Pardo                 | Grosseiro Rabugento        |
 | The Gogolithic Mass         | La Masa Gogolítica          | O Massa Gogolítica         |
-| sylvan sprite               | espíritus silvanos          | Espírito florestal         |
+| sylvan sprite               | Espíritus Silvanos          | Espírito florestal         |
 | cheating cheater            | tramposo bribón             | trapaceiro                 |
 | mysterious musical fellow   | misterioso músico           | Músico misterioso          |
 | The mountain folk of The Caucasus | Los montañeses del Cáucaso | Os montanheses do Cáucaso |
@@ -37,10 +37,10 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 | Song of Sworcery            | Canción de Espadamancia     | Canção de Espadância       |
 | sonorous spumes             | brumas melodiosas           | névoas ressonantes         |
 | immovable iron gate         | portón de hierro inamovible | portão de ferro inamovível |
-| cavernous cave              | cueva cavernosa             | caverna cavernosa          |
 | something-or-other          | nosequé                     | troço                      |
 | thingamajig                 | cachivache                  | trambolho                  |
 | red-handed                  | con las manos en la masa    | com a boca na botija       |
+| a case of the heebie jeebies| poner la piel de gallina    | arrepiar os cabelos        |
 | Skyward Beam                | Rayo Ascendente             | Feixe Ascendente           |
 | moods of the moon           | temperamento de la luna     | humor da lua               |
 | titanic hollow tree         | árbol hueco titánico        | árvore oca titânica        |
