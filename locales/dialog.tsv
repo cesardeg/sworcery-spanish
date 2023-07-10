@@ -1,7 +1,7 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			En un prado bañado por el sol, lejos de las estepas devastadas por la guerra de Escitia, conocimos a una chica de pelo oscuro. #helloworld			72	001.jpg	Z0E1Q
 				Los montañeses del Cáucaso la conocían como Leyla y parecía agradable. #obviously					
-SIGN_TADPOL	The Scythian			"""Nos encontraremos en los sueños, donde las visiones junto al fuego desvelan recuerdos de la luna y las profundidades de la conciencia."" #letsmeetindreams"					
+SIGN_TADPOL	The Scythian			"""En el fuego de los sueños, la luna y la conciencia se entrelazan, revelando memorias en el hogar del corazón."" #letsmeetindreams"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, son todos reinos del hombre. Mingi Taw es el Reino de las Nubes."""					
 SIGN_CHASM	The Scythian			En el borde del Precipicio Peligroso, había una piedra tallada con el glifo de una espada que apuntaba al cielo bajo los colores del arcoíris.					
 				Nosotros, los escitas, detestamos los arcoíris. #loathsomerainbows			21	002.jpg	40C27
@@ -108,7 +108,7 @@ INFO_SPUME	The Scythian			Encontramos las brumas sutiles y melodiosas de un esp�
 INFO_NESTBOX	The Scythian			Encontramos una pajarera curiosa que ahora albergaba una colmena desafortunada.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Encontramos una pajarera desgastada que parecía una cara espeluznante.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se alzaba un mástil siniestro adornado con calaveras.					
-INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cueva cavernosa en el prado, encontramos un conjunto extraño de estructuras de piedra en un claro boscoso.					
+INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cueva cavernosa en el prado, encontramos un conjunto extraño de estructuras de piedra en un claro oculto.					
 			Archetype/trifecta	... ¿Era este el Bosque Trigonal? #trigongrove			93	016.jpg	B1D6J
 			triangle/Triangle	Mientras estábamos junto a la primera estructura de piedra, pensamos en El Trigón Dorado y sentimos cómo nuestra espada vibraba en su vaina.					
 INFO_DARKTRIGONALTAR	The Scythian			En el Bosque Trigonal, encontramos otra estructura de piedra desgastada y cubierta de musgo. #darkmoontrigon					
@@ -124,7 +124,7 @@ INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada tallada en la roca del templ
 INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña, divisamos un portón de hierro inamovible. Más allá, pudimos ver el paisaje montañoso nublado de Mingi Taw.					
 INFO_MOUNTAINGATETRIGON	The Scythian			En lo profundo del templo de la montaña, sobre un pasaje elevado, divisamos tres formas triangulares extrañas.					
 INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			En lo profundo del templo de la montaña, sobre un pasaje elevado, divisamos el símbolo de La Tríada Trigonal.					
-INFO_CABINRECORD	The Scythian			Dentro de la choza, vimos un pequeño y redondeado cacharro encima del fuego. #theballadofthespacebabies			46	019.jpg	P1D99
+INFO_CABINRECORD	The Scythian			Dentro de la choza, vimos un pequeño y redondeado cachivache encima del fuego. #theballadofthespacebabies			46	019.jpg	P1D99
 INFO_CABINHEARTH	The Scythian			Dentro de la choza, el fuego crepitaba tranquilamente, proporcionando un calor reconfortante.					
 INFO_CABINSEAT	The Scythian			Dentro de la choza, a ambos lados del fuego, había dos asientos de madera toscos.					
 INFO_GOGOLITHICMASS	The Scythian			Descubrimos una calavera con astas flotando en la oscuridad debajo de Mingi Taw.					
@@ -192,7 +192,7 @@ LOGFELLA_LOSTKEY	The Scythian			El leñador afligido conocido como Troncucho est
 				"Estábamos como ""¡Uff!, otra misión de búsqueda, ¿verdad?"""					
 				Troncucho nos dijo que había estado sentado justo aquí cuando cayó en un sueño profundo.					
 			AdventureUI/keyItem	Troncucho nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
-				Ya habíamos oído hablar de los extraños sueños de los montañeses del Cáucaso, así que tenía sentido para nosotros.					
+				Ya habíamos oído hablar de los extraños sueños de los montañeses de cabello oscuro del Cáucaso, por lo que esto tenía total sentido para nosotros.					
 				Troncucho nos invitó a calentar nuestras botas junto al fuego y soñar con él.			63	029.jpg	U2C92
 ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos en la vigilia y en la psicosmología mitopoética de los sueños como estados separados, sin embargo, interactúan de manera curiosa.					
 				El umbral de la liminalidad es un espacio entre la vigilia y los sueños donde el pensamiento dirigido es imposible.			56	030.jpg	13A0A
@@ -409,7 +409,7 @@ GIRL_MOONGROTTOCOMMENT	Girl			Siento como si el cosmos hubiera dado un giro y ah
 LOGFELLA_MOONGROTTOCOMMENT	Logfella			Es un largo camino de 0 a 1, y si un extraterrestre dijera 'Hola', sería en un código críptico en el estéreo. Espera... ¿Qué?					
 GIRL_HUGETREETHOUGHTS	Girl			Por supuesto, nunca le hablo a la gente sobre estos sueños de diosas y árboles porque probablemente solo me llamarían hippie o algo así.					
 				En mi lugar especial visito a un árbol hueco titánico... ella es una diosa que hace mucho tiempo murió y que antecede a la humanidad por eras incontables.					
-				En mi sueño hay un lugar especial al que siempre voy, un parlamento de árboles en el corazón del mundo.					
+				En mi sueño hay un lugar especial al que siempre voy, un Parlamento de árboles en el corazón del mundo.					
 LOGFELLA_HUGETREETHOUGHTS	Logfella			Me encanta ver los mismos bosques con diferente clima y me encanta simplemente detenerme y escuchar... y pensar o no pensar según sea el caso.					
 				No paso mucho tiempo caminando por mis sueños, pero cuando lo hago tiendo a volver a visitar mis lugares favoritos para ver lo que ha cambiado.					
 MIRACLE1_MOUNTAINMEADOW	The Scythian			Hemos realizado un milagro disipador de tormentas en un prado bañado por el sol, al estilo del mago loco Al Jaffee.					
@@ -471,10 +471,10 @@ LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador podía ver que nue
 				Troncucho nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestros datos de investigación muestran una alta correlación entre el progreso de un participante en S:S&S EP y su aptitud para ser genial.			45	074.jpg	87A43
 				Veo que has logrado localizar y recuperar El Trigón Luna Radiante. Esto es realmente una noticia extraordinaria.					
-MIRACLE3_HUGETREE	The Scythian			Mientras La Luna Tenebrosa reina, hemos realizado un milagro en medio de un parlamento de árboles.					
+MIRACLE3_HUGETREE	The Scythian			Mientras La Luna Tenebrosa reina, hemos realizado un milagro en medio de un Parlamento de árboles.					
 MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... llevar El Megatomo a todas partes es algo molesto, es un libro realmente pesado en más de un sentido.					
 				Nos sentíamos un poco mal... probablemente tenía algo que ver con todos esos rayos láser cósmicos.					
-				Cuando la luz y el sonido disminuyeron, nos encontramos empapados por la fría lluvia en medio de un parlamento de árboles.					
+				Cuando la luz y el sonido disminuyeron, nos encontramos empapados por la fría lluvia en medio de un Parlamento de árboles.					
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Leyla sobre nuestro encuentro onírico con El Trigón Luna Tenebrosa y de nuestras intenciones de reconstruir La Tríada Trigonal.					
 				Le contamos cómo habíamos neutralizado el repugnante ataque arcoíris de El Trigón Luna Tenebrosa y ella quedó impresionada.					
 				No parecía importarle escuchar nuestras historias extravagantes.					
@@ -562,7 +562,7 @@ GIRL_CRESCENTWANE	The Scythian			Leyla observó la luna menguante. Dijo que pron
 ARCHETYPE_CRESCENTWANE	The Archetype			El ciclo lunar está casi completo. La Luna Tenebrosa está muy cerca.					
 DARKMOONLOOMS_ARCHETYPE	The Archetype			La Luna Tenebrosa reina, el final del ciclo lunar está muy cerca.					
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Tenebrosa!.			94	076.jpg	I7F69
-DARKMOON_GIRLTHOUGHTS	Girl			En mi sueño llegué a un parlamento de árboles sacudido por un rayo y sentí la presencia de algo profundamente sagrado.					
+DARKMOON_GIRLTHOUGHTS	Girl			En mi sueño me encontré con un Parlamento de árboles azotado por un rayo y sentí la presencia de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una música vibrante filtrándose a través de los bosques detrás de mi choza. ¿Qué podría ser?.					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau, Guau, Guau. En mi estado de sueño solo vislumbré las sutiles brumas melodiosas de los espíritus silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Hemos reconstruido La Tríada Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
@@ -576,11 +576,11 @@ RABBITS_53MURDERS	The Scythian			Hemos asesinado inexplicablemente a 53 conejos 
 RABBITS_91MURDERS	The Scythian			Hemos asesinado inexplicablemente a 91 conejos indefensos.					
 RABBITS_107MURDERS	The Scythian			Hemos asesinado inexplicablemente a 107 conejos indefensos. ¿Tal vez disminuya nuestra compulsión asesina si dejamos de contar?.					
 ARCHETYPE_CREDITS	The Archetype								
-				S:S&S EP es un proyecto colaborativo de tipo videojuego realizado en Toronto. Ponte en contacto o manténte informado en swordandsworcery.com.					
-			Logos/superbrothers	El concepto original a cargo de la organización de arte y diseño conocida como Superbrothers Inc. en superbrothers.ca.					
-				Las canciones y algunos sonidos a cargo del amado compositor y estrella de rock conocido como Jim Guthrie en jimguthrie.org.					
-			Logos/capy	La ingeniería y los milagros a cargo del estudio independiente de videojuegos conocido como Capy en capybaragames.com.					
-			Logos/eightfour	La traducción al japonés, marketing, relaciones públicas y cariño proporcionados por 8-4, Ltd. Todo el equipo en 8-4.jp.					
+				S:S&S EP es un proyecto colaborativo de tipo videojuego realizado en Toronto. Ponte en contacto o manténte informado en swordandsworcery.com					
+			Logos/superbrothers	El concepto original a cargo de la organización de arte y diseño conocida como Superbrothers Inc. en superbrothers.ca					
+				Las canciones y algunos sonidos a cargo del amado compositor y estrella de rock conocido como Jim Guthrie en jimguthrie.org					
+			Logos/capy	La ingeniería y los milagros a cargo del estudio independiente de videojuegos conocido como Capy en capybaragames.com					
+			Logos/eightfour	La traducción al japonés, marketing, relaciones públicas y cariño proporcionados por 8-4, Ltd. Todo el equipo en 8-4.jp					
 				* * * EL EQUIPO de S:S&S EP * * *					
 				El concepto, arte, diseño, dirección y guión a cargo de representantes de Superbrothers Inc.					
 				El diseño, líder de proyecto, incansable apoyo y más a cargo de Kris Piotrowski, director creativo en Capy.					
@@ -588,10 +588,10 @@ ARCHETYPE_CREDITS	The Archetype
 				Los guiones, combates y milagros a cargo de Frankie Leung, programador de jugabilidad líder de S:S&S EP en Capy.					
 				La inspiración, canciones, sonidos, alma y mucho más a cargo de Jim Guthrie, compositor, héroe del folk y rockero por excelencia.					
 				* * * ADEMÁS DE * * *					
-				La voz de Troncucho a cargo de Robert Ashley, creador del programa de radio 'A Life Well Wasted' en alifewellwasted.com.					
-				La voz de La Escita a cargo de la fotógrafa Robyn Cumming en robyncumming.com.					
-				La voz del Arquetipo a cargo del artista y cineasta Clive Holden en cliveholden.com.					
-				Los sonidos cósmicos de la Gruta Lunar a cargo de Scientific American en scntfc.com.					
+				La voz de Troncucho a cargo de Robert Ashley, creador del programa de radio 'A Life Well Wasted' en alifewellwasted.com					
+				La voz de La Escita a cargo de la fotógrafa Robyn Cumming en robyncumming.com					
+				La voz del Arquetipo a cargo del artista y cineasta Clive Holden en cliveholden.com					
+				Los sonidos cósmicos de la Gruta Lunar a cargo de Scientific American en scntfc.com					
 				* * * APOYO DE CAPY * * *					
 				Nathan Vella, presidente en Capy, productor ejecutivo, héroe del pueblo gracias a su liderazgo y habilidades estratégicas.					
 				Sean 'Uber' Lohrisch, cofundador de Capy, productor de PC, asistencia técnica de audio, integración FMOD y muchos sonidos encantadores.					
@@ -606,9 +606,9 @@ ARCHETYPE_CREDITS	The Archetype
 				Con sonidos adicionales de un millón de dólares cortesía de Timothy Muirhead.					
 				* * * APOYO DE 8-4 * * *					
 				Maestro de las palabras y traducción al japonés a cargo de RYUTA YAZAWA.					
-				Edición japonesa, consejo crucial y apoyo interminable a cargo de MASAHIRO YUKI de Grasshopper Manufacture en www.ghm.jp.					
-				Diseño del increíble logotipo japonés a cargo de POLYGRAPH en www.polygraph.jp.					
-				Magia del sitio web japonés a cargo de Jonathan Lumb en www.jonnyram.com.					
+				Edición japonesa, consejo crucial y apoyo interminable a cargo de MASAHIRO YUKI de Grasshopper Manufacture en grasshopper.co.jp					
+				Diseño del increíble logotipo japonés a cargo de POLYGRAPH en polygraph.jp					
+				Magia del sitio web japonés a cargo de Jonathan Lumb en jonnyram.com					
 				Y finalmente, agradecimientos por el apoyo y amistad de JPN: Suda 51, Tomoaki Takahashi, Hideto Yamada...					
 				Y los artistas de remezcla Baiyon, Akira Yamaoka, Michiru Yamane, macotom3 y Decassegui Hip					
 				* * * EL DOMINIO DE CANADÁ * * *					
@@ -623,7 +623,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Los sonidos y canciones se crearon utilizando MTV Music Generator de Codemasters para PSOne y/o Garageband y Logic Studio de Apple.					
 			Logos/FMOD	Los sonidos y canciones se integraron en el proyecto utilizando FMOD de Firelight Technologies.					
 				El código fue programado en C++ y Lua script con tolua++. Los mapas y elementos del mundo fueron creados con herramientas propietarias en Capy.					
-				Cálculo de ciclos lunares y algoritmos astronómicos cortesía de voidware.com/moon_phase.htm.					
+				Cálculo de ciclos lunares y algoritmos astronómicos cortesía de voidware.com/moon_phase.htm					
 				Las APIs utilizadas en la creación de S:S&S EP incluyen twitcurl, tinyxml, libpng/zlib, SDL, cmake, y minizip.					
 				Una versión extremadamente temprana del juego fue enviada al Independent Games Festival el 1 de noviembre de 2009.					
 				S:S&S EP fue anunciado el 1 de diciembre de 2009.					
