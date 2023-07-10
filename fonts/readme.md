@@ -4,10 +4,7 @@ This README.md file describes the changes made to the game's font files in order
 
 ### Problem Description
 
-In the game, when using the font "Conduit ITC", all characters are displayed in uppercase except for special characters, which are shown in lowercase.
-This inconsistency with the rest of the uppercase text becomes evident in languages that rely on these special characters.
-For instance, the word "CÁUCASO" would be displayed as "CáUCASO" due to the lowercase representation of the letter "Á".
-While this may not be a problem in English, it poses an issue for other languages.
+In the game, when using the "Conduit ITC" font, the text is transformed into uppercase. However, it cannot convert special characters, which remain in lowercase. This limitation results in inconsistency within the uppercase text, particularly in languages that rely on these special characters. For instance, the word "Cáucaso" would be converted as "CáUCASO" instead of "CÁUCASO" due to the lowercase representation of the letter "Á". While the game successfully capitalizes most of the text, it faces difficulties with special characters.
 
 ### Implemented Solution
 
