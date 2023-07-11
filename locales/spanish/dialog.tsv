@@ -8,7 +8,7 @@ SIGN_CHASM	The Scythian			En el borde del Precipicio Peligroso, había una piedr
 SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del antiguo camino, encontramos una piedra tallada con una serie de glifos indescifrables.					
 				En medio de los glifos indescifrables reconocimos una serie de glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del antiguo camino, encontramos una piedra tallada con una serie de glifos lunares antes indescifrables.					
-				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...Allí donde se puede alterar el temperamento de la luna."""					
+				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...Allí donde se puede alterar el temperamento de la luna""."					
 				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			Al margen del antiguo camino había una piedra tallada con un par de glifos en forma de espada y escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			En un corredor subterráneo, descubrimos una estatua siniestra, pero no nos preocupamos demasiado por ella. #lore			29	005.jpg	V0B53
@@ -73,15 +73,15 @@ LOGFELLA_STORM	The Scythian			El leñador conocido como Troncucho había renunci
 			adventureUI/megatomeItem	Troncucho nos recordó cómo la tormenta había comenzado poco después de que recuperamos El Megatomo debajo de Mingi Taw.					
 				¿Estaba Troncucho insinuando sutilmente que deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de pelo oscuro conocida como Leyla estaba muy afligida. #woe					
-			gourd/gourd	Desde que comenzó la tormenta, Leyla había estado observando las brumas melodiosas de los Espíritus Silvanos que dormían en los bosques cercanos.					
+			gourd/gourd	Desde que comenzó la tormenta, Leyla había estado observando las melodiosas brumas de los Espíritus Silvanos que dormían en los bosques cercanos.					
 			gourd/gourd	Se preguntó si los tres Espíritus Silvanos podrían ayudar a disipar la tormenta. #yes					
-			gourd/gourd	Nos pidió que investigáramos las brumas melodiosas que burbujeaban en el estanque profundo frente a la choza.					
+			gourd/gourd	Nos pidió que investigáramos las melodiosas brumas que burbujeaban en el estanque profundo frente a la choza.					
 			gourd/gourd	Leyla habló de un espíritu en un prado cercano y de otro en una pajarera, hogar de tres pájaros cantores empapados por la lluvia.					
-			gourd/gourd	Leyla nos dijo que buscáramos las brumas melodiosas de estos tres Espíritus Silvanos y los enviáramos al cielo usando la Canción de Espadamancia.					
+			gourd/gourd	Leyla nos dijo que buscáramos las melodiosas brumas de estos tres Espíritus Silvanos y los enviáramos al cielo usando la Canción de Espadamancia.					
 ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canción de Espadamancia, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
 			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para despertar al espíritu silvano que duerme en las frescas aguas del estanque profundo."""					
 ARCHETYPE_TADPOLES	The Archetype			Era evidente que el hombre extrañamente ataviado esperaba que hiciéramos algo, pero no teníamos ni idea de qué.					
-			gourd/gourd	"""¿Ves las brumas melodiosas en el estanque profundo? Un espíritu silvano duerme allí y debes despertarlo."""					
+			gourd/gourd	"""¿Ves las melodiosas brumas en el estanque profundo? Un espíritu silvano duerme allí y debes despertarlo."""					
 			gourd/gourd	"""Entona una Canción de Espadamancia en cualquier momento manteniendo presionado sobre La Escita para acceder a una realidad dentro de la que ya conoces."""					
 			gourd/gourd	"""Guía a las dos pequeñas criaturas que nadan hacia donde duerme el espíritu y envíalas al cielo con tres toques de Espadamancia."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Leyla se resguardaba de la lluvia bajo el amplio tejado de madera del pozo.					
@@ -104,7 +104,7 @@ INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con un techo de paja al lado de un estanque profundo.					
 INFO_CABINWOODPILE	The Scythian			Descubrimos una pila de leña, pero no es para tanto.					
-INFO_SPUME	The Scythian			Encontramos las brumas sutiles y melodiosas de un espíritu silvano adormecido. Y ahora... ¿cómo lo despertamos?.					
+INFO_SPUME	The Scythian			Encontramos las sutiles y melodiosas brumas de un espíritu silvano adormecido. Y ahora... ¿cómo lo despertamos?.					
 INFO_NESTBOX	The Scythian			Encontramos una pajarera curiosa que ahora albergaba una colmena desafortunada.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Encontramos una pajarera desgastada que parecía una cara espeluznante.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se alzaba un mástil siniestro adornado con calaveras.					
@@ -175,13 +175,13 @@ GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la tumba solitaria del tramposo 
 				"""Dejé que esos perdedores vagaran sin rumbo mientras yo investigaba más sobre esa trampa lógico-lunar."""					
 				El fantasma radiante habló sobre cómo hizo trampa al salir de S:S&S EP e ir a la Configuración del Sistema.					
 				El fantasma describió la opción de Fecha/Hora y los horrores que sucedieron al alterar el temperamento de la luna con este método.					
-				"""La cosa es que he estado extremadamente nervioso desde entonces y, de hecho, me morí de vergüenza."""					
+				"""La cosa es que he tenido un grave caso de nervios desde entonces y, de hecho, me morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			Dentro de un árbol hueco titánico, vimos una tumba solitaria que despertó nuestra curiosidad.					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico, nos acercamos a una tumba solitaria y apareció un fantasma audaz que nos cantó una loca rima.			117	028.jpg	E2A80
 				"""Monitorea el temperamento de la luna, aprende a atinar, sabrás cuándo, cómo y dónde, sin equivocar."""					
 				"""Y no te preocupes, no pretendo asustar, con mi impresionante apariencia, solo quiero brillar."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico. nos acercamos a una tumba solitaria y apareció un fantasma audaz para cantarnos una alocada rima.			117	028.jpg	E2A80
-				"""El camino recorrido con suerte y fe, captura las brumas melodiosas que se ven."""					
+				"""El camino recorrido con suerte y fe, captura las melodiosas brumas que se ven."""					
 				"""Cinco Espíritus Silvanos, al cielo volarán, un milagro obrarán, el Trigón desvelarán, ¡la aventura comenzará!."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico, nos acercamos a una tumba solitaria y apareció un fantasma audaz que nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Busca una señal de los Espíritus Silvanos y entona una Canción de Espadamancia allí para revelar un Trigón oculto."""					
@@ -200,7 +200,7 @@ ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos en la vigilia y en la psicosm
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si te sientas junto al fuego en la choza y cruzas el umbral liminal para encontrar la llave perdida de Troncucho?.			55	031.jpg	23C1X
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Vaya, Troncucho está fuera de sí por algo... Me pregunto qué pasará. Prefiero salir un momento y dejarlo solo.					
 				He visto a La Escita cantar la Canción de Espadamancia y enviar tres Espíritus Silvanos al cielo. Me pregunto si ayudarán a disipar la tormenta.					
-LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que La Escita pueda encontrar mi llave... la perdí en la orilla arenosa de un tranquilo lago.			62	032.jpg	U3A20
+LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que La Escita pueda encontrar mi llave... la perdí en la orilla arenosa de un lago sereno.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Oh, vaya, preferiría que no estuviera lloviendo afuera... Preferiría que mis botas no estuvieran tan mojadas... Preferiría volver a cortar leña.					
 				Rayos!, ¿dónde se ha ido mi llave? ¡Estoy tan molesto y avergonzado que ahora estoy totalmente desesperado!.					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba muy aliviado de que hayamos logrado recuperar su llave perdida del reino crepuscular de los sueños.					
@@ -214,7 +214,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba muy alivi
 			AdventureUI/keyItem	Nos dimos cuenta de que podríamos quedarnos con la llave y dar un paseo por el antiguo camino más allá del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tomáramos su llave y él estuvo de acuerdo.					
 GIRL_FOUNDKEY	The Scythian			Nos encontramos con Leyla empapada de pie bajo la lluvia en un camino lateral.					
-			gourd/gourd	Ella había oído las brumas sutiles y melodiosas de los Espíritus Silvanos más allá del muro de piedra en el antiguo camino hacia Mingi Taw.					
+			gourd/gourd	Ella había oído las sutiles y melodiosas brumas de los Espíritus Silvanos más allá del muro de piedra en el antiguo camino hacia Mingi Taw.					
 			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
 			gourd/gourd	Ella habló de unos arcoíris tenues en el borde del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos El Megatomo si nos sentíamos perdidos o confundidos.					
@@ -226,7 +226,7 @@ GIRL_SUPERMOTHERTREE	Girl			En mis paseos en sueños hay una tranquilidad emocio
 				En los sueños, siempre son los mismos lugares y espacios, excepto cuando varían según el temperamento de la luna.					
 				Todas las noches desde que se disipó la tormenta he tenido el mismo sueño en el que camino por el bosque en la hora antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que la ingesta de hongos del bosque puede ofrecerte una visión oblicua de los fenómenos criptozoológicos y esas cosas.					
-				Busca las brumas melodiosas de los Espíritus Silvanos e investiga sus alrededores.					
+				Busca las melodiosas brumas de los Espíritus Silvanos e investiga sus alrededores.					
 				Una vez que hayas comenzado la Canción de Espadamancia, puedes tocar el aura y deslizar para mirar alrededor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adivinatorios pueden haber desempeñado un papel importante en el desarrollo de la psique humana.					
 				La evidencia arqueológica indica que el uso chamánico de los hongos para la comunión religiosa, la adivinación y la curación es bastante antiguo.					
@@ -275,7 +275,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				Son tiempos de angustia, una siniestra tormenta ha nublado el cielo y la gente encantadora que vive en la choza es desdichada.					
 				Disipar la tormenta requerirá cierta familiaridad con la psiónica, la criptozoología y los milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadamante liberará El Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro material esotérico.					
-			gourd/gourd	2. Extraños Espíritus Silvanos, fuentes de Espadamancia, duermen en estanques, bosques y prados. Busca sus brumas sutiles y melodiosas.					
+			gourd/gourd	2. Extraños Espíritus Silvanos, fuentes de Espadamancia, duermen en estanques, bosques y prados. Busca sus sutiles y melodiosas brumas.					
 			triangle/Triangle	3. El espadamante que pueda localizar, convocar y domar la geometría cósmica de El Trigón Dorado poseerá la habilidad de obrar milagros.					
 				¿Confundido? Excelente. Mantén la calma y sigue adelante.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la geometría cósmica de El Trigón Dorado.			86	044.jpg	24E4H
@@ -340,7 +340,7 @@ GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna So
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano en las aguas traquilas de un lago donde una pata madre estaba enloqueciendo.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
-GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano en un tranquilo lago bajo una tríada de búhos.					
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano en un lago sereno bajo una tríada de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa sensación peculiar de que, tal vez, estemos ante la temporada de milagros. #miracles					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Sombría reina y despertamos a un espíritu silvano rodeado por tres pequeñas cascadas.					
 GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Sombría reina y despertamos a un espíritu silvano rodeado de cuatro pequeños árboles redondos en los bosques más oscuros.					
@@ -564,7 +564,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			La Luna Sombría reina, el final del cic
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Sombría!.			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			En mi sueño me encontré con un Parlamento de árboles azotado por un rayo y sentí la presencia de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una música vibrante filtrándose a través de los bosques detrás de mi choza. ¿Qué podría ser?.					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau, Guau, Guau. En mi estado de sueño solo vislumbré las sutiles brumas melodiosas de los Espíritus Silvanos.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau, Guau, Guau. En mi estado de sueño solo vislumbré las sutiles y melodiosas brumas de los Espíritus Silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Hemos reconstruido La Tríada Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 3 conejos indefensos.					
 RABBITS_7MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 7 conejos indefensos. ¿Estamos ante la evidencia de una mente transtornada?.					
@@ -599,7 +599,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Christian 'Sea Dawg' Meyer, control de calidad y mega-héroe de pruebas.					
 				Agradecimientos a Xavier Xaden Xen, Joseph Theodore Blocco, Hank Hudson.					
 				* * * APOYO DE SUPERBROTHERS * * *					
-				Liaison, comunicaciones, control de calidad, inspiración, paciencia infinita y apoyo moral inagotable cortesía de Jori Baldwin.					
+				Coordinación, comunicaciones, control de calidad, inspiración, paciencia infinita y apoyo moral inagotable cortesía de Jori Baldwin.					
 				Mack C. Adams, asistencia de negocios, apoyo financiero y apoyo moral inquebrantable.					
 				Muchos agradecimientos a Sheila Precious, David Adams, Sarah Adams y Cimarron Corpe por mantener el barco a flote ante mares tormentosos.					
 				Muchas gracias a Jim Guthrie por embarcarse en esta aventura loca hacia lo desconocido.					
