@@ -14,7 +14,7 @@ SIGN_WOLF	The Scythian			À margem do antigo caminho, havia uma pedra esculpida 
 SIGN_ANTECHAMBERLEFT	The Scythian			Em um corredor subterrâneo, encontramos uma estátua sinistra, mas não nos preocupamos muito com ela.			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta íngreme de Mingi Taw, uma tumba solitária marcava o final de um caminho de cascalho.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta íngreme de Mingi Taw, uma tumba solitária marcava o final de um caminho de cascalho.					
-INFO_RIDGESKULLPOLE	The Scythian			Na crista recortada que leva ao topo de Mingi Taw, havia um poste sinistro adornado com uma caveira com chifres.					
+INFO_RIDGESKULLPOLE	The Scythian			Na crista recortada que leva ao topo de Mingi Taw, havia um poste sinistro adornado com uma caveira com guampas.					
 INFO_CROSSRIDGE	The Scythian			Na crista recortada que leva ao topo de Mingi Taw, descansava uma tumba solitária, uma sinistra lembrança das muitas pessoas que morreram ali.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos O Megatomo engastado entre duas mãos esqueléticas e sentimos nossa espada vibrar na bainha.			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Havia uma pequena porta sem maçaneta feita de um material desconhecido. Um sinal diz: 'Apenas pessoal Autorizado'.					
@@ -70,7 +70,7 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, 
 			adventureUI/megatomeItem	"""Acabei de ter uma ideia... Que tal abrir O Megatomo e descobrir o que está oculto em minha mente?."""					
 				"""Procure por um triângulo branco no canto superior direito... toque nele e depois equipe O Megatomo... depois gire para revelar o que está oculto."""					
 LOGFELLA_STORM	The Scythian			O lenhador conhecido como Troncadeiro havia desistido de cortar lenha devido à sinistra tempestade.					
-			adventureUI/megatomeItem	Troncadeiro nos lembrou de como a tempestade havia começado logo depois que recuperamos O Megatomo debaixo de Mingi Taw.					
+			adventureUI/megatomeItem	Troncadeiro nos lembrou de como a tempestade havia começado logo depois que recuperamos O Megatomo sob Mingi Taw.					
 				Troncadeiro estava insinuando sutilmente que deveríamos tentar fazer algo para dissipar a tempestade?.					
 GIRL_STORM	The Scythian			A garota de cabelo escuro conhecida como Selene estava muito aflita.					
 			gourd/gourd	Desde o início da tempestade, Selene havia estado observando as melódicas espumas dos Espíritos Florestais que dormiam nas florestas próximas.					
@@ -110,7 +110,7 @@ INFO_NESTBOXWEATHERED	The Scythian			Encontramos um ninho desgastado que parecia
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, havia um mastro sinistro adornado com caveiras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Além da caverna cavernosa no prado, encontramos um conjunto estranho de estruturas de pedra em uma clareira isolada.					
 			Archetype/trifecta	... Era esta a Clareira Trigonal?.			93	016.jpg	B1D6J
-			triangle/Triangle	Enquanto estávamos junto à primeira estrutura de pedra, pensamos no Trigono Dourado e sentimos como nossa espada vibrava na bainha.					
+			triangle/Triangle	Enquanto estávamos junto à primeira estrutura de pedra, pensamos no Trigono Dourado e sentimos nossa espada vibrar na bainha.					
 INFO_DARKTRIGONALTAR	The Scythian			Na Clareira Trigonal, encontramos outra estrutura de pedra desgastada e coberta de musgo.					
 				Nos perguntamos o que aconteceria se golpeássemos a estrutura de pedra com nossa espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			Na Clareira Trigonal, encontramos outra estrutura de pedra com um glifo circular representando a Lua Radiante.					
@@ -119,7 +119,7 @@ INFO_STONEHEAD	The Scythian			No Precipício Perigoso, havia uma escultura de ca
 INFO_STONEHEADSHUT	The Scythian			No Precipício Perigoso, havia uma escultura de cabeça esculpida na rocha que nos parecia familiar.					
 INFO_STONEHEADFLAGPOLE	The Scythian			Sobre uma grande escultura de pedra erguia-se um mastro sinistro adornado com caveiras ou algo semelhante.					
 INFO_CHASMSTONESHELTER	The Scythian			Ao lado do Precipício Perigoso, encontramos um magnífico dolmen com dois assentos de pedra confortáveis.			25	018.jpg	O1C8M
-INFO_SKULLPOLE	The Scythian			Sobre uma ponte oscilante, erguia-se um poste sinistro adornado com uma caveira com chifres.					
+INFO_SKULLPOLE	The Scythian			Sobre uma ponte oscilante, erguia-se um poste sinistro adornado com uma caveira com guampas.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre a entrada esculpida na rocha do templo da montanha, vimos uma representação pictórica da Tríade Trigonal.					
 INFO_MOUNTAINGATE	The Scythian			No interior do templo da montanha, avistamos um portão de ferro imóvel. Mais adiante, pudemos ver a paisagem montanhosa nublada de Mingi Taw.					
 INFO_MOUNTAINGATETRIGON	The Scythian			No interior do templo da montanha, em uma passagem elevada, avistamos três formas triangulares estranhas.					
@@ -127,7 +127,7 @@ INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			No interior do templo da montanha, 
 INFO_CABINRECORD	The Scythian			Dentro da cabana, vimos um pequeno trambolho redondo sobre o fogo.			46	019.jpg	P1D99
 INFO_CABINHEARTH	The Scythian			Dentro da cabana, o fogo crepitava tranquilamente, proporcionando um calor reconfortante.					
 INFO_CABINSEAT	The Scythian			Dentro da cabana, em ambos os lados do fogo, havia dois assentos rústicos de madeira.					
-INFO_GOGOLITHICMASS	The Scythian			Descobrimos uma caveira com chifres flutuando na escuridão sob Mingi Taw.					
+INFO_GOGOLITHICMASS	The Scythian			Descobrimos uma caveira com guampas flutuando na escuridão sob Mingi Taw.					
 INFO_MEGATOMBTRIFECTA	The Scythian			Na escuridão, descobrimos uma representação pictórica da Tríade Trigonal sob Mingi Taw.					
 INFO_ROCKSHOWGIRL	The Scythian			No show de rock, vimos Selene e parecia que ela disse 'caminhe pelo fogo comigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			No show de rock, vimos um daqueles esqueletos vibrando ao ritmo sinistro.					
@@ -135,7 +135,7 @@ INFO_ROCKSHOWJIM	The Scythian			Encabeçando o show de rock estava o misterioso 
 INFO_ROCKSHOWBOOR	The Scythian			No show de rock, vimos o Grosso Rabugento balançando sua coisa nua.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			No show de rock, havia uma multidão considerável de damas e cavalheiros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			No show de rock, vimos o sujeito conhecido como O Arquétipo e nos perguntamos o que ele estava tramando com tudo isso.					
-INFO_TRIGONGROVESKULLSTICK	The Scythian			Um poste sinistro adornado com uma caveira com chifres conecta este lugar ao espectro imortal que espreita sob Mingi Taw.					
+INFO_TRIGONGROVESKULLSTICK	The Scythian			Um poste sinistro adornado com uma caveira com guampas conecta este lugar ao espectro imortal que espreita sob Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigonal, além da caverna cavernosa no prado, avistamos uma tumba solitária que despertou nossa curiosidade.					
 GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da caverna cavernosa no prado, encontramos uma tumba solitária onde um fantasma radiante nos recebeu.					
 				No início, o fantasma radiante da Clareira Trigonal nos assustou, se formos honestos.			96	022.jpg	T2B2H
@@ -263,7 +263,7 @@ ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Você pode ter percebido que o Tri
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trigono da Lua Radiante exigirá que você balance sua espada contra os projéteis e esquive dos ataques carregados.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			É possível que você já tenha se deparado com o ataque de arco-íris do Trigono da Lua Sombria. Corte esse arco-íris o mais rápido possível.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trigono da Lua Sombria envolve sutis projéteis triangulares. Destrua-os e sobreviva.					
-ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que estava adormecido nas trevas abaixo de Mingi Taw... Au!.					
+ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que estava adormecido nas trevas sob Mingi Taw... Au!.					
 				Consequentemente, uma sinistra tempestade se avizinha e as pessoas adoráveis que vivem na cabana de pedra se sentem desoladas.					
 			adventureUI/megatomeItem	O resultado é que você tem um livro pesado chamado O Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
 				Nossa pesquisa mostrou que a exposição prolongada à psicosmologia mitopoética de S:S&S EP pode ter efeitos adversos.					
@@ -271,7 +271,7 @@ ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então voc
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				É bom te ver novamente. Você está pronto para começar a Sessão II de S:S&S EP?.					
 			adventureUI/megatomeItem	Ótimo, onde paramos? Ah, sim, você conseguiu um livro pesado chamado O Megatomo.					
-				Você despertou um espectro imortal que ainda espreita nas trevas abaixo de Mingi Taw. Que assustador, não é?.			204	042.jpg	24B2J
+				Você despertou um espectro imortal que ainda espreita nas trevas sob Mingi Taw. Que assustador, não é?.			204	042.jpg	24B2J
 				São tempos de angústia, uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão infelizes.					
 				Desfazer a tempestade exigirá algum conhecimento em psionia, criptozoologia e milagres...					
 			adventureUI/megatomeItem	1. O toque de um espadancista liberará O Megatomo, revelando os pensamentos não expressos das criaturas vivas e outros materiais esotéricos.					
@@ -287,7 +287,7 @@ ARCHETYPE_TRIFECTAINTRO	The Archetype
 				Vamos começar com a Sessão III. Observação: Esta sessão geralmente leva um mês lunar para ser concluída.					
 			triangle/Triangle	Então, você domou o Trigono Dourado e a tempestade dissipou-se milagrosamente? Bravo por isso!.					
 			adventureUI/megatomeItem	Consulte O Megatomo e estude seu funcionamento se você se sentir perdido ou confuso.					
-				Um espectro imortal ainda espreita nas trevas abaixo de Mingi Taw.					
+				Um espectro imortal ainda espreita nas trevas sob Mingi Taw.					
 			Archetype/trifecta	Considere a geometria cósmica da Tríade Trigonal.					
 			MoonCrescent/moonCrescent	Observe o humor da lua.			118	045.jpg	Y4E5Q
 				Nossa pesquisa mostrou que aqueles poucos que persistem através da loucura oblíqua que se segue podem se tornar amigos cósmicos para sempre.					
@@ -502,7 +502,7 @@ LOGFELLA_FOUNDATION	Logfella			...
 				...					
 SCYTHIAN_FOUNDATION	The Scythian			Despertamos um Espírito Florestal em uma lagoa profunda com lírios ao lado de uma cabana de pedra. Não sabemos o que significa.					
 				Com uma tempestade incessante, aprendemos a cantar a Canção da Espadância e convocar um Espírito Florestal adormecido.					
-				Espere... Por que estou me referindo a mim mesma na primeira pessoa? Não se supõe que nossa história seja contada em segunda pessoa? #editingoversight.					
+				Espere... Por que estou me referindo a mim mesma na primeira pessoa? Não se supõe que nossa história seja contada em segunda pessoa?.					
 				Meus pensamentos estão organizados cronologicamente, na ordem em que os pensei? Então isso é o que eu estava pensando há alguns segundos?.					
 				Isso é O Megatomo? Ele absorve 'transmissões de pensamento linguístico'? Estou lendo meus pensamentos enquanto os penso? Hmm...					
 GIRL_FOUNDATION	Girl			...					
