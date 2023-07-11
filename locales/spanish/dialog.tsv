@@ -9,7 +9,7 @@ SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del antiguo camin
 				En medio de los glifos indescifrables reconocimos una serie de glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			En un paso lateral que se alejaba del antiguo camino, encontramos una piedra tallada con una serie de glifos lunares antes indescifrables.					
 				"Los glifos hablaban de un lugar secreto en las inmediaciones ""...Allí donde se puede alterar el temperamento de la luna""."					
-				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
+				¿La Gruta Lunar...?. #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			Al margen del antiguo camino había una piedra tallada con un par de glifos en forma de espada y escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			En un corredor subterráneo, descubrimos una estatua siniestra, pero no nos preocupamos demasiado por ella. #lore			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			En la escarpada ladera de Mingi Taw, una tumba solitaria marcaba el final de un camino de grava.					
@@ -71,7 +71,7 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien he
 				"""Busca un triángulo blanco en la esquina superior derecha... tócalo y luego equipa El Megatomo... luego gira para revelar lo que está oculto."""					
 LOGFELLA_STORM	The Scythian			El leñador conocido como Troncucho había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Troncucho nos recordó cómo la tormenta había comenzado poco después de que recuperamos El Megatomo debajo de Mingi Taw.					
-				¿Estaba Troncucho insinuando sutilmente que deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
+				¿Estaba Troncucho insinuando sutilmente que deberíamos intentar hacer algo para disipar la tormenta?. #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de pelo oscuro conocida como Leyla estaba muy afligida. #woe					
 			gourd/gourd	Desde que comenzó la tormenta, Leyla había estado observando las melodiosas brumas de los Espíritus Silvanos que dormían en los bosques cercanos.					
 			gourd/gourd	Se preguntó si los tres Espíritus Silvanos podrían ayudar a disipar la tormenta. #yes					
@@ -88,7 +88,7 @@ GIRL_LOSTKEY	The Scythian			Leyla se resguardaba de la lluvia bajo el amplio tej
 				Abandonó la comodidad del fuego en la choza porque, al parecer, Troncucho estaba divagando sobre algo.					
 INFO_BIRDEYESCULPTURE	The Scythian			Avistamos la escultura de un pájaro enojado sobresaliendo en el prado. #subtlereference			6	014.jpg	F1D48
 INFO_MEADOWSHEEP	The Scythian			Observamos a unas cuantas ovejas insignificantes holgazaneando en el prado. #worthlesssheep					
-INFO_CABINSHEEP	The Scythian			Otra oveja insignificante, ¿Por qué seguimos mirándolas? #worthlesssheep					
+INFO_CABINSHEEP	The Scythian			Otra oveja insignificante, ¿Por qué seguimos mirándolas?. #worthlesssheep					
 INFO_MEADOWSUN	The Scythian			Podemos recordar vívidamente lo impresionante que parecía el sol en ese primer día de primavera.					
 INFO_MEADOWGATE	The Scythian			En el prado había un portón de hierro inamovible que bloqueaba una cueva cavernosa.					
 INFO_MEADOWGATEACTIVE	The Scythian			En el prado había un portón de hierro y teníamos la sensación de que tal vez podríamos abrirlo de alguna manera.					
@@ -100,7 +100,7 @@ INFO_MEADOWSUNSTICK	The Scythian			Avistamos un báculo extraño observando el p
 INFO_CABINWELL	The Scythian			Descubrimos un pozo sólidamente construido con un amplio tejado de madera.					
 INFO_UNWELLWELL	The Scythian			El pozo emitió un sollozo. #unwell #well					
 INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #welfare					
-INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE					
+INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE.					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con un techo de paja al lado de un estanque profundo.					
 INFO_CABINWOODPILE	The Scythian			Descubrimos una pila de leña, pero no es para tanto.					
@@ -597,7 +597,13 @@ ARCHETYPE_CREDITS	The Archetype
 				Sean 'Uber' Lohrisch, cofundador de Capy, productor de PC, asistencia técnica de audio, integración FMOD y muchos sonidos encantadores.					
 				Matt 'Juggalord' Repetski, cofundador en Capy, asistencia administrativa y comercial.					
 				Christian 'Sea Dawg' Meyer, control de calidad y mega-héroe de pruebas.					
+				Adaptación para computadoras de uso doméstico y la mejora a 1080p fueron realizadas por el talentoso Hubert Wong.					
+				Drew Grainge brindó soporte de programación para PC/Mac/Linux, experiencia en Steam y colaboró en diversas tareas técnicas.					
+				Vic "Meow" Nguyen de Super TIME Force contribuyó con increíbles recursos artísticos y trajo sonrisas al equipo.					
+				La calidad adicional del proyecto fue asegurada por el único e inigualable Aaron Eves.					
+				Phil Sandhop, Crystal Edwards y Sebastian Andersson de GameInstinct brindaron apoyo adicional en control de calidad para PC.					
 				Agradecimientos a Xavier Xaden Xen, Joseph Theodore Blocco, Hank Hudson.					
+				Un agradecimiento especial a Thea Gaerlan por brindar deliciosas galletas y otras delicias.					
 				* * * APOYO DE SUPERBROTHERS * * *					
 				Coordinación, comunicaciones, control de calidad, inspiración, paciencia infinita y apoyo moral inagotable cortesía de Jori Baldwin.					
 				Mack C. Adams, asistencia de negocios, apoyo financiero y apoyo moral inquebrantable.					
@@ -651,6 +657,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Jim Guthrie lanzó un nuevo álbum llamado 'The Children of the Clone' que presenta obras maestras perdidas en sintonía con S:S&S EP.					
 				Después de eso, la historia se vuelve un poco confusa, así que sintoniza swordandsworcery.com para obtener más información.					
 				Ha sido un viaje increíblemente positivo, esperamos que sigas profundizando.					
+				No dejes de revisar el boletín en superbrothers.ca para obtener las últimas novedades del equipo de Superbrothers Inc.					
 				* * * ¿QUÉ ES S:S&S EP? * * *					
 				S:S&S EP se concibe como un valiente experimento en I/O Cinema, sea lo que sea que signifique eso.					
 				S:S&S EP es un nuevo enfoque para el videojuego de aventuras de la vieja escuela con un énfasis en el estilo audiovisual.					
