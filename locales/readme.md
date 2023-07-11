@@ -9,9 +9,9 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 | Logfella                    | Troncucho                   | Troncadeiro                |
 | Dogfella                    | Chucho                      | Cãotrapaça                 |
 | Girl                        | Leyla                       | Selene                     |
-| The Grizzled Boor           | Tosco Pardo                 | Grosseiro Rabugento        |
+| The Grizzled Boor           | Tosco Pardo                 | O Grosseirão Pelado        |
 | The Gogolithic Mass         | La Masa Gogolítica          | O Massa Gogolítica         |
-| sylvan sprite               | Espíritus Silvanos          | Espírito florestal         |
+| sylvan sprite               | Espíritu Silvano            | Espírito Florestal         |
 | cheating cheater            | tramposo bribón             | trapaceiro                 |
 | mysterious musical fellow   | misterioso músico           | Músico misterioso          |
 | The mountain folk of The Caucasus | Los montañeses del Cáucaso | Os montanheses do Cáucaso |
@@ -35,7 +35,7 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 | Sworcery                    | Espadamancia                | Espadância                 |
 | sworcerer                   | espadamante                 | espadancista               |
 | Song of Sworcery            | Canción de Espadamancia     | Canção de Espadância       |
-| sonorous spumes             | brumas melodiosas           | névoas ressonantes         |
+| sonorous spume              | bruma melodiosa             | espuma melódica            |
 | immovable iron gate         | portón de hierro inamovible | portão de ferro inamovível |
 | something-or-other          | nosequé                     | troço                      |
 | thingamajig                 | cachivache                  | trambolho                  |
@@ -47,4 +47,3 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 | dream-walking               | paseos oníricos             | caminhada onírica          |
 | miracle-working             | realización de milagros     | operação de milagres       |
 | time of miracles            | temporada de milagros       | tempo dos milagres         |
-| Home is where the hearth is | En el fuego de los sueños, la luna y la conciencia se entrelazan, revelando memorias en el hogar del corazón | Nas chamas dos sonhos, a lua desvela segredos profundos, enquanto o coração se aquece no lar da alma |
