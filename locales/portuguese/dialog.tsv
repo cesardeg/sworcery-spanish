@@ -102,7 +102,7 @@ INFO_UNWELLWELL	The Scythian			O poço soltou um soluço.
 INFO_WELLNESS	The Scythian			Tudo está bem quando termina bem.					
 INFO_WELLWHITESTAG	The Scythian			LONGA VIDA À NOVA CARNE.					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
-INFO_CABINCHIMNEY	The Scythian			Vimos uma robusta cabana de pedra com um teto de palha ao lado de uma lagoa profunda.					
+INFO_CABINCHIMNEY	The Scythian			Vimos uma robusta cabana de pedra com um telhado de palha ao lado de uma lagoa profunda.					
 INFO_CABINWOODPILE	The Scythian			Descobrimos uma pilha de lenha, mas não é nada demais.					
 INFO_SPUME	The Scythian			Encontramos as sutis e melódicas espumas de um Espírito Florestal adormecido. E agora... como o despertamos?.					
 INFO_NESTBOX	The Scythian			Encontramos um ninho curioso que agora abrigava uma colmeia infeliz.			13	015.jpg	B1C5F
@@ -155,12 +155,12 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos um punhado de tumbas em uma moita ao l
 				O fantasma radiante que falou era um gigante que conhecíamos pelas antigas histórias, cuja famosa imagem exigia obediência.					
 			Archetype/trifecta	"""Ano passado, antes das festas do Yule, reuni uma tropa e nos propusemos a reconstruir a Tríade Trigonal."""					
 				"""Tínhamos ouvido falar sobre a entrada ao Infinito no topo de Mingi Taw e parecia algo que valia a pena ver."""					
-			triangle/Triangle	"""Conseguimos localizar e domar O Trigono Dourado com bastante facilidade e exploramos a Clareira Trigonal antes de embarcar na busca pelo Trigono da Lua Radiante."""					
+			triangle/Triangle	"""Localizamos e domamos O Trigono Dourado facilmente, exploramos a Clareira Trigonal e embarcamos na busca pelo Trigono da Lua Radiante.."""					
 				"""A busca pelo Trigono da Lua Radiante não foi tão bem-sucedida... nos perdemos completamente, para ser honesto."""					
 				"""Pouco a pouco, percebemos a importância dos ciclos lunares e sua influência nos espíritos que dormem nos reinos crepusculares."""					
 				"""Então, nos sentamos aqui para observar o humor da lua e saber quando, como e onde devemos estar."""			7	026.jpg	Q2D6P
 				"""Morremos de tédio esperando o humor da lua mudar."""					
-				"""Bem, na verdade, morremos por cAusa de uma briga que tivemos por cAusa do tédio."""					
+				"""Bem, na verdade, morremos por causa de uma briga que tivemos por causa do tédio."""					
 				"""Não vou entrar em detalhes agora, se não se importa."""					
 				"""Bem, o que aconteceu foi que um de nós era um trapaceiro e o pegamos com a boca na botija."""					
 				"""Houve uma briga e o trapaceiro fugiu pelo antigo caminho em direção ao Precipício Perigoso."""					
@@ -177,15 +177,15 @@ GRAVE_CHASMGHOST	The Scythian			Nos aproximamos da tumba solitária do trapaceir
 				O fantasma descreveu a opção de Data/Hora e os horrores que aconteceram ao alterar o humor da lua com esse método.					
 				"""O fato é que tenho tido um sério caso de arrepios desde então e, na verdade, morri de vergonha."""					
 GRAVE_HOLLOW	The Scythian			Dentro de uma árvore oca titânica, vimos uma tumba solitária que despertou nossa curiosidade.					
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma Audacioso apareceu cantando uma rima maluca para nós.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu cantando uma rima maluca para nós.			117	028.jpg	E2A80
 				"""Monitore o humor da lua, aprenda a acertar, saberá quando, como e onde, sem errar."""					
 				"""E não se preocupe, não pretendo assustar, com minha aparência impressionante, só quero brilhar."""					
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma Audacioso apareceu cantando uma rima maluca para nós.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu cantando uma rima maluca para nós.			117	028.jpg	E2A80
 				"""A trilha percorrida com sorte e fé, capture as melódicas espumas que se veem."""					
 				"""Cinco Espíritos Florestais, ao céu voarão, um milagre realizarão, o Trigono revelarão, juntos trabalharão."""					
-GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma Audacioso apareceu para nós.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu para nós.			117	028.jpg	E2A80
 				"""Busque por um sinal dos espíritos silvanos e entoe uma Canção de Espadância no local para revelar um Trigono oculto."""					
-GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma Audacioso apareceu para nós.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu para nós.			117	028.jpg	E2A80
 				"""A canção do Trigono acabou por enquanto. Me pergunto quando ouvirei novamente."""					
 LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava completamente transtornado por algo.					
 			AdventureUI/keyItem	Parece que Troncadeiro perdeu a chave da porta no muro de pedra que bloqueia o antigo caminho para Mingi Taw.					
@@ -422,7 +422,7 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Acordamos atordoados de um sono pr
 				Troncadeiro não gostava de mistérios sombrios, então decidiu ir para casa e cortar lenha.					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			O lenhador conhecido como Troncadeiro estava muito feliz por a tempestade ter se dissipado e estava animado para voltar a cortar lenha.					
 				Ele nos perguntou se sabíamos alguma coisa sobre o portão de ferro que bloqueava a caverna no prado... O que era aquilo?.					
-LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Estranho... Vejo um feixe dourado ascendente na floresta atrás do prado... Alguém descobriu os segredos da Clareira Trigonal?.			89	072.jpg	67F24
+LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Estranho... Vejo um feixe ascendente dourado na floresta atrás do prado... Alguém descobriu os segredos da Clareira Trigonal?.			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			Estou realmente preocupado com a Citiana, ela parece estar muito abalada.					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			O lenhador e sua filha nos observaram enquanto recuperávamos a consciência.					
 				Percebemos que o prado continuava o mesmo, que todas as evidências do nosso encontro místico haviam desaparecido.					
@@ -452,7 +452,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			O lenhador conhecido como Troncadeiro vo
 			Archetype/trifecta	Troncadeiro falou sobre um grupo de cítios que chegou há muitas luas a estas montanhas esquecidas em busca da Tríade Trigonal.					
 			gourd/gourd	'O grupo havia aprendido a buscar os Espíritos Florestais e enviá-los ao céu... e depois procuraram um lugar para realizar um milagre.'					
 			Archetype/trifecta	'O grupo esperava ativar os três deixes ascendentes na Floresta Trigonal, mas não sabiam quando nem onde estavam os Trigones.'					
-				'O grupo vagou sem rumo por muito tempo pelo antigo caminho em direção a Mingi Taw... eventualmente, se cansaram e decidiram parar.'					
+				'O grupo vagou sem rumo por muito tempo pelo antigo caminho para Mingi Taw... eventualmente, se cansaram e decidiram parar.'					
 				'Então, o grupo foi atingido por um espectro imortal ao lado do antigo caminho, onde ainda existem algumas tumbas até hoje.'					
 				Dissemos a Troncadeiro que era uma boa história, mas na verdade não nos assustou tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
@@ -486,7 +486,7 @@ ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Agora a pergunta é... O que v
 LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	O lenhador não reconheceu a chave que encontramos e não tinha ideia para que servia.					
 			AdventureUI/keyItem	...?					
 GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Selene viu a chave que encontramos e nos incentivou a ficar de olho em uma porta fechada.					
-				Ela não tinha nenhuma outra ideia, mas nos lembramos de algo que vimos no antigo caminho em direção a Mingi Taw.					
+				Ela não tinha nenhuma outra ideia, mas nos lembramos de algo que vimos no antigo caminho para Mingi Taw.					
 ARCHETYPE_GROTTOPARADOX	The Archetype								
 				O humor da lua foi alterado na Gruta da Lua.					
 ARCHETYPE_KILLBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
@@ -496,7 +496,7 @@ ARCHETYPE_KILLBOOR	The Archetype			Agora, imagino que você esteja se perguntand
 ARCHETYPE_SPAREBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
 				Sim, isso mesmo, é incrível e te amamos por isso!.					
 				O Grosso Rabugento foi incluído no S:S&S EP para permitir que os participantes se identifiquem como pessoas compassivas e razoáveis.					
-				Fui informado de que o Grosso Rabugento conseguiu escapa ileso. Esta é uma notícia encorajadora.					
+				Fui informado de que o Grosso Rabugento conseguiu escapar ileso. Esta é uma notícia encorajadora.					
 LOGFELLA_FOUNDATION	Logfella			...					
 				...					
 				...					
@@ -577,7 +577,7 @@ RABBITS_91MURDERS	The Scythian			Inexplicavelmente, matamos 91 coelhos indefesos
 RABBITS_107MURDERS	The Scythian			Inexplicavelmente, matamos 107 coelhos indefesos. Talvez nossa compulsão assassina diminua se pararmos de contar?.					
 ARCHETYPE_CREDITS	The Archetype								
 				S:S&S EP é um projeto colaborativo de um videogame realizado em Toronto. Mantenha-se informado ou entre em contato através do site swordandsworcery.com					
-			Logos/superbrothers	O conceito original foi desenvolvido pela Superbrothers Inc., uma organização de arte e design sediada em superbrothers.ca					
+			Logos/superbrothers	O conceito original foi desenvolvido pela Superbrothers Inc., uma organização de arte e design em superbrothers.ca					
 				As músicas e alguns sons foram criados pelo amado compositor e estrela do rock conhecido como Jim Guthrie em jimguthrie.org					
 			Logos/capy	A engenharia e os milagres foram realizados pelo estúdio independente de videogames conhecido como Capy em capybaragames.com					
 			Logos/eightfour	A tradução para o japonês, marketing, relações públicas e carinho foram fornecidos pela 8-4, Ltd. Equipe completa em 8-4.jp					
@@ -631,7 +631,7 @@ ARCHETYPE_CREDITS	The Archetype
 				A primeira demonstração pública ao vivo de S:S&S EP ocorreu em um evento social da Hand Eye Society em Toronto em 14 de fevereiro de 2010.					
 				A primeira versão jogável de S:S&S EP foi apresentada aos participantes e amigos na GDC 2010 em San Francisco, de 9 a 13 de março de 2010.					
 				As primeiras imagens de jogo não editadas do protótipo apresentado na GDC foram divulgadas online ao mesmo tempo e causaram certo alvoroço.					
-				Less Talk, More Rock: The Native Language of Videogames' foi publicado online no Boing Boing em março de 2010, você pode pesquisar no Google.					
+				'Less Talk, More Rock: The Native Language of Videogames' foi publicado online no Boing Boing em março de 2010, você pode pesquisar no Google.					
 				O projeto 'ficou em silêncio' por alguns meses enquanto realmente desenvolvíamos o videogame. Clic, clic, clic, clic.					
 				Levou um pouco mais de tempo para torná-lo realidade.					
 				Craig D. Adams apresentou 'The Intoxication of Mythology' em 22 de setembro de 2010 no Fantastic Arcade em Austin.					
@@ -646,7 +646,7 @@ ARCHETYPE_CREDITS	The Archetype
 				A equipe da Superbrothers Inc. está tirando um tempo para sonhar novos sonhos.					
 				S:S&S EP foi um dos Top 10 jogos de 2011 pela revista Time, ao lado de grandes esforços AAA como Dark Souls e Skyrim. Incrível!.					
 				Kirk Hamilton, do Kotaku, reconheceu a música de Jim Guthrie como 'a melhor música de videogame de 2011'.					
-				A tempestade do Twitter com a hashtag 'sworcery' em seu lançamento foi considerada 'um dos maiores eventos da Internet de 2011' de acordo com a Co.Design e a Syzygy.					
+				A tempestade do Twitter com a hashtag 'sworcery' no lançamento foi 'um dos maiores eventos da Internet de 2011' - Co.Design e Syzygy.					
 				S:S&S EP ganhou um prêmio Game Developer's Choice na GDC 2012, superando títulos AAA... o que foi incrivelmente impressionante.					
 				Jim Guthrie lançou um novo álbum chamado 'The Children of the Clone', que apresenta obras-primas perdidas em sintonia com S:S&S EP.					
 				Depois disso, a história fica um pouco confusa, então sintonize swordandsworcery.com para obter mais informações.					
@@ -670,5 +670,5 @@ ARCHETYPE_CREDITS	The Archetype
 				O que acontece a seguir com tudo isso? E sobre essa transmissão louca? O que o futuro reserva?.					
 				Se você quiser encomendar impressões, roupas, discos, videogames ou qualquer outra coisa, nos procure na internet!.					
 				Se você gosta do estilo de entretenimento Audiovisual oferecido por S:S&S EP, por favor, ajude a divulgar!.					
-				A partir deste momento, seremos amigos cósmicos para sempre, valeu?.			87	084.jpg	L8A48
+				A partir de agora, seremos amigos cósmicos para sempre, valeu?.			87	084.jpg	L8A48
 				Tradução para o português por @cesardeg :P.					

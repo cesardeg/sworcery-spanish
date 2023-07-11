@@ -397,7 +397,7 @@ JIM_POSTSWORCERY	The Scythian			El misterioso músico conocido como Jim Guthrie 
 JIM_POSTGOURD	The Scythian			El misterioso músico conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
 				Jim nos invitó a sentarnos junto al fuego.					
 JIM_POSTSONG	The Scythian			Jim Guthrie nos había enseñado que no se podían negar los malos pensamientos, así como no se podía negar la mordedura de un dragón.					
-			Archetype/trifecta	Él nos contó acerca de un concierto de rock que tenía programado tocar al otro lado del lago dentro de quince días.					
+			Archetype/trifecta	Él nos contó acerca de un concierto de rock que tenía programado tocar al otro lado del lago dentro de una quincena.					
 JIM_LOGFELLATHOUGHTS	Logfella			La canción suena tan familiar... ¿Dónde la he escuchado antes? #1000songs					
 				De repente, tengo esta melodía extrañamente genial en mi cabeza. #andwegotolder					
 LOGFELLA_JIMTHOUGHTS	Logfella			He tenido esta pequeña canción en mi cabeza durante años... solo unas pocas notas que se repiten una y otra vez. Me pregunto qué significa eso.					
@@ -422,7 +422,7 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Nos despertamos aturdidos de un su
 				A Troncucho no le gustaban los misterios sombríos, así que decidió ir a casa y cortar leña. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Troncucho estaba muy contento de que la tormenta se hubiera disipado y estaba muy entusiasmado por volver a cortar leña.					
 				Nos preguntó si sabíamos algo sobre el portón de hierro que bloqueaba la cueva cavernosa en el prado... ¿De qué se trataba eso?.					
-LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Extraño... Veo un rayo dorado ascendente en el bosque detrás del prado... ¿Alguien ha descubierto los secretos de la Arboleda Trigonal?.			89	072.jpg	67F24
+LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Extraño... Veo un rayo ascendente dorado en el bosque detrás del prado... ¿Alguien ha descubierto los secretos de la Arboleda Trigonal?.			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			Estoy realmente preocupado por La Escita, parece muy afectada.					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija nos observaron mientras recuperábamos el conocimiento.					
 				Nos dimos cuenta de que el prado seguía igual, que toda evidencia de nuestro encuentro místico había desaparecido.					
