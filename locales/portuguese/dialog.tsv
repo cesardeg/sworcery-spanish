@@ -27,8 +27,8 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador cortava l
 				Ainda assim, tínhamos a sensação de que ele não estava muito entusiasmado com essa tarefa.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		O lenhador esperou por nós para continuar a jornada até o início do antigo caminho.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Tínhamos cruzado o abismo e nos sentíamos super inteligentes.			22	009.jpg	L0B9S
-			adventureUI/megatomeItem	Dissemos a Troncadeiro que estávamos procurando um livro assustador de magia sinistra conhecido como O Megatomo.					
-			adventureUI/megatomeItem	O Megatomo espreitava em algum lugar da escuridão encantada além do Precipício Perigoso, sob Mingi Taw.					
+			adventureUI/megatomeItem	Informamos a Troncadeiro que estávamos procurando por um livro assustador de magia sinistra conhecido como O Megatomo.					
+			adventureUI/megatomeItem	O Megatomo espreitava além do Perigoso Precipício, em algum lugar da escuridão encantada sob Mingi Taw.					
 			adventureUI/megatomeItem	Decidimos procurar O Megatomo e depois escapar com vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	O lenhador confirmou que ele era o único com a chave da porta fechada na parede de pedra.					
 			AdventureUI/keyItem	Era uma chave realmente bonita.					
@@ -118,7 +118,7 @@ INFO_BRIGHTTRIGONALTAR	The Scythian			Na Clareira Trigonal, encontramos outra es
 INFO_STONEHEAD	The Scythian			No Precipício Perigoso, havia uma escultura de cabeça esculpida na rocha com a boca escancarada.			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			No Precipício Perigoso, havia uma escultura de cabeça esculpida na rocha que nos parecia familiar.					
 INFO_STONEHEADFLAGPOLE	The Scythian			Sobre uma grande escultura de pedra erguia-se um mastro sinistro adornado com caveiras ou algo semelhante.					
-INFO_CHASMSTONESHELTER	The Scythian			Ao lado do Precipício Perigoso, encontramos um magnífico dolmen com dois assentos de pedra confortáveis.			25	018.jpg	O1C8M
+INFO_CHASMSTONESHELTER	The Scythian			Perto do Precipício Perigoso, encontramos um megalito impressionante com dois assentos de pedra confortáveis.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			Sobre uma ponte oscilante, erguia-se um poste sinistro adornado com uma caveira com guampas.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre a entrada esculpida na rocha do templo da montanha, vimos uma representação pictórica da Tríade Trigonal.					
 INFO_MOUNTAINGATE	The Scythian			No interior do templo da montanha, avistamos um portão de ferro imóvel. Mais adiante, pudemos ver a paisagem montanhosa nublada de Mingi Taw.					

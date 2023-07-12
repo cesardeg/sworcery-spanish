@@ -3,7 +3,7 @@ GIRL_TONGUES	Girl			En un prado bañado por el sol, lejos de las estepas devasta
 				Los montañeses del Cáucaso la conocían como Leyla y parecía agradable. #obviously					
 SIGN_TADPOL	The Scythian			"""En el fuego de los sueños, la luna y la conciencia se entrelazan, revelando memorias en el hogar del corazón."" #letsmeetindreams"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, son todos reinos del hombre. Mingi Taw es el Reino de las Nubes."""					
-SIGN_CHASM	The Scythian			En el borde del Precipicio Peligroso, había una piedra tallada con el glifo de una espada que apuntaba al cielo bajo los colores del arcoíris.					
+SIGN_CHASM	The Scythian			En el borde del Precipicio Peligroso, había una piedra tallada con el glifo de una espada apuntando al cielo, rodeada de los colores del arcoíris.					
 				Nosotros, los escitas, detestamos los arcoíris. #loathsomerainbows			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			En un paso lateral que se alejaba del antiguo camino, encontramos una piedra tallada con una serie de glifos indescifrables.					
 				En medio de los glifos indescifrables reconocimos una serie de glifos lunares.					
@@ -27,8 +27,8 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador cortaba 
 				Aún así, tuvimos la sensación de que no estaba muy entusiasmado con esta encomienda.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar el recorrido hacia el comienzo del antiguo camino.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos cruzado el abismo y nos sentíamos súper inteligentes.			22	009.jpg	L0B9S
-			adventureUI/megatomeItem	Le dijimos a Troncucho que buscábamos un libro agobiante de hechicería siniestra conocido como El Megatomo.					
-			adventureUI/megatomeItem	El Megatomo acechaba en algún lugar de la oscuridad encantada más allá del Precipicio Peligroso, debajo de Mingi Taw.					
+			adventureUI/megatomeItem	Le informamos a Troncucho que estábamos en busca de un inquietante libro de magia oscura llamado El Megatomo.					
+			adventureUI/megatomeItem	El Megatomo acechaba más allá del Peligroso Precipicio, en algún lugar de la oscuridad encantada debajo de Mingi Taw.					
 			adventureUI/megatomeItem	Decidimos ir en busca de El Megatomo y después escapar con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó que él era el único con la llave de la puerta cerrada en el muro de piedra.					
 			AdventureUI/keyItem	Era una llave realmente bonita.					
@@ -118,7 +118,7 @@ INFO_BRIGHTTRIGONALTAR	The Scythian			En la Arboleda Trigonal, encontramos otra 
 INFO_STONEHEAD	The Scythian			En el Precipicio Peligroso, había una escultura tallada en roca de una cabeza que nos resultaba familiar, con la boca abierta de par en par.			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			En el Precipicio Peligroso, había una escultura tallada en roca de una cabeza que nos resultaba familiar.					
 INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una gran escultura tallada en roca se erguía un mástil siniestro adornado con calaveras u algo similar.					
-INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso, encontramos un magnífico dolmen con dos asientos de piedra cómodos.			25	018.jpg	O1C8M
+INFO_CHASMSTONESHELTER	The Scythian			Junto al Peligroso Precipicio, descubrimos un impresionante megalito con dos asientos de piedra cómodos.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			Sobre un puente tambaleante, se erguía un poste siniestro adornado con una calavera con astas.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada tallada en la roca del templo de la montaña, vimos una representación pictórica de La Tríada Trigonal.					
 INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña, divisamos un portón de hierro inamovible. Más allá, pudimos ver el paisaje montañoso nublado de Mingi Taw.					
