@@ -53,12 +53,12 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
 				Você encontrará que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
 				Você tem fones de ouvido? Está pronto para começar? Pressione 'jogar' e vamos lá!.					
-ARCHETYPE_FOUNDATION	The Archetype			Vamos falar sobre o ambiente e a configuração para ter uma experiência positiva com o altamente psicoativo Superbrothers: Sword & Sworcery EP.					
-				'Ambiente' refere-se ao estado mental e à estrutura de personalidade que você traz para a experiência, como seus pensamentos, estados de espírito e expectativas.					
-				Descobrimos que pessoas relaxadas e curiosas tendem a desfrutar mais de S:S&S EP.					
-				A 'configuração' inclui o conforto, a segurança e o aconchego do espaço em que você terá a experiência.					
+ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não busca oferecer uma experiência transcendental, mas sim liberar o sistema nervoso dos padrões habituais.					
 				Outro aspecto da 'configuração' é o contexto cultural e as ideias predominantes sobre a realidade e a normalidade. Por enquanto, evitaremos discutir isso.					
-				S:S&S EP não busca oferecer uma experiência transcendental, mas sim liberar o sistema nervoso dos padrões habituais.					
+				A 'configuração' inclui o conforto, a segurança e o aconchego do espaço em que você terá a experiência.					
+				Descobrimos que pessoas relaxadas e curiosas tendem a desfrutar mais de S:S&S EP.					
+				'Ambiente' refere-se ao estado mental e à estrutura de personalidade que você traz para a experiência, como seus pensamentos, estados de espírito e expectativas.					
+				Vamos falar sobre o ambiente e a configuração para ter uma experiência positiva com o altamente psicoativo Superbrothers: Sword & Sworcery EP.					
 				A consciência expandida, o potencial ilimitado e inexplorado da mente, é o que chamamos de 'Espadância' em Superbrothers. #sworcery					
 				A Espadância pode ser entendida como uma técnica psíquica que permite perceber uma realidade dentro daquilo que você já conhece.					
 				Para interromper a Canção da Espadância, simplesmente toque duas vezes na Aura que cerca a Citiana.					
@@ -68,7 +68,7 @@ ARCHETYPE_FOUNDATION	The Archetype			Vamos falar sobre o ambiente e a configura�
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, você aprendeu a Canção da Espadância e agora o insondável poder de O Megatomo é seu."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""O Megatomo intercepta transmissões de pensamento linguístico e contém tudo o que você precisará para concluir sua funesta missão."""					
 			adventureUI/megatomeItem	"""Acabei de ter uma ideia... Que tal abrir O Megatomo e descobrir o que está oculto em minha mente?."""					
-				"""Procure por um triângulo branco no canto superior direito... toque nele e depois equipe O Megatomo... depois gire para revelar o que está oculto."""					
+				"""Procure por um triângulo branco no canto superior direito... toque nele e depois equipe O Megatomo para revelar o que está oculto."""					
 LOGFELLA_STORM	The Scythian			O lenhador conhecido como Troncadeiro havia desistido de cortar lenha devido à sinistra tempestade. #wetboots					
 			adventureUI/megatomeItem	Troncadeiro nos lembrou de como a tempestade havia começado logo depois que recuperamos O Megatomo sob Mingi Taw.					
 				Troncadeiro estava insinuando sutilmente que deveríamos tentar fazer algo para dissipar a tempestade?. #yes #no #maybe					
@@ -150,8 +150,8 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da caverna cav
 				"""Os outros dois Trigonos existem apenas nos sonhos das pessoas da montanha."""			43	024.jpg	8.2E+46
 				"""Encontrar os outros dois Trigonos não é tanto uma questão de onde, mas de quando e como."""					
 				Sem dúvida, o fantasma radiante falava muita bobagem inútil.					
-GRAVE_LOGBRIDGE	The Scythian			Vimos um punhado de tumbas em uma moita ao lado do antigo caminho que despertaram nossa curiosidade.					
-GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos um punhado de tumbas em uma moita ao lado do antigo caminho e nos deparamos com alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
+GRAVE_LOGBRIDGE	The Scythian			Vimos um conjunto de tumbas em uma moita ao lado do antigo caminho que despertaram nossa curiosidade.					
+GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos um conjunto de tumbas em uma moita ao lado do antigo caminho e nos deparamos com alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
 				O fantasma radiante que falou era um gigante que conhecíamos pelas antigas histórias, cuja famosa imagem exigia obediência. #andre					
 			Archetype/trifecta	"""Ano passado, antes das festas do Yule, reuni uma tropa e nos propusemos a reconstruir a Tríade Trigonal."""					
 				"""Tínhamos ouvido falar sobre a entrada ao Infinito no topo de Mingi Taw e parecia algo que valia a pena ver."""					
