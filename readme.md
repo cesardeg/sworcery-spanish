@@ -1,34 +1,31 @@
-# Game Translation to Spanish
+# Superbrothers Sword & Sworcery EP Localization
 
-This guide will walk you through the steps to translate the game to Spanish and fix the special character display issues.
+This repository contains localization files for Superbrothers Sword & Sworcery EP. The files are organized into the following folders:
 
-## Translating the Game
+- **locales**: Contains translation files for various languages, including Spanish, Portuguese, English, and Japanese.
+- **fonts**: Includes the font patch to support special characters in the game.
+- **steam**: Contains pre-compiled translation files for Spanish and Portuguese. Simply copy these files into your game installation directory to apply the translations.
+- **iOS**: Provides a patch to fix the screen rotation issue on iOS 16 and higher.
 
-The game translation files are located in the `locales` directory. To translate the game to Spanish, follow these steps:
+## Installation Instructions
 
-1. Replace the `locales/strings.tsv` file in a text editor.
-2. Find the English phrases or sentences and replace them with their corresponding Spanish translations.
-3. Save the file.
+1. Navigate to the desired folder based on your requirements.
+   - For translations, go to the `locales` folder and select the language you prefer.
+   - For font patch, access the `fonts` folder.
+   - For pre-compiled translations, find the appropriate files in the `steam` folder.
+   - For the iOS patch, open the `iOS` folder.
 
-Next, you need to translate the game dialogues. Here's how:
+2. Follow the instructions within each folder to apply the modifications specific to your needs.
 
-1. Open the `locales/dialog.tsv` file in a text editor.
-2. Locate the English dialogues and replace them with their Spanish translations.
-3. Save the file.
+## Contributing
 
-## Fixing Special Characters
+If you would like to contribute translations or improvements to the project, feel free to submit a pull request.
 
-To fix the special character display issues in the game, we will modify the fonts. The font files are located in the `fonts` directory. Follow the steps below:
+## Legal
 
-1. Make a backup of the original font files in case you need to revert the changes.
-2. Open a file explorer and navigate to the `fonts` directory.
-3. Look for the font files starting with `conduit_itc` (e.g., `conduit_itc_regular.fnt`, `conduit_itc_bold.fnt`, etc.).
-4. Replace the font files with the modified versions that support upper-case special characters.
-   - The modified fonts should map the lower-case special characters (á, é, í, ó, ú, ñ, ü) to their corresponding upper-case letter.
-5. Save the changes.
+Please note that any modifications made to the game files are at your own risk. Ensure that you have a legal copy of Superbrothers Sword & Sworcery EP before proceeding with any changes.
 
-Once you have translated the game and replaced the font files, you can run the game in Spanish and verify that the special characters are displayed correctly.
+## Credits
 
-If you encounter any issues or have any questions, please refer to the game's documentation or contact the development team.
+Special thanks to all contributors for their efforts in localizing and improving the game experience.
 
-Happy translating and enjoy the game in Spanish!
