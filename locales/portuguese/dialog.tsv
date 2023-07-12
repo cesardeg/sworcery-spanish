@@ -61,9 +61,9 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não busca oferecer uma experiênc
 				Vamos falar sobre o ambiente e a configuração para ter uma experiência positiva com o altamente psicoativo Superbrothers: Sword & Sworcery EP.					
 				A consciência expandida, o potencial ilimitado e inexplorado da mente, é o que chamamos de 'Espadância' em Superbrothers. #sworcery					
 				A Espadância pode ser entendida como uma técnica psíquica que permite perceber uma realidade dentro daquilo que você já conhece.					
-				Para interromper a Canção da Espadância, simplesmente toque duas vezes na Aura que cerca a Citiana.					
-				Uma vez que você começar a entoar a Canção da Espadância, deslize a Aura para olhar ao redor.					
-				Para entoar a Canção da Espadância, mantenha pressionado sobre a Citiana por um momento e observe como a Aura se forma.					
+				Para interromper a Canção da Espadância, simplesmente toque duas vezes na aura que cerca a Citiana.					
+				Uma vez que você começar a entoar a Canção da Espadância, deslize a aura para olhar ao redor.					
+				Para entoar a Canção da Espadância, mantenha pressionado sobre a Citiana por um momento e observe como a aura se forma.					
 				Como você pode ver, O Megatomo coleta e armazena transmissões de pensamento linguístico. Role para baixo para ver no que eu estava pensando antes.					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, você aprendeu a Canção da Espadância e agora o insondável poder de O Megatomo é seu."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""O Megatomo intercepta transmissões de pensamento linguístico e contém tudo o que você precisará para concluir sua funesta missão."""					
@@ -227,7 +227,7 @@ GIRL_SUPERMOTHERTREE	Girl			Em minhas viagens nos sonhos, há uma tranquilidade 
 				Todas as noites desde que a tempestade se dissipou, tenho tido o mesmo sonho em que caminho pela floresta na hora antes do amanhecer.					
 ARCHETYPE_TREEHINT	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode proporcionar uma visão oblíqua dos fenômenos criptozoológicos e coisas do tipo.					
 				Busque as melódicas espumas dos Espíritos Florestais e investigue seus arredores.					
-				Uma vez que tenha iniciado a Canção da Espadamância, você pode tocar a Aura e deslizar para olhar ao redor.					
+				Uma vez que tenha iniciado a Canção da Espadamância, você pode tocar a aura e deslizar para olhar ao redor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Também foi afirmado que cogumelos adivinhatórios podem ter desempenhado um papel importante no desenvolvimento da psique humana.					
 				Evidências arqueológicas indicam que o uso xamânico de cogumelos para comunhão religiosa, adivinhação e cura é bastante antigo.					
 				Fisiologicamente, é possível experimentar sensações de bem-estar e percepções ampliadas, redução do estresse e perda de apetite.					
