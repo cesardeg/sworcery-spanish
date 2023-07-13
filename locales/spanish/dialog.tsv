@@ -153,7 +153,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En la Arboleda Trigonal, más allá de la 
 GRAVE_LOGBRIDGE	The Scythian			Vimos un conjunto de tumbas en un matorral a un costado del antiguo camino que despertaron nuestra curiosidad.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un conjunto de tumbas en un matorral a un costado del antiguo camino y nos encontramos con unos fantasmas que parecían amigables.			116	025.jpg	62B55
 				El fantasma brillante que habló era un gigante que conocíamos de las antiguas historias, cuya imagen famosa exigía obediencia. #andre					
-			Archetype/trifecta	"""El año pasado, antes de las fiestas del Yule, armé a un pelotón y nos propusimos reconstruir La Tríada Trigonal."""					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, organicé una cuadrilla y nos propusimos reconstruir La Tríada Trigonal."""					
 				"""Habíamos escuchado sobre la entrada al Infinito en la cima de Mingi Taw y nos pareció algo que valía la pena ver."""					
 			triangle/Triangle	"""Logramos domar fácilmente a El Trigón Dorado y exploramos la Arboleda Trigonal antes de emprender la búsqueda de El Trigón Luna Radiante."""					
 				"""La búsqueda de El Trigón Luna Radiante no fue tan exitosa... nos perdimos por completo, para ser honestos."""					
@@ -167,8 +167,8 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un conjunto de tumbas en un matorral a
 				"""Así que estábamos allí, sin saber qué hacer... cuando de repente apareció La Masa Gogolítica... ¡Y zas!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Divisamos una tumba solitaria en el borde del Precipicio Peligroso que despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la tumba solitaria del tramposo bribón en el Precipicio Peligroso y conocimos a un fantasma radiante.					
-			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' organizó un pelotón y nos propusimos reconstruir La Tríada Trigonal."""					
-				"""Los demás miembros del pelotón están enterrados en un matorral al lado del antiguo camino, cerca del puente de troncos."""					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' organizó una cuadrilla y nos propusimos reconstruir La Tríada Trigonal."""					
+				"""Los demás miembros de la cuadrilla están enterrados en un matorral al lado del antiguo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Logramos localizar y domar a El Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
 				"""Buscamos a El Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando a que el temperamento de la luna cambiara."""					
 				"""Fue super aburrido. No estaba dispuesto a esperar días y días hasta que La Luna Radiante surgiera."""					
@@ -449,12 +449,12 @@ GIRL_AFTERYELLOWBEAM	The Scythian			Leyla se sentó en una roca cerca del lugar 
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Troncucho había regresado a cortar leña y parecía estar realmente concentrado.					
 			triangle/Triangle	Troncucho había visto el rayo ascendente en el bosque detrás del prado, así que le preguntamos sobre los secretos de la Arboleda Trigonal.					
 				Nos contó una antigua historia que su gente solía contarles a sus hijos para asustarlos.					
-			Archetype/trifecta	Troncucho habló de un pelotón de Escitas que llegó hace muchas lunas a estas montañas olvidadas en busca de La Tríada Trigonal.					
-			gourd/gourd	"""El pelotón había aprendido a buscar a los Espíritus Silvanos y enviarlos al cielo... y luego buscaron un lugar para realizar un milagro."""					
-			Archetype/trifecta	"""El pelotón esperaba activar los tres rayos ascendentes en la Arboleda Trigonal, pero no sabían cuándo ni dónde estaban los Trigones."""					
-				"""El pelotón vagó sin rumbo durante mucho tiempo por el antiguo camino hacia Mingi Taw... eventualmente se cansaron y decidieron detenerse."""					
-				"""Entonces, el pelotón fue fulminado por un espectro inmortal a un costado del antiguo camino, donde todavía quedan algunas tumbas en la actualidad."""					
-				Le dijimos a Troncucho que era una buena historia, pero en realidad no nos asustó tanto.					
+			Archetype/trifecta	Troncucho habló de una cuadrilla de Escitas que llegó hace muchas lunas a estas montañas olvidadas en busca de La Tríada Trigonal.					
+			gourd/gourd	"""La cuadrilla había aprendido a buscar a los Espíritus Silvanos y enviarlos al cielo... y luego buscaron un lugar para realizar un milagro."""					
+			Archetype/trifecta	"""La cuadrilla esperaba activar los tres rayos ascendentes en la Arboleda Trigonal, pero no sabían cuándo ni dónde estaban los Trigones."""					
+				"""La cuadrilla vagó sin rumbo durante mucho tiempo por el antiguo camino hacia Mingi Taw... eventualmente se cansaron y decidieron detenerse."""					
+				"""Entonces, la cuadrilla fue diezmada por un espectro inmortal a un costado del antiguo camino, donde todavía quedan algunas tumbas en la actualidad."""					
+				Le dijimos a Troncucho que era una historia interesante, aunque en realidad no nos asustó tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que has logrado alterar el temperamento de la luna en la Gruta Lunar. Me pregunto cuánto durará esta paradoja temporal.					
 MIRACLE2_ISLAND	The Scythian			Mientras la Luna Radiante se alza en el cielo, hemos llevado a cabo un extraño milagro lunar en una isla imposible en medio de un lago sereno.			136	073.jpg	W7A3K

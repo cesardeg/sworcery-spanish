@@ -153,7 +153,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da caverna cav
 GRAVE_LOGBRIDGE	The Scythian			Vimos um conjunto de tumbas em uma moita ao lado do antigo caminho que despertaram nossa curiosidade.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos um conjunto de tumbas em uma moita ao lado do antigo caminho e nos deparamos com alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
 				O fantasma radiante que falou era um gigante que conhecíamos pelas antigas histórias, cuja famosa imagem exigia obediência. #andre					
-			Archetype/trifecta	"""Ano passado, antes das festas do Yule, reuni uma tropa e nos propusemos a reconstruir a Tríade Trigonal."""					
+			Archetype/trifecta	"""Ano passado, antes das festas do Yule, reuni uma expedição e nos propusemos a reconstruir a Tríade Trigonal."""					
 				"""Tínhamos ouvido falar sobre a entrada ao Infinito no topo de Mingi Taw e parecia algo que valia a pena ver."""					
 			triangle/Triangle	"""Localizamos e domamos O Trigono Dourado facilmente, exploramos a Clareira Trigonal e embarcamos na busca pelo Trigono da Lua Radiante.."""					
 				"""A busca pelo Trigono da Lua Radiante não foi tão bem-sucedida... nos perdemos completamente, para ser honesto."""					
@@ -167,8 +167,8 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos um conjunto de tumbas em uma moita ao 
 				"""Então, estávamos lá, sem saber o que fazer... quando de repente a Massa Gogolítica apareceu... e Pow!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Divisamos uma tumba solitária na beira do Precipício Perigoso que despertou nossa curiosidade.					
 GRAVE_CHASMGHOST	The Scythian			Nos aproximamos da tumba solitária do trapaceiro no Precipício Perigoso e conhecemos um fantasma radiante.					
-			Archetype/trifecta	"""Ano passado, antes das festas de Yule, André 'O Gigante' organizou uma tropa e nos propusemos a reconstruir a Tríade Trigonal."""					
-				"""Os outros membros da tropa estão enterrados em uma moita ao lado do antigo caminho, perto da ponte de toras."""					
+			Archetype/trifecta	"""Ano passado, antes das festas de Yule, André 'O Gigante' organizou uma expedição e nos propusemos a reconstruir a Tríade Trigonal."""					
+				"""Os outros membros da expedição estão enterrados em uma moita ao lado do antigo caminho, perto da ponte de toras."""					
 			triangle/Triangle	"""Conseguimos localizar e domar O Trigono Dourado com bastante facilidade, mas depois disso ficamos completamente parados."""					
 				"""Procuramos pelo Trigono da Lua Radiante, então decidimos nos sentar e observar o céu, esperando o humor da lua mudar."""					
 				"""Foi super chato. Eu não estava disposto a esperar dias e dias até a Lua Radiante aparecer."""					
@@ -449,12 +449,12 @@ GIRL_AFTERYELLOWBEAM	The Scythian			Selene sentou-se em uma rocha perto do local
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			O lenhador conhecido como Troncadeiro voltou para cortar lenha e parecia realmente concentrado.					
 			triangle/Triangle	Troncadeiro viu o feixe ascendente na floresta atrás do prado, então perguntamos a ele sobre os segredos da Floresta Trigonal.					
 				Ele nos contou uma antiga história que seu povo costumava contar para assustar as crianças.					
-			Archetype/trifecta	Troncadeiro falou sobre um grupo de cítios que chegou há muitas luas a estas montanhas esquecidas em busca da Tríade Trigonal.					
-			gourd/gourd	"""O grupo havia aprendido a buscar os Espíritos Florestais e enviá-los ao céu... e depois procuraram um lugar para realizar um milagre."""					
-			Archetype/trifecta	"""O grupo esperava ativar os três deixes ascendentes na Floresta Trigonal, mas não sabiam quando nem onde estavam os Trigones."""					
-				"""O grupo vagou sem rumo por muito tempo pelo antigo caminho para Mingi Taw... eventualmente, se cansaram e decidiram parar."""					
-				"""Então, o grupo foi atingido por um espectro imortal ao lado do antigo caminho, onde ainda existem algumas tumbas até hoje."""					
-				Dissemos a Troncadeiro que era uma boa história, mas na verdade não nos assustou tanto.					
+			Archetype/trifecta	Troncadeiro falou sobre uma expedição de cítios que chegou há muitas luas a estas montanhas esquecidas em busca da Tríade Trigonal.					
+			gourd/gourd	"""A expedição havia aprendido a buscar os Espíritos Florestais e enviá-los ao céu... e depois procuraram um lugar para realizar um milagre."""					
+			Archetype/trifecta	"""A expedição esperava ativar os três feixes ascendentes na Floresta Trigonal, mas não sabiam quando nem onde estavam os Trigones."""					
+				"""A expedição vagou sem rumo por muito tempo pelo antigo caminho para Mingi Taw... eventualmente, se cansaram e decidiram parar."""					
+				"""Então, a expedição foi aniquilada por um espectro imortal ao lado do antigo caminho, onde ainda existem algumas tumbas até hoje."""					
+				Dissemos a Troncadeiro que era uma uma história interessante, mas na verdade não nos assustou tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Vejo que você conseguiu alterar o humor da lua na Gruta da Lua. Me pergunto quanto tempo essa paradoxa temporal durará.					
 MIRACLE2_ISLAND	The Scythian			Enquanto a Lua Radiante se ergue no céu, realizamos um estranho milagre lunar em uma ilha impossível em um lago sereno.			136	073.jpg	W7A3K
