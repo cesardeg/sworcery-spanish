@@ -13,8 +13,8 @@ This project provides a set of scripts for generating localized files (`sworcery
 1. Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/your-username/sworcery-localization.git
-cd sworcery-localization
+git clone https://github.com/cesardeg/swordable.git
+cd steam
 ```
 
 2. Ensure that you have the necessary requirements installed, as mentioned in the Requirements section.
@@ -83,6 +83,13 @@ python build-cat.py [folder]
 2. The localized files (`sworcery.dat` and `sworcery.dat.cat`) will be generated in the `build/steam/{locale}` directory.
 
 3. Copy the generated files to the appropriate location in the game directory to change the game's language.
+
+Please note that the game directory structure may vary depending on the platform. Make sure to follow the game's installation instructions for your specific platform.
+
+### Game File Locations
+
+- For Windows: `C:\Program Files (x86)\Steam\steamapps\common\Superbrothers Sword & Sworcery EP\res`
+- For Linux/Mac: `/Users/{username}/Library/Application Support/Steam/SteamApps/common/Superbrothers Sword & Sworcery EP/res`
 
 Please note that the game directory structure may vary depending on the platform. Make sure to follow the game's installation instructions for your specific platform.
 
