@@ -1,2 +1,0 @@
-locales\dialog.tsv
-locales\strings.tsv

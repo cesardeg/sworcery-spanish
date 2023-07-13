@@ -189,7 +189,7 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titâni
 				"""A canção do Trigono acabou por enquanto. Me pergunto quando ouvirei novamente."""					
 LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava completamente transtornado por algo.					
 			AdventureUI/keyItem	Parece que Troncadeiro perdeu a chave da porta no muro de pedra que bloqueia o antigo caminho para Mingi Taw.					
-				Estávamos tipo 'Uff, mais uma missão de busca, né?'.					
+				"Estávamos tipo ""Uff, mais uma missão de busca, né?""."					
 				Troncadeiro nos disse que estava sentado bem aqui quando caiu em um sono profundo.					
 			AdventureUI/keyItem	Troncadeiro nos disse que achava que havia perdido sua chave no reino crepuscular dos sonhos.					
 				Já tínhamos ouvido falar dos estranhos sonhos dos montanheses de cabelo escuro do Cáucaso, então isso fazia total sentido para nós.					
@@ -450,10 +450,10 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			O lenhador conhecido como Troncadeiro vo
 			triangle/Triangle	Troncadeiro viu o feixe ascendente na floresta atrás do prado, então perguntamos a ele sobre os segredos da Floresta Trigonal.					
 				Ele nos contou uma antiga história que seu povo costumava contar para assustar as crianças.					
 			Archetype/trifecta	Troncadeiro falou sobre um grupo de cítios que chegou há muitas luas a estas montanhas esquecidas em busca da Tríade Trigonal.					
-			gourd/gourd	'O grupo havia aprendido a buscar os Espíritos Florestais e enviá-los ao céu... e depois procuraram um lugar para realizar um milagre.'					
-			Archetype/trifecta	'O grupo esperava ativar os três deixes ascendentes na Floresta Trigonal, mas não sabiam quando nem onde estavam os Trigones.'					
-				'O grupo vagou sem rumo por muito tempo pelo antigo caminho para Mingi Taw... eventualmente, se cansaram e decidiram parar.'					
-				'Então, o grupo foi atingido por um espectro imortal ao lado do antigo caminho, onde ainda existem algumas tumbas até hoje.'					
+			gourd/gourd	"""O grupo havia aprendido a buscar os Espíritos Florestais e enviá-los ao céu... e depois procuraram um lugar para realizar um milagre."""					
+			Archetype/trifecta	"""O grupo esperava ativar os três deixes ascendentes na Floresta Trigonal, mas não sabiam quando nem onde estavam os Trigones."""					
+				"""O grupo vagou sem rumo por muito tempo pelo antigo caminho para Mingi Taw... eventualmente, se cansaram e decidiram parar."""					
+				"""Então, o grupo foi atingido por um espectro imortal ao lado do antigo caminho, onde ainda existem algumas tumbas até hoje."""					
 				Dissemos a Troncadeiro que era uma boa história, mas na verdade não nos assustou tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Vejo que você conseguiu alterar o humor da lua na Gruta da Lua. Me pergunto quanto tempo essa paradoxa temporal durará.					
@@ -513,7 +513,7 @@ DOGFELLA_FOUNDATION	Dogfella			...
 				...					
 LOGFELLA_DARKMOON	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta na hora antes do amanhecer, sob um céu escuro e tempestuoso.					
 				Ele mencionou uma luz rosa perturbadora e uma música misteriosa que surgiam da floresta sem nome atrás do prado.					
-				Supomos que Troncadeiro provavelmente estava se referindo ao concerto de rock da Lua Sombría.					
+				Supomos que Troncadeiro provavelmente estava se referindo ao show de rock da Lua Sombría.					
 GIRL_DARKMOON	The Scythian			Selene falou sobre caminhadas oníricas pela floresta na hora antes do amanhecer, sob um céu escuro e tempestuoso.					
 				Ela comentou como se abrigou da tempestade em uma árvore oca de proporções titânicas.					
 				Sabíamos exatamente a qual árvore oca titânica ela se referia.					
