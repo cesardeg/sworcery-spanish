@@ -32,8 +32,10 @@ locale=${2:-"es"}
 language_dir=""
 case "$locale" in
   "es") language_dir="spanish";;
+  "fr") language_dir="french";;
+  "it") language_dir="italian";;
   "pt") language_dir="portuguese";;
-  *) echo "Invalid locale. Valid locales are: es, pt"; exit 1;;
+  *) echo "Invalid locale. Valid locales are: es, fr, it, pt"; exit 1;;
 esac
 
 # Define the resource directory (res_dir)

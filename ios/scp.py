@@ -33,10 +33,14 @@ locale = sys.argv[2] if len(sys.argv) >= 3 else "es"
 language_dir = ""
 if locale == "es":
     language_dir = "spanish"
+elif locale == "fr":
+    language_dir = "french"
+elif locale == "it":
+    language_dir = "italian"
 elif locale == "pt":
     language_dir = "portuguese"
 else:
-    print("Invalid locale. Valid locales are: es, pt")
+    print("Invalid locale. Valid locales are: es, fr, it, pt")
     exit(1)
 
 # Create an SSH client instance

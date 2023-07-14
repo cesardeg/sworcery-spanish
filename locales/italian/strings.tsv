@@ -1,127 +1,127 @@
 id	Italian	Japanese	
-GAME_NAME	Superbrothers: Sword & Sworcery EP	スキタイのムスメ：音響的冒剣劇	
-GAME_MOTTO	UN CORAGGIOSO ESPERIMENTO NEL CINEMA I/O	インプット・アウトプット・シネマ実験	
-GAME_NAME_SHORT	S:S&SEP	スキムス	HM, jun13: Changed it since it was using the old name.
-WITH_SONGS	MUSICHE & SUONI DI	楽曲 & サウンド：	
-JIM_GUTHRIE	JIM GUTHRIE	ジム・ガスリー	
-FOR_DEMO	SOLO PER SCOPI DIMOSTRATIVI	体験版専用	
-END_DEMO	Così termina la demo di	これにて体験版終劇：	
-SIDE_A	LATO A	A面	
-SIDE_B	LATO B	B面	
-ROTATE	A T T I V A R E?	抜刀する？	JJ, Jun08: Removed space.
-INVENTORY_ROTATE	RUOTA?	回転してみる？	MM,May29: Shortened, please recenter on screen JR, may30: Changed to Japanese ？
-LOOK	GUARDA	見て	
-LISTEN	ASCOLTA	聞いて	
-TOUCH	TIP TAP	トントンして	
-DREAM	SOGNO	夢	
-TOUCH_ARROW_LEFT	< <TOCCA	< <触れて	
-TOUCH_ARROW_RIGHT	TOCCA> >	触れて> >	
-GUIDE_ARROW_LEFT	< <GUIDA	< <こっちへ	
-GUIDE_ARROW_RIGHT	GUIDA> >	こっちへ> >	
-OBSERVE	OSSERVA	観察して	
-INVESTIGATE	INDAGA	よく見て	
-SHAKE	AGITA?	振ってみる？	JR, may30: Changed to Japanese ？
-REFLECT	RIFLETTI	反射を	
-BELIEVE	CREDI	信じて	
-BEWARE	ATTENZIONE	気をつけて	
-FOLLOW	SEGUI?	ついていく？	
-ROTATE_UNSHEATHE	< < SFODERA	< <抜刀	JJ, Jun6: Didn't have translation for this one, but based it on row 11. JR, jun12: Hiroko OK. JR, jun12: Fixed spacing around arrows.
-GO_HOME	VAI A CASA?	家に帰る？	
-START_ARROW_RIGHT	COMINCIA > > >	スタート> >	JR, jun12: Fixed spacing around arrows.
-TRESPASS	TRASGREDISCI	侵入	
-AVOID	EVITA	避ける	
-CONSIDER	ESAMINA	よく考える	
-PERSEVERE	INSISTI	がんばる	
-START_OVER	RICOMINCIA?	やり直す？	JR, may30: Changed to Japanese ？
-PROMPT_YES	SÌ	はい	
-PROMPT_NO	NO	いいえ	
-PROMPT_OK	OKAY	OK	JJ, Jun06: Needs translation. JJ, Jun08: Just putting "決定" here so we can find it in the rom. JJ, Jun11: OK is the final text. JR, jun12: Hiroko OK.
-PROMPT_CANCEL	ANNULLA	キャンセル	
-PROMPT_SUBMIT	INVIA	送信	
-PROMPT_DELETE_SAVE	VUOI ELIMINARE I TUOI SALVATAGGI? TUTTI I PROGRESSI VERRANNO PERSI!	セーブデータを削除しますか？;これまでの進捗情報は;すべて削除されます	HW, Jun6: This string needs line breaks. Shows up when trying to delete save data in the settings menu.  JJ, Jun11: Hiroko please check line breaks (I put them in already, please just make sure they are OK by JP standards).  HM, Jun12: What's the character limit? Also, the single byte question mark seems inconsistent than the others but is this intentional? JR, jun12: Hiroko OK.
-FULLSCREEN	SCHERMO INTERO	全画面	
-FULLSCREEN_YES	SÌ	はい	
-FULLSCREEN_NO	NO	いいえ	
-VOLUME	VOLUME	ボリューム	
-SETTINGS	OPZIONI	設定	
-CLEAR_DATA	CANCELLA I DATI	データを消去	
-KEEP_CHANGES	MANTENERE LE MODIFICHE?	変更を保存しますか？	
-KEEP_CHANGES_AUTO	MANTENERE LE MODIFICHE? LE IMPOSTAZIONI PRECEDENTI SARANNO REIMPOSTATE IN	変更を保存しますか？;自動的に戻るまであと：	解像度変更オプションで、保存するを選択しない場合自動的に設定が変更前に戻るものと想像しました。また、INの後にはカウントダウンする数字が入るものと考えました HM, Jun13: Made the : double byte.
-GAME_RESTART_REQUIRED	È RICHIESTO IL RIAVVIO DEL GIOCO PER ABILITARE LE MODIFICHE	変更を反映するにはゲームを再起動する必要があります	
-TWITTER_BROADCAST	POTRESTI VOLERLO TRASMETTERE VIA TWITTER	ゲームの進捗はTwitterで実況できます	
-TWITTER_SETTINGS	TWITTER	Twitter	
-TWITTER_TWEET	TWEETARE?	ツイートする？	
-TWITTER_SIGN_IN	ACCEDI A TWITTER	Twitterにサインイン	
-TWITTER_USERNAME	USERNAME O EMAIL	ユーザー名／メールアドレス	HM, Jun13: Changed / to double byte
-TWITTER_PASSWORD	PASSWORD	パスワード	
-TWITTER_NEVERMIND	INDIETRO	戻る	
-TWITTER_TWEETING	TWEETANDO...	ツイート中...	
-TWITTER_SIGNING_IN	ACCESSO IN CORSO...	サインイン中...	
-TWITTER_SUCCESS	RIUSCITO!	完了！	JR, may30: Changed to Japanese ！
-TWITTER_FAILED	FALLITO	失敗...	
-TWITTER_WRONG_LOGIN	USERNAME O PASSWORD ERRATI	ユーザー名かパスワードが間違っています	
-TWITTER_CONNECT_FAIL	CONNESSIONE FALLITA	接続に失敗しました	
-TWITTER_SIGN_IN_ONLY	ACCEDI	サインイン	
-TWITTER_SIGN_OUT_ONLY	DISCONNETTI	サインアウト	
-TWITTER_SIGNED_IN	SEI ATTUALMENTE LOGGATO IN TWITTER	Twitterにサインインしています	
-TWITTER_SIGNED_OUT	NON SEI LOGGATO SU TWITTER	Twitterにサインインしていません	
-TWITTER_FILL_OUT	COMPLETA TUTTI I CAMPI	すべてのフィールドに入力してください	
-EPITAPH	NON SONO RIMASTI SEGRETI IN QUESTA PALUDE MEOTIDE	かのマイオティス湿地にはもはや秘密など残されていない	
-FIGHT	COMBATTI?	戦う？	JR, may30: Changed to Japanese ？
-DARKMOON_COUNT_9	LUNA CUPA TRA 9 GIORNI	暗月まであと９日	JR, jun12: Changed 9 to ９
-DARKMOON	LUNA CUPA	暗月	
-BRIGHTMOON	LUNA SPLENDENTE	明月	
-DARKMOON_BEFORE_NUM	LUNA CUPA TRA	暗月まであと	
-DARKMOON_AFTER_1	GIORNO	日	
-DARKMOON_AFTER_MORE	GIORNI	日	
-BRIGHTMOON_BEFORE_NUM	LUNA SPLENDENTE TRA	明月まであと	
-BRIGHTMOON_AFTER_1	GIORNO	日	
-BRIGHTMOON_AFTER_MORE	GIORNI	日	
-TIME_PARADOX	*PARADOSSO TEMPORALE*	* タイム パラドックス *	
-ERRAND_END	IL TUO INGRATO COMPITO È AL TERMINE.	使命はついに果たされた	
-BEWARE_BOOR	ATTENTO A TAMARRORSO	クマズリーに注意	
-MOVE_CONTROLS	PREMI E TIENI PREMUTO PER MUOVERTI	タップしたままにすると移動	
-STOP_CONTROLS	TIP TAP PER FERMARE?	トントンして立ち止まる？	JR, may30: Changed to Japanese ？
-STOP_CONTROLS_ARROW	< < TIP TAP PER FERMARE?	< <トントンして立ち止まる？	JR, may30: Changed to Japanese ？
-SLAY	UCCIDERE?	息の根を止める？	JR, may30: Changed to Japanese ？
-ZOOM_CONTROLS	< < < ZOOM? > > >	< < <  ズーム？ > > >	HM, Jun13: Changed ? to double byte
-LOOK_CONTROLS	TOCCA, TIENI PREMUTO & AGITA SULL'AURA DI SPADOMANZIA	ソーサリーのオーラをタップしたままドラッグ	JJ, Jun11: This is really long on the screen. JR, jun12: HIROKO: consider changing "swipe" to whatever the JP is for "drag" JR, jun13: JJ - any reason they use AUREOLE here and not AURA like elsewhere? It's the same thing, isn't it? HM, jun13: Made it shorter
-LOOK_CONTROLS_2	TOCCA & AGITA PER GUARDARE INTORNO	タップしたままドラッグで見渡す	HM, jun13: changed swipe to drag.
-TONGUE_TEXT	Inclina, sfodera & tieni in alto la tua spada scita verso l'arcobaleno per qualche secondo ed abbi fede	傾け、抜刀し、スキタイの剣を幾秒か、;虹に向けて掲げよ。;意志あるところに道は通ず	MM, 6/1: We can't find this line in the game? Is it in the game?
-TOUCH_HOLD	TOCCA & TIENI PREMUTO	タップしたままにする	
-TOUCH_HOLD_ARROW_LEFT	< < TOCCA & TIENI PREMUTO	< < タップしたままにする	JJ, Jun6: Didn't have translation here, but made it based on row 91 HM, Jun13: tweaked it. Was there a specific reason you used して instead of する ?
-TOUCH_HOLD_ARROW_RIGHT	TOCCA & TIENI PREMUTO > >	タップしたままにする > >	JJ, Jun6: Didn't have translation here, but made it based on row 91 HM, Jun13: tweaked it. Was there a specific reason you used して instead of する ?
-TIP_TAP_QUESTION	TIP TAP?	トントンする？	JR, may30: Changed to Japanese ？
-TIP_TAP_ARROW_LEFT	< < TIP TAP	< <トントンする	
-TIP_TAP_ARROW_LEFT_Q	< < TIP TAP?	< <トントンする？	JR, may30: Changed to Japanese ？
-TIP_TAP_ARROW_RIGHT	TIP TAP > >	トントンする> >	
-RUB	SFREGA	こする	
-QUIT	ESCI?	やめる？	
-TAP_ARROW_LEFT	< < TOCCA	< <タップする	
-MOON_TIME_1	pochi istanti fa	さっき	
-MOON_TIME_2	poco fa	ちょっと前	
-MOON_TIME_3	poco tempo fa	けっこう前	
-MOON_TIME_4	in passato	ずいぶん前	
-MOON_TIME_5	molte lune fa	かなり前	
-MOON_TIME_6	tanto tempo fa	ずっとずっと前	
-COSMIC_FRIENDS	ORA SIAMO AMICI COSMICI PER SEMPRE... OK?	さて、これで僕らは永遠にコズミックフレンドだ…いいね？	
-The Scythian	La Scita	スキタイのムスメ	
-Girl	Ragazza	オトメちゃん	
-Logfella	Signor Ceppo	丸太さん	
-Dogfella	Signor Cane	イヌさん	
-The Archetype	L'Archetipo	アーキタイプ	
-EXIT	ESCI	終了	
-RESOLUTION	RISOLUZIONE	解像度	
-RESET	RESET	リセット	
-PROMPT_CONFIRM_QUIT	TORNA AL MENU PRINCIPALE?	メインメニューに戻る？	HM, Jun12: Is the single byte question mark intentional? JR, jun12: Fixed.
-APPLY	APPLICA	適用	
-BACK	INDIETRO	戻る	
-ERRMSG_UNABLE_TO_SAVE	Impossibile salvare il file	ファイルにセーブできません	
-ERRMSG_UNABLE_TO_DELETE	Impossibile eliminare il file	ファイルを削除できません	
-ERRMSG_UNABLE_TO_DELETE_STEAM	Un errore ha impedito al gioco di eliminare il salvataggio Steam.	エラーが起きたので Steam の;セーブを削除できませんでした	HW, Jun6: This string likely needs line breaks. Shows up in same popup box when quitting the game. JR, jun12: Fixed but need to check if it fits.
-ERRMSG_UNABLE_TO_SAVE_STEAM	Un errore ha impedito al gioco di creare un salvataggio Steam.	エラーが起きたので Steam の;セーブを作成できませんでした	HW, Jun6: This string likely needs line breaks. Shows up in same popup box when quitting the game. JR, jun12: Fixed but need to check if it fits.
-ERRMSG_CORRUPT_SAVE_PROGRESS	I salvataggi e i progressi contenuti sono corrotti. Per ripristinarli il gioco eliminerà il salvataggio dopo la pressione del tasto Okay.	進捗情報が読み込めません。;セーブデータが破損しています。;OK を押すとセーブデータを削除します	B38 のOkayと訳語を揃える必要があります。今はOKとしてあります。 また、「回復するには」とありますがデータを削除する説明文が続きます。挙動を確認後、訳文を適宜修正願います JR, jun12: Fixed but need to check if it fits.
-PROMPT_CONFIRM_EXITGAME	VUOI USCIRE DAL GIOCO?	ゲームを終了しますか？	
-HASHTAG_SWORCERY	#spadomanzia	#スキムス	
-DIGIT_STRING	"0123456789"	０１２３４５６７８９	
-HOLD_SHIELD_TO_HEAL	TIENI ALTO LO SCUDO PER CURARTI	押し続けて回復	JR, jun12: HIROKO - this is new and needs a translation. HM, jun13: JJ - please check this in the new build and show it to me. If it's too tight we can consider 押し続けて回復.
+GAME_NAME	Superbrothers: Sword & Sworcery EP		
+GAME_MOTTO	UN CORAGGIOSO ESPERIMENTO NEL CINEMA I/O		
+GAME_NAME_SHORT	S:S&SEP		
+WITH_SONGS	MUSICHE & SUONI DI		
+JIM_GUTHRIE	JIM GUTHRIE		
+FOR_DEMO	SOLO PER SCOPI DIMOSTRATIVI		
+END_DEMO	Così termina la demo di		
+SIDE_A	LATO A		
+SIDE_B	LATO B		
+ROTATE	A T T I V A R E?		
+INVENTORY_ROTATE	RUOTA?		
+LOOK	GUARDA		
+LISTEN	ASCOLTA		
+TOUCH	TIP TAP		
+DREAM	SOGNO		
+TOUCH_ARROW_LEFT	< <TOCCA		
+TOUCH_ARROW_RIGHT	TOCCA> >		
+GUIDE_ARROW_LEFT	< <GUIDA		
+GUIDE_ARROW_RIGHT	GUIDA> >		
+OBSERVE	OSSERVA		
+INVESTIGATE	INDAGA		
+SHAKE	AGITA?		
+REFLECT	RIFLETTI		
+BELIEVE	CREDI		
+BEWARE	ATTENZIONE		
+FOLLOW	SEGUI?		
+ROTATE_UNSHEATHE	< < SFODERA		
+GO_HOME	VAI A CASA?		
+START_ARROW_RIGHT	COMINCIA > > >		
+TRESPASS	TRASGREDISCI		
+AVOID	EVITA		
+CONSIDER	ESAMINA		
+PERSEVERE	INSISTI		
+START_OVER	RICOMINCIA?		
+PROMPT_YES	SÌ		
+PROMPT_NO	NO		
+PROMPT_OK	OKAY		
+PROMPT_CANCEL	ANNULLA		
+PROMPT_SUBMIT	INVIA		
+PROMPT_DELETE_SAVE	VUOI ELIMINARE I TUOI SALVATAGGI? TUTTI I PROGRESSI VERRANNO PERSI!		
+FULLSCREEN	SCHERMO INTERO		
+FULLSCREEN_YES	SÌ		
+FULLSCREEN_NO	NO		
+VOLUME	VOLUME		
+SETTINGS	OPZIONI		
+CLEAR_DATA	CANCELLA I DATI		
+KEEP_CHANGES	MANTENERE LE MODIFICHE?		
+KEEP_CHANGES_AUTO	MANTENERE LE MODIFICHE? LE IMPOSTAZIONI PRECEDENTI SARANNO REIMPOSTATE IN		
+GAME_RESTART_REQUIRED	È RICHIESTO IL RIAVVIO DEL GIOCO PER ABILITARE LE MODIFICHE		
+TWITTER_BROADCAST	POTRESTI VOLERLO TRASMETTERE VIA TWITTER		
+TWITTER_SETTINGS	TWITTER		
+TWITTER_TWEET	TWEETARE?		
+TWITTER_SIGN_IN	ACCEDI A TWITTER		
+TWITTER_USERNAME	USERNAME O EMAIL		
+TWITTER_PASSWORD	PASSWORD		
+TWITTER_NEVERMIND	INDIETRO		
+TWITTER_TWEETING	TWEETANDO...		
+TWITTER_SIGNING_IN	ACCESSO IN CORSO...		
+TWITTER_SUCCESS	RIUSCITO!		
+TWITTER_FAILED	FALLITO		
+TWITTER_WRONG_LOGIN	USERNAME O PASSWORD ERRATI		
+TWITTER_CONNECT_FAIL	CONNESSIONE FALLITA		
+TWITTER_SIGN_IN_ONLY	ACCEDI		
+TWITTER_SIGN_OUT_ONLY	DISCONNETTI		
+TWITTER_SIGNED_IN	SEI ATTUALMENTE LOGGATO IN TWITTER		
+TWITTER_SIGNED_OUT	NON SEI LOGGATO SU TWITTER		
+TWITTER_FILL_OUT	COMPLETA TUTTI I CAMPI		
+EPITAPH	NON SONO RIMASTI SEGRETI IN QUESTA PALUDE MEOTIDE		
+FIGHT	COMBATTI?		
+DARKMOON_COUNT_9	LUNA CUPA TRA 9 GIORNI		
+DARKMOON	LUNA CUPA		
+BRIGHTMOON	LUNA SPLENDENTE		
+DARKMOON_BEFORE_NUM	LUNA CUPA TRA		
+DARKMOON_AFTER_1	GIORNO		
+DARKMOON_AFTER_MORE	GIORNI		
+BRIGHTMOON_BEFORE_NUM	LUNA SPLENDENTE TRA		
+BRIGHTMOON_AFTER_1	GIORNO		
+BRIGHTMOON_AFTER_MORE	GIORNI		
+TIME_PARADOX	*PARADOSSO TEMPORALE*		
+ERRAND_END	IL TUO INGRATO COMPITO È AL TERMINE.		
+BEWARE_BOOR	ATTENTO A TAMARRORSO		
+MOVE_CONTROLS	PREMI E TIENI PREMUTO PER MUOVERTI		
+STOP_CONTROLS	TIP TAP PER FERMARE?		
+STOP_CONTROLS_ARROW	< < TIP TAP PER FERMARE?		
+SLAY	UCCIDERE?		
+ZOOM_CONTROLS	< < < ZOOM? > > >		
+LOOK_CONTROLS	TOCCA, TIENI PREMUTO & AGITA SULL'AURA DI SPADOMANZIA		
+LOOK_CONTROLS_2	TOCCA & AGITA PER GUARDARE INTORNO		
+TONGUE_TEXT	Inclina, sfodera & tieni in alto la tua spada scita verso l'arcobaleno per qualche secondo ed abbi fede		
+TOUCH_HOLD	TOCCA & TIENI PREMUTO		
+TOUCH_HOLD_ARROW_LEFT	< < TOCCA & TIENI PREMUTO		
+TOUCH_HOLD_ARROW_RIGHT	TOCCA & TIENI PREMUTO > >		
+TIP_TAP_QUESTION	TIP TAP?		
+TIP_TAP_ARROW_LEFT	< < TIP TAP		
+TIP_TAP_ARROW_LEFT_Q	< < TIP TAP?		
+TIP_TAP_ARROW_RIGHT	TIP TAP > >		
+RUB	SFREGA		
+QUIT	ESCI?		
+TAP_ARROW_LEFT	< < TOCCA		
+MOON_TIME_1	pochi istanti fa		
+MOON_TIME_2	poco fa		
+MOON_TIME_3	poco tempo fa		
+MOON_TIME_4	in passato		
+MOON_TIME_5	molte lune fa		
+MOON_TIME_6	tanto tempo fa		
+COSMIC_FRIENDS	ORA SIAMO AMICI COSMICI PER SEMPRE... OK?		
+The Scythian	La Scita		
+Girl	Ragazza		
+Logfella	Signor Ceppo		
+Dogfella	Signor Cane		
+The Archetype	L'Archetipo		
+EXIT	ESCI		
+RESOLUTION	RISOLUZIONE		
+RESET	RESET		
+PROMPT_CONFIRM_QUIT	TORNA AL MENU PRINCIPALE?		
+APPLY	APPLICA		
+BACK	INDIETRO		
+ERRMSG_UNABLE_TO_SAVE	Impossibile salvare il file		
+ERRMSG_UNABLE_TO_DELETE	Impossibile eliminare il file		
+ERRMSG_UNABLE_TO_DELETE_STEAM	Un errore ha impedito al gioco di eliminare il salvataggio Steam.		
+ERRMSG_UNABLE_TO_SAVE_STEAM	Un errore ha impedito al gioco di creare un salvataggio Steam.		
+ERRMSG_CORRUPT_SAVE_PROGRESS	I salvataggi e i progressi contenuti sono corrotti. Per ripristinarli il gioco eliminerà il salvataggio dopo la pressione del tasto Okay.		
+PROMPT_CONFIRM_EXITGAME	VUOI USCIRE DAL GIOCO?		
+HASHTAG_SWORCERY	#spadomanzia		
+DIGIT_STRING	123456789		
+HOLD_SHIELD_TO_HEAL	TIENI SCUDO PER CURARTI		

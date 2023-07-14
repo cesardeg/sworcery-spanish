@@ -243,7 +243,7 @@ GIRL_CABINSHEEPTHOUGHTS	Girl			Pero qué... ¡La lluvia ha cesado! ¿Está comen
 				Toda esta tormenta me ha estado afectando mucho. ¡Ha sido todo tan sombrío!.					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Se me puso la piel de gallina... Sin duda algo está pasando... ¿Está comenzando a disiparse la tormenta?.					
 				Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas.					
-DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau, Guau, Guau, Guau, Guau, Guau, Guau, Guau. #stillbarking #miracles			84	037.jpg	V3C7I
+DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Una vez que el sol esté alineado, se te concederán las habilidades milagrosas de plegado del gran mago Al Jaffee.					
 				¿Sientes esa sensación peculiar? ¡Es la temporada de milagros! Entona la Canción de Espadamancia y mira hacia los pájaros enojados que se alzan imponentes.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira al cielo en busca de una visión oblicua sobre el funcionamiento de este milagro del prado y admira a El Trigón Dorado.					
@@ -347,11 +347,11 @@ GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd
 GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Sombría reina y despertamos a un espíritu silvano en la maleza al otro lado de un lago.					
 GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Radiante se cierne y despertamos a un espíritu silvano acechando en la raíz de un árbol titánico.					
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa sensación peculiar de que, tal vez, estemos ante la temporada de milagros. ¿Dónde están mis milagros? #miracles			77	060.jpg	86D06
-GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau, Guau, Guau, Guau, Guau, Guau. #barking			135	061.jpg	M6F1I
-				Guau, Guau, Guau. #justbarking					
+GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Guau Guau. #barking			135	061.jpg	M6F1I
+				Guau Guau Guau. #justbarking					
 				A veces me canso de ladrar todo el tiempo, pero un perro tiene que hacer lo que se supone que un perro tiene que hacer.					
-				Guau, Snif, Guau. #mixingitup					
-				Guau, Guau, Guau, Guau, Guau, Guau.					
+				Guau Snif Guau. #mixingitup					
+				Guau Guau Guau Guau Guau Guau.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Hay algo extraño en cómo se comportó La Escita, casi como si estuviera siendo controlada por una fuerza invisible.					
 				Me gustaría saber más sobre la historia épica de La Escita, apuesto a que entonces todo tendría sentido.					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que La Escita esté invirtiendo todos sus esfuerzos en el tema de los Espíritus Silvanos.					
@@ -360,15 +360,15 @@ GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha estado completam
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Toda esta tormenta me ha estado afectando mucho. ¡Ha sido todo taaan sombrío!.					
 				La lluvia ha comenzado a ceder y el cielo parece aclararse... ¿Será está la temporada de milagros? Espero que así sea, no hay duda que los amo.					
 				Vaya... ¿Qué? Las ovejas del prado se han asustado... Me pregunto qué estará pasando, podría ser... ¿El Trigón Dorado?.					
-GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Guau, Guau, Guau. 					
+GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau. 					
 				A veces cuando las cosas están demasiado oscuras para mi, ingiero algo y veo incluso lo que no está ahí.					
-				Guau, Guau, Guau, Guau, Guau.					
+				Guau Guau Guau Guau Guau.					
 GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Tengo esta canción en mi cabeza... una canción alegre y triste que me llena de un extraño y hermoso temor.					
 GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Sé que buscas evitar tu funesto cometido, pero debes saber esto: el tiempo es una fuerza y, sin duda, seguirá su curso.					
-				Guau, Guau, Guau. Snif.					
+				Guau Guau Guau. Snif.					
 GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		También hay sustantivos desconocidos, aunque estos se aprenden fácilmente.					
 				Hay dos tipos de incógnitas, las incógnitas conocidas y las incógnitas desconocidas.			32	063.jpg	L6E31
-				Guau, Guau, Guau. 					
+				Guau Guau Guau. 					
 GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mis troncos guardan muchos secretos... secretos sobre los Espíritus Silvanos e islas imposibles. Lamentablemente, no hablo Tronqués.					
 				En mi experiencia, hay ocasiones en las que los búhos no son lo que parecen, mientras que en otras simplemente son búhos comunes y corrientes.			126	064.jpg	86A47
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oído hablar sobre una isla imposible bajo La Luna Radiante ...¿Quizás lo leíste en internet?.			134	065.jpg	H6A5I
@@ -378,11 +378,11 @@ GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los Espíritus Silvano
 				Para ser honesta, los Espíritus Silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?.					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los espíritus hayan sido enviados al cielo y la temporada de milagros se acerque, debes buscar el árbol titánico.					
 				Sé que sabes lo que sé y quiero que sepas que estás completamente en lo correcto.			109	066.jpg	F6D6H
-				Guau, Guau, Guau, Snif, Guau, Guau, Guau.					
+				Guau Guau Guau Snif Guau Guau Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu funesto cometido traerá la paz de vuelta a nuestras vidas.					
 				Solo La Tríada Trigonal te permitirá comprender los secretos de la Arboleda Trigonal.					
 				El Arremolinado Infinito en la cima de Mingi Taw te espera.					
-				Guau, Guau, Guau.					
+				Guau Guau Guau.					
 GCLUE_WATERFALLS	Girl			¿Alguna vez has notado que a veces las palabras simplemente suenan como ruido, pero otras veces el ruido produce el sonido más bello?.			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí, entre los montañeses del Cáucaso.					
 				Hay un dicho aqui en el Cáucaso que dice que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
@@ -436,11 +436,11 @@ DOGFELLA_GETBRIGHTTRIGON	The Scythian			Después de activar otro rayo ascendente
 			Archetype/trifecta	De repente parecía que entendíamos a Chucho, nos instó a buscar El Trigón Luna Radiante y completar La Tríada Trigonal.					
 DOGFELLA_THREETRIGONS	The Scythian			Después de activar otro rayo ascendente en la Arboleda Trigonal, notamos algo peculiar en el perro llamado Chucho.					
 			Archetype/trifecta	De repente parecía que entendíamos a Chucho, nos instó a activar el tercer rayo ascendente y abrir la entrada al Arremolinado Infinito.					
-DOGFELLA_TRUTHBOMB	Dogfella			Guau, Guau, Guau.					
-				Guau, Guau, Snif, Guau.					
+DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
+				Guau Guau Snif Guau.					
 				El cosmos en el Arremolinado Infinito en la cima de Mingi Taw espera a aquel que lleva El Megatomo.					
-				Guau, Guau, Guau, Guau, Guau.					
-				Guau, Guau, Guau.					
+				Guau Guau Guau Guau Guau.					
+				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Leyla se sentó en una roca cerca del lugar donde el leñador cortaba leña.					
 			Archetype/trifecta	Le preguntamos sobre los secretos de la Arboleda Trigonal y los peculiares sueños de los montañeses del Cáucaso.					
 				Ella nos contó cómo los sueños de su gente contenían muchos misterios y reflejaban el temperamento de la luna de manera extraña.					
@@ -564,7 +564,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			La Luna Sombría reina, el final del cic
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Sombría!.			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			En mi sueño me encontré con un Parlamento de árboles azotado por un rayo y sentí la presencia de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una música vibrante filtrándose a través de los bosques detrás de mi choza. ¿Qué podría ser?.					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau, Guau, Guau. En mi estado de sueño solo vislumbré las sutiles y melodiosas brumas de los Espíritus Silvanos.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño solo vislumbré las sutiles y melodiosas brumas de los Espíritus Silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Hemos reconstruido La Tríada Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 3 conejos indefensos.					
 RABBITS_7MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 7 conejos indefensos. ¿Estamos ante la evidencia de una mente transtornada?.					

@@ -24,8 +24,10 @@ locale=${2:-"es"}
 locale_dir=""
 case "$locale" in
   "es") locale_dir="spanish";;
+  "fr") locale_dir="french";;
+  "it") locale_dir="italian";;
   "pt") locale_dir="portuguese";;
-  *) echo "Invalid locale. Valid locales are: es, pt"; exit 1;;
+  *) echo "Invalid locale. Valid locales are: es, fr, it, pt"; exit 1;;
 esac
 
 # Set the res dir based on the script directory and locale

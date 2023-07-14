@@ -96,7 +96,7 @@ TIP_TAP_ARROW_LEFT	< < TOC-TOC
 TIP_TAP_ARROW_LEFT_Q	< < TOC-TOC ?	
 TIP_TAP_ARROW_RIGHT	TOC-TOC > >	
 RUB	SECOUEZ	
-QUIT	MENU ?	
+QUIT	SORTIE?	
 TAP_ARROW_LEFT	< < TOUCHEZ	
 MOON_TIME_1	quelques instants auparavant	
 MOON_TIME_2	il y a un petit moment	
