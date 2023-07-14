@@ -48,8 +48,8 @@ GIRL_AVATAR			AdventureUI/dudeDaughterIdle1
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Signore & Signori, che ne dite di picchiettare questi due spiritelli silvani così che possa farmi un'idea del vostro sistema stereo?					
-	The Archetype			Le nostre ricerche indicano che il supporto ai social networks avrà un'influenza positiva sul successo di S:S&S EP.					
-				Nota: l'abilità di divulgare le vostre scoperte è una componente completamente opzionale di S:S&S EP, ed è destinata ad essere usata con moderazione.					
+	The Archetype			Dal nostro precedente esperimento nel 2011, i social network si sono rivelati catastrofici per la società.					
+				Questa volta, incoraggiamo l'isolamento e la riflessione piena di rimpianto.					
 				Vi siamo profondamente grati di aver scelto di partecipare a questo trattamento sperimentale per casi acuti d'avvilimento.					
 				Troverete questa prima sessione di S:S&S EP abbastanza lineare. Richiede tipicamente solo 15 - 30 minuti per essere completata.					
 				Pronti per iniziare? Premete play & andiamo!					
@@ -631,9 +631,9 @@ ARCHETYPE_CREDITS	The Archetype
 				Gli artwork in pixel sono stati creati interamente con Promotion di Cosmigo, mentre altri elementi visivi con Illustrator & Photoshop di Adobe.					
 				I suoni & le canzoni sono stati creati usando MTV Music Generator della  Codemasters per PSOne e/o Garageband & Logic Studio della Apple.					
 			Logos/FMOD	I suoni & le canzoni sono stati integrati nel progetto usando FMOD della Firelight Technologies.					
-			Logos/DolbyDigital	Dolby ed il simbolo della doppia D sono marchi registrati di Dolby Laboratories.					
-			Logos/DolbyDigital	Soluzioni audio PC contenenti Dolby® Digital Live richieste per Dolby Digital audio.					
-			Logos/DigitalSurround	DTS® e DTS Digital Surround® sono marchi registrati di DTS, Inc.					
+				Dolby ed il simbolo della doppia D sono marchi registrati di Dolby Laboratories.					
+				Soluzioni audio PC contenenti Dolby® Digital Live richieste per Dolby Digital audio.					
+				DTS® e DTS Digital Surround® sono marchi registrati di DTS, Inc.					
 				Il codice è stato programmato in C++ & gli script Lua con tolua++. Le mappe & gli elementi del mondo sono stati creati con software proprietario di Capy.					
 				Il calcolo delle fasi lunari & gli algoritmi astronomici sono una cortesia di voidware.com/moon_phase.htm					
 				Le API usate nello sviluppo di S:S&S EP includono twitcurl, tinyxml, libpng/zlib, SDL, cmake, e minizip					
@@ -658,13 +658,13 @@ ARCHETYPE_CREDITS	The Archetype
 				Lo staff di Superbrothers Inc si sta prendendo un po' di tempo per sognare nuovi sogni, fai un salto sul TELETEX per tenerti in contatto.					
 				S:S&S EP è stato scelto tra i  '10 Migliori Videogame del 2011' di Time Magazine assieme ad opere AAA come Dark Souls & Skyrim - wow!					
 				La colonna sonora di Jim Guthrie è stata premiata come 'Miglior Musica di un Videogioco del 2011' da  Kirk Hamilton aka @kirkhamilton di Kotaku.					
-				Secondo Co.Design & Syzygy, la tempesta di twitt su S:S&S EP #sworcery è stata 'uno dei più grandi eventi di internet del 2011'.					
+				Secondo Co.Design & Syzygy, la tempesta di twitt su S:S&S EP 'sworcery' è stata 'uno dei più grandi eventi di internet del 2011'.					
 				S:S&S EP ha vinto il Game Developer's Choice Award al GDC 2012, battendo opere AAA... il che è stato dannatamente stupendo.					
 				Jim Guthrie ha pubblicato un nuovo disco intitolato 'The Children of the Clone' contente alcuni capolavori perduti in chiave di S:S&S EP.					
 				Dopo di questo la storia diventa un po' confusa, quindi sintonizzatevi su swordandsworcery.com per saperne di più.					
 				È stata una cavalcata dannatamente positiva, speriamo che possiate continuare a godervela.					
 				Assicuratevi di fare un salto sul TELETEX BULLETIN su superbrothers.ca per avere le ultime notizie dallo staff di Superbrothers inc.					
-				* * * TWITTA QUESTI? * * *					
+				* * * COS'È S:S&S EP? * * *					
 				S:S&S EP è inteso come un esperimento coraggioso nel Cinema Input Output, qualunque cosa significhi.					
 				S:S&S EP è un nuovo approccio ai videogiochi d'avventura della vecchia scuola, con un'enfasi sullo stile audiovisivo.					
 				S:S&S EP è ispirato ai lavori dei creatori di videogame pioneristici come Shigeru Miyamoto, Jordan Mechner, Eric Chahi & Fumito Ueda.					
@@ -679,7 +679,7 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&S EP è un piatto prelibato di miti & sogni.					
 				S:S&S EP è stato creato in vista di un pubblico vasto & colto.					
 				S:S&S EP all'inizio si sarebbe dovuto chiamare 'Poopsock'. A dir la verità questo è vero.					
-				* * * è FINITA * * *					
+				* * * È FINITA * * *					
 				E ora che succede con tutto questo? E quella folle trasmissione di che parlava? Cosa ci serberà il futuro?					
 				Se volete ordinare stampe, abbigliamento, dischi & videogiochi o quant'altro allora cercateci su internet!					
 				Se ti sta piacendo lo stile di divertimento audiovisivo offerto da S:S&S EP allora per favore passa parola!					

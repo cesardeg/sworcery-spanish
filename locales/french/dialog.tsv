@@ -47,9 +47,9 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Nous avons le Mégagrimoire & 
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			"MESDAMES & MESSIEURS, pourquoi ne pas cliquer sur ces deux petits esprits de la forêt afin que je puisse en savoir un peu plus sur votre installation stéréo ?"					
-	The Archetype			Nos recherches ont montré que les réseaux sociaux joueront un rôle positif important dans votre partie de S:S&S EP.					
-				"Remarque : la possibilité de diffuser vos découvertes est entièrement optionnelle dans S:S&S EP, et est prévue pour être utilisée avec modération."					
+	The Archetype			"Mesdames & messieurs, pourquoi ne pas cliquer sur ces deux petits esprits de la forêt afin que je puisse en savoir un peu plus sur votre installation stéréo ?"					
+	The Archetype			Depuis notre précédente expérience en 2011, les réseaux sociaux se sont révélés catastrophiques pour la société.					
+				Cette fois-ci, nous encourageons l'isolement et la réflexion empreinte de regret.					
 				Nous vous sommes extrêmement reconnaissants d'avoir bien voulu participer à ce traitement expérimental contre la dépression aiguë.					
 				Vous allez trouver cette première session sur S:S&S EP assez simple. Il vous faudra normalement entre 15 et 30 minutes pour la terminer.					
 				Prêts à commencer ? Cliquez sur le bouton & c'est parti.					
@@ -655,13 +655,13 @@ ARCHETYPE_CREDITS	The Archetype
 				"Le personnel de Superbrothers Inc prend du temps pour rêver de nouveaux rêves, monte sur le TELETEX pour rester en contact."					
 				"S:S&S EP a été l'un des ""Top 10 des jeux vidéo de 2011"" selon le magazine Time, aux côtés d'efforts AAA tels que Dark Souls et Skyrim - wow !"					
 				La bande originale de Jim Guthrie a été reconnue comme 'La meilleure musique de jeu vidéo de 2011' par Kirk Hamilton chez Kotaku.					
-				"La #sworcery Twitterstorm de S:S&S EP lors du lancement a été 'l'un des plus grands événements Internet de 2011', selon Co.Design & Syzygy."					
+				"La 'sworcery' Twitterstorm de S:S&S EP lors du lancement a été 'l'un des plus grands événements Internet de 2011', selon Co.Design & Syzygy."					
 				"S:S&S EP a remporté un prix du Game Developer's Choice Award lors de la GDC 2012, surpassant des efforts AAA... ce qui était incroyablement génial."					
 				"Jim Guthrie a sorti un nouvel album intitulé 'The Children of the Clone', présentant des chefs-d'œuvre perdus dans l'univers de S:S&S EP."					
 				"Après cela, l'histoire devient un peu floue, alors rendez-vous sur swordandsworcery.com pour en savoir plus !"					
 				"Ce fut une aventure incroyablement positive, nous espérons que vous continuerez à creuser."					
 				N'oubliez pas de vous connecter au BULLETIN TELETEX sur superbrothers.ca pour les dernières nouvelles de l'équipe de Superbrothers Inc.					
-				* * * TWEETEZ-LES ? * * *					
+				* * * Qu'est-ce que S:S&S EP ? * * *					
 				"S:S&S EP est une expérience audacieuse dans le cinéma d'entrée-sortie, quoi que cela soit censé signifier."					
 				S:S&S EP est une approche novatrice du jeu d'aventure à l'ancienne avec une emphase sur le style audiovisuel.					
 				"S:S&S EP est inspiré du travail des créateurs de jeux vidéo pionniers Shigeru Miyamoto, Jordan Mechner, Eric Chahi et Fumito Ueda."					
