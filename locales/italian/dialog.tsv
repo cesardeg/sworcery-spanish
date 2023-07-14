@@ -1,0 +1,686 @@
+id	user	icon	portrait	Italian	Japanese	Final Notes	pic	Filenames	Codes
+GIRL_TONGUES	Girl			Lontano dalla Scizia & dalle sue steppe devastate dalla guerra, in un prato assolato, incontrammo una ragazza dai capelli corvini. #ciaomondo	戦火で荒れ果てたスキタイの平原より;~はるか離れた地で、黒髪の少女に出会った。 #helloworld		72	001.jpg	Z0E1Q
+				Presso coloro che abitano le montagne del Caucaso era nota come 'Ragazza' & sembrava gentile. #ovviamente	コーカサス地方の山の民は、;~少女を「オトメちゃん」と呼ぶ。;~感じが良さそうな娘だ。 #名前が安直				
+SIGN_TADPOL	The Scythian			"""Casa è dove è il cuore."" #threegutrecords4ever"	「暖炉の前で見る夢は、;~月の記憶か意識の淵か」#夢で逢いましょう				
+SIGN_WALL	The Scythian			"""Scizia, Cimmeria, Assiria & Persia - questi sono tutti regni degli uomini. Il Mingi Taw è Il Regno della Nuvola."""	「スキタイ、キンメリア、アッシリア、;~ペルシャ…;これらは人が築き上げた地上の~王国だが、;ミンギ・トウは雲の王国である」				
+SIGN_CHASM	The Scythian			Sul bordo del periglioso precipizio, vi era una roccia scolpita con il glifo di una spada innalzata al cielo sotto i colori dell'arcobaleno.	「危難の崖」のすぐ手前に石碑があった。;~石碑には七色の虹と、;それらを突き上げる~ような;剣の記号が彫られていた。				
+				Noi Sciti detestiamo gli arcobaleni. #arcobalenidetestabili	我らスキタイ人は虹を忌み嫌う。 #虹大嫌い		21	002.jpg	40C27
+SIGN_BIRDTREE	The Scythian			In un sentiero laterale che conduceva lontano dalla strada antica vi era una roccia scolpita con una serie di glifi indecifrabili.	古道から伸びる脇道に石碑があった。;~ 記号がいくつも彫ってあるが解読できない。				
+				Tra i glifi indecifrabili notammo una serie di pittogrammi della luna.	解読できない記号の羅列だが、;~その中で月を表す象形文字だけは分かった。				
+SIGN_BIRDTREEDECIPHERED	The Scythian			In un sentiero laterale che conduceva lontano dalla strada antica vi era una roccia scolpita con una serie di pittogrammi della luna un tempo indecifrabili.	古道から伸びる脇道に、;月の象形文字が~彫られた石碑があった。;以前は解読~できなかったものだ。				
+				"I pittogrammi si riferivano ad un luogo segreto che si trovava poco distante ""... in cui l'umore della luna poteva essere cambiato."""	象形文字は、この近くにある秘密の場所を;~指し示すもののようだ。;~「月の満ち欠けが様変わりする」とある。				
+				La Grotta della Luna...? #grottadellaluna #macheè #èunmistero	月の洞穴…？  #月の洞穴 #何コレ #謎		205	003.jpg	60D3C
+SIGN_WOLF	The Scythian			Sul lato della strada antica vi era una roccia scolpita con un paio di glifi con la foggia di una spada & uno scudo. #indizioindizio	古道のわきに石碑があった。;~剣と盾を示す記号が彫られている。 #ヒント		16	004.jpg	T0C4X
+SIGN_ANTECHAMBERLEFT	The Scythian			In un corridoio sotterraneo notammo una statua infausta, ma non ci preoccupammo troppo. #letradizionidelluogo	地下道には不気味な像があったが、;~とりあえずシカトを決め込むことにした。 #言い伝え		29	005.jpg	V0B53
+INFO_CROSSMOUNTAINLEFT	The Scythian			Sul versante più aspro & pericolante del Mingi Taw, un sepolcro solitario segnava la fine di una strada sterrata.	ミンギ・トウの山道はここで終わっている。;~道の終端には寂しげな墓が立っていた。				
+INFO_CROSSMOUNTAINRIGHT	The Scythian			Sul versante più aspro & pericolante del Mingi Taw, un sepolcro solitario segnava la fine di una strada sterrata.	ミンギ・トウの山道はここで終わっている。;~道の終端には寂しげな墓が立っていた。				
+INFO_RIDGESKULLPOLE	The Scythian			Sul dorsale frastagliato che conduceva alla cima del Mingi Taw vi era un lugubre palo adornato da un teschio di cervo.	ミンギ・トウの頂上へと続く険しい山道に;~何やら棒が立っていた。;棒には大仰な角の~ついた;不気味な骸骨が飾りつけてあった。				
+INFO_CROSSRIDGE	The Scythian			Sul dorsale frastagliato che conduceva alla cima del Mingi Taw, un sepolcro solitario ricordava, come un lugubre monito, coloro i quali morirono laggiù.	ミンギ・トウの頂上へと続く険しい山道に、;~寂しげな墓があった。;~死者の数を誇るかのようにも見えた。				
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Trovammo il Grantomo racchiuso fra due mani scheletriche & sentimmo la nostra spada muoversi nel fodero. #grantomo	ついに「絶世の大書」を見つけた。;~だが骨の手が掴んでいて取れない。;~剣が…鞘の中で震えた…？ #絶世		33	006.jpg	30D6C
+DOOR_SIDEBMEADOW	The Scythian			Una porticina senza maniglia fatta di un materiale sconosciuto. Un cartello dice 'Riservato al Personale Autorizzato'.	見たこともない素材でできた、;取っ手の~ない扉だ。;「関係者以外立ち入り禁止」と~書いてある。				
+DOOR_UPSLOPEWOODS1	The Scythian			La strada antica per Mingi Taw era bloccata da una porta chiusa a chiave.	ミンギ・トウの古道に続く扉には;鍵が~かかっている。				
+DOOR_UPSLOPEWOODS3	The Scythian			Una porta chiusa a chiave nascosta nel sottobosco della foresta sotto l'antica strada che conduce fin sul Mingi Taw. #grottadellaluna	ミンギ・トウ行きの古道から下に伸びた~脇道を;進むと、うっそうとした茂った低木の~奥に;開かない扉があった。 #月の洞穴				
+LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
+LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		Il taglialegna, tagliando la legna, tagliò della legna. #ovviamente #tagliandolalegna	一人の木こりがしきりに;薪木をパッキリ~割っている。 #薪割り		71	007.jpg	70E70
+				Presso coloro che abitano le montagne del Caucaso era noto come 'Signor Ceppo' & sembrava un tipo tosto.	コーカサス地方の山の民は、;彼を「丸太さん」~と呼ぶ。;結構いい人そうだ。				
+				Il Signor Ceppo sapeva tutto del nostro compito ingrato & acconsentì a condurci fino all'antica strada.	丸太さんは私の果たすべき使命を;すべて~把握しており、;古道の案内を引き受けて~くれた。				
+				Tuttavia avevamo la netta sensazione che non morisse dalla voglia di farlo.	…明らかにノリノリではない感じだったが。				
+LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		Il taglialegna ci aspettava per proseguire lungo il sentiero fino all'inizio dell'antica strada.	丸太さんは古道を案内するために;待っていて~くれた。		12	008.jpg	U0D88
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Passammo sopra al nostro problema & ci sentimmo super svegli.	崖に橋がかかった…これってやらかした系？		22	009.jpg	L0B9S
+			adventureUI/megatomeItem	Raccontammo al Signor Ceppo che eravamo in cerca di un gravoso libro di infausta spadomanzia noto come il Grantomo.	私は丸太さんに、邪悪な呪術が宿る;~「絶世の大書」を取りに来たのだと伝えた。				
+			adventureUI/megatomeItem	Il Grantomo era nascosto da qualche parte al di là del Precipizio Periglioso, sotto il Mingi Taw, nell'oscurità infestata dagli spettri.	絶世の大書は危難の崖の向こう側にある;~ミンギ・トウのさらに奥、;忌まわしき~暗闇の中にあるという。				
+			adventureUI/megatomeItem	Eravamo risoluti nel recuperare Il Grantomo & ad uscire da lì sani & salvi.	何としても絶世の大書を手に入れ、;生きて~戻ってくる。;そう決心した。				
+LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	Il taglialegna confermò al 100% che custodiva l'unica chiave che potesse aprire la porta nel muro di pietra.	丸太さんは、石壁の扉を開ける鍵を;持って~いるのは自分しかいないのだと言った。				
+			AdventureUI/keyItem	Era davvero una bella chiave.	すごくカッコイイ鍵だ。				
+				Eravamo del tutto pronti per premere & tenere premuto sul sentiero di fronte per muoverlo muoverlo muoverlo.	出立の準備は整った。;行き先にタップし~そのまま押し続ければ、;足はおのずと前へ前へ。				
+LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Il taglialegna noto come Signor Ceppo sarebbe rimasto qui ad aspettarci di ritorno con Il Grantomo.	丸太さんは私が絶世の大書を手に入れて;~戻るまでここで待つという。				
+LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Il taglialegna noto come Signor Ceppo aveva deciso di rilassarsi sotto un riparo di pietra vicino al Precipizio Periglioso.	丸太さんは私が戻るまで、;~危難の崖近くで待つという。				
+				Il Signor Ceppo pareva saper tutto sul detestabile arcobaleno & sul glifo vicino raffigurante una spada innalzata al cielo.	丸太さんは、石碑に刻まれた忌まわしき;虹と~空を向いた剣のことを知っている様子だ。				
+				E tuttavia il Signor Ceppo offrì zero aiuti su cosa fare ora, il che ci diede un po' sui nervi, giusto per essere del tutto sinceri.	だが丸太さんは見て見ぬふりを決め込んで~いる。;これから何をすればいいのだろうか？;~顔には出さなかったがイラッときていた。				
+LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		Il taglialegna aveva visto un qualche genere di mostruosità raccapricciante & decise che avrebbe lasciato che ce ne occupassimo noi.	彼は恐ろしい怪物をみてしまったから、;~そいつの相手を私にさせようという;魂胆~なのだろう。		26	010.jpg	Q1B00
+LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Avevamo recuperato Il Grantomo & Il Signor Ceppo era pronto al 100% a muoverlo muoverlo nella sicurezza della sua dimora.	絶世の大書を回収してきた。;丸太さんは~ナルハヤで;安全な山小屋まで帰りたいのか、~;はやる気持ちが足の歩みに出ていた。				
+				Presagimmo l'arrivo di una tempesta & una canzoncina cominciava già a suonare nel nostro cuore.	激しい雷雨が訪れる気配がした。;その瞬間、~心の中でかすかに歌が響き始めた。				
+LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		Alla vista della tempesta in arrivo Il Signor Ceppo confessò che stava avendo proprio in quel momento un attacco di panico.	雷鳴が轟きだすと、丸太さんは;何やら~ひとかたならぬ恐怖を感じていると;~私に告げた。				
+				Per caso Il Signor Ceppo stava intenzionalmente cercando di mandarci fuori di testa? #sì #no #puòdarsi	丸太さんは私をビビらせたかったのだろうか？ #たぶん				
+				In ogni caso ripararsi per un po' era probabilmente la cosa più sicura da fare.	何にしても、しばらくは;屋根のある所に~いたほうが良さそうだ。				
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Abbiamo Il Grantomo & siamo i più intelligenti. #abbiamoilgrantomo	絶世の大書を手に入れた。;「何コレ、スゴイ」~とつぶやいてみる。 #絶世の大書入手		40	011.jpg	81C1E
+GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
+ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
+ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
+	The Archetype			Signore & Signori, che ne dite di picchiettare questi due spiritelli silvani così che possa farmi un'idea del vostro sistema stereo?	紳士淑女の皆様ごきげんよう。;~まずは、ステレオの調子を;確認して~おきましょう。左右に漂う;小さな森の精を~タップしてもらえますか？				
+	The Archetype			Le nostre ricerche indicano che il supporto ai social networks avrà un'influenza positiva sul successo di S:S&S EP.	ソーシャルネットワークサポートは;~「スキタイのムスメ：音響的冒剣劇」の;結果に~対し、重要な役割を果たすということが;~私どもの研究によって明らかとなっています。				
+				Nota: l'abilità di divulgare le vostre scoperte è una componente completamente opzionale di S:S&S EP, ed è destinata ad essere usata con moderazione.	情報発信機能は選択肢の一つとして;~用意されているだけですから、;利用しなくても~構いません。;~それから、使い過ぎにはご注意を…				
+				Vi siamo profondamente grati di aver scelto di partecipare a questo trattamento sperimentale per casi acuti d'avvilimento.	この度は、私ども主催による;~「タマシイの~重大疾患」に関する;~臨床研究にご参加いただきまして、~;誠にありがとうございます。				
+				Troverete questa prima sessione di S:S&S EP abbastanza lineare. Richiede tipicamente solo 15 - 30 minuti per essere completata.	「スキムス」の初回セッションは;非常に~シンプルなもので、;所要時間も~およそ１５～３０分程度です。				
+				Pronti per iniziare? Premete play & andiamo!	さて、よろしいですか？;準備が整ったら~ プレイボタンを押して;始めましょう。				
+ARCHETYPE_FOUNDATION	The Archetype			Parliamo del set & setting per una esperienza positiva con l'estremamente psicoattivo Superborthers: Sword & Sworcery EP.	では、「スキタイのムスメ：音響的冒剣劇」の;~もたらす精神活性作用を有意義なものと;~するため、「心の状態」と;「環境」について;~お話ししましょう。				
+				"Il ""Set"" si riferisce allo stato mentale & caratteriale con cui ci si approccia all'esperienza - pensieri, sensazioni e/o aspettative."	ここでいう「心の状態」とは、本作を;体験~していく際の精神状態や人格構造のことを;~指します。状況に対する思考、感情の起伏、;~そして結果への期待などですね。				
+				Abbiamo scoperto che un individuo rilassato, curioso è più incline ad avere un'esperienza soddisfacente con S:S&S EP.	私どもの研究によると、好奇心旺盛な方が;~リラックスした状態で体験する場合、;~「スキムス」を楽しんでいただける確率が~高い;との結果が出ています。				
+				"Il ""Setting"" comprende il comfort, la sicurezza & il calore della stanza o dell'ambiente esterno dove avverrà l'esperienza."	「環境」は、第一に本作を体験する場所の;こと~ですね。快適で安全、心地よい部屋;~―もちろん野外でも結構ですが―~;が良いでしょう。				
+				"Il ""Setting"" comprende anche l'aspetto sociale. Abbiamo scoperto che il supporto ai social networks gioca un significativo ruolo positivo."	また「環境」には、社会的側面も含まれます。;~私どもの研究によると、ソーシャル;~ネットワークサポートは極めて重要であるとの;~結果が出ています。				
+				"Il terzo aspetto del ""Setting"" è quello culturale - prevalentemente nozioni di realtà & normalità. Per ora eviteremo questo argomento."	そしてもちろん、文化的側面も含まれます。;~何を以て現実や正常とするかですね。;~この点については、;今は深入りしないことと~しましょう。				
+				S:S&S EP non provoca un'esperienza trascendentale, desidera semplicemente liberare il sistema nervoso dai classici schemi.	「スキムス」は鮮烈な体験をお届けすること~;ではなく、いつもの日常から;あなたの精神を~解き放つことを目指して;開発されています。				
+				"L'ampliata consapevolezza, l'inutilizzato & smisurato potenziale della mente, ecco a cosa ci riferiamo, noi di Superbrothers, con ""spadomanzia""."	拡張された意識、あらゆる制限から;~解き放たれた精神の潜在能力…;~ここ、Superbrothersでは;それを~「ソーサリー」と呼んでいます。				
+				L'inno della Spadomanzia può essere inteso come una tecnica psionica & ti permette di percepire una realtà all'interno di  quella che conosci.	ソーサリーの歌を歌うと、;自分の考えている~通りに現実が;見えるようになります。;~超能力のようなものですね。				
+				Per fermare l'inno della Spadomanzia in qualsiasi momento, clicca semplicemente due volte sull'aura della spadomanzia che circonda la Scita.	ソーサリーの歌をやめるには、;~スキタイのムスメの周囲を包むソーサリーの;~オーラをダブルクリックしてみてください。				
+				Una volta intonato un inno della Spadomanzia, fai tap & tieni premuto sull'aura della spadomanzia & scorri per guardare attorno.	歌が始まった後、周囲を見渡したくなったら、;~オーラをタップしたままドラッグしましょう。				
+				Per intonare l'inno della Spadomanzia, fai tap & tieni premuto sulla Scita per un momento o due & osserva l'aura della spadomanzia concentrarsi.	ソーサリーの歌を始めるには、;~まずスキタイのムスメをタップし続けます。;~これで、ソーサリーのオーラが集まり始めます。				
+				Come puoi vedere, il Grantomo cattura & organizza trasmissioni di pensiero linguistico. Scorri verso il basso per vedere a cosa stavo pensando prima.	ご覧の通り、絶世の大書は;あらゆる思考を~収集して言語的に記述します。;下にスクロール~すれば、;私の思考をさかのぼって読めますよ。;				
+ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Ben fatto - hai appreso l'Inno della Spadomanzia & ora il misterioso potere del Grantomo è tuo."""	「見事にソーサリーの歌を習得しましたね。;~これであなたは、絶世の大書が秘める;~深淵なる力を手に入れたわけです」		47	012.jpg	31E2F
+			adventureUI/megatomeItem	"""Il Grantomo intercetta trasmissioni di pensiero linguistico & contiene tutto ciò di cui hai bisogno per portare a termine il tuo compito ingrato."""	「絶世の大書はあらゆる思考を言語化して;~記録します。あなたが果たすべき使命を;~やり遂げるために必要な知識は、すべて;~その中に見つけることができるはずです」				
+			adventureUI/megatomeItem	"Sto pensando a qualcosa proprio in questo momento... perchÉ non apri Il Grantomo & mi cerchi per scoprire cosa mi passa per la testa?"	「ふと思いついたんですが…;絶世の大書を~開いて私の項目を引き、;今私が考えている~ことを;調べてみるのはどうでしょうか？」				
+				"""Troverai un triangolo bianco in altro a destra... toccalo & quindi equipaggia Il Grantomo per svelare ciò che si cela al suo interno."""	「右上に白い三角形がありませんか？;~それをタップしてから絶世の大書を;手に取ってみて~ください。;すべてが明らかになるはずです。」				
+LOGFELLA_STORM	The Scythian			Il taglialegna noto come Signor Ceppo aveva rinunciato al suo solito tagliar legna a causa della sinistra tempesta. #stivalibagnati	ひどい嵐が来たので、;丸太さんは薪割りを~諦めたようだ。 #ブーツずぶ濡れ				
+			adventureUI/megatomeItem	Il Signor Ceppo ci ricordò come la tempesta si fosse formata molto rapidamente, subito dopo aver ottenuto il Grantomo dalle viscere del Mingi Taw.	丸太さんは、私がミンギ・トウの奥地から;~絶世の大書を持ち出した直後に;嵐がやって~来たと言った。				
+				Il Signor Ceppo stava forse suggerendoci, in modo non così celato, di provare a far qualcosa per calmare la tempesta? #sì #no #forse	丸太さんのあからさまな物言いから察するに、;~おそらく私は嵐を止めるために;何かしたほうが~良いのだろう。 #たぶん				
+GIRL_STORM	The Scythian			La ragazza dai capelli corvini nota come 'Ragazza', affrontava il dolore di quel momento. #dolore	オトメちゃんと呼ばれる黒髪の少女も;~悲しそうだ。				
+			gourd/gourd	Sin dall'inizio della tempesta, la ragazza vide le spume sonore di alcuni folletti silvani che dormivano nei boschi vicini.	どうも嵐が来て以来、;近くの森に眠る森の精が~「こだまの泡」を;噴きはじめたという。				
+			gourd/gourd	Si domandava se i tre folletti silvani sarebbero stati d'aiuto nel calmare la tempesta? #sì	オトメちゃんは、森の精が３匹集まれば;~きっと嵐を鎮められる、;と信じているようだ。				
+			gourd/gourd	Ci chiese di indagare sulle spume sonore che sgorgavano dalle acque profonde dello stagno all'esterno della baita.	小屋の前にある大きな池にもこだまの泡が;~立ち上っているから、;調べてほしいと~頼まれた。				
+			gourd/gourd	La ragazza parlò di un folletto in un prato nelle vicinanze & di un altro folletto in un nido artificiale che un tempo era dimora di tre uccellini canterini bagnati fradici.	オトメちゃんによれば、近くの草原と、;~それから雨に濡れた３羽のツグミが;身を~寄せていた巣箱のところでも;こだまの泡が~立ち上っているのを見たという。				
+			gourd/gourd	La ragazza ci invitò a cercare le spume sonore prodotte da questi tre folletti silvani & a inviarli verso il cielo tramite l'Inno della Spadomanzia.	どうやら彼女は、;この３か所でこだまの泡を~探し、;ソーサリーの歌で空に還してほしいと;~願っているようだ。				
+ARCHETYPE_SWORCERY	The Archetype			"""È tempo di imparare l'Inno della Spadomanzia - una tecnica di espansione della conoscenza che svela una nuova dimensione mistica & musicale."""	「ついにソーサリーの歌を習得する時が;~来ました。これは意識を拡張させて、;~音楽の力で内に眠る神秘的な力を;引き出す~手法です」				
+			gourd/gourd	"""Mantieni la calma & segui le mie indicazioni per evocare il folletto silvano che dorme dolcemente nelle fresche & profonde acque dello stagno."""	「落ち着いて私の指示をよく聞いてください。;~これから池で静かに眠る森の精を;~召喚します」				
+ARCHETYPE_TADPOLES	The Archetype			Era ovvio al 100% che l'uomo vestito stranamente si aspettava che facessimo questa o quella cosa ma non avevamo idea di che.	あの変な格好の男が我々に何かして;欲しがって~いるのは間違いなさそうです。;~何を期待してるのかは謎ですが。				
+			gourd/gourd	"""Vedi le spume sonore che sgorgano dalle profonde acque dello stagno? Proprio lì un folletto silvano sta dormendo dolcemente & tu devi evocarlo."""	「池にあるこだまの泡は見ましたか？;~森の精はあそこでグッスリ眠っています。;~何とかして召喚しないといけませんね」				
+			gourd/gourd	"""Intona un Inno della Spadomanzia in qualsiasi momento toccando & tenendo premuto sulla Scita per entrare in una realtà altra rispetto a quella che conosci."""	ソーサリーの歌を始めるには、;~スキタイのムスメに触れ続けてください。;~これで、隠された現実の扉が;開かれるはずです。				
+			gourd/gourd	"""Accompagna i due piccoli natanti dove il folletto sonnecchia & quindi innalzalo al cielo con tre tocchi di spadomanzia."""	「池で泳いでいるモノを２匹、;森の精が~寝ている場所へ導いてください。;後は起こした~森の精に３度触れば;空に還せます」		49	013.jpg	61D3A
+GIRL_LOSTKEY	The Scythian			La ragazza era al riparo dalla pioggia sotto l'ampio tetto di legno del pozzo.	井戸を覆う立派な屋根の下でオトメちゃんが;~雨宿りしている。				
+				Aveva lasciato la comodità del focolare nella baita perchÉ a quanto pare Il Signor Ceppo stava andando fuori di testa per qualcosa o qualcos'altro.	小屋の焚き火にあたっていれば;温かい~だろうに…どうも丸太さんが;えらく~取り乱しているようだ。				
+INFO_BIRDEYESCULPTURE	The Scythian			Notammo una scultura di un uccello arrabbiato stagliarsi sul prato. #citazionesottesa	草原を見下ろすように;「怒れる鳥」の像が~あった。 #あのゲーム		6	014.jpg	F1D48
+INFO_MEADOWSHEEP	The Scythian			Notammo alcune inutili pecore oziare in giro per il prato. #inutilipecore	草原では、羊が何頭か草を食べていた。;~どうということのない景色だ。				
+INFO_CABINSHEEP	The Scythian			Un'altra inutile pecora - perchÉ continuiamo ad osservarle? #inutilipecore	またしても羊のどうということのない景色。;~私は何で羊を眺め続けているのだろう？				
+INFO_MEADOWSUN	The Scythian			Possiamo ricordare chiaramente quanto il sole fosse maestoso in quella particolare giornata di inizio primavera.	春の日に降り注ぐ日光の清々しさ… ;~今でも鮮明に思い出せる。				
+INFO_MEADOWGATE	The Scythian			Nel prato c'era un cancello di ferro inamovibile che bloccava l'entrata di una caverna cavernosa.	草原には洞くつへ続く道があった。;だが分厚い~鉄の扉に遮られて入ることは;できなかった。				
+INFO_MEADOWGATEACTIVE	The Scythian			Nel prato c'era un cancello di ferro & avevamo la sensazione di poterlo alzare in qualche modo.	草原には洞くつの入口を塞ぐ鉄の扉がある。;~やり方さえ分かれば;開けられるような~気がした…;当たり前か。				
+INFO_MEADOWGATETRIGONACTIVE	The Scythian			Notammo un aggeggio simile a un Trigon d'Oro posto sopra al cancello di ferro - reagirà forse al nostro Inno della Spadomanzia?	扉の上にはトライゴン的な形をした;黄金色の~何かがあった。;ソーサリーの歌に反応する~かも…？				
+INFO_MEADOWGATETRIGON	The Scythian			Notammo un aggeggio posto sopra al cancello di ferro.	鉄扉の上部にはなんか変なモノがついている。				
+INFO_LOCKEDDOORSTONEWALL	The Scythian			La porta nel muro di pietra blocca l'antica strada per il Mingi Taw & apparentemente la chiave è persa nei sogni.	ミンギ・トウの古道に続く石壁の扉は;~閉じられたままだ。;どうも丸太さんは;夢の中に~鍵を落としてきたようだ。				
+INFO_LOOMINGBIRDSCULPTURES	The Scythian			Notammo una scultura di un uccello arrabbiato stagliarsi sul prato. #citazionesottesa	草原を見下ろすように;「怒れる鳥」の像が~あった。 #あのゲーム				
+INFO_MEADOWSUNSTICK	The Scythian			Notammo un bastone dalla forma strana affacciarsi sul prato.	草原を監視するかのように変な形の棒が;~立っていた。				
+INFO_CABINWELL	The Scythian			Notammo un pozzo robusto con un ampio tetto di legno.	がっしりとした屋根に覆われた見事な作りの;~井戸があった。				
+INFO_UNWELLWELL	The Scythian			Il pozzo sembrava impazzito. #impazzito #pozzo	まいどおなじみ井戸である。#まいど井戸				
+INFO_WELLNESS	The Scythian			Chi è più pazzo? Il pozzo o il pazzo che lo segue? #impazzito #pozzo #pazzo	井戸の底は冥土のように明度が低そうだ。 #井戸冥土明度				
+INFO_WELLWHITESTAG	The Scythian			LUNGA VITA AL NUOVO CORPO	新人間よ、永遠なれ。				
+ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
+INFO_CABINCHIMNEY	The Scythian			Notammo una robusta baita di pietra con un tetto di paglia che sorgeva accanto a uno stagno dalle acque profonde.	深く澄んだ池のほとりに、;しっかりとした~作りの山小屋があった。				
+INFO_CABINWOODPILE	The Scythian			Notammo una pila di legna tagliata, niente di importante.	薪木が山のように積み重ねてある。;~まあ、普通の光景だ。				
+INFO_SPUME	The Scythian			Localizzammo le dolci spume sonore di un folletto silvano dormiente. Ora... come fare per evocarlo?	こだまの泡を見つけた。;ここに森の精が~眠っているのか。;~さて…どうやって召喚すれば？				
+INFO_NESTBOX	The Scythian			Notammo un nido artificiale dall'aspetto curioso con un'iscrizione che diceva "Tweetta & sarai ri-tweettato".	変わった形をした巨大な巣箱だ。;~「つぶやけば、さらばつぶやき返されん」;~と碑文が~刻まれている。		13	015.jpg	B1C5F
+INFO_NESTBOXWEATHERED	The Scythian			Notammo un nido dall'aspetto consunto che somigliava in modo raccapricciante a una specie di faccia.	古びた巣箱だ。どことなく顔っぽく見える。				
+INFO_FLAGPOLELOGBRIDGE	The Scythian			A cavallo di un ponte di legno sull'antica strada si ergeva una lugubre asta adornata da robusti teschi.	古道にかかる長い橋の手前に、;いかめしい~骸骨のような物が飾り付けられた;不気味な~旗竿が立っていた。				
+INFO_GOLDTRIGONALTAR	The Scythian			Oltre la caverna cavernosa nel prato ci imbattemmo in un boschetto isolato con una serie di strane strutture petrose.	草原から洞くつを抜け、たどり着いたのは;~ひっそりとした森だった。;いくつかあった~石碑から;不思議なオーラを感じた。				
+			Archetype/trifecta	... Era questo il Trigonbosco? #trigonbosco	…これが…トライゴンの森なのか？ #トライゴンの森		93	016.jpg	B1D6J
+			triangle/Triangle	Mentre ci trovavamo accanto alla prima struttura petrosa i nostri pensieri andavano al Trigon d'Oro & sentimmo la nostra spada rimestare nel fodero.	一番近くにある石碑の前に立つと、;~黄金のトライゴンのことが頭に浮かんだ。;~剣が…震えた気がする。				
+INFO_DARKTRIGONALTAR	The Scythian			Nel Trigonbosco vi era un'altra struttura petrosa consumata & corrosa dalle intemperie. #iltrigonedellalunacupa	トライゴンの森には、;風雨にさらされ~古くなった石碑があった。 #暗月のトライゴン				
+				Pensavamo a cosa sarebbe accaduto se avessimo colpito con la nostra spada la struttura petrosa.	この石碑、;剣を打ち付けたらどうなる~だろう…？				
+INFO_BRIGHTTRIGONALTAR	The Scythian			Nel Trigonbosco vi era un'altra struttura petrosa con un glifo circolare che si riferiva alla Luna Splendente. #trigonedellalunasplendente	トライゴンの森には、;明月を表す円が刻まれた~石碑があった。 #明月のトライゴン				
+				Pensavamo a cosa sarebbe accaduto se avessimo colpito con la nostra spada la struttura petrosa.	この石碑、;剣を打ち付けたらどうなる~だろう…？				
+INFO_STONEHEAD	The Scythian			Presso il Precipizio Periglioso vi era un'enorme scultura intagliata nella roccia di una testa impudente con la bocca spalancata.	岩を削り出したのだろうか？;危難の崖には~見覚えのある形をした、;巨大な頭の像が~あった。;口はポカンと開いている。		24	017.jpg	61B76
+INFO_STONEHEADSHUT	The Scythian			Presso il Precipizio Periglioso vi era un'enorme scultura intagliata nella roccia di una testa impudente.	岩を削り出したのだろうか？;危難の崖には、~見覚えのある形をした;巨大な頭の像があった。				
+INFO_STONEHEADFLAGPOLE	The Scythian			Sulla sommità di un'enorme scultura intagliata nella roccia si ergeva una lugubre asta adornata in modo inquietante da robusti teschi o qualcosa del genere.	岩の頭像の上には、;いかめしい骸骨のような~物が飾り付けられた;不気味な旗竿が~立っていた。				
+INFO_CHASMSTONESHELTER	The Scythian			Ad un lato del Precipizio Periglioso si ergeva qualcosa di meraviglioso, simile ad un dolmen, che racchiudeva due sedie di pietra dall'aspetto comodo.	危難の崖近くには;支石墓のように石が積み~上げられ、;座り心地の良さそうな２つの石を;~雨から守っている。		25	018.jpg	O1C8M
+INFO_SKULLPOLE	The Scythian			A cavallo di un ponte pericolante si ergeva una lugubre asta adornata in modo inquietante dal teschio di un cervo.	オンボロ橋の端には;角つきの骸骨を~飾りつけた、;不気味な棒が突き立ててある。				
+INFO_TRIFECTASYMBOL	The Scythian			Al di sopra dell'entrata intagliata nella roccia ad un tempio montano notammo una rappresentazione pittografica della Trigon Tripletta.	石造りの寺院入り口に、;トライ~ゴン・トライフェクタを表す;象形文字が刻まれていた。				
+INFO_MOUNTAINGATE	The Scythian			Nelle profondità del tempio montano notammo un cancello di ferro inamovibile & al di là di questo riuscivamo a vedere l'imponenza del Mingi Taw racchiuso dalle nubi.	山岳寺院の奥深くで、;固く閉ざされた~鉄の扉を見つけた。;ここを進めば~ミンギ・トウからの眺望が;堪能できそうだが。				
+INFO_MOUNTAINGATETRIGON	The Scythian			Nelle profondità del tempio montano, sopra un alto corridoio, notammo tre strane forme triangolari.	山岳寺院の奥深くにある通路の上で、;~三角形のような形が３つ並んだ;不思議な印を~見つけた。				
+INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			Nelle profondità del tempio montano, sopra un alto corridoio, notammo la foggia della Trigon Tripletta.	山岳寺院の奥深くにある通路の上で、;~トライゴン・トライフェクタの印を見つけた。				
+INFO_CABINRECORD	The Scythian			All'interno della baita notammo un piccolo oggetto somigliante a un disco posto sopra al focolare. #laballatadeibambinispaziali	山小屋の中に入ると、;暖炉の上に小さな~円盤のような、;よく分からないものがあるのに~気付いた。 #theballadofthespacebabies		46	019.jpg	P1D99
+INFO_CABINHEARTH	The Scythian			Il focolare all'interno della baita stava dolcemente scoppiettando, producendo un calore familiare.	山小屋に入ると、;暖炉の火が静かに暖かく~迎えてくれた。				
+INFO_CABINSEAT	The Scythian			All'interno della baita, su entrambi i lati del focolare, c'erano due sedie di legno grezzo.	山小屋には、;木を削り出しただけの粗末な~椅子が;暖炉を囲むようにふたつ置いてあった。				
+INFO_GOGOLITHICMASS	The Scythian			Notammo un teschio di cervo fluttuare nelle tenebre al di sotto del Mingi Taw.	ミンギ・トウの奥底に来ると、;角を生やした~骸骨が暗闇に浮かんでいた。				
+INFO_MEGATOMBTRIFECTA	The Scythian			Notammo una rappresentazione pittografica della Trigon Tripletta nelle tenebre al di sotto del Mingi Taw.	ミンギ・トウの奥底に来ると、;暗闇の中にトラ~イゴン・トライフェクタを表す;象形文字が刻ま~れていた。				
+INFO_ROCKSHOWGIRL	The Scythian			Al concerto rock notammo la ragazza dai capelli corvini & pensammo che forse disse fuoco cammina con me.	ロックフェスのステージの上に;黒髪の少女が立って~いる。;彼女の口から「炎よ、我とともに歩め」;~と聞こえた気がした。 #最期の７日間				
+INFO_ROCKSHOWSKOLOTOI	The Scythian			Al concerto rock notammo uno di quei tipi scheletrici rilassarsi su quel ritmo minaccioso.	ステージにはあの骨のヒトたちも来ていた。;~彼らもビートに揺られたいのだろうか。				
+INFO_ROCKSHOWJIM	The Scythian			Headliner del concerto rock non era altro che il tizio misterioso, amante della musica, noto come Jim Guthrie.	ステージのメインアクトは、;あなたも知って~いる謎のミュージシャン、;ジム・ガスリー~だった。 #サントラリミックスアルバム絶賛発売中♡		160	020.jpg	T2G03
+INFO_ROCKSHOWBOOR	The Scythian			Al concerto rock notammo Tamarrorso rockeggiare nudo col suo affare.	ステージの上では、;野性むきだしでクマズリー~が踊っている。		121	021.jpg	E2G15
+INFO_ROCKSHOWCROWD	The Scythian			Al concerto rock c'era una folla considerevole di signore & signori.	ステージには、;多くの紳士淑女が~集まっていた。				
+INFO_ROCKSHOWARCHETYPE	The Scythian			Al concerto rock notammo il tizio conosciuto come L'Archetipo & rimanemmo a pensare cosa avesse a che fare con tutto questo.	ステージには;例の「アーキタイプ」とよばれる~男もいた。;一体彼は何者で、何をしているの~だろうか？				
+INFO_TRIGONGROVESKULLSTICK	The Scythian			Una lugubre asta adornata da un teschio di cervo collega questo luogo allo spettro immortale che si aggira al di sotto del Mingi Taw.	角つき骸骨の飾りをつけた不気味な棒が;~突き立ててある。;ミンギ・トウの奥に潜む~不死の亡霊と、;この場所をつないでいるのだ。				
+GRAVE_TRIGONGROVE	The Scythian			Nel Trigonbosco, oltre la caverna cavernosa, notammo nel prato una tomba solitaria & ci incuriosì un po'.	草原の奥にある洞くつを抜け、;トライゴンの~森へ来た。;誰かの墓がぽつんと立っている。;~私は少し興味を覚え、近づいてみた。				
+GRAVE_TRIGONGROVEGHOST	The Scythian			Nel Trigonbosco, oltre la caverna cavernosa, ci avvicinammo nel prato ad una tomba solitaria & ci imbattemmo in un tipo spettrale splendente.	草原の奥にある洞くつを抜け、;トライゴンの~森へ来た。;誰かの墓がぽつんと立っている。~ぼんやりと;光る幽霊のおじさんに会った場所だ。				
+				Il tipo spettrale splendente nel Trigonbosco sul subito ci fece andare fuori di testa, ad esser onesti.	正直、このおじさんを初めて見たときは;マジで~ビビった。		96	022.jpg	T2B2H
+			adventureUI/megatomeItem	Riconobbe il nostro costume scita & vide che portavamo con noi il Grantomo. Si chiese se riuscivamo a capire i segni esoterici al suo interno.	おじさんは私の服装から;スキタイ人だと~分かったようだった。;私が絶世の大書を~持っているのに気づくと;「書いてあることが~分かるか」と尋ねた。				
+				In un sussurro pronunciò il nome dello spettro immortale che avevamo risvegliato nell'oscurità al di sotto del Mingi Taw: La Massa Gogolitica.	そして私がミンギ・トウの奥で;目覚めさせて~しまった不死の亡霊の名前を;そっと~教えてくれた。;~その名は「ゴゴリチク・マス」。		166	023.jpg	O2B39
+				Conoscevamo quel nome spaventoso attraverso gli antichi racconti & sentimmo il nostro sangue raggelarsi.	言い伝えに残る、おぞましき名だ。;~背筋に冷たいものが走った。				
+				"""Ho avuto la sensazione che fino ad ora La Massa Gogolitica ti ha visto come una specie di turista."""	「さっきまでは、ゴゴリチク・マスも;君を~興味本位の旅人だと思っていた;だろうけど」				
+			triangle/Triangle	"""Ora che hai appreso l'Inno della Spadomanzia & domato Il Trigon d'Oro scoprirai che ogni tuo passo sarà stregato."""	「君はもうソーサリーの歌を覚えて;黄金の~トライゴンを従えた。;これより先はずっと;~不吉な影に付きまとわれることになるね」				
+				Non riuscivamo a capire se il tipo spettrale splendente ci stesse incoraggiando od intimidendo o cosa.	このおじさんは、;私を励ましてくれて~いるのか、;脅かそうとしているのかよく~分からない。				
+				Raccontammo al tipo spettrale della nostra intenzione di far esplodere il Grantomo sulla cima del Mingi Taw & di liberare la Massa Gogolitica dall'immortalità.	私は幽霊のおじさんに、;ミンギ・トウの頂上で~絶世の大書を塵とし、;ゴゴリチク・マスから~不死の力を奪うつもり;であることを伝えた。				
+			Archetype/trifecta	Chiedemmo della Trigon Tripletta & dell'ubicazione dei due Trigoni rimanenti, ma il suo responso fu tanto incomprensibile da essere irritante.	次にトライゴン・トライフェクタと;残り２つの~トライゴンの場所についても;聞いてみたが、~おじさんの答えは;腹立たしいほど~漠然としていた。				
+				"""I due Trigoni rimanenti esistono soltanto nei sogni di coloro che abitano la montagna."""	「残りのトライゴンは;どちらも山の民の~夢の中にだけ存在する」		43	024.jpg	82E45
+				"""Nel trovare i due Trigoni rimanenti il dove non è così importante quanto il quando & il come."""	「トライゴンを探すなら、場所じゃなくて;~タイミングと手段に留意しなさい」				
+				Il tipo spettrale splendente diceva di sicuro un sacco di cose inutili & senza senso.	このおじさん、光ったりできるくせに、;~役に立たない事ばかりを実に長々としゃべる。				
+GRAVE_LOGBRIDGE	The Scythian			Notammo una serie di tombe in un boschetto su un lato dell'antica strada & ci chiedemmo cosa mai ci fosse lì.	古道の路傍の茂みの中に、;いくつかの墓が~あった。;何があったのだろうか。				
+GRAVE_LOGBRIDGEGHOST	The Scythian			Ci avvicinammo ad una serie di tombe in un boschetto su un lato dell'antica strada & incontrammo alcuni spiriti dall'aspetto amichevole.	古道の路傍の茂みの中に、;いくつかの墓が~あった。;フレンドリーな幽霊のいる場所だ。		116	025.jpg	62B55
+				Lo spettro splendente che parlò era un gigante che ci era noto attraverso gli antichi racconti, tanto che il suo ritratto richiedeva rispetto. #andre	ぼんやりと光る幽霊が話しかけてきたが、;~その姿はいにしえの伝説にある;「人間山脈」~そのものだった。 #アンドレ				
+			Archetype/trifecta	"""L'anno scorso, prima della festa del solstizio d'inverno, misi insieme un gruppo di amici & partimmo con l'intenzione di riunire La Trigon Tripletta."""	「あれは去年の冬至前くらいだったか、;俺は~再びトライゴン・トライフェクタを;探すべく、~仲間に集合をかけた」				
+				"""Avevamo sentito le storie sul portale per l'infinito sulla cima del Mingi Taw & pensammo che sembrava proprio qualcosa di ganzo da vedere."""	「無限の渦への入り口がミンギ・トウの;頂上に~あると聞いたもんだから、;ちょっと見てみたく~なってな」				
+			triangle/Triangle	"""Beh, ad ogni modo domammo Il Trigon d'Oro & demmo un'occhiata con più attenzione al Trigonbosco, prima di partire alla ricerca del Trigone della Luna Splendente."""	「で、俺らは何とか黄金のトライゴンを従え、;~トライゴンの森を調査し、;明月のトライゴンを~探し始めた」				
+				"""La ricerca del Trigone della Luna Splendente non andò poi così bene... a dir la verità ci perdemmo completamente."""	「だが明月のトライゴンはまるで;見つから~なかった。;正直、手がかりはゼロだった」				
+				"""A poco a poco capimmo l'importanza del ciclo lunare & l'influenza che aveva sugli spiritelli che dormono nei regni del crepuscolo."""	「だがしばらく探るうちに、;ここらに眠る~森の精は;月の満ち欠けの影響を強く受ける~ことを;発見したんだ」				
+				"""E così ci sedemmo qui & iniziammo ad osservare l'umore della luna così da imparare quando farci trovare in un certo luogo & come."""	「ここに留まり始めたのもそのためさ。;月を~見て、いつどこで何をすべきかを;調べて~いたんだよ」		7	026.jpg	Q2D6P
+				"""Morimmo di noia aspettando con le mani in mano che l'umore della luna cambiasse."""	「つまんなくて死にそうだったぜ、;ひたすら~月の満ち欠けばかり気にしてなあ」				
+				"""Ok, in realtà morimmo a causa di un litigio che scoppiò a causa della noia."""	「まあ、結局俺らは死んだわけだが。;原因は…;~ちょっとしたいざこざのせいだった」				
+				"""Non mi va proprio di parlarne proprio adesso, se non ti dispiace."""	「今はこの話はしないでおくぜ。いいだろ？」				
+				"""Ok, allora quel che accadde fu che uno del nostro gruppo era un baro imbroglione & lo cogliemmo con le mani nel sacco."""	「…とどのつまり、仲間の一人が;ズル~してるのを、俺たちは見ちまったんだ。;~あのズル野郎め」				
+				"""Iniziò una zuffa & il baro imbroglione fuggì lungo l'antica strada verso Il Precipizio Periglioso ."""	「そこでちょっとケンカが始まってな、;~ズル野郎は危難の崖の方へ逃げやがった」				
+				"""Cosicchè ci ritrovammo a far girare i pollici, pensando a cosa fare... quando all'improvviso apparve La Massa Gogolitica... Accidenti!"""	「それで今後について相談しながら;歩いて~たら、;突然ゴゴリチク・マスが現れて…~ギャー！;ってわけだ」		113	027.jpg	62B75
+GRAVE_CHASM	The Scythian			Notammo la tomba solitaria sull'orlo del Precipizio Periglioso & ci chiedemmo cosa mai ci fosse lì.	危難の崖の崖際に、;ぽつんと一基だけ~墓がある。;何があったのだろうか。				
+GRAVE_CHASMGHOST	The Scythian			Sul Precipizio Periglioso ci avvicinammo alla tomba solitaria del baro imbroglione & incontrammo un vecchio tipo spettrale splendente.	危難の崖近くにある墓は、;話に出てきた~イカサマ男の墓だった。;ここでもやはり、;~ぼんやり光る年老いた幽霊が出た。				
+			Archetype/trifecta	"""L'anno scorso prima della festa del solstizio d'inverno Andre Il Gigante mise insieme un gruppo di amici & partimmo per riunire La Trigon Tripletta."""	「あれは去年の冬至前だったか、;巨人の~アンドレは;トライゴン・トライフェクタを~探すため、;俺や仲間を引き連れてやって~きたんだ」				
+				"""Gli altri ragazzi del gruppo sono sepolti in un boschetto sul ciglio della vecchia strada vicino al ponte di legno."""	「他の者達は古道沿い、;丸太橋近くの茂みに~埋葬されてるよ」				
+			triangle/Triangle	"""Riuscimmo a localizzare & domare Il Trigon d'Oro abbastanza facilmente ma ci bloccammo del tutto subito dopo."""	「俺らも黄金のトライゴンを;見つけて従える~までは順調だったんだが、;その後は完全に~手詰まりだった」				
+				"""Desideravamo Il Trigone della Luna Splendente così decidemmo di trastullarci & osservare il cielo, aspettando che l'umore della luna cambiasse."""	「あの時は、明月のトライゴンを;見つける~ために;月が満ちるのを待っていたんだ」				
+				"""Era super noioso! Non mi sarei certo messo ad aspettare per giorni & giorni che La Luna Splendente si stagliasse nel cielo."""	「でもアンタ、そんなの;アホみたいに~退屈すぎるだろう！;明月まで何日もダラダラと~待てるかっての！」				
+				"""Ho lasciato che quei pecoroni se ne stessero a vagare senza meta, mentre mi addentravo in quell'inganno di logica lunare."""	「だから他のアホどもがボケーっと;してる~間に、;俺は一人で独自に調査を進めて、;~満ち欠けの謎を解いたんだ」				
+				Il vecchio spirito splendente raccontò di come aveva barato, ovvero uscì da S:S&S EP e cambiò la data & l'orario del suo computer.	年老いた幽霊は、「スキムス」を終了してから、;~コンピューターの「日付と時刻の設定」を;~いじる方法を得意げに説明した。				
+				Lo spirito descrisse quanto fosse imbarazzante questo procedimento, ma ci disse che in questo modo fu in grado di influenzare le fasi lunari!	幽霊によれば、このやり口はそれなりの;~「代償」も払うことになるが、;~月の満ち欠けは自在に操れるらしい。				
+				"""Il problema fu che mi vennero degli attacchi di panico proprio da quando barai & ed è per questo che morii di vergogna."""	「思わずいじってしまって以来;~ビビっちゃってね、;死ぬほど恥ずかしがってたら、;~本当に死んじまったよ」				
+GRAVE_HOLLOW	The Scythian			All'interno della cavità di un albero colossale notammo una lapide solitaria che ci fece incuriosire.	巨大樹は空洞化しており、中にはポツンと;~墓があった。;誰が眠っているのだろうか。				
+GRAVE_HOLLOWGHOST	The Scythian			All'interno di un colossale albero cavo ci avvicinammo ad una tomba solitaria & apparve un fantasma cazzuto che ci cantò dei folli versi.	巨大樹の内側にさびしげな墓がある。;~ここに眠るいかつい幽霊が;有用な情報を~教えてくれた。		117	028.jpg	E2A80
+				"""Osserva l'umore della luna & saprai quando,dove & come trovarti."""	「月の満ち欠け、お前気にかけ、;~それがきっかけ、未来への道行け♪」				
+				"""Voglio anche che tu sappia che non sto cercando di farti venire la strizza apposta, mostrandomi in un modo così terribile."""	「俺の見かけ、普段着なだけ、;~怖がらせるわけないわけ、;~それだけは知っとけ♪」				
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			All'interno di un colossale albero cavo ci avvicinammo ad una tomba solitaria & apparve un fantasma cazzuto che ci cantò dei folli versi.	空洞化した巨大樹の中にある;寂しげな墓に~近寄ると、;ドープな幽霊が現れて;~イルなライムを届けてくれた。		117	028.jpg	E2A80
+				"""Cerca i folletti silvani sul sentiero alle tue spalle tenendo occhi & orecchie ben aperti sulle loro spume sonore."""	「ここに来るまでの道、探し出して吉、;~目と耳使えばこだまの泡キャッチ♪」				
+				"""Manda tutti & cinque i folletti silvani al cielo per mettere in scena un miracolo che attirerà il Trigone che stai cercando."""	トータル５匹の森の精、;~皆、空へ還せば奇跡 you say、;~んでトライゴン発見、冒険発展♪				
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			All'interno di un colossale albero cavo ci avvicinammo ad una tomba solitaria & apparve un fantasma cazzuto & ci raccontò alcune cose.	空洞化した巨大樹の中にある;寂しげな墓に~近寄ると、;ドープな幽霊が現れて;~イルなライムを届けてくれた。		117	028.jpg	E2A80
+				"""Cerca un segnale dei folletti silvani & in quel punto intona un Inno della Spadomanzia per rivelare un Trigone nascosto."""	「お前トライゴンにご執心、;~森の精を全員見つけりゃ躍進、;~そしたらソーサリーの歌を sing♪」				
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			All'interno di un colossale albero cavo ci stavamo avvicinando ad una tomba solitaria quando apparve un fantasma cazzuto & ci raccontò alcune cose.	空洞化した巨大樹の中にある;寂しげな墓に~近寄ると、;ドープな幽霊が現れて;~イルなライムを届けてくれた。		117	028.jpg	E2A80
+				"""E così l'Inno del Trigone si è concluso per ora. Mi chiedo, quando potrò udirlo ancora?"""	「トライゴンの歌、今回はもう終了、;~次の機会を待ち続けている YO♪」				
+LOGFELLA_LOSTKEY	The Scythian			Lo sventurato taglialegna noto come Signor Ceppo stava andando del tutto fuori di testa per qualcosa.	丸太さんは、やたら取り乱している。;~どうしたのだろうか。				
+			AdventureUI/keyItem	A quanto pare Il Signor Ceppo aveva perso la chiave della porta nel muro di pietra che bloccava l'antica strada per il Mingi Taw.	どうやら丸太さんは;ミンギ・トウへ通じる~石壁の扉の鍵を;なくしてしまったようだ。				
+				Non ditemi che stavamo per fare un'altra quest del tipo 'trova l'oggetto'?	私としてはおつかいクエストはもう勘弁だ。;~あなたもそうでしょ？				
+				Il Signor Ceppo ci disse che si era seduto proprio lì, accanto al fuoco, quando cadde in un sonno profondo.	丸太さんが言うには、;彼はずっとここに座って~熟睡していたそうだ。				
+			AdventureUI/keyItem	Il Signor Ceppo pensava di aver perso la sua chiave nel regno crepuscolare dei sogni.	彼は夢の中で鍵をなくしてしまったと;~考えていた。				
+				Avevamo già sentito degli strani sogni dei bruni abitanti delle montagne del Caucaso quindi, per noi, tutto questo aveva perfettamente senso.	コーカサス地方の山の民が奇妙な夢を見る;~という話は聞いたことがあったので、;その話は~素直に理解できた。				
+				Il Signor Ceppo ci invitò a riscaldare i nostri stivali davanti al fuoco & a sognare insieme a lui.	丸太さんは、とにかく靴を暖炉で温めながら、;~ここで一緒に夢を見ないかと誘ってきた。		63	029.jpg	U2C92
+ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Riteniamo che la veglia & la psicocosmologia mitopoietica dei sogni siano stati separati, tuttavia interagiscono nei modi più curiosi.	私たちは覚醒していることと、;~夢の伝承詩的精神宇宙性は;全く異なる状態だと~考えていますが、;両者は興味深い相互作用を~見せるのですよ。				
+				La soglia della liminalità è uno spazio tra la veglia & il sogno in cui il pensiero diretto è impossibile.	境界域というのは、覚醒状態と夢の中;~―つまり方向性を持った思考ができない状態―;~の中間を指します。		56	030.jpg	13A0A
+				Và in cerca di un caldo focolare & fà sì che il sonno arrivi per scoprire la soglia della liminalità.	暖かな暖炉を探して眠りにつき、;~その境界域に足を踏み入れてみてください。				
+ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	perchÉ non provi a sederti accanto al focolare nella baita & attraversi la soglia liminale per trovare la chiave perduta del Signor Ceppo?	山小屋の暖炉にあたって、境界域におもむき、;~丸太さんがなくした鍵を見つけてあげる、;~なんていかがです？		55	031.jpg	23C1X
+GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Wow, Il Signor Ceppo sta andando fuori di testa per qualcosa... Mi chiedo cosa succeda... Me ne andrò fuori & lo lascerò stare per un po'.	うわー。丸太さんが;やたら~取り乱しちゃってる…;何かあったのかな？;~落ち着くまで外にでてようか…。				
+				Ho visto la Scita intonare un Inno della Spadomanzia & mandare tre folletti silvani al cielo - Mi chiedo se aiuteranno a placare la tempesta.	この間、あのスキタイのムスメが;ソーサリーの~歌で森の精を;空に還しているのを見た。~あのヒト、;もしかしたら嵐を止めてくれるの~かな…？				
+LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Spero davvero che la Scita, colei che entra nei sogni altrui, possa ritrovare la mia chiave... l'ho perduta sulla riva sabbiosa di lago placido.	あのスキタイのムスメ、;「夢歩き」にまで~行ってくれた。;きっと鍵を見つけてくれる~だろう。;落としたのは穏やかな池のほとり~だったか…		62	032.jpg	U3A20
+LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Oh, che sventura, vorrei che non stesse piovendo fuori... Vorrei che i miei stivali non fossero così bagnati... Vorrei poter tornare a tagliare la legna.	ハア、雨が降ってなかったらなあ…;~靴さえ濡れてなかったらなあ…;~薪割り作業に戻れたらなあ…				
+				Oh, diamine - che fine ha fatto la mia chiave!? Sono così agitato & imbarazzato che sto proprio andando fuori di testa!	ウァー！？鍵が、鍵がない！！;どうしよう！~やばい！やばい！困った！				
+LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Il taglialegna era super sollevato poichÉ eravamo riusciti a recuperare la sua chiave dal regno crepuscolare dei sogni.	私が夢を歩いて鍵を見つけてきたと知ると、;~丸太さんはホッと安心したようだった。				
+				Il taglialegna noto come Signor Ceppo si chiese come eravamo diventati tanto astuti & ci chiese del nostro compito ingrato.	丸太さんは;「どうしてあなたはそんなに~賢いのだ？;果たすべき使命とは？」;と~質問してきた。				
+				Raccontammo al taglialegna di come diventammo adulti nelle steppe a fianco dei nostri impavidi fratelli & sorelle sciti.	私は丸太さんに、;我らが大草原を支配してきた~歩みや、;スキタイ戦士の勇猛さについて~語った。				
+				Raccontammo al Signor Ceppo del poichÉ stavamo vagando in queste montagne selvagge & come eravamo stati guidati dal dito di un Dio onnisciente.	そして私がこんな山地にたどり着いたのも、;~全知全能の神の矢印に導かれてきたからなのだ;~と教えた。				
+			adventureUI/megatomeItem	Raccontammo al Signor Ceppo cosa sospettavamo che significassero i segni esoterici contenuti nel Grantomo.	それから絶世の大書の解読できていない;印の~意味について、;私が推測している内容も~伝えた。				
+			gourd/gourd	Avevamo il presentimento di dover evocare solo alcuni folletti silvani in più per calmare la tempesta.	私はさらに;「森の精を召喚すれば嵐を~止められるはず」;と根拠もなく直感的に~言った。		104	033.jpg	W3D3G
+			triangle/Triangle	Con un pacato sussurro parlammo della nostra intenzione di individuare & domare una manifestazione della geometria cosmica nota come Il Trigon d'Oro.	そして私はひそひそ声で、;この宇宙の姿を~象徴する存在である;黄金のトライゴンを~探し出し、;従えるつもりなのだと明かした。				
+				Era al 100% chiaro che il taglialegna noto come Signor Ceppo avesse smesso di prestare attenzione.	この頃になると、丸太さんは;まるっきり~私の話を聞いていなかった。				
+			AdventureUI/keyItem	Pensammo semplicemente di poterci tenere la chiave & andare a fare una passeggiata sull'antica strada al di là del muro di pietra.	とにかく見つけた鍵を借りて、;古道を進む~ことにした。				
+LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Chiedemmo al taglialegna se fosse d'accordo che ci tenessimo la chiave & lui disse che era del tutto ok.	丸太さんに鍵を借りておいていいかと;~尋ねると、彼は「かまわねえ」と答えた。				
+GIRL_FOUNDKEY	The Scythian			In un sentiero incontrammo la ragazza dai capelli corvini bagnata fradicia.	道端にオトメちゃんがいた。雨でずぶ濡れだ。				
+			gourd/gourd	Aveva sentito le dolci spume sonore dei folletti silvani provenire da oltre il muro di pietra sull'antica strada per il Mingi Taw.	どうやら石壁の向こう、;ミンギ・トウに続く~古道のほうで;こだまの泡が聞こえたらしい。;~森の精がいるのだろうか。				
+			gourd/gourd	Ci disse di imponenti tronchi d'albero posti su entrambi i lati di un possente fiume.	オトメちゃんは、;川の両端にそびえ立つ巨木の~幹について;何か言っていた。				
+			gourd/gourd	Ci disse di flebili arcobaleni visti al limite del Precipizio Periglioso.	オトメちゃんは、;危難の崖にかかる~ぼんやりとした虹について;何か言っていた。				
+			adventureUI/megatomeItem	... quindi divenne sempre più timorosa & ci consigliò di consultare il Grantomo se ci fossimo sentiti persi o confusi.	…そして急に怯えた様子で;「迷ったり分からな~くなったら;とにかく絶世の大書を頼りにして」;~と言った。				
+LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Mi fa stare del tutto tranquillo sapere che La Scita si sia tenuta la chiave, se ciò significa che riuscirà a calmare la tempesta.	あのスキタイのムスメが;嵐を止めてくれるって~いうなら、;鍵は預けておいても全然問題ねえ。				
+				Devo essermi appisolato ad un certo punto durante il racconto super epico della Scita. Tollero davvero a fatica le leggende popolari.	あのヒトがさっき話してたすげえ冒険話、;~途中でうなづくのが礼儀だったんだろうな。;~うたた寝しちまってた。;あの手の話はホント~苦手でよ…。				
+				Ho domandato a bruciapelo alla Scita del suo ingrato compito... ha iniziato a parlare delle steppe & del dito di Dio.	あのヒトの果たすべき使命について;色々~聞いてみたんだ。;あのヒト、スキタイが治めた~大草原のこととか、;神の矢印がどうとか話してた。				
+GIRL_FOUNDKEYTHOUGHTS	Girl			Mandare al cielo uno o due folletti silvani in più calmerà la tempesta senza fine... ed allora sarà tempo di miracoli! #miracoli	森の精をあと１匹か２匹空に還せば、;~このひどい嵐も止められる…;~その後は奇跡の時間が訪れるわ！ #奇跡		129	034.jpg	33A44
+GIRL_SUPERMOTHERTREE	Girl			Quando la luna splende con più forza c'è una calma inquietante mentre vago nei sogni... & quando la luna è più cupa il bosco si scatena.	夢歩きのとき、月が一番明るい夜には;背筋が~寒くなるような静寂があるわ。;~反対に月が一番暗い夜は、森が荒ぶるの。				
+				Nel sogno i posti & i luoghi sono sempre gli stessi eccetto quando esso muta a seconda dell'umore della luna.	夢で行く場所はいつも同じ。;でも月の満ち欠け~具合によって;何かが少し変わる。				
+				Tutte le notti, da quando si è sollevata la tempesta, ho fatto lo stesso sogno in cui vago nel bosco un'ora prima dell'alba.	あの嵐が去って以来、;いつも同じ…夜明け前の~森を歩いている夢を;見るようになったの。				
+ARCHETYPE_TREEHINT	The Archetype			Ricorda che ingerire i funghi della foresta può darti una certa visione distorta sui fenomeni criptozoologici & similia.	森のキノコを摂取すると未確認生物や;~様々な現象の幻視が生じる場合があります。				
+				Và in cerca delle spume sonore dei folletti silvani & investiga le zone a loro circostanti.	森の精が出すこだまの泡を探し、;その周囲を~よく調べてみてください。				
+				Una volta che hai iniziato un inno della Spadomanzia puoi toccare con quanta più delicatezza possibile il bordo dello schermo per guardare attorno (od usare i tasti freccia.)	歌が始まったら、画面端をそっとタッチすると;~周囲を見渡せます(矢印キーも使えます)。				
+ARCHETYPE_MUSHROOMHINT	The Archetype			È stato affermato che i funghi allucinogeni abbiano giocato un ruolo significativo nello sviluppo della psiche umana.	キノコを用いた占術は;人類の精神発展に大きく~寄与していると;主張する者がいるくらいなの~です。				
+				Dei reperti archeologici mostrano come l'uso sciamanico dei funghi per le comunità religiose, per la divinazione & per la guarigione sia piuttosto antico.	考古学的検証の結果、キノコは;宗教的交信儀式~や占術、治癒術などにおいて;相当に古い時代~から用いられていたことが;分かっています。				
+				Fisiologicamente potresti avvertire una sensazione di benessere & un'accentuazione delle percezioni, un dissiparsi dello stress & mancanza di appetito.	生理学的には、幸福感、感覚の鋭敏化、;~ストレスの消散、食欲の低減などが;~体感できるようです。				
+				I funghi della foresta possono dare una certa visione distorta sulla posizione precisa di un folletto silvano & sui loro fattori scatenanti peculiari.	森のキノコを摂取することで、;森の精の居場所~や召喚方法などが;見えるようになるかもしれま~せんね。		60	035.jpg	53A5Y
+ARCHETYPE_TRIGONGROVE	The Archetype			Riesci a sentirlo? Cominci a capire? Adesso i segni esoterici & le forme all'interno del Grantomo non acquistano un nuovo significato?	どうです？感じますか？;~絶世の大書の記号や文章の意味が;~理解できるようになってきていませんか？				
+				Questo raggio fa da ponte tra il mondo dei vivi & il mondo dei morti, quindi, durante i tuoi viaggi, potresti trovare uno spirito o due con cui parlare.	この光の柱は、;生者と死者をつなぐ~架け橋です。;今後は幽霊と話す機会も;~あるかもしれませんね。				
+				Sono stato appena informato del fatto che hai attivato nel Trigonbosco il primo raggio verso il cielo.	先ほど、あなたがトライゴンの森で;最初の~光の柱を起動したと;知らせが入りましたよ。				
+GIRL_CABINSHEEP	The Scythian			Domandammo alla ragazza cos'era accaduto alle inutili pecore che giravano fuori dalla baita & ci disse che poco prima si erano spaventate.	オトメちゃんに小屋の周りにいる;邪魔っけな~羊たちの事を聞いてみた。;少し前に怯えて~集まって来たのだそうだ。				
+			gourd/gourd	Raccontammo alla ragazza che avevamo mandato cinque folletti silvani al cielo & lei ci disse che forse il tempo dei miracoli era prossimo.	オトメちゃんに;森の精を５匹空に還したこと~を伝えると、;彼女は「奇跡の時が来た~かもしれない」と言った。				
+				Pensammo che forse avremmo dovuto recarci ad investigare il prato dove stavano le pecore fino a poco fa.	どうも羊たちが元いた場所を調べてみたほうが;~良さそうだ。				
+LOGFELLA_CABINSHEEP	The Scythian			Il Signor Ceppo aveva la sensazione che fosse giunto il tempo dei miracoli & immaginava che qualcosa di meraviglioso stesse per accadere.	丸太さんは奇跡の時が来たと思っていた。;~何かスゴイことが起こるのだろう、と。		79	036.jpg	V3G62
+GIRL_CABINSHEEPTHOUGHTS	Girl			Ma che... la pioggia si è fermata! Che la tempesta stia per andarsene? Lo spero davvero.	え…雨が…やんだ！;嵐の終わりなのかしら、~そうだといいな。				
+				Tutta 'sta cosa della tempesta mi sta proprio buttando giù. è stata così cupa.	ここんところずっと嵐で;気分も落ち込んでた~から。				
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Mi sta venendo l'ansia... sta proprio succedendo qualcosa... che la tempesta stia per andarsene?	うーん…ちょっとビビってきたぞ…。;~何か起きてるな。嵐が…去るのか？				
+				Sai, tutte le volte che sento il bisogno di ritrovare le mie forze me ne sto qui seduto davanti al focolare a riscaldarmi gli stivali.	俺は勇気を振り絞りたい時は;暖炉のそばに~座ってブーツをあっためるって;決めてるんだ。				
+DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Bau Bau Bau Bau Bau Bau Bau Bau. #eabbaioancora #miracoli	ワン ワン ワン ワン ワン ワン！#吠え続けてる #奇跡		84	037.jpg	V3C7I
+ARCHETYPE_MEADOWHINT	The Archetype			Quando il sole sarà allineato otterrai le miracolose abilità di ripiegatura del grande mago Al Jaffee.	太陽が正しい位置に定まるとき、;あなたは~奇跡の能力を手にするのですよ。				
+				Percepisci questa atmosfera insolita? è tempo di miracoli! Intona un Inno della Spadomanzia & guarda in alto verso i minacciosi uccelli adirati.	この感覚…あなたも感じてますか？;そうです、~奇跡の時間です！;さあソーサリーの歌を歌い~「怒れる鳥」を;注意して見てみてください。		76	038.jpg	A3G84
+ARCHETYPE_MEADOWHINTTWO	The Archetype			Guarda verso il cielo alla ricerca di qualche visione distorta sui meccanismi di questo miracolo nel prato & quindi osserva Il Trigon d'Oro.	草原は今、奇跡の時を迎えています。;~顔を上げ、不可能を可能にするのです。;~そうすれば黄金のトライゴンが;現れる~でしょう。				
+ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... è interessante il modo in cui hai gestito quello scontro col cannibale dalla testa d'orso.	フム、さっきのクマ人に対する対処…;~興味深い。なるほど。		120	039.jpg	O3G9D
+				No no, va tutto bene, è solo interessante. Non ho mai visto nessuno fare ciò che hai fatto. è eccezionale, ma non allarmarti.	いやいや、いいんですよ。ただあんな風に;対処~した人はいなかったのでね、;興味深かったん~です。気にしないでください。				
+				Ok, va avanti. Devi goderti ancora così tanto dell'esperienza di S:S&S EP, in particolare nel Lato B.	とにかく、続きをどうぞ。;まだまだ冒険は~続きますからね。;特に B面では。				
+ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Per domare Il Trigon d'Oro devi imparare a sopravvivere ai tre movimenti del suo bizzarro inno usando una combinazione di attacco & difesa.	黄金のトライゴンを従えるには、;３種の歌を~攻略せねばなりません。;攻撃と防御を巧みに~切り替えるのです。				
+				È assolutamente fondamentale che tocchi & tieni premuto il pulsante dello scudo per recuperare le forze perdute.	盾ボタンは極力常時押しておくように;~してください。力を回復するためにね。				
+				E così vedo che hai evocato & provato a domare Il Trigon d'Oro? Ho alcune cose da dirti che penso tu possa trovare utili.	黄金のトライゴンを召喚して従えようと;奮戦~しているようですね？;いくつか有用な情報を~お知らせしましょうか。				
+ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Agita la spada contro il proiettile psionico del Trigone & aspetta l'occasione di evitare i suoi attacchi raggio.	黄金のトライゴンが何か飛ばしてきたら;剣で~迎撃です。それから、レーザーはとにかく;~タイミングを見極めて避けてください。		83	040.jpg	34E01
+				La logica imperscrutabile & imprevedibile del Trigon d'Oro ha reclamato le anime di tutti coloro che giunsero in passato... non avevano abbastanza tenacia & coraggio.	黄金のトライゴンの思考は予測不能。;~それゆえにこれまで幾多の者たちが;~命を落としていきました。;~粘り強さと勇気が足りなかったんでしょう。				
+ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			Il Trigon d'Oro deve essere domato, non ci sono alternative.	黄金のトライゴンは、;召喚したら従えるしか~ありません。				
+				Nella terza fase devi agitare la spada verso i piccoli proiettili triangolari & evitare gli attacchi raggio.	３番目の歌は、飛んでくる三角の欠片を;~剣で打ち落とし、時折撃たれるレーザーを;~避けなければなりません。				
+				Nella seconda fase devi aspettare gli attacchi raggio & premere il pulsante dello scudo per evitarli al momento giusto.	２番目の歌は、あちらの動きをよく観察して;~レーザーを避けてください。;~タイミングが命です。				
+				Nella prima fase devi agitare la spada per rimandare indietro la sfera di energia.	最初の歌では、とにかくエネルギーボールを;~剣で打ち返してください。				
+ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Potresti aver notato come Il Trigone della Luna Splendente colpisca con attacchi mortali dall'alto... aspetta quindi il momento giusto & tocca il tuo scudo per evitarli.	そう、明月のトライゴンの攻撃は;空から~降ってきます。これを避けるには、;ギリギリの~タイミングで;盾ボタンをタッチしてください。		144	041.jpg	84E11
+ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			Nella fase finale del Trigone della Luna Splendente dovrai agitare la tua spada verso i proiettili & evitare gli attacchi raggio intensi.	明月のトライゴンの最後の歌では、;~飛んでくる三角の欠片を剣で打ち落とし、;~時折撃たれるレーザーを;避けなければ~なりません。				
+ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Potresti esserti scontrato contro il colpo del detestabile arcobaleno del Trigone della Luna Cupa - colpisci di taglio quell'arcobaleno con quanta più forza & velocità hai.	暗月のトライゴンが放ってくる強烈な虹は…;~食らいましたか？アレが来たら、;~全力かつ全速で斬り裂いてください。				
+ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			L'ultima fase del Trigone della Luna Cupa comprende proiettili triangolari nascosti ed impercettibili - distruggili & riuscirai a sopravvivere.	暗月のトライゴンは３番目の歌で;見えにくい~三角の欠片を飛ばしてきます。;~見落とさないよう全部撃ち落としてください。				
+ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		E così hai risvegliato lo spettro immortale che dormiva nell'oscurità al di sotto del Mingi Taw - Accidenti!	ミンギ・トウの底に眠っていた不死の亡霊を;~起こしてしまったようですね…ご愁傷様です…				
+				Di conseguenza, incombe una tempesta sinistra & le splendide persone che vivono nella baita di pietra sono abbastanza affrante.	そのせいで止むことのない嵐が周囲を覆い、;~あの小屋に住んでいる人たちも;悲しんで~います。何の罪もないのに。;~実に不幸なことです。				
+			adventureUI/megatomeItem	Il risultato è che tu hai ottenuto il gravoso libro noto come il Grantomo - nella nostra prossima sessione discuteremo il suo strano  scopo.	ともあれ、あなたは絶世の大書を;手に~しました。次のセッションでは、;この書の~不思議な使い道について;取り上げましょうか。				
+				La nostra ricerca mostra come una prolungata esposizione alla psicocosmologia mitopoietica di S:S&S EP può avere effetti collaterali indesiderati.	私どもの研究によると、「スキムス」の;~伝承詩的精神宇宙性に長時間接していると;~好ましからざる副作用が生じることが;~分かっています。				
+				E così ora che hai completato la sessione I perchÉ non facciamo una breve pausa? Mi troverai proprio qui quando sarai pronto per la sessione II.	これで初セッションは終わったことですし、;~少し休憩しましょうか。セッションII の;~用意ができたら声をかけてください。;~私はいつだってここにいますから。				
+ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
+				È bello rivederti! Sei pronto per iniziare la sessione II di S:S&S EP?	やあ、またお会いできましたね。;~セッションII を始める準備は;~よろしいでしょうか？				
+			adventureUI/megatomeItem	Ok, allora, dove eravamo? Oh giusto, ora ricordo. Hai ottenuto un gravoso libro noto come Il Grantomo.	結構。;ええと…前回はどこまで…ああそうだ、;~絶世の大書を手に入れたところでしたね。;				
+				Hai risvegliato lo spettro immortale che ancora si aggira nelle tenebre al di sotto del Mingi Taw. è stato spaventoso, dico bene?	あなたが起こしてしまった不死の亡霊は;~相変わらずミンギ・トウの奥底に;潜んで~いるようです。恐ろしいですねー。		204	042.jpg	24B2J
+				È un periodo di sventure - una tempesta sinistra ha oscurato i cieli & le splendide persone che vivono nella baita sono avvilite.	今は苦難の時。止むことのない嵐が;空を覆い~つくし、あの小屋に住む善良な人々も;深く~悲しんでいます。				
+				Mettere a tacere la tempesta richiederà una certa familiarità con la psionica, la criptozoologia & i miracoli...	この嵐を止めるには、;超能力的なことや~未確認的な生物、;または奇跡的な事態が~必要です。				
+			adventureUI/megatomeItem	1. Il tocco di uno spadomante rimuoverà il sigillo del Grantomo, svelando i pensieri celati delle creature viventi & altro materiale esoterico.	1. 絶世の大書はソーサラーが触れない限り;~開きません。この書の中には、命あるものが;~思い浮かべた思考がそのまま記録されている;~だけでなく、ある秘伝の教えも記されてます。				
+			gourd/gourd	2. Strani folletti silvani - sorgenti della spadomanzia - sonnecchiano in laghetti, boschi & prati. Cerca le loro delicate spume sonore.	2. 不思議な森の精 - ソーサリーの源は;~池や森、草原などで眠りについています。;~こだまの泡が目印になるでしょう。				
+			triangle/Triangle	3. Uno spadomante che può localizzare, evocare & domare il Trigon d'Oro possiederà l'abilità di fare miracoli.	3. 宇宙の姿を象徴する存在である;黄金の~トライゴンを召喚し、従えた;ソーサラーは~奇跡を起こす力を;手に入れると~言われています。				
+				Confuso? Eccellente. Mantieni la calma & và avanti.	ちょっと急ぎ足すぎましたか？;大丈夫、~何事も冷静に、;そして前進あるのみです。		210	043.jpg	A4C31
+ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	Bravo! Hai individuato & sottomesso la geometria cosmica del Trigon d'Oro.	ブラボー！宇宙の姿を象徴する存在、;~黄金のトライゴンをついに従えましたね。		86	044.jpg	24E4H
+				Come per miracolo la sinistra tempesta si è calmata & la gloriosa luce del sole è tornata sul regno, ciò è del tutto grandioso.	嵐も去り、再び眩しい太陽の光が;差して~います。奇跡的な事態ですね。;~いい意味でヤバイです。				
+				Questi gesti eroici dimostrano la tua percettività, il tuo intuito & la tua perseveranza - sei andato oltremodo bene finora.	偉業と呼ぶにふさわしいことです。;それも~これもあなたの洞察力と直感力、;そして~忍耐力の賜物。;これ以上ない成果です。				
+				Nota: se scegli di continuare l'esperimento di S:S&S EP, le qualità sopra menzionate verranno messe alla prova & valutate.	注意：以降の「スキムス」実験においても、;~先述にある１～３の資質が試され、;評価される~機会があることをあらかじめ;ご了承ください。				
+				Ad ogni modo, prendiamoci un'altra piccola pausa, va bene? Come al solito, sarò qui quando sarai pronto ad iniziare la sessione III.	ともあれ、また休憩としましょうか。;~もちろん、私はいつでもここにいますよ。				
+ARCHETYPE_TRIFECTAINTRO	The Archetype								
+				Iniziamo la sessione III. Nota: In genere, completare questa sessione, richiede un mese lunare.	さあ、セッションIII のはじまりです。;~注意：このセッションは通常、終了までに;~太陰暦換算で１ヶ月かかります。				
+			triangle/Triangle	Così hai domato il Trigon d'Oro & la tempesta si è miracolosamente calmata? Per questo, hai i miei complimenti.	ええと、黄金のトライゴンを従えて、;~奇跡の力で嵐を追い払ったところでしたね？;~お見事でした。				
+			adventureUI/megatomeItem	Consultare il Grantomo & studiarne i meccanismi potrebbe renderti confuso o disorientato.	分からなくなったら、とにかく絶世の大書を;~あたってみてください。				
+				Uno spettro immortale si aggira ancora nelle tenebre al di sotto del Mingi Taw.	不死の亡霊は未だミンギ・トウの奥底で;~うごめいています。				
+			Archetype/trifecta	Esamina la geometria cosmica della Trigon Tripletta.	宇宙の姿を象徴する存在、;~トライゴン・トライフェクタを;思い浮かべて~ください。				
+			MoonCrescent/moonCrescent	Osserva l'umore della luna.	そして、月の満ち欠けに気をつけてください。		118	045.jpg	Y4E5Q
+				La nostra ricerca dimostra come il supporto dei social networks potrebbe giocare un ruolo importante nella riuscita di questa fase dell'esperimento di S:S&S EP.	私どもの研究によると、;ソーシャルネットワーク~サポートは;「スキムス」の結果に対して~極めて重要な;役割を果たすとの調べが出ています。				
+				Ti informiamo che da qui in avanti monitoreremo ciò che farai in relativo silenzio.	またこれ以降は、あなたからの入力に;こちら~から積極的には干渉しなくなりますので;ご承知~のほどを。				
+ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	E così hai domato i due Trigoni rimanenti & riunito la Trigon Tripletta?	残りのトライゴンも従えて、;トライフェクタ~を完成させたようですね？		165	046.jpg	P4B6A
+			Archetype/trifecta	Sei spleciale & è proprio per questo che ti amo così tanto.	やはりあなたは特別だ。;~私がこんなに愛しているのも当然ですね。				
+				È stato davvero audace & generoso offrire il martirio della Scita sulla sommità del Mingi Taw.	スキタイのムスメをミンギ・トウの頂上で;~犠牲にするとは。勇気と大局観を持つ者にしか;~下せない決断です。				
+				Sul serio, te ne dobbiamo una.	あなたには;大きな借りができて~しまいましたね。				
+				Tutto ciò che ti resta da fare è portare di forza La Scita sulla sommità del Mingi Taw & assistere al turbinio dell'infinito.	後は、あの満身創痍のスキタイのムスメを;~頂上まで連れて行き、;~無限の渦を見守るだけです。				
+				Fatti coraggio - la fine è vicina!	さあしっかり、あとひと息です。				
+ARCHETYPE_GHOULINTRO	The Archetype								
+				Bene, eccoci qui. Questa breve sessione porrà fine alla terapia S:S&S EP.	さて、来ましたね。これから始まる治療;~セッションはごくごく短いものになります。;~今回をもって「スキムス」治療セッションは;~終了となります。				
+				Manca davvero poco alla conclusione del compito ingrato della Scita.	スキタイのムスメが抱える使命も、;まもなく~果たされようとしています。				
+				Purtroppo la forma corporea & la psiche della Scita sono state assai fiaccate dalla spadomanzia - è sulla soglia della morte.	残念ながら、ソーサリーを使ったことで;~スキタイのムスメの心身は;ひどく衰えて~きています。;~最期の時も、そう遠くないでしょう。		162	047.jpg	J4F7B
+			Archetype/trifecta	Tutto ciò che rimane da fare è svelare i segreti del Trigonbosco & inviare Il Grantomo nel turbinio dell'infinito sulla sommità del Mingi Taw.	残る仕事は、トライゴンの森の秘密を;解き~明かし、ミンギ・トウの頂上で;絶世の大書を~無限の渦に還すだけです。				
+				Premi play se ti senti pronto ad assistere al tremendo tormento del martirio.	かの者が命を捧げる苦痛の瞬間を;見届ける覚悟~ができたら、;プレイボタンを押してください。				
+END	The Scythian			Sulla cima del Mingi Taw abbiamo inviato il Grantomo all'eterna sicurezza del turbinio dell'infinito.	ミンギ・トウの頂上で;絶世の大書を~無限の渦に還した。;~これにより悠久の平和が訪れた。				
+END_CHEAT	The Scythian			Sulla cima del Mingi Taw abbiamo inviato il Grantomo all'eterna sicurezza del turbinio dell'infinito. #baro	ミンギ・トウの頂上で;絶世の大書を~無限の渦に還した。;~これにより悠久の平和が訪れた。 #ズルしたけど				
+END_CHEAT_NOBOOR	The Scythian			Sulla cima del Mingi Taw abbiamo inviato il Grantomo all'eterna sicurezza del turbinio dell'infinito. #baro #addioamarro	ミンギ・トウの頂上で;絶世の大書を~無限の渦に還した。;~これにより悠久の平和が訪れた。 #ズルしたけど　#クマズリー不在だけど				
+END_CHEAT_PSYCHO	The Scythian			Sulla cima del Mingi Taw abbiamo inviato il Grantomo all'eterna sicurezza del turbinio dell'infinito. #baro #folle	ミンギ・トウの頂上で;絶世の大書を~無限の渦に還した。;~これにより悠久の平和が訪れた。 #ズルしたけど #凶気				
+END_CHEAT_LOVE	The Scythian			Sulla cima del Mingi Taw abbiamo inviato il Grantomo all'eterna sicurezza del turbinio dell'infinito. #baro #amore	ミンギ・トウの頂上で;絶世の大書を~無限の渦に還した。;~これにより悠久の平和が訪れた。 #ズルしたけど #博愛		202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			Sulla cima del Mingi Taw abbiamo inviato il Grantomo all'eterna sicurezza del turbinio dell'infinito. #grottadellaluna #folle	ミンギ・トウの頂上で;絶世の大書を~無限の渦に還した。;~これにより悠久の平和が訪れた。 #月の洞穴 #凶気		180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			Sulla cima del Mingi Taw abbiamo inviato il Grantomo all'eterna sicurezza del turbinio dell'infinito. #grottadellaluna #amore	ミンギ・トウの頂上で;絶世の大書を~無限の渦に還した。;~これにより悠久の平和が訪れた。 #月の洞穴 #博愛		176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			Sulla cima del Mingi Taw abbiamo inviato il Grantomo all'eterna sicurezza del turbinio dell'infinito. #onesto #folle	ミンギ・トウの頂上で;絶世の大書を~無限の渦に還した。;~これにより悠久の平和が訪れた。 #マジメ　#凶気		179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			Sulla cima del Mingi Taw abbiamo inviato il Grantomo all'eterna sicurezza del turbinio dell'infinito. #onesto #amore	ミンギ・トウの頂上で;絶世の大書を~無限の渦に還した。;~これにより悠久の平和が訪れた。 #マジメ #博愛		177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			Sulla cima del Mingi Taw abbiamo inviato il Grantomo all'eterna sicurezza del turbinio dell'infinito. #onesto #addiotamarro	ミンギ・トウの頂上で;絶世の大書を~無限の渦に還した。;~これで悠久の平和が訪れた。 #クマズリー不在だけど #マジメ		178	053.jpg	75G3V
+GIRL_GHOULTHOUGHTS	Girl			Ma la Scita sa che è possibile fermare La Massa Gogolitica toccando il suo teschio con la Spadomanzia? Probabilmente no.	あのスキタイのムスメ、ソーサリーの力で;~ゴゴリチク・マスの動きを止められること;~知ってるのかしら。;~知らないんでしょうね、きっと。				
+				Spero davvero che La Scita sappia toccare & tenere premuto sul percorso che ha di fronte per muoversi muoversi super velocemente, sennò sarà nei pasticci.	あのスキタイのムスメ、;~行き先をタップしたままにすると;~ガシガシ早く歩けるって知ってるかしら？;~知らないとマズイわ。				
+				Dove sono? Cos'è successo? L'ultima cosa che ricordo sono io che vago in un sogno, & poi un'angosciante luce rosa.	ここは…？一体何が…？;夢の中の森で~彷徨っていたら;不気味なピンク色の光が~見えて、;それから…？				
+LOGFELLA_GHOULTHOUGHTS	Logfella			La Scita continua a parlare del suo compito ingrato, ovvero aprire un portale verso l'infinito sulla sommità del Mingi Taw.	スキタイのムスメは;まだ果たすべき使命が~どうの、ミンギ・トウの;頂上で無限の渦へ~の扉を開いてどうのと;話をしている。				
+				Dal momento in cui è apparsa la Scita, così tante lune fa, tutto è stato assolutamente folle.	しばらく前にあのスキタイのムスメが;~現れてからというもの、;どうも色々おかしく~なっちまった。				
+LOGFELLA_GHOUL	The Scythian			Ci risvegliammo storditi da un sonno molto profondo, per ritrovarci nei pressi del Trigonbosco con il taglialegna noto come Signor Ceppo al nostro fianco.	恐ろしく深い眠りから覚めると、;~そこはトライゴンの森だった。;横にはなぜか~丸太さんがいる。		88	054.jpg	J5D44
+				Il Signor Ceppo ci raccontò che la ragazza era sparita la notte prima.	丸太さんは、昨夜の晩、オトメちゃんが;~いなくなってしまった時のことを話した。				
+				Il taglialegna sapeva che la nostra fine era prossima & che avremmo dovuto far ritorno al Mingi Taw per completare il nostro compito ingrato.	どうも丸太さんも、私の旅が終わりに;近づき~つつあり、そのためにはミンギ・トウに;赴く~必要があることを知っているようだった。				
+LOGFELLA_TRIGONGROVETIPS	The Scythian			Il taglialegna noto come Signor Ceppo non aveva mai visto prima il Trigonbosco & si chiese che mai succedesse lì.	丸太さんは、トライゴンの森を;見たことが~なかったらしく、;不思議そうに辺りを~見回していた。				
+LOGFELLA_TRIFECTATIPS	The Scythian			Il taglialegna noto come Signor Ceppo era molto angosciato per la sparizione della ragazza.	丸太さんは、オトメちゃんがいなくなって;~しまったことでひどく苦しんでいた。				
+				Dicemmo al Signor Ceppo che immaginavamo dove poteva trovarsi & che presto avremmo messo a posto le cose.	私は丸太さんに、オトメちゃんの居場所は;~何となく分かるから任せて、;~少し待ってほしい、と伝えた。				
+				Guardò la colonna lì vicino & ci ringraziò in anticipo per tutta la cosa del martirio.	丸太さんは近くの台座に目をやり、;~まだ終わってもいないのに;「この恩は」とか~「君のことは忘れない」;などと言った。				
+URSULA_AVATAR			Ursula/idleSEhandsonhip						
+DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
+AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Questi due tizi sostenevano di essere tra i creatori di questo bizzarro mondo.	ここにいる２人が、;このワケワカラン世界を~創りだしたらしい。		159	055.jpg	A5G55
+AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		I due burloni sostenevano di essere tra i creatori di questo bizzarro mondo.	２人は、自分たちがこのワケワカラン世界の;~創造者だと言った。		159	055.jpg	A5G55
+GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Abbiamo appena risvegliato un folletto silvano dormiente dal ricco terreno di un prato con quattro coppie di inutili pecore.	緑豊かな草原で、眠り続けていた;森の精を~目覚めさせた。;あと、草原では８頭のヒツジが;~草を食んでいた…まあ、どうでもいいが。		52	056.jpg	15B63
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Intonammo un Inno della Spadomanzia & evocammo un folletto silvano dormiente dalle fresce acque di una pozza profonda - che strano!	清らかな水がゆらめく池のほとりで、;~ソーサリーの歌を歌って;森の精を~目覚めさせた。		50	057.jpg	G5F78
+GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Abbiamo appena risvegliato un folletto silvano che dormiva in un curioso nido artificiale circondato da tre fradici uccellini canterini.	雨に濡れた３羽のツグミに見守られながら、;~奇妙な形の巣箱で森の精を目覚めさせた。				
+GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Abbiamo appena risvegliato un folletto silvano che dormiva presso un imperturbabile ponte di legno dove quattro paia di alberi torreggiano su un fiume.	丸太橋のかかる川と;８本の巨木がそびえる~場所で;森の精を目覚めさせた。				
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Abbiamo appena risvegliato un folletto silvano che dormiva tra due detestabili arcobaleni su una sponda del Precipizio Periglioso.	危難の崖の近く、;忌まわしき虹が２本かかる~場所で;森の精を目覚めさせた。				
+GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Regna La Luna Cupa & abbiamo appena risvegliato un folletto silvano che dormiva circondato da cinque cascate.	月の光が最も暗い夜、;５つの滝に囲まれた~場所で;森の精を目覚めさせた。				
+GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Regna La Luna Cupa & abbiamo appena risvegliato un folletto silvano dal sottobosco su una cima rocciosa.	月の光が最も暗い夜、低木が茂る岩場で;~森の精を目覚めさせた。				
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Si staglia la Luna Splendente & abbiamo appena risvegliato un folletto silvano in un boschetto nascosto in cui passava il tempo Jim Guthrie.	明月のそびえ立つ夜に、たまたま居合わせた;~ジム・ガスリーの前で森の精を目覚めさせた。		132	058.jpg	G5F8U
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Si staglia la Luna Splendente & abbiamo appena risvegliato un folletto silvano dalle placide acque di un lago in cui mamma anatra stava dando di matto.	明月のそびえ立つ夜に、大パニックの;~お母さんアヒルがうろつく池のほとりで;~森の精を目覚めさせた。				
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Si staglia la Luna Splendente & abbiamo appena risvegliato un folletto silvano ove il riflesso del lago era quanto più leggermente incongruo.	明月のそびえ立つ夜に、水面に映る景色が;~少しだけおかしくなる池で;森の精を~目覚めさせた。		127	059.jpg	65D98
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Si staglia la Luna Splendente & abbiamo appena risvegliato un folletto silvano che dormiva nel lago sotto una tripletta di gufi.	明月のそびえ立つ夜に、;３羽のフクロウが並ぶ~森の池で;森の精を目覚めさせた。				
+GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Avemmo proprio la singolare sensazione che forse, ma forse fosse giunto il tempo dei miracoli. #miracles	もしかしたら今が奇跡の時間かもしれない、;~と思った。 #奇跡				
+GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Regna La Luna Cupa & abbiamo appena risvegliato un folletto silvano circondato da tre cascatelle.	月の光が最も暗い夜、;３本の小さな滝が流れる~場所で;森の精を目覚めさせた。				
+GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Regna La Luna Cupa & abbiamo appena risvegliato un folletto silvano circondato da quattro piccoli alberelli tondeggianti nella parte più buia del bosco.	月の光が最も暗い夜、;丸い若木が４本~生えている場所で;森の精を目覚めさせた。				
+GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Regna La Luna Cupa & abbiamo appena risvegliato un folletto silvano nel sottobosco sulla sponda lontana del lago.	月の光が最も暗い夜、;池の「あちら側」で~森の精を目覚めさせた。				
+GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Si staglia la Luna Splendente & abbiamo appena risvegliato un folletto silvano nascosto nelle radici di un albero colossale.	明月のそびえ立つ夜に、;巨大樹の根本で~森の精を目覚めさせた。				
+GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Avemmo proprio la singolare sensazione che forse fosse giunto il tempo dei miracoli - & allora, 'sti miracoli? #miracoli	もしかしたら今が奇跡の時間かもしれない、;~と思った。だとしたら、どこで…？ #奇跡		77	060.jpg	86D06
+GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Bau Bau Bau Bau Bau Bau. #abbaio	ワン ワン ワン ワン ワン！ #吠えてる		135	061.jpg	M6F1I
+				Bau Bau Bau. #abbaiosoltanto	ワン ワン ワン！ #ちょっと吠えてみた				
+				Talvolta mi pesa star sempre ad abbaiare ma ciò che deve fare un cane è ciò che deve fare un cane che fa il cane.	時には私だって;吠え続けるのに辟易とする~こともある。;だが私は犬だ。犬である以上、;~すべきことはきちんとする…そういうことさ。				
+				Bau Sniff Bau. #facciounmix	ワン！クンクン…ワン！#チョット変化つけてみた				
+				Bau Bau Bau Bau Bau Bau.	ワン ワン ワン ワン ワン ワン！				
+GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Eppure c'è qualcosa di strano nel modo in cui si comportava La Scita, come se fosse controllata da una forza invisibile.	あのスキタイのムスメ、;やっぱりしぐさが~少し変。;まるで見えない力に操られている~ような…。				
+				Vorrei quasi sapere di più su ciò che La Scita deve fare & sui retroscena della sua storia epica, perchÉ scommetto che darebbe un senso a tutto.	あのスキタイのムスメの生い立ちとか経緯とか;~知ってたらなあ、って思う。;そうしたら~色んな事が納得いきそうだもの。				
+GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Spero di certo che La Scita sappia cosa fare con tutta quella storia dei folletti silvani.	あのスキタイのムスメ、;ちゃんと森の精の~アレを;やってくれてるといいけど…。				
+				La tempesta mi sta proprio buttando giù, mi fa desiderare che i videogiochi esistessero in... qualsiasi tempo dovrebbe essere questo.	この嵐、相当堪えるなあ。;ゲームでもあれば…~とか思っちゃうよ。				
+GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Dal momento in cui è apparsa la Scita tutto è stato assolutamente folle.	あのスキタイのムスメが来てから、;何もかも~おかしくなっちゃった。		3	062.jpg	36E2Z
+GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Tutta questa storia della tempesta mi sta proprio buttando giù. è stata così deprimente.	この嵐、本当にキツいなあ。;気持ちがずいぶん~落ち込んできちゃった。				
+				La pioggia ha iniziato a scemare & il cielo inizia a schiarirsi... è giunto il tempo dei miracoli? Lo spero davvero. Amo i miracoli.	雨が弱まって、空も明るくなってきた…？;~もしかして奇跡の時？;そうだといいな…~私、奇跡大好き。				
+				Wow... ma che? Le pecore nel prato si sono spaventate... Mi chiedo cosa stia accadendo laggiù? Che sia... Il Trigon d'Oro?	え…何これ？;草原のヒツジが怖がって~来ちゃったの？;あっちで何が…~まさか黄金のトライゴン？				
+GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Bau Bau Bau.	ワン ワン ワン！				
+				Talvolta quando per me è troppo buio per riuscire a scorgere qualcosa, mangio una cosina & vedo anche quello che non c'è.	暗すぎて何も見えない時がたまにあるのだが、;~そんな時は「何か」を食べてみるんだ。;~そうすると、そこに存在しないものが;見えて~きたりするんだ。すごいだろ？				
+				Bau Bau Bau Bau Bau.	ワン ワン ワン ワン ワン！				
+GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Ho questa canzone in testa... una canzoncina felice & triste che mi riempie di un timore stranamente meraviglioso.	頭の中に歌が流れる…幸せなのに悲しい歌だ。;~心は畏れで埋まるのに、;なぜか美しいと~思ってしまう。				
+GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		So che vorresti evitare il martirio che ti prescrisse il fato, ma sappi questo: il tempo è una forza & seguirà il suo corso.	君は殉死はしまいと奮闘しているようだが、;~誰も時間からは逃げられない。絶対にだ。;~これだけは覚えておいてくれ。				
+				Bau Bau Bau. Sniff.	ワン ワン ワン！クンクン…				
+GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		Ci sono anche nomi sconosciuti, sebbene questi siano facili da imparare.	名前の分からないものだってもちろんあるさ。;~だが学ぶことはできる。そうだろう？				
+				Ci sono due tipi di sconosciuti - gli sconosciuti conosciuti & gli sconosciuti sconosciuti.	世界には２種類の「未知」がある。;~すなわち、既知の未知と未知の未知だ。		32	063.jpg	L6E31
+				Bau Bau Bau.	ワン ワン ワン！				
+GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		I miei ceppi hanno molti segreti... segreti sui folletti silvani & isole impossibili. Sfortunatamente non parlo la lingua dei ceppi.	俺の丸太にはいろんな秘密が;詰まって~いるんだ…森の精のこと、;アリエン島のこと。;~残念ながら俺は丸太語がしゃべれないが。				
+				Per mia esperienza personale, ci sono volte in cui i gufi non sono ciò che sembrano & altre volte che sono puri & semplici gufi.	俺の経験上、;フクロウは見かけとは~違う…時がある。;~大概はただのフクロウなんだけどな。		126	064.jpg	86A47
+GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Può darsi che tu abbia già sentito di un'isola impossibile illuminata da una Luna Splendente, forse l'hai letto su internet?	明月の輝くときに現れるアリエン島の話、;~聞いたことありますか？;聞いたとしたら~一体どこで？;やはりインターネットですか？		134	065.jpg	H6A5I
+				Abbiamo monitorato le tue azioni in silenzio & vorremmo farti notare che più lungo è il temporeggiamento, più corto sarà il festeggiamento.	今まであなたの行動をじっと見守って;~きたのですがね、ひとつお伝えしておくと、;~ためらえばためらうほど喜びは減少しますよ。				
+				E così pare che tu abbia fatto dei progressi significativi nella tua impresa di individuare & domare Il Trigone della Luna Splendente, molto ben fatto.	明月のトライゴン探索もあっという間に;~進んだようですね。;お見事です。				
+GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		I folletti silvani sono figli della Terra o sono i solitari visitatori del turbinio dell'infinito?	森の精って、大地の子どもなのかしら？;~それとも無限の渦からやって来たの？				
+				Ad essere sincera i folletti silvani mi fanno perdere la testa. Voglio dire... cosa sono? Da dove vengono?	正直言って私、森の精ってコワいのよね。;~てか何なのあれ！？どこから来たわけ？				
+GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Una volta che i folletti saranno stati mandati al cielo & il tempo dei miracoli sarà giunto dovrai andare in cerca dell'albero colossale.	すべての森の精を空に還したのであれば、;次は~奇跡の時を呼ばねば。;巨大樹を探しなさい。				
+				So che tu sai ciò che io so & io voglio che tu sappia che hai ragione al 100%.	君が私が知っていることを;私が知っている~ことは私も知っているよ。;~そして、それは１００%正しい。		109	066.jpg	F6D6H
+				Bau Bau Bau Sniff Bau Bau Bau.	ワン ワン ワン！クンクン…ワン ワン ワン！				
+GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo quando il tuo compito ingrato giungerà al termine tornerà la pace su tutte le nostre vite.	我々に安息の時が訪れるのは、;この果たすべき~使命を終えた時だけだよ。				
+				Solo la Trigon Tripletta ti permetterà di comprendere i segreti del Trigonbosco.	トライゴンの森の秘密を知りたいのであれば、;~トライゴン・トライフェクタを完成させる;~ことだ。それ以外に知るすべはないからね。				
+				Il turbinio dell'infinito sulla cima del Mingi Taw ti attende.	ミンギ・トウの頂上を目指すんだ。;無限の渦が~君を待っている。				
+				Bau Bau Bau.	ワン ワン ワン！				
+GCLUE_WATERFALLS	Girl			Hai mai notato che talvolta le parole sembrano solo dei rumori, ma altre volte i rumori  fanno i suoni più deliziosi?	言葉って騒音に聞こえるときもあるけど、;~騒音がすごくキュートな音に聞こえることも;~あるのよね。知ってた？		132	058.jpg	G5F8U
+GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Ci sono un sacco di strani proverbi quassù fra coloro che abitano le montagne del Caucaso.	コーカサスの山の民たちの間では、;ヘンな~ことわざが;たくさん伝承されてきている。				
+				C'è un proverbio quassù nel Caucaso che recita: 'La foresta ha bisogno del fuoco, come il fuoco ha bisogno di un alberò.	「炎には森が必要なように、;森も炎を~必要としている」。;~これもコーカサスに伝わることわざだ。~				
+YELLOWTRIGON_COLLECTED	The Scythian			Abbiamo ottenuto il Trigon d'Oro. Siamo proprio ganzi!	黄金のトライゴンを手に入れた。;~私、めっさスゴイ。		85	067.jpg	36G7U
+PINKTRIGON_COLLECTED	The Scythian			Contro tutte le aspettative abbiamo ottenuto Il Trigone della Luna Splendente.	最初は無理かとも思った。~だが、;明月のトライゴンを手に入れることが~できた。		155	068.jpg	56F8U
+BLUETRIGON_COLLECTED	The Scythian			A dispetto di tutte le avversità abbiamo ottenuto Il Trigone della Luna Cupa.	幾多の困難を乗り越え、;ついに暗月の~トライゴンを手に入れた。		112	069.jpg	T6G94
+GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Sembra che tutti i folletti della Luna Cupa siano stati mandati verso il cielo & così è di nuovo giunto il tempo dei miracoli. Adoro i miracoli!	暗月の精たちが空に還されたみたいね。;~また奇跡の時かしら。私奇跡って大好き。				
+JIM_HINT1_OFF	The Scythian			In un bosco appartato incontrammo un misterioso tizio amante della musica che passava il tempo vicino ad un fuoco scoppiettante.	静かな森を奥まで進むと、;パチパチと燃える~焚き火の横に;謎のミュージシャンが座って~いた。				
+JIM_PINKDAWN	The Scythian			In un bosco appartato incontrammo un misterioso tizio che passava il tempo vicino ad un fuoco scoppiettante. #jimguthrie	静かな森を奥まで進むと、;パチパチと燃える~焚き火の横に謎の男が;座っていた。 #jimguthrie				
+JIM_BRIGHTMOON	The Scythian			Mentre la luna splendente si stagliava incontrammo  vicino ad un fuoco scoppiettante un misterioso tizio amante della musica che si presentò come Jim Guthrie.	明月のそびえ立つ夜、;パチパチと燃える~焚き火の横で;謎のミュージシャンと出会った。;~ジム・ガスリーというらしい。 #サントラリミックスアルバム絶賛発売中♡		128	070.jpg	07G00
+JIM_POSTSWORCERY	The Scythian			Il misterioso tizio amante della musica noto come Jim Guthrie aveva assistito alla nostra spadomanzia & gli sembrava che tutto fosse a posto.	謎のミュージシャンのジムは;私がソーサリーを~使うのを見ていた。;結構気に入ったみたいだ。				
+JIM_POSTGOURD	The Scythian			Il misterioso tizio amante della musica noto come Jim Guthrie disse che era pronto a suonarci una breve canzone se avessimo avuto voglia di ascoltarla.	謎のミュージシャンのジムは、;~よければ歌を披露しよう、と申し出てきた。				
+				Jim ci invitò a sederci vicino al fuoco.	ジムに、焚き火の横に座るよう促された。				
+JIM_POSTSONG	The Scythian			Jim Guthrie ci insegnò a non respingere i pensieri malvagi & a non respingere il morso del drago.	ジムは邪悪な思想もドラゴンのひと咬みも、;~否定しては駄目だと言った。				
+			Archetype/trifecta	Ci disse del concerto rock che avrebbe dovuto tenersi sull'altra sponda del lago tra due settimane.	彼によると、今から２週間後、;湖のあちら側~でロックフェスが;開催されるのだという。				
+JIM_LOGFELLATHOUGHTS	Logfella			La canzone sembrava così familiare... Dove l'avevo già sentita? #1000songs	不思議と懐かしい感じがする…;どこで聞いた~曲だろうか？ #1000songs				
+				Improvvisamente ho questo strano, fantastico motivetto in testa. #ediventammopiùvecchi	何だ？不思議な感じの曲が突然頭の中で;響き~始めたぞ。 #andwegotolder				
+LOGFELLA_JIMTHOUGHTS	Logfella			Mi è rimasta questa canzoncina in testa per un sacco... solo alcune piccole note che ritornano & ritornano ancora. Mi chiedo cos'abbia di speciale?	この曲、もうずっと頭の中で流れてる…;~短いメロディーが繰り返され続けてる。;~これは一体なんなんだ？				
+ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Riattraversare in sicurezza la soglia della liminalità è una questione da poco - trova i luoghi familiari & il calore del focolare.	境界域を安全に超えて戻ってくる方法は;~簡単です。見覚えのある場所で、;~暖炉のぬくもりを求めるのです。				
+				Se riuscirai a stabilizzare la tua lucidità sarai in grado di creare insieme ad essa... invece di combatterla, resisterle & maledirla.	意識さえはっきりと保てれば、;共に創造する~こともできるでしょう。;~争い、抗い、呪う必要はないのです。				
+				Quando in un sogno sei lucido comprendi chi hai immaginato di essere... ma identificarsi col sogno vuol dire esserne ammaliati.	夢のなかで意識を保つことに成功すると、;~自分自身の思い描く自己像を見ることが;~できます。ですが夢に入るということは;~夢に飲まれるということでもあります。				
+				Persino in uno spazio onirico trito & ritrito ci sono nuovi luoghi da esplorare & nuovi collegamenti da esaminare... se continuerai a credere.	何度訪れた夢であっても、いつもどこかに~;新しい発見や「意味ありげなつながり」が;~見つかるものです…;~あなたに信じる力があれば、ですがね。				
+GIRL_MOONGROTTOCOMMENT	Girl			Mi sento quasi come se il cosmo avesse saltato un battito & ora tutto è come se fosse un po'... sospeso.	もしかして、;宇宙が一拍はずして何もかもが;~ちょっとずつズレタんじゃ…ないかな。				
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			C'è un sacco di strada da 0 a 1 & se un alieno dicesse ciao sarebbe in un codice criptato sullo stereo. Aspetta... cosa?	０から１までの道のりは果てしなく遠い~;～宇宙人からのハローは暗号化された;~ステレオサウンド～……って何だこれ？#EvilThoughts				
+GIRL_HUGETREETHOUGHTS	Girl			Ovviamente non dico mai a nessuno dei sogni che faccio sulla dea & l'albero, perchÉ mi prenderebbero per un hippie o qualcosa del genere.	もちろん、女神大樹の夢だなんて;他の人には~言わないわよ。そんなことしたら;ヒッピーとか~呼ばれちゃうもの。				
+				Nel mio posto speciale ricevo in visita un colossale albero cavo... è una dea morta da tempo che nacque eoni prima dell'umanità.	私だけの特別な場所には、内側が空洞になった;~巨大樹があるの。その樹は、人類なんかより;~はるかに昔から存在する女神なのよ。				
+				Quando vago nei sogni c'è un posto speciale in cui vado sempre, un'assemblea di alberi nel cuore del mondo.	私が夢歩きするところには、;来たら絶対に行く~特別な場所があるの。;世界の中心にある、;~樹々の議会が開かれる場所なのよ。				
+LOGFELLA_HUGETREETHOUGHTS	Logfella			Adoro vedere lo stesso bosco sia col sole che con la pioggia & adoro anche soltanto fermarmi ed ascoltare... pensare o non pensare, a seconda del caso.	同じ樹でも、様々な天気の下で見るのって…;~いいんだぜ。俺はただそこに立ち尽くして;耳を~澄ませるんだ。;無心になったり、考え事したり~しながら。				
+				Non passo troppo tempo a vagare nei sogni ma quando lo faccio tendo a rivisitare i miei luoghi preferiti per vedere cosa è cambiato.	俺はあんまり長く夢歩きしないが、;行ったら~必ず同じ場所をめぐって;何か変わってないか~確認するね。				
+MIRACLE1_MOUNTAINMEADOW	The Scythian			In un prato assolato abbiamo messo in atto un miracolo per sollevare la tempesta nella maniera del folle mago ripiegatore Al Jaffee.	奇跡の力で嵐を消し去った。景色は一変し、;~草原は陽の光に照らされている。				
+MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Siamo rimasti confusi & frastornati in un prato in cui filtra la luce del sole con una di quelle emicranie davvero tremende.	頭が混乱していた。凄まじい頭痛がした。;~草原のあちこちが陽の光に照らされていた。				
+LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Ci risvegliammo storditi da un sonno molto profondo, senza alcun chiaro ricordo di ciò che era accaduto.	恐ろしく深い眠りから覚め、;意識がもうろうと~していた。;何が起きたかもよく思い出せず~にいた。				
+			triangle/Triangle	Ci ricordammo del miracolo avvenuto nel prato & del nostro scontro con il Trigon d'Oro...	そうだ、草原で奇跡を起こし、;~黄金のトライゴンと遭遇したのだった…。				
+			triangle/Triangle	...quali nuovi poteri ci sono stati concessi?	…あれで一体どんな力が手に入ったのだろう？				
+			triangle/Triangle	Il Signor Ceppo era veramente atterrito da quanto sembrasse folle & incredibile la lotta con il Trigon d'Oro dalla nostra descrizione.	丸太さんにどんな戦闘だったかを話した。;~彼は猛烈に興奮していた。		81	071.jpg	R7C14
+			triangle/Triangle	Il Signor Ceppo si chiese se forse il Trigon d'Oro potesse essere legato ai sinistri misteri nascosti al di là del cancello di ferro nel prato.	彼は、黄金のトライゴンがあれば;草原の~鉄扉が開き、その先にあるという;「不気味な~言い伝え」の正体を確かめられる;のでは~ないか、と考えたようだった。				
+				Il Signor Ceppo non apprezzava i misteri sinistri così scelse di tornarsene a casa & tagliar legna. #tagliarlegna	でも丸太さんは「不気味な言い伝え」が;~怖いので、家に帰って薪を割った。 #薪割り				
+LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Il taglialegna noto come Signor Ceppo era super contento che la tempesta si fosse sollevata & era super desideroso di tornarsene a tagliar legna.	木こりの丸太さんは嵐を消したことに;~スーパー感謝していた。さっそく薪割りを;~再開したくてウズウズしている。				
+				Ci chiese se sapevamo qualcosa sul cancello di ferro che bloccava la caverna cavernosa nel prato... a che serviva?	丸太さんから「草原の鉄扉は洞くつに通じる道;~を塞いでいるのだが、何故だか知らないか？」;~と聞かれた。何故なんだろう？				
+LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Strano... Vedo un raggio dorato che va verso il cielo nel bosco dietro al prato... qualcuno ha forse imparato i segreti del Trigonbosco?	変だな…草原の奥あたりの森から、;金色の~光の柱がのぼっている。;まさか誰か~トライゴンの森の秘密を…？		89	072.jpg	67F24
+LOGFELLA_URSULAMEADOW	Logfella			Sono davvero preoccupato per La Scita, sembra proprio stravolta.	あのスキタイのムスメ、大丈夫だろうか。;~色々と大変そうだけど。				
+SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			Mentre riprendevamo i sensi, il taglialegna & sua figlia erano lì a guardarci.	目を覚ますと、木こりとその娘が;私の顔を~覗き込んでいた。 #サラリと新事実				
+				Notammo che il prato non era cambiato, tutte le prove del nostro scontro mistico erano sparite.	草原はいつもと変わらない姿をしていた。;~あんな事があったのに、;後には何も残されて~いないのだ。				
+GIRL_YELLOWTRIGONCOLLECTED	The Scythian			La ragazza ascoltò in silenzio la nostra strana storia sullo scontro con Il Trigon d'Oro.	私が話す奇想天外な話も、;オトメちゃんは~黙って聞いてくれた。;黄金のトライゴンと~遭遇した話だ。				
+			triangle/Triangle	Pensò ai segreti del Trigonbosco che stava oltre la caverna cavernosa nel prato... c'era forse un collegamento?	オトメちゃんは、草原近くの洞くつを;抜けた~先にある、トライゴンの森の;秘密について~思いを巡らせているようだ。;何か関係があるの~だろうか？				
+GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmmm... mi sto seriamente preoccupando per La Scita... è sparita per giorni dopo che si è sollevata la tempesta. Spero davvero che stia bene.	あのスキタイのムスメ、本当に大丈夫かなあ。;~嵐が去って数日経つけど、姿が見えないし。;~無事だといいけど。				
+GIRL_URSULAMEADOW_OFF	Girl			Wow, così La Scita è appena svenuta nel prato? Pazzesco.	ええっ！;ずっと草原で気を失ってたって~こと！？;マジで…？				
+DOGFELLA_GETDARKTRIGON	The Scythian			Dopo aver attivato un altro raggio verso il cielo notammo qualcosa di insolito sul cane noto come Signor Cane.	トライゴンの森で;さらに光の柱が立った~後から、;イヌさんの様子が少しおかしい。				
+			Archetype/trifecta	Improvvisamente ci parve di riuscire a capire Signor Cane - ci incoraggiò a cercare il Trigone della Luna Cupa & a completare La Trigon Tripletta.	突然、イヌさんのことが理解できた気がした。;~彼は私に暗月のトライゴンを見つけさせて、;~トライゴン・トライフェクタを;完成させたい~のだ。				
+DOGFELLA_GETBRIGHTTRIGON	The Scythian			Dopo aver attivato un altro raggio verso il cielo notammo qualcosa di insolito sul cane noto come Signor Cane.	トライゴンの森で;さらに光の柱が立った後~から、;イヌさんの様子が少しおかしい。				
+			Archetype/trifecta	Improvvisamente ci parve di riuscire a capire Signor Cane - ci incoraggiò a cercare il Trigone della Luna Splendente & a completare La Trigon Tripletta.	突然、イヌさんのことが理解できた気がした。;~彼は私に明月のトライゴンを見つけさせて、;~トライゴン・トライフェクタを;完成させたい~のだ。				
+DOGFELLA_THREETRIGONS	The Scythian			Dopo aver attivato un altro raggio verso il cielo notammo qualcosa di insolito sul cane noto come Signor Cane.	トライゴンの森で;さらに光の柱が立った後~から、;イヌさんの様子が少しおかしい。				
+			Archetype/trifecta	Improvvisamente ci parve di riuscire a capire Signor Cane - ci incoraggiò ad attivare il terzo raggio verso il cielo & ad aprire un passaggio verso l'infinito.	突然、イヌさんのことが理解できた気がした。;~彼は私に３本目の光の柱を立てさせ、;~無限の渦への扉を開けさせたいのだ。				
+DOGFELLA_TRUTHBOMB	Dogfella			Bau Bau Bau.	ワン ワン ワン！				
+				Bau Bau Sniff Bau.	ワン ワン！ クンクン…ワン！				
+				L'infinito & turbinante cosmo sulla cima del Mingi Taw attende Il Portatore del Grantomo.	ミンギ・トウの頂上にある無限の渦は、;~絶世の大書を持つ者を待っている。				
+				Bau Bau Bau Bau Bau.	ワン ワン ワン ワン ワン！				
+				Bau Bau Bau.	ワン ワン ワン！				
+GIRL_AFTERYELLOWBEAM	The Scythian			La ragazza dai capelli corvini sedeva su una pietra vicino alla legna tagliata dal taglialegna.	オトメちゃんは、木こりが薪割りをする横で;~石に腰かけている。				
+			Archetype/trifecta	Le domandammo dei segreti del Trigonbosco & sugli insoliti sogni di coloro che abitano le montagne del Caucaso.	私はトライゴンの森に伝わる秘密と、;~コーカサス地方の山の民が言う「奇妙な夢」;~について聞いてみた。				
+				Ci disse di quanti misteri fossero custoditi nei sogni della sua gente & di come questi riflettessero l'umore della luna nei modi più strani.	彼女は、コーカサス人の夢にはたくさんの謎が;~あること、そして夢の内容が月の満ち欠けで;~奇妙に変化することを教えてくれた。				
+				La ragazza ci disse che avremmo potuto sederci in qualsiasi momento presso il focolare nella baita di pietra, sia per entrare nei sogni che per raccogliere le nostre forze.	山小屋の暖炉前に座れば、;「夢歩き」に~出かけたり、;ただ体を休めたり自在に~できるのだそうだ。				
+			Archetype/trifecta	Avevamo quasi la sensazione che i due Trigoni rimanenti fossero smarriti nei sogni o qualcosa del genere.	私はなんとなく、;残り２つのトライゴンは~夢の中にあるかもな、;と思った。				
+LOGFELLA_AFTERYELLOWBEAM	The Scythian			Il taglialegna noto come Signor Ceppo era tornato a tagliare la legna & sembrava farlo davvero di gusto.	丸太さんはまた薪を割り出した。;~怖いくらい集中している。				
+			triangle/Triangle	Il Signor Ceppo aveva visto il raggio verso il cielo dietro al prato & così gli domandammo dei segreti del Trigonbosco.	丸太さんも草原の奥から空に昇る光の柱を;~見たという。私は、トライゴンの森の;秘密に~ついて聞いてみた。				
+				Ci disse di un'antica leggenda che la sua gente è solita raccontare ai bambini per farli spaventare.	彼は祖先から受け継いできた;古い物語を話して~くれた。;小さな子を怖がらせるための、~よくある話だ。				
+			Archetype/trifecta	Il Signor Ceppo ci raccontò di un gruppo di amici che giunse tante lune addietro dalla Scizia fin su queste montagne dimenticate per trovare La Trigon Tripletta.	かつてトライゴン・トライフェクタを;探す~ため、この見捨てられた山脈まで;やってきた~スキタイの者たちがいたという。				
+			gourd/gourd	Il gruppo scoprì di dover andare in cerca dei folletti silvani & di doverli mandare tutti verso il cielo... quindi andarono in cerca di un luogo per mettere in atto un miracolo.	彼らはここで、なんとか森の精を見つけて;~すべて空に還し、次に奇跡を起こす場所を;~探し求めたそうだ。				
+			Archetype/trifecta	Il gruppo di amici aveva sperato di attivare i tre raggi verso il cielo nel Trigonbosco ma non avevano idea su dove o quando si trovassero i Trigoni.	そうしてトライゴンの森に３本の光の柱を~;立てようと捜索を続けたが、;トライゴンが~いつどこに現れるのかは;分からなかったと~いう。				
+				Il gruppo vagò senza meta per molto tempo sull'antica strada per il Mingi Taw... ad un certo punto si stancarono & così si fermarono.	その後も長い間、ミンギ・トウの古道を;あても~なく探し回ったものの、;最後にはウンザリして~やめてしまった。				
+				Accadde poi che all'improvviso il gruppo fu ucciso da uno spettro immortale su un lato dell'antica strada, ove alcune tombe rimangono tutt'ora.	だがある日、スキタイの一団は;古道のわき道で~皆殺しにされてしまう。;不死の亡霊が~現れたのだ。彼らの墓は;今でもいくつか残って~いるという。				
+				Dicemmo al Signor Ceppo che era una bella storia, ma che a dir la verità non ci aveva spaventato più di tanto.	私は丸太さんに、よくできた話だけど;全然怖く~なかったと伝えた。				
+GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
+ARCHETYPE_MOONGROTTO	The Archetype			E così vedo che sei riuscito ad alterare l'umore della luna nella Grotta della Luna - mi chiedo quanto a lungo durerà questo Paradosso Temporale?	おや、月の洞穴で月の満ち欠けを操る術を;~身につけたのですね。;さて、この時間的~パラドックス、;いつまで持つのでしょうか…。				
+MIRACLE2_ISLAND	The Scythian			Mentre si staglia La Luna Splendente abbiamo messo in atto un super misterioso miracolo lunare su un'isola impossibile al centro di un lago placido.	明月輝くこの夜に、;静謐なる湖の真ん中に~現れたアリエン島で、;月の奇跡を起こした。		136	073.jpg	W7A3K
+MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Abbiamo ottenuto Il Trigone della Luna Splendente per la gloria & per ripicca. #trigonedomato	ついに念願の明月のトライゴンを ;~手にいれたぞ！ #トライゴンゲットだぜ		155	068.jpg	56F8U
+MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Siamo stati tentati da non andare avanti con tutta quella cosa dell'ingrato compito ma c'era qualcosa di così attraente nel martirio.	いっそここで「果たすべき使命」を;やめて~しまおうかとも思ったが、;殉死という言葉は;~なぜかとても魅力的に響いた。				
+				Oh beh, magari alla fine non importerà più di tanto. Non è che l'ingresso nel Turbinio dell'Infinito comprende un test fisico.	まあいいや、結局は同じこと。;無限の渦に~飛び込む前に;身体検査があるわけでもないし。				
+				Abbiamo la netta sensazione che tutto questo entrare nei sogni & domare Trigoni stia cominciando ad avere un impatto negativo su di noi.	夢を歩き、トライゴンを従えたことで、;~私の体からは確実に何かが「失われて」いる、;~と確信した。				
+				Allorché le luci & i suoni si abbassarono ci ritrovammo sulle sponde di un lago con una terribile emicrania & il sangue che ci usciva dal naso.	光と音がやむと、私は湖ぎわに倒れていた。;~また酷い頭痛がした。;鼻に触ると、~血が出ていた。				
+GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Raccontammo alla ragazza del nostro scontro onirico con il Trigone della Luna Splendente & della nostra intenzione di riunire la Trigon Tripletta.	オトメちゃんがいた。明月のトライゴンに;~夢の中で逢ったことを話し、;~これからトライゴン・トライフェクタを;~集めるつもりだと伝えた。				
+				La ragazza disse che il nostro scontro onirico doveva essere stato davvero ganzo & che avrebbe voluto essere lì con noi. #bugie	オトメちゃんは「夢で逢うなんてカッコイイ。;~私も見たかった」と言った。 #社交辞令				
+				Ci chiese se ci fossimo fermati presso il Trigonbosco... magari avremmo potuto attivare un altro raggio verso il cielo?	彼女に、トライゴンの森には;もう行ったのか~と聞かれた。;新たに光の柱を立てられる~だろうか？				
+LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Il taglialegna si rese conto che tutto quel vagare nei sogni & far funzionare miracoli avevano dato un duro colpo alla nostra salute fisica.	丸太さんは、「夢歩き」と「奇跡の発現」が;~私の身体に凄まじい負担をかけていることに;~気付いたようだった。				
+				Il Signor Ceppo sembrava sospettare che questo nostro compito ingrato probabilmente non avrebbe avuto un lieto fine.	丸太さんは、私が使命を果たすときに;~幸せな結末を迎えないのではないか、;~といぶかしがっている。				
+				Il Signor Ceppo ci ricordò di sederci vicino al focolare nella baita & fare una pausa ogni tanto per recuperare le forze.	丸太さんは、とにかくまめに;小屋の暖炉に~あたって体を休めろ;と助言してくれた。				
+ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			I dati della nostra ricerca mostrano una stretta correlazione tra i progressi dei partecipanti a S:S&S EP & la loro attitudine nell'essere grandiosi.	私どもの研究によると、;被験者の「スキムス」~進捗と;被験者のステキさには強い関連性がある;~との結果が出ています。		45	074.jpg	87A43
+				Vedo che sei riuscito a trovare & a recuperare Il Trigone della Luna Splendente - questa è davvero una notizia stupefacente.	明月のトライゴンを;探して手に入れた~みたいですね。;実に素晴らしい。				
+MIRACLE3_HUGETREE	The Scythian			Mentre regna la Luna Cupa abbiamo messo in atto un miracolo, un fulmine distruttore, al centro di un'assemblea di alberi.	月が最も暗くなる夜に、;樹々が集い語らう~場所で、;いかずちの奇跡を起こした。				
+MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Oltretutto... andarsene in giro col Grantomo è abbastanza faticoso, è davvero un libro gravoso in più di un senso.	それから…この絶世の大書を;ずっと~持ち歩くのも、かなり辛い。;確かに大書だ、~といったところか。				
+				Ci sentimmo un po' peggio a causa di quanto avevamo sopportato... era probabilmente qualcosa che aveva a che fare tutti quei raggi laser cosmici.	体は重く疲れきっている…;~きっとあのレーザーとかのせいだろう。				
+				Col calare della luce & dei suoni ci ritrovammo fradici dalla pioggia & gelidi fra un assemblea di alberi bagnati.	光と音がやむと、私はあの森に倒れていた。;~全身は雨でずぶ濡れだ。ひどく寒い。				
+GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Raccontammo alla ragazza del nostro scontro onirico con il Trigone della Luna Cupa & della nostra intenzione di riunire la Trigon Tripletta.	オトメちゃんがいた。暗月のトライゴンに;~夢の中で遭ったことを話し、;これから~トライゴン・トライフェクタを;集める~つもりだと伝えた。				
+				Le raccontammo di come avevamo distrutto il colpo del detestabile arcobaleno del Trigone della Luna Cupa & lei era tutta un 'ganzo'.	トライゴンが放ってきた虹を叩き壊した;時の~ことを話すと、;オトメちゃんは「ヤバイね」~と言っていた。				
+				Sembrava che non le dispiacesse ascoltare i nostri folli racconti.	実話と信じられないからか、;彼女は私の話を~聞き流していた。				
+LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			Il taglialegna si rese conto che tutto quel vagare nei sogni & far funzionare miracoli avevano dato un duro colpo alla nostra salute fisica.	丸太さんは、「夢歩き」と「奇跡の発現」が;~私の身体に凄まじい負担をかけていることに;~気付いたようだった。				
+			Archetype/trifecta	Il Signor Ceppo ci chiese se avevamo ricevuto in visita Il Signor Cane nel Trigonbosco... avremmo potuto forse attivare un altro raggio verso il cielo?	丸太さんは「イヌさんを連れて;トライゴンの~森に行ってみたかい？」;と尋ねた。~もしかしたら、;また光の柱を起動できる~だろうか。				
+ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			E così la domanda ora è... che si fa ora? Ricorda che l'aiuto dei social network gioca un ruolo importante nella riuscita di questo esperimento.	さて。次は何をすればいいのでしょうか？;~ソーシャルネットワークサポートは;本実験の~結果に多大な影響を及ぼす、;というのは~覚えてらっしゃいますね？				
+				A dispetto della scarsità di informazioni utili che ti abbiamo fornito sei riuscito a dominare Il Trigone della Luna Cupa.	こちらから手がかりを;ほとんど提供して~いないのに、;あなたは独力で~暗月のトライゴンを;手に入れたのですね。				
+				Sono stato appena informato che hai recuperato Il Trigone della Luna Cupa - questa è davvero una notizia stupefacente.	暗月のトライゴンを;手に入れたと~聞きましたよ。;素晴らしいじゃないですか。				
+LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Il taglialegna non riconobbe la chiave che avevamo ritrovato & aveva zero idee su che cosa aprisse.	丸太さんは鍵に;まったく見覚えがないよう~だった。				
+			AdventureUI/keyItem	...?	…？				
+GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	La ragazza vide la chiave che avevamo trovato & ci incoraggiò a cercare con molta attenzione una porta chiusa.	オトメちゃんは鍵を見て;「鍵が掛かっている~扉を;見逃さないようにしたほうがいい」;と~助言をくれた。				
+				Non aveva altre idee ma ci tornò in mente qualcosa che avevamo visto sull'antica strada per il Mingi Taw.	彼女はそれ以上何も言わなかった。;~そういえば、ミンギ・トウへ続く古道で;~何か見たような…？				
+ARCHETYPE_GROTTOPARADOX	The Archetype								
+				Una volta che l'umore della luna è stato alterato nella Grotta della Luna	月の洞穴で月の形を変えたら				
+ARCHETYPE_KILLBOOR	The Archetype			Ora immagino che tu ti stia chiedendo a cosa serve quella chiave? Ad essere sinceri, non ne ho idea.	さてさて、これは何の鍵なのでしょうかね。;~正直に申し上げて、さっぱり分かりません。		119	075.jpg	87C5S
+				Non è che ora io stia insinuando che tu sia in effetti un violento sociopatico... Sono certo che tu abbia avuto le tue ragioni, giusto? #tamarrorso	別にこの件であなたの事を;~「社会不適合者だ！」;なんて言うつもりはない~ですよ…;きっと何か理由があったのでしょう？ #さらばクマズリー				
+				Dovrei far cenno al fatto che Tamarrorso è stato incluso in S:S&S EP per far sì che i partecipanti fossero tentati da identificarsi in violenti sociopatici.	ひとつ申し上げておくと、クマズリーは、;~被験者が暴力的、反社会的行動を取るよう;~誘導するために登場しています。				
+				Sono stato appena informato che Tamarrorso è stato ucciso... non è che ne sai qualcosa? #assassino	今、クマズリーが殺害されたと;報せが~あったのですが、何かご存知ですか？ #クマズリーの悲報				
+ARCHETYPE_SPAREBOOR	The Archetype			Ora immagino che tu ti stia chiedendo a cosa serve quella chiave? Ad essere sinceri, non ne ho idea.	さてさて、これは何の鍵なのでしょうかね。;~正直に申し上げて、さっぱり分かりません。		119	075.jpg	87C5S
+				Eh sì, è grandioso & ti amiamo tantissimo per questo.	まあ、そういうわけで、良かった、良かった。;~善き行いでしたよ。				
+				Tamarrorso è stato incluso in S:S&S EP per permettere ai partecipanti di identificarsi in persone compassionevoli & ragionevoli.	実はクマズリーは、被験者が自らの持つ;~思いやりや理性を認識させるために;~登場しています。				
+				Sono stato appena informato che a Tamarrorso è stato concesso di fuggire incolume. Questa è una notizia rincuorante.	今、クマズリーが無事に逃がされたと;報せが~入りました。;いや、実に良いニュースです。				
+LOGFELLA_FOUNDATION	Logfella			...	...				
+				...	...				
+				...	...				
+SCYTHIAN_FOUNDATION	The Scythian			Abbiamo appena risvegliato un folletto silvano da uno stagno profondo circondato da gigli vicino ad una baita di pietra. Non siamo sicuri di cosa significhi.	山小屋の横にあるユリの咲く池で、;森の精を~目覚めさせた。それが;何を意味するのか~よくわからないけれど。				
+				Mente in cielo continua una tempesta senza fine abbiamo imparato ad intonare un Inno della Spadomanzia & ad invocare un folletto silvano dormiente.	吹きすさぶ嵐の中でソーサリーの歌を習得し、;~眠り続ける森の精を召喚した。				
+				Aspetta... perchè mi sto riferendo a me stessa in prima persona? Pensavo che la nostra storia fosse raccontata in terza persona? #cisaradaeditare	ん？なんかワタシ口調おかしい？;~ここだけ普通の独り言っぽくなっちゃってる？ #校正漏れ				
+				I miei pensieri sono messi in sequenza cronologica, nell'ordine in cui li ho pensati? E così questo deve essere ciò a cui pensavo pochi secondi fa?	思考が時系列に沿って、;考えた順に並んで~いる？ということは、;これはワタシが何秒か~前に;考えていた事？				
+				E così questo è il Grantomo? Sta assorbendo 'trasmissioni di pensiero linguistico'? Sto leggendo i miei pensieri mentre li sto pensando? Mmm...	なるほど、これが絶世の大書なのね。;あらゆる~思考を収集して言語的に記述する、;なるほど。~じゃ、考えた先から文章に;なってるってこと？;~フム…？				
+GIRL_FOUNDATION	Girl			...	...				
+				...	...				
+				...	...				
+DOGFELLA_FOUNDATION	Dogfella			...	...				
+				...	...				
+				...	...				
+LOGFELLA_DARKMOON	The Scythian			Il taglialegna raccontò di come, nel suo sogno, vagasse nel bosco un'ora prima dell'alba sotto un cielo buio & tempestoso.	丸太さんが;自分の夢歩きの事について話して~くれた。;それは夜明け前の時間、暗い空の下、;~嵐が吹きすさんでいた時のこと。				
+				Raccontò di una luce rosa pulsante & di una canzone inquietante piena d'angoscia che veniva dal bosco senza nome dietro al prato.	草原の奥にある森のほうで脈打つような;~ピンク色の光が見え、;恐怖を具現化させた~ような;気味の悪い歌が聞こえてきたという。				
+				Immaginavamo che Il Signor Ceppo stesse probabilmente parlando del Concerto Rock della Luna Cupa.	…どうやら丸太さんは;暗月のロックフェスを~見かけたようだ。				
+GIRL_DARKMOON	The Scythian			La ragazza raccontò di come, nel suo sogno, vagasse nel bosco un'ora prima dell'alba sotto un cielo buio & tempestoso.	オトメちゃんが;自分の夢歩きの事について~話してくれた。;それは夜明け前の時間、~暗い空の下、;嵐が吹きすさぶ時だったそうだ。				
+				Raccontò di come aveva trovato riparo dalla tempesta nel tronco scavato di un albero colossale.	オトメちゃんはひどい雷雨から逃れようと、;~幹が空洞化した巨大樹の中に;隠れたのだと~いう。				
+				Sapevamo totalmente di quale albero cavo colossale stava parlando.	その巨大樹のことはよく知っている。				
+ARCHETYPE_DARKMOON	The Archetype			Fa attenzione: La Luna Cupa regna.	気をつけて。世界は今、暗月を迎えています。		94	076.jpg	I7F69
+LOGFELLA_CRESCENTWAX	The Scythian			Il taglialegna raccontò di come, nel suo sogno, vagasse nel bosco un'ora prima dell'alba, sotto la luna crescente.	丸太さんが自分の夢歩きの事について;話して~くれた。それは三日月の輝く晩の、;~夜明け前の時間だったという。				
+				Raccontò di una creatura che aveva incontrato, qualcuno o qualcosa di bizzarro & nudo. Era un orso? Un uomo? o.... Tamarrorso?	その時に遭遇したのは、;人とも動物とも~つかない不思議な生物で、;裸だったという。;~熊？人？それとも…クマズリーだろうか？		57	077.jpg	I7G7U
+GIRL_CRESCENTWAX	The Scythian			La ragazza era entusiasta - oggi è iniziato un nuovo mese lunare! Aveva aspettato con impazienza le giornate lunghe seduta sulle rocce.	オトメちゃんは興奮していた。;太陰暦における~新たな月の始まりなのだ。;彼女は石の上に~ずっと座っていた。;嬉しそうだ。				
+ARCHETYPE_CRESCENTWAX	The Archetype			È apparso uno spicchio della luna crescente, segnando così l'inizio di un nuovo ciclo lunare di ventotto giorni.	暗月がかすかに輝いていますね。;~太陰暦における新たな月の始まりです。		118	045.jpg	Y4E5Q
+LOGFELLA_HALFWAX	The Scythian			Il taglialegna ammise che sì, certamente, nel corso della sua vita aveva tagliato una bella quantità di legna da ardere.	ただ丸太さんは、薪木だけはもう十分;蓄えて~あることを認めた。				
+				Raccontò di inverni rigidi & forti nevicate qui, nelle possenti montagne del Caucaso che si innalzano sulla steppe di Scizia.	コーカサス山岳地帯の冬は、;草原ばかりの~スキタイとは;比較にならないほど厳しく、;~雪も相当に積もるのだという。				
+				Il taglialegna ambiva ad avere abbastanza cibo & legna da ardere per sopravvivere ai lunghi & freddi mesi che sarebbero giunti.	丸太さんは長く厳しい冬を越すために、;~十分な食料と薪木を蓄えておきたい;と考えて~いるようだ。				
+GIRL_HALFWAX	The Scythian			Nel mio sogno della notte scorsa vagavo nel bosco & desideravo ardentemente un muffin, ma c'erano zero muffin.	昨夜の夢で、私は森を歩いていた。;途中で~マフィンが食べたくてしかたなくなった;の~だが、結局マフィンはどこにもなかった。		108	078.jpg	07D87
+ARCHETYPE_HALFWAX	The Archetype			Studiosi del folklore lunatici hanno asserito che non c'è una connessione casuale fra la follia & l'umore della luna.	世の中には「月の満ち欠けと凶気には;何の因果~関係もない」なんて言う;民俗学者もいますが、~ありえませんよね。				
+LOGFELLA_ALMOSTWAX	The Scythian			Il taglialegna disse che non aveva mai pensato troppo alla Massa Gogolitica & alla montagna selvaggia del Mingi Taw.	丸太さんは「これまでゴゴリチク・マスと;~ミンギ・トウの険しい山道について;きちんと~考えたことなどなかった」と言った。				
+				Disse che tuttavia, nell'ultimo periodo, la presenza spettrale della Massa Gogolitica aveva cominciato a perseguitarlo.	ただ話が終わる頃になると、;不死の亡霊、~ゴゴリチク・マスに;とりつかれ始めたよう~だった。				
+				Il taglialegna raccontò che gli venivano gli attacchi di panico quando in cielo si stagliava La Luna Splendente & mentre regnava La Luna Cupa.	彼によると、明月と暗月の夜は;ひどく気味悪い~空気が漂うという。				
+GIRL_ALMOSTWAX	The Scythian			La ragazza fece delle osservazioni sulla luna crescente... si chiese quanto ci sarebbe voluto prima che La Luna Splendente si stagliasse in cielo.	オトメちゃんは月について何か言っている。;~次の明月がいつかを気にかけているようだ。				
+ARCHETYPE_ALMOSTWAX	The Archetype			La luna cresce in silenzio di giorno in giorno... tra pochi giorni ci sarà La Luna Splendente... & quindi?	日ごとに月は満ちていく…;あと数日で明月だが…;~だからどうしたというのだ？		165	046.jpg	P4B6A
+LOGFELLA_BRIGHTMOON	The Scythian			Il taglialegna ammise che il suo cane sembrava perdere un po' la testa quando La Luna Splendente si stagliava in cielo.	丸太さんによると、彼の犬は明月の日は;~少し行動がおかしくなるという。		135	061.jpg	M6F1I
+GIRL_BRIGHTMOON	The Scythian			La ragazza raccontò di come, nel suo sogno, vagasse nel bosco un'ora prima dell'alba, mentre La Luna Splendente si stagliava nel cielo.	オトメちゃんが自分の夢歩きの事について;~話してくれた。それは明月がそびえ立つ晩の、;~夜明け前~の時間だったそうだ。				
+				Raccontò dell'aria frizzante del mattino & di un isola impossibile al centro di un lago placido.	張り詰めた朝の空気を切りながら;湖を~歩いていると、湖の真ん中に;アリエン島が~現れたのだという。				
+ARCHETYPE_BRIGHTMOON	The Archetype			Và fuori & guarda in alto - ammira La Luna Splendente che si staglia in cielo!	ほら、外に出て空を見上げて！;夜空に~そびえ立つ明月を;眺めてきてください。		95	079.jpg	07D95
+LOGFELLA_ALMOSTWANE	The Scythian			Il taglialegna tollerava a fatica le leggende popolari & ammise che di solito lo facevano addormentare. Non di meno, se ne intendeva un po'.	丸太さんによると、;彼は伝説のたぐいが大の~苦手で、;聞いていると寝てしまうらしい。;~その割にはとても博識だけれど。				
+				Il taglialegna sapeva tutto sul Mingi Taw & sul poichÉ fosse noto anche come Il Regno della Nuvola.	丸太さんはミンギ・トウのことを;知り尽くして~いた。もちろん、;雲の王国と呼ばれる由縁も。				
+				Sapeva che il Mingi Taw era la montagna più alta del mondo conosciuto, anche più alta del Monte Olimpo, ove risiedono gli dei degli Achei.	ミンギ・トウは発見されている山の中で;~世界で一番高い。;その高さはオリンポス山を~凌ぐという。				
+				Sapeva anche che la cima del Mingi Taw, sempre celata dalle nubi, fosse ritenuta un portale per il turbinio dell'infinito.	またミンギ・トウの頂上は;いつも雲に~覆われており、;その中には無限の渦への~入り口が;あるのだという。				
+				Il taglialegna non aveva mai osato battere i pendii del Mingi Taw infestati dall'orrore & mai l'avrebbe fatto in futuro.	彼自身はミンギ・トウを恐れているから、;~登ったこともなければ;登るつもりもない~という。				
+GIRL_ALMOSTWANE	The Scythian			La ragazza si domandava per quale motivo crescevano così tanti funghi subito prima & subito dopo la Luna Splendente... qual era la causa?	オトメちゃんは、明月の前後には;取ったはずの~キノコが生えそろっている;ことを不思議に~思っていた。;なぜなのだろう？				
+ARCHETYPE_ALMOSTWANE	The Archetype			La luna è un po' meno luminosa di ieri & il ciclo lunare sta per finire.	月の光が昨日よりも少しだけ暗い。;明月を~迎えた月が、欠け始めたのだ。				
+LOGFELLA_HALFWANE	The Scythian			Il taglialegna tollerava a fatica le leggende popolari & ammise che di solito lo facevano addormentare. Non di meno, se ne intendeva un po'.	丸太さんによると、;彼は伝説のたぐいが大の~苦手で、;聞いていると寝てしまうらしい。;~その割にはとても博識だけれど。				
+				Il taglialegna spiegò che in Scizia & in Persia, il Mingi Taw è noto come La Montagna Eterna.	丸太さんによると、;ミンギ・トウはスキタイ~やペルシャで;「永遠の山」として知られている~そうだ。				
+				Il taglialegna raccontò di come, ere addietro, una razza da tempo dimenticata avesse intagliato un tempio nelle rocce vive al di sotto del MIngi Taw.	何でも、はるか昔に忘れ去られた種族が、;~ミンギ・トウの奥地にある生命を持つ岩を;~削り出して寺院を作ったのだそうだ。				
+				Il taglialegna raccontò dei corridoi sotterranei & degli spazi cavernosi intagliati nelle rocce vive al di sotto del Mingi Taw.	また、ミンギ・トウ付近の;地下通路や~洞穴なども、;その生命を持つ岩を彫って~作られた~という。				
+				Secondo il taglialegna, quegli spazi cavernosi furono intagliati ere addietro per mantenere al sicuro Il Grantomo.	丸太さんが言うには、;あの洞穴のような~空間ははるか昔、;絶世の大書を安全に保管する~ために;作られたらしい。				
+GIRL_HALFWANE	The Scythian			La ragazza disse che era andata a passeggiare al di là del muro di pietra & aveva avvertito la terribile presenza della Massa Gogolitica.	オトメちゃんが先日、;石壁の先まで散歩に~行った際;、確かにゴゴリチク・マスの恐ろしい~気配を;感じたと言った。		30	080.jpg	V8B04
+ARCHETYPE_HALFWANE	The Archetype			Il ciclo lunare sta finendo & in meno di una settimana avremo La Luna Cupa.	月は欠けるサイクルに入りました。~;暗月まであと１週間もないでしょう。				
+LOGFELLA_CRESCENTWANE	The Scythian			Il taglialegna tollerava a fatica le leggende popolari & ammise che di solito lo facevano addormentare. Non di meno, se ne intendeva un po'.	丸太さんによると、;彼は伝説のたぐいが大の~苦手で、;聞いていると寝てしまうらしい。;~その割にはとても博識だけれど。				
+				Il taglialegna sapeva della Massa Gogolitica, lo spettro immortale che si aggira nell'oscurità al di sotto del Mingi Taw.	丸太さんは;ゴゴリチク・マスについても~知っていた。;あの、ミンギ・トウの奥を~徘徊する;不死の亡霊だ。				
+				Il Signor Ceppo ci parlò dell'inesplicabile turbinio dell'infinito dal quale proveniva il Grantomo in un età della pietra di cui si sta perdendo memoria.	無限の渦は我々の理解を越えるもので、~;絶世の大書もはるか昔の石の時代に;渦の中から~現れたのだそうだ				
+				Raccontò di una razza immortale di esseri provenineti dallo spazio che innescarono nell'umanità una forma rudimentale di trasmissione del pensiero linguistico.	また彼は「思考の収集と言語的記述の;仕組は~宇宙を旅してきた不死の種族;が人類に残した~もので、彼らにとっては原始的な;ものなのだ」と言った。				
+				Questi immortali benedirono l'umanità con la capacità di civilizzarsi &  così li condannarono ad un'eventuale, inevitabile, estinzione.	これらの不死の民が人類に文明を与え、~;結果として避けられない「絶滅」を;運命づけて~いったのだと。				
+				Gli Sciti desideravano sopprimere l'insidioso serpente che era la civilizzazione & così isolarono Il Grantomo col suo eterno protettore.	古代スキタイ人はこれを得体が知れないもの;~と考え、絶世の大書と不死の番人を;まとめて~隔絶した環境に封じ込めたという。				
+				L'eterno da allora è restato nell'oscurità, consumandosi fino a diventare lo spettro immortale noto come La Massa Gogolitica.	そして不死の番人は、;それ以来あの暗闇の中に~蠢き続け、;退化してゴゴリチク・マスと~なった。				
+				Il taglialegna probabilmente sarebbe andato avanti ancora & ancora con queste storie senza senso se non lo avessimo rispettosamente fermato.	…そろそろ上手く切り上げないと、;丸太さんは~このまま延々と;訳のわからない与太話を続け~そうだ。				
+GIRL_CRESCENTWANE	The Scythian			La ragazza notò che la luna si stava ritraendo. Disse che presto sarebbe scomparsa & che La Luna Cupa avrebbe regnato.	オトメちゃんが;欠けていく月について何か~言っている。;間もなくすべてが消え、~暗月が来るようだ。				
+ARCHETYPE_CRESCENTWANE	The Archetype			Il ciclo lunare è quasi completo, La Luna Cupa è quasi giunta.	まもなく暗月。;月の暦もこれできれいに一周~しますね。				
+DARKMOONLOOMS_ARCHETYPE	The Archetype			Si staglia la luna cupa, la fine del ciclo lunare è prossima.	暗月の時が来ましたね。;まもなく月の暦が~一周します。				
+DARKMOONBEGINS_ARCHETYPE	The Archetype			Osserva: ecco la luna cupa!	暗月を見るが良い！		94	076.jpg	I7F69
+DARKMOON_GIRLTHOUGHTS	Girl			Nel mio vagare nei sogni sono giunta presso un assemblea di alberi distrutta da un fulmine & ho avvertito la presenza di qualcosa di profondamente sacro.	夢歩き中に「樹々が集い語らう場所」に;~行ったら、すごいカミナリが落ちていたの。;~それから、その場所の雰囲気が…;何ていうか~すごく…神秘的だった。				
+DARKMOON_LOGFELLATHOUGHTS	Logfella			La scorsa notte ho sentito il suono di una musica pulsante che filtrava dal bosco dietro la mia baita di pietra. Ma cos'era?	昨晩、小屋の裏手の森深くからズン、ズン;~という音が聞こえてきたんだ…。;ありゃあ~何だったのだろうか？				
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Bau bau bau - nel mio stato dormiente ho visto soltanto le sottili spume sonore dei folletti silvani.	ワン ワン ワン - 睡眠状態の間は、~;私にもぼんやりと森の精が見えるようだ。				
+AMPHITHEATRE_OUTRO	The Scythian			Abbiamo riunito la Trigon Tripletta & siamo degli eroi.	ついにトライゴン・トライフェクタを;~完成させた。歴史に名前が残っちゃうかもね。		164	081.jpg	48G1Q
+RABBITS_3MURDERS	The Scythian			Abbiamo ucciso 3 conigli inermi senza ragione alcuna.	無力なウサギを３匹殺した。				
+RABBITS_7MURDERS	The Scythian			Abbiamo ucciso 7 conigli inermi senza ragione alcuna - che questa sia la prova che la nostra mente è disturbata?	無力なウサギを７匹殺した。~;私おかしいのかな？				
+RABBITS_13MURDERS	The Scythian			Abbiamo ucciso 13 conigli inermi senza ragione alcuna.	無力なウサギを１３匹殺した。				
+RABBITS_17MURDERS	The Scythian			Abbiamo ucciso 17 conigli inermi senza ragione alcuna. Nessuno può fermarci.	無力なウサギを１７匹殺した。~;もう誰にも止められない！				
+RABBITS_23MURDERS	The Scythian			Abbiamo ucciso 23 conigli inermi senza ragione alcuna.	無力なウサギを２３匹殺した。				
+RABBITS_37MURDERS	The Scythian			Abbiamo ucciso 37 conigli inermi senza ragione alcuna. Siamo curiosi di sapere che succederà se continueremo con questa frenesia omicida.	無力なウサギを３７匹殺した。~;このまま続けたらどうなっちゃうんだろう。				
+RABBITS_53MURDERS	The Scythian			Abbiamo ucciso 53 conigli inermi senza ragione alcuna. Stiamo chiaramente soffrendo di un disordine compulsivo ossessivo.	無力なウサギを５３匹殺した。~;この衝動はほとんど強迫観念…？				
+RABBITS_91MURDERS	The Scythian			Abbiamo ucciso 91 conigli inermi senza ragione alcuna.	無力なウサギを９１匹殺した。				
+RABBITS_107MURDERS	The Scythian			Abbiamo ucciso 107 conigli inermi senza ragione alcuna.	無力なウサギを１０７匹殺した。;~数えるのを止めたらこの衝動も収まるのかな？				
+ARCHETYPE_CREDITS	The Archetype								
+				S:S&S EP è un videogame frutto di un progetto di collaborazione prodotto a Toronto. Mettiti in contatto o tieniti aggiornato su swordandsworcery.com.	スキムスはトロントを拠点とする;ビデオゲーム型共同プロジェクトです。;ご意見ご感想、そして最新ニュースを;チェックする時は sukimusu.jp まで。				
+			Logos/superbrothers	Il concept originale è frutto dell'organizzazione di arte & design nota come Superbrothers Inc. presso superbrothers.ca	オリジナルコンセプト担当：;Superbrothers Inc. ;（アート & デザイン集団、superbrothers.ca）				
+				Le canzoni & alcuni suoni sono frutto del lavoro dell'amato compositore & rockstar nota come Jim Guthrie di jimguthrie.org	楽曲と一部サウンド担当、;Jim Guthrie;（愛すべき音楽家にしてロックスター、;jimguthrie.org）				
+			Logos/capy	Progettazione & miracoli ad opera dello studio di videogame indie noto come Capy di capybaragames.com	エンジニアリング & 奇跡担当：;Capy;（インディペデントビデオゲーム開発スタジオ、;capybaragames.com）				
+			Logos/eightfour	Localizzazione giapponese, marketing, PR & amore sono stati forniti da 8-4, Ltd. TUTTO LO STAFF aka @84Play 8-4jp	ローカライズ、マーケティング、;PR、まごころ担当：;有限会社ハチノヨン;(8-4.jp、@84Play)				
+				* * * IL TEAM DI S:S&S EP * * *	* * * スキムスチーム * * *				
+				Concept, artworks, design, direzione & sceneggiatura ad opera di membri di Superbrothers Inc. aka @the1console	コンセプト、アート、デザイン、;ライティングとかそのへん担当：;Craig D. Adams（Superbrothers ;クリエイティブディレクター、@the1console）				
+				Design, project leadership, supporto costante & altro da parte di Kris Piotrowski, creative director presso Capy aka @krispiotrowski	デザイン、プロジェクトリーダー、;不撓不屈のサポートとか担当：Kris Piotrowski;（Capy所属、クリエイティブディレクター、;@krispiotrowski）				
+				Sistema, architettura tecnica, UI, engine & altro da parte di Jon Maur, capo programmatore tecnico di S:S&S EP presso Capy aka @buckets187	システム、技術的アーキテキチャ、;UI、エンジンとか担当：Jon Maur;（Capy 所属、スキムスリードテクニカル;プログラマー、@buckets187)				
+				Scripts, combattimenti & funzionamento dei miracoli di Frankie Leung, capo programmatore gameplay di S:S&S EP presso Capy aka @mpfTempVar	脚本、戦闘、& 奇跡の実現担当：;Frankie Leung（Capy 所属、;スキムスリードゲームプレイプログラマー、;@mpfTempVar）				
+				Ispirazione, canzoni, suoni, anima & molto altro per cortesia di Jim Guthrie, compositore, eroe folk & rockstar a piede libero	インスピレーション、楽曲、;サウンド、ソウル、礼儀正しさ担当：;Jim Guthrie（作曲家、フォークの;申し子にしてロックスター、@jampants）				
+				* * * INOLTRE * * *	* * * そして * * *				
+				La voce del Signor Ceppo è di Robert Ashley, creatore della trasmissione radiofonica A Life Well Wasted  aka @robertashley presso www.alifewellwasted.com	丸太さんの音声、;スクリプトスーパーバイザー：須田剛一;（株式会社グラスホッパー・マニファクチュア;ghm.jp、@suda_51）				
+				La voce della Scita è della fotografa Robyn Cumming presso robyncumming.com	スキタイのムスメの声：Robyn Cumming;（写真家、robyncumming.com）				
+				La voce dell'Archetipo è dell'artista & regista Clive Holden aka @cliveholden presso cliveholden.com	アーキタイプの音声、マブダチ、;ときどき経理担当：;高橋智彰				
+				I suoni cosmici della Grotta Lunare sono di Scientific American  aka @scntfc presso scntfc.com	月の洞穴の宇宙サウンド：;Scientific American ;（scntfc.com、@scntfc）				
+				* * * ASSISTENZA DI CAPY * * *	* * * CAPYサポート * * *				
+				Produttore esecutivo, eroe popolare, leadership & strategeria di Nathan Vella, presidente di Capy aka @Capy_Nathan	エグゼクティブプロデューサー、;みんなのヒーロー、;リーダーシップ & ストラテジー：Nathan Vella;（Capyプレジデント、@Capy_Nathan）				
+				Produttore PC, assistenza tecnica audio, integrazione FMOD & tanti deliziosi suoni di Sean "Uber" Lohrisch, cofondatore presso Capy.	PC 版プロデューサー、オーディオ技術支援、;~fMOD 統合、素敵なサウンドたくさん：;~Sean "Uber" Lohrisch （Capy共同設立者）				
+				Amministrazione & business assistance di Matt "Juggalord" Repetski, cofondatore presso Capy.	管理 & 業務補助：;Matt "Juggalord" Repetski;（Capy共同設立者）				
+				Controllo della qualità & mega eroe del playtest,Christian "Sea Dawg" Meyer presso Capy aka @fiddler6	品質管理 & 超絶プレイテストヒーロー：;Christian "Sea Dawg" Meyer;（Capy所属、@fiddler6）				
+				Core programmer per il porting per pc casalinghi & abilitazione del 1080p forniti da non altri che Humbert Wong.	家庭用コンピューター移植の;~プログラミング (メイン)、1080p 化対応：;~やってくれたのは Hubert Wong				
+				Assistenza aggiuntiva per la programmazione per PC/Mac/Linux, esperto di Steam & sollevamento di cose pesanti di Drew Grainge aka @firstelder_d	PC/Mac/Linux プログラミング支援、;~Steam 関係監督、各種ウエイトリフティング：;~Drew Grainge（@firstelder_d）				
+				Cambiamenti di risoluzione dei beni artistici & sorrisi forniti da Super TIME Force's Vic "Meow" Nguyen aka @cowceda	感動的アートアセット & とっておきの笑顔：;~Vic "Meow" Nguyen;~(Super TIME Force、@cowceda)				
+				Controllo della qualità aggiuntivo del solo & unico Aaron Eves aka @AaronEves	品質保証補佐：;~ワンアンドオンリー、;~Aaron Eves（@AaronEves）				
+				Assistenza per il controllo della qualità aggiuntivo per PC di Phil Sandhop, Crystal Edwards e Sebastian Andersson di GameInstinct.	PC QA 補佐：;~Phil Sandhop、Crystal Edwards、;~Sebastian Andersson (GameInstinct)				
+				Riconoscenza per Xavier Xaden Xen, Joseppe Theodore Blocco & Hank Hudson	スペシャルサンクス！：;Xavier Xaden Xen、Joseph Theodore Blocco、;Hank Hudson				
+				Biscotti e altre deliziose sorprese fornite da Thea Gaerlan aka @doodlegirl	クッキーなどの嬉しいさしいれ：;~Thea Gaerlan（@doodlegirl）				
+				* * * ASSISTENZA DI SUPERBROTHERS * * *	* * * SUPERBROTHERSサポート * * *				
+				Cortesia per le relazioni, le comunicazioni,  QA, l'ispirazione, la pazienza infinita & l'infinito supporto morale di Jori Baldwin aka @aurorajorealis	連絡、コミュニケーション、;品質管理、インスピレーション、;恐るべき忍耐力と盛り上げ担当：;Jori Baldwin（@aurorajorealis）				
+				Business assistance, aiuto finanziario & schietto supporto morale di Mack C. Adams aka @mackaraja	業務／経理補助 & 盛り上げ担当：;Mack C. Adams（@mackaraja）				
+				Tanta tanta riconoscenza per Sheila Precious, David Adams, Sarah Adams & Cimarron Corpe per aver tenuto a galla la barca anche nei mari tempestosi.	さらにスペシャルサンクス：Sheila Precious、;David Adams、Sarah Adams、Cimarron Corpe;（あの嵐で船が沈まなかったのは;アナタたちのおかげです）				
+				Mega grazie a Jim Guthrie per essersi imbarcato in questa folle avventura nell'ignoto.	超絶サンクス：Jim Guthrie;（未知への挑戦だったのに;参加してくれてありがとう）				
+				Con l'aggiuntiva cortesia dei suoni da un milione di dollari di Timothy Muirhead.	それから、ステキなサウンドの数々を;快く提供してくれた Timothy Muirhead;に、ありがとう。				
+				* * * ASSISTENZA DI 8-4  * * *	* * * 8-4サポート * * *				
+				Traduzione giapponese ad opera del mastro parolaio RYUTA YAZAWA aka @lye	超絶的翻訳担当：;矢澤竜太;（@lye_）				
+				Editing giapponese, consigli cruciali & assistenza infinita di MASAHIRO YUKI aka @You_to_the_ki presso Grasshopper Manufacture www.ghm.jp	魔法的エディット、究極アドバイザー：;結城昌弘;（株式会社グラスホッパー・マニファクチュア;ghm.jp、@You_to_the_ki）				
+				Design del logo giapponese strafigo di POLYGRAPH, aka @polygraph_suwa at www.polygraph.jp	激ヤバロゴデザイン担当：;POLYGRAPH;（polygraph.jp、@polygraph_suwa）				
+				Magia del sito internet giapponese di Jonathan Lumb aka @jonnyram presso www.jonnyram.com	超技術的ウェブサイトプログラミング担当：;Jonathan Lumb;（jonnyram.com、@jonnyram）				
+				And finally, gratitude for JPN support & friendship: @suda_51, Tomoaki Takahashi, @eightbear, & remix artists @baiyon, @akirayamaoka, Michiru Yamane, @macotom3, & Decasségui Hip	リミックスアルバムのアーティストの皆様;~（@baiyon、@akirayamaoka、山根ミチル、;@macotom3、Decassegui Hip）の莫大なる;~サポート、山田秀人の深い友情に感謝です！				
+				* * * TRADUZIONE ITALIANA  * * *	* * * 8-4サポート * * *				
+				Traduzione italiana a cura dei "Cosmic Friends" dalla community di SpazioGames forum.spaziogames.it. Correzioni e accentate ad opera di Hexaae e banz99.	超絶的翻訳担当：;矢澤竜太;（@lye_）				
+				Membri: Silvia "Sil" Mannu, Luca "Crismon King" Doni, Michele "WryNail" Scotti, Christian "HantraxHat" Brena.	魔法的エディット、究極アドバイザー：;結城昌弘;（株式会社グラスホッパー・マニファクチュア;ghm.jp、@You_to_the_ki）				
+				* * * IL DOMINION DEL CANADA * * *	* * * カナダ自治領 * * *				
+			Logos/omdc	Questo progetto è stato reso possibile grazie al supporto finanziario dell'Ontario Media Development Corporation (OMDC).	このプロジェクトは; Ontario Media Development Corporation（OMDC）;からの経済的支援を受けて実現されました。				
+				* * * VI AMIAMO AMIAMO AMIAMO * * *	* * * みんなありがとう！ * * *				
+				Ringraziamo pubblicamente Brandon Boyer aka @brandonnn, Mathew Kumar aka @mathewkumar & Jason DeGroot aka @jason6955 per aver allineato le stelle.	いてくれてありがとう：;Brandon Boyer（@brandonnn）;Mathew Kumar（@mathewkumar）;Jason DeGroot（@jason6955）				
+				Tanto affetto per le favolose comunità di videogiocatori DIY di Toronto & i favolosi ragazzi di The Hand Eye Society, TOJam & Gamercamp.	トロント地域の情熱溢れる;ビデオゲームコミュニティ、;The Hand Eye Society と TOJam のみんな、;そして Gamercamp へ。みんな愛してる。				
+				Per le famiglie & gli amici: vi amiamo & non vediamo l'ora di rivedervi. Come sono andate le cose dall'ultima volta che abbiamo parlato?	愛する家族と友達へ：愛してるよ！;また会える日を楽しみにしてる。;最後に会ってから、;何か変わったことあった？				
+				Per tutti coloro che hanno supportato & incoraggiato questo progetto: grazie, grazie davvero per la vostra pazienza, curiosità & fiducia.	このプロジェクトを支え、;励ましてくれた人たちへ：;このタイトルに興味を持ち、根気強く信じて;待ってくれて、本当にありがとう！				
+				* * * METODI DI PRODUZIONE * * *	* * * 開発プロセス * * *				
+				Gli artwork in pixel sono stati creati interamente con Promotion di Cosmigo, mentre altri elementi visivi con Illustrator & Photoshop di Adobe.	ピクセルアートワークはすべて Cosmigo社の;Pro Motion で制作、その他のビジュアル要素は;Adobe Illustrator & Photoshop で;制作しました。				
+				I suoni & le canzoni sono stati creati usando MTV Music Generator della  Codemasters per PSOne e/o Garageband & Logic Studio della Apple.	サウンド & 楽曲は Codemasters社の;MTV Music Generator（PS1）と ;Apple社の Garageband & Logic Studio で;制作しました。				
+			Logos/FMOD	I suoni & le canzoni sono stati integrati nel progetto usando FMOD della Firelight Technologies.	サウンド & 楽曲のプロジェクト実装には; Firelight Technologies社の FMOD を;利用しました。				
+			Logos/DolbyDigital	Dolby ed il simbolo della doppia D sono marchi registrati di Dolby Laboratories.	Dolby and the double-D symbol are;~trademarks of Dolby Laboratories.				
+			Logos/DolbyDigital	Soluzioni audio PC contenenti Dolby® Digital Live richieste per Dolby Digital audio.	PC audio solution containing;~Dolby(R) Digital Live required for;~Dolby Digital audio.				
+			Logos/DigitalSurround	DTS® e DTS Digital Surround® sono marchi registrati di DTS, Inc.	DTS(R) and DTS Digital Surround(R) are;~registered trademarks of DTS, Inc.				
+				Il codice è stato programmato in C++ & gli script Lua con tolua++. Le mappe & gli elementi del mondo sono stati creati con software proprietario di Capy.	プログラミング言語は; C++ と Lua スクリプト（tolua++）。;マップ & ステージ内の各エレメントは; Capy社の独自ツールで制作しました。				
+				Il calcolo delle fasi lunari & gli algoritmi astronomici sono una cortesia di voidware.com/moon_phase.htm	月齢計算アルゴリズムはご厚意により;voidware.com/moon_phase.htm  ;を利用させてもらいました。				
+				Le API usate nello sviluppo di S:S&S EP includono twitcurl, tinyxml, libpng/zlib, SDL, cmake, e minizip	スキムスでは; twitter-xauth、tinyxml、libpng/zlib ;の API を使用しました。				
+				Una build del gioco assurdamente prematura fu presentata all'Independent Games Festival il primo novembre del 2009.	２００９年９月１日の; Independent Games Festival  ;に超超初期段階ビルドを提出する。				
+				S:S&S EP fu annunciato il primo dicembre del 2009.	２００９年１２月１日、スキムス公式発表。				
+				All'inizio del 2010 fu annunciato che il progetto aveva vinto il premio "Achievment in Art" di IGF Mobile, ed è stato super splendido.	２０１０年初め、プロジェクトが IGF Mobile  の; 「アートにおける達成」賞を受賞。;ガチで光栄の至り。				
+				La prima dimostrazione pubblica live di S:S&S EP  si è tenuta a Toronto, in un social event della Hand Eye Society il 14 febbraio del 2010.	２０１０年２月１４日、トロントで開催された; Hand Eye Society のソーシャルイベントにて、;初となるビルドの公開ライブデモを実施。				
+				La prima build giocabile di S:S&S EP fu presentata a San Francisco ai partecipanti & agli amici del GDC 2010 dal 9 al 13 marzo 2010.	２０１０年３月９～１３日まで;サンフランシスコで開催された; GDC 2010 で初のプレイアブル出展。				
+				Il primo filmato non montato di gameplay della build del GDC apparve online simultaneamente su vari siti & fece un po' colpo.	GDC に出展したビルドの;無編集ゲームプレイ動画を;オンラインで同時公開。;チョットだけ話題になる。				
+				Meno Parole, più Rock: Il Linguaggio Nativo dei Videogame  fu pubblicato online presso Boing Boing nel marzo del 2010 & lo potete cercare su google.	２０１０年３月、「Less Talk, More Rock:;The Native Language of Videogames;（言葉少なくロック多めで：ゲームの母国語）」;が Boing Boing にて公開される。ググってみて！				
+				Il sipario calò sul progetto per alcuni mesi mentre mentre noi, sapete, stavamo di fatto facendo il gioco. Click click click click.	その後プロジェクトは数ヶ月ほど;「潜り」ます。;この期間に、僕らはゲームをカチカチ;作っていったわけです。				
+				'L'Intossicazione della Mitologia' fu presentato il 22 settembre del 2010 da un rappresentante di Superbrothers al Fantastic Arcade di Austin.	２０１０年９月２２日、オースティンの; Fantastic Arcade にて Craig D. Adams が講演;「The Intoxication of Mythology （神話中毒）」;を語った。				
+				'Puntare all'Alchimia Audiovisiva' fu presentato da Jim Guthrie, Kris Piotrowski & da un rappresentante di Superbrothers al Gamercamp di Toronto.	トロントの Gamercamp にて;Jim Guthrie、Kris Piotrowski、;Craig D. Adams がオーディオと;ビジュアルの融合に関する基調講演を担当。				
+				Effettivamente ci volle un po' di più per finire il tutto.	でも完成まではまだまだ。				
+				Un nuovo filmato intitolato 'Procedura di Calibrazione del Pubblico' fu postato giovedì 24 febbraio 2011 per smuovere le acque in vista del lancio.	２０１１年２月２４日、発売前に;新動画「Audience Calibration Procedure;（視聴者調整プロセス）」を公開。				
+				S:S&S EP divenne infine disponibile per iPad intono all'equinozio invernale del 2011, poco prima della fine del mondo.	２０１１年の春分の日直前、;iPad 版スキムスがついに発売。				
+				Mettemmo in piedi il MIDSUMMER ROCKSHOWCASE a Toronto presso il TIFF Lightbox, con materiale su S&S di Jim Guthrie - è stato stupendo!	トロントにある TIFF Lightbox で;~開催された MIDSUMMER ROCKSHOWCASE では;~スキタイのムスメの楽曲を Jim Guthrie が;~ライブ披露。最高だったよ!				
+				S:S&S EP fu infine lanciato per iPhone & iPod Touch, ed il giubilo fu grandissimo.	ついに iPhone & iPod Touch 版スキムスも;発売に。再びお祭り騒ぎ起こる。				
+				Nei mesi che seguirono il lancio alcuni di noi si sposarono & alcuni ruppero & tutti quanti andammo avanti con le nostre vite.	発売後数ヶ月、何人かは結婚し、;~また他の者は別れたり…;~とにかく色々動きがありました				
+				A Jim Guthrie fu chiesto di creare la colonna sonora del film documentario Indie Game: The Movie aka @indiegamemovie.	Jim Guthrie はドキュメンタリー映画;~「Indie Game: The Movie」(@indiegamemovie);~のサウンドトラック制作依頼を受けました。				
+				Capy è già alle prese con la creazione del prossimo lotto di videogame, che include l'allucinante SUPER T.I.M.E. FORCE.	Capy ではすでに精神作用ばっちりの;~「SUPER T.I.M.E. FORCE」など;~新しいビデオゲームの制作にどっぷり。				
+				Lo staff di Superbrothers Inc si sta prendendo un po' di tempo per sognare nuovi sogni, fai un salto sul TELETEX per tenerti in contatto.	Superbrothers Inc の面々は、腰を据えて;~「新たな夢を探す夢」を見ている真っ最中。;~たまには TELETEX で連絡ちょうだいね。				
+				S:S&S EP è stato scelto tra i  "10 Migliori Videogame del 2011" di Time Magazine assieme ad opere AAA come Dark Souls & Skyrim - wow!	スキムスは Time マガジンの;~「2011 年のゲームトップ10」ランキングにおいて、;~ダークソウルや Skyrim といった;~AAA ゲームと並んでランクイン…え、マジで?				
+				La colonna sonora di Jim Guthrie è stata premiata come "Miglior Musica di un Videogioco del 2011" da  Kirk Hamilton aka @kirkhamilton di Kotaku.	Jim Guthrie の楽曲も、;~Kotaku の Kirk Hamilton 氏が;~「2011 年ベストゲーム音楽」として挙げられました。				
+				Secondo Co.Design & Syzygy, la tempesta di twitt su S:S&S EP #sworcery è stata "uno dei più grandi eventi di internet del 2011".	Co.Design & Syzygy によれば、スキムス;~(本作英語版) 発売直後の #sworcery ハッシュタグ;~つきツイートの嵐は「2011 年の最大級;~インターネットイベント」と評されているとか。				
+				S:S&S EP ha vinto il Game Developer's Choice Award al GDC 2012, battendo opere AAA... il che è stato dannatamente stupendo.	スキムスはさらに、GDC 2012 で並み居る;~AAA タイトルをさしおいて Game Developer's;~Choice Award を受賞。信じらんない。最高。				
+				Jim Guthrie ha pubblicato un nuovo disco intitolato "The Children of the Clone" contente alcuni capolavori perduti in chiave di S:S&S EP.	Jim Guthrie が新レコード;~「The Children of the Clone」をリリース。;~スキムスの雰囲気漂う名曲揃い。				
+				Dopo di questo la storia diventa un po' confusa, quindi sintonizzatevi su swordandsworcery.com per saperne di più.	これ以降の動きは色々はっきりしていない;ので、最新情報は swordandsworcery.com を;チェックしてね！（英語のみ）				
+				È stata una cavalcata dannatamente positiva, speriamo che possiate continuare a godervela.	ここまでは、最高に刺激的でポジティブな;~ジェットコースターみたいだった。;~僕らのゲーム、;~これからも好いてもらえるといいな。				
+				Assicuratevi di fare un salto sul TELETEX BULLETIN su superbrothers.ca per avere le ultime notizie dallo staff di Superbrothers inc.	そうそう、Superbrothers inc の;~今後をチェックするなら superbrothers.caにある;~「THE TELETEX BULLETIN」もお見逃しなく。				
+				* * * TWITTA QUESTI? * * *	* * * ツイート、しちゃう？ * * *				
+				S:S&S EP è inteso come un esperimento coraggioso nel Cinema Input Output, qualunque cosa significhi.	スキムスは、;インプット・アウトプット・シネマ;という斬新な実験的試みです、;それが何かよく分からないけど。				
+				S:S&S EP è un nuovo approccio ai videogiochi d'avventura della vecchia scuola, con un'enfasi sullo stile audiovisivo.	スキムスは;かつての名作アドベンチャーゲームに;特徴的なオーディオビジュアル要素を加えた;新しいアプローチを取っています。				
+				S:S&S EP è ispirato ai lavori dei creatori di videogame pioneristici come Shigeru Miyamoto, Jordan Mechner, Eric Chahi & Fumito Ueda.	スキムスの制作にあたり、ビデオゲーム界の;先駆者である宮本茂氏、Jordan Mechner氏、;Eric Chahi氏、上田文人氏からは;特に多大なインスピレーションを受けました。				
+				S:S&S EP è un febbrile sogno famicom.	スキムスは、;私たちの思いのたけをぶつけた;ファミコン・ドリームです。		38	082.jpg	28B24
+				S:S&S EP è stato costruito tenendo a mente la psicocosmologia mitopoietica delle storie di spada e stregoneria di Robert E. Howard.	スキムスは、Robert E. Howard氏著;「Sword & Sorcery(剣と魔法の物語)」の;物語に秘められた伝承詩的精神宇宙性も;意識して製作されています。				
+				S:S&S EP è un collegamento al passato.	スキムスとは、過去へのリンクです。		167	083.jpg	18E3V
+				S:S&S EP è un'opera prima & sì, è un po' sperimentale.	スキムスは;初作品で、確かに実験的な色合いが強いです。				
+				L'ideale estetico di S:S&S EP è "l'archetipica avventura videogame".	スキムスでは;美術コンセプトを「アーキタイプ-元型-的;ビデオゲームアドベンチャー」;としています。				
+				S:S&S EP fa continuamente riferimenti indiretti a Carl G. Jung & al suo affascinante "Libro Rosso".	スキムスの世界を見渡すと、;Carl G. Jungと彼の残した;名著「赤の書」を参照した内容が;そこら中で見つかります。				
+				S:S&S EP è una cosina elegante che non comprendo del tutto, ma che credo tutti dovrebbero giocare sui loro macchinari toccatronici o PC.	スキムスは、よく理解できないけど、;~とにかく小粋でこぢんまりとした作品。;~指でいじくり倒して操作する例の板っぽい機械とか;~PC を持っている人は全員プレイすべき。				
+				S: S&S EP è un grezzo haiku videoludico sulla vita, sull'amore & sulla morte.	スキムスとは、荒削りながらも;ビデオゲームの形をした俳句。;語られるのは人生、命、そして死。				
+				S:S&S EP è un piatto prelibato di miti & sogni.	スキムス ＝ 神話と夢のイイトコどり。				
+				S:S&S EP è stato creato in vista di un pubblico vasto & colto.	スキムスは、基本的にどんな人でも;楽しめるようになっていると思う。				
+				S:S&S EP all'inizio si sarebbe dovuto chiamare 'Poopsock'. A dir la verità questo è vero.	スキムスは当初「Poopsock;（日本でいうペットボトラー）」;という名前になる予定だった。ホントに。				
+				* * * è FINITA * * *	* * * おしまい * * *				
+				E ora che succede con tutto questo? E quella folle trasmissione di che parlava? Cosa ci serberà il futuro?	さてこの後には何が待ち受けるのか…？;通信がなんちゃらって何だったんだろう…？;未来はどうなってしまうのか！？				
+				Se volete ordinare stampe, abbigliamento, dischi & videogiochi o quant'altro allora cercateci su internet!	さて、僕らは色々と積極的に活動してます。;気になった方は;インターネットで検索よろしく！				
+				Se ti sta piacendo lo stile di divertimento audiovisivo offerto da S:S&S EP allora per favore passa parola!	あ、それとスキムスの;オーディオビジュアルスタイルを;気に入ってくれたアナタ、;お友達に紹介よろしく！				
+				Ora saremo amici cosmici per sempre, ok?	さて、これで僕らは;永遠にコズミックフレンドだ、いいね？		87	084.jpg	L8A48

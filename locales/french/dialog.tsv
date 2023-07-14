@@ -1,0 +1,683 @@
+id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
+GIRL_TONGUES	Girl			"Loin des steppes ravagées par la guerre de Scythie, nous rencontrâmes une jeune fille aux cheveux sombres dans une prairie baignée de soleil. #helloworld"			72	001.jpg	Z0E1Q
+				Elle était connue des montagnards du Caucase sous le nom de 'La Fille' & semblait gentille. #obviously					
+SIGN_TADPOL	The Scythian			"""La maison est là où se trouve le foyer."" #threegutrecords4ever"					
+SIGN_WALL	The Scythian			"""La Scythie, la Cimmérie, l'Assyrie & la Perse - ce sont tous des royaumes des hommes. Mingi Taw est le royaume des nuages."""					
+SIGN_CHASM	The Scythian			"Au bord du dangereux précipice, sous les couleurs d'un arc-en-ciel, se tenait une pierre gravée d'un glyphe représentant une épée pointée vers le ciel."					
+				"Nous, les Scythes, détestons les arcs-en-ciel. #loathsomerainbows"			21	002.jpg	40C27
+SIGN_BIRDTREE	The Scythian			Au bord d'un chemin qui quittait la vieille route se trouvait une pierre gravée d'une suite de glyphes indéchiffrables.					
+				"Parmi les glyphes indéchiffrables, nous aperçûmes une série de pictogrammes lunaires."					
+SIGN_BIRDTREEDECIPHERED	The Scythian			Au bord d'un chemin qui quittait la vieille route se trouvait une pierre gravée d'une suite de pictogrammes lunaires précédemment indéchiffrables.					
+				"Les pictogrammes faisaient référence à un lieu secret proche, ""... où les humeurs de la lune pouvaient être changées."""					
+				La grotte de la lune... ? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
+SIGN_WOLF	The Scythian			Au bord de la vieille route se trouvait une pierre gravée de glyphes qui avaient la forme d'une épée & d'un bouclier. #hinthint			16	004.jpg	T0C4X
+SIGN_ANTECHAMBERLEFT	The Scythian			"Dans un couloir souterrain, nous aperçûmes une statue menaçante, mais cela ne nous inquiéta pas trop. #lore"			29	005.jpg	V0B53
+INFO_CROSSMOUNTAINLEFT	The Scythian			"Sur le flanc accidenté de la montagne de Mingi Taw, une tombe solitaire marquait la fin d'un chemin de gravier."					
+INFO_CROSSMOUNTAINRIGHT	The Scythian			"Sur le flanc accidenté de la montagne de Mingi Taw, une tombe solitaire marquait la fin d'un chemin de gravier."					
+INFO_RIDGESKULLPOLE	The Scythian			Sur la crête acérée conduisant au sommet de Mingi Taw se tenait un sinistre mât orné d'un crâne aux bois de cerf.					
+INFO_CROSSRIDGE	The Scythian			"Sur la crête acérée conduisant au sommet de Mingi Taw se tenait une tombe solitaire, rappel sinistre du nombre de personnes qui étaient mortes ici."					
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Nous trouvâmes le mégagrimoire agrippé par deux mains squelettiques & nous sentîmes notre épée remuer dans son fourreau. #megatome			33	006.jpg	30D6C
+DOOR_SIDEBMEADOW	The Scythian			"Une petite porte sans poignée, faite dans un matériau inconnu. Il est écrit 'Personnel autorisé uniquement'."					
+DOOR_UPSLOPEWOODS1	The Scythian			La vieille route conduisant à Mingi Taw était bloquée par une porte fermée à clé.					
+DOOR_UPSLOPEWOODS3	The Scythian			"Une porte fermée à clé était dissimulée dans les broussailles, sous la vieille route qui conduit à Mingi Taw. #moongrotto"					
+LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
+LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		Le bûcheron coupeur de bois coupait du bois. #obviously #woodchopping			71	007.jpg	7E+71
+				Il était connu des montagnards du Caucase sous le nom de 'Logfella' & semblait gentil.					
+				Logfella connaissait bien notre triste errance & il accepta de nous mener jusqu'à la vieille route.					
+				"Néanmoins, nous eûmes vraiment l'impression que ça ne le rendait pas très enthousiaste."					
+LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		Le bûcheron nous attendait pour avancer sur le chemin conduisant à la vieille route.			12	008.jpg	U0D88
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Nous avions trouvé comment traverser le gouffre & nous nous sentions super intelligents.			22	009.jpg	L0B9S
+			adventureUI/megatomeItem	Nous dîmes à Logfella que nous recherchions un épais livre de sinistre sworcellerie connu sous le nom de Mégagrimoire.					
+			adventureUI/megatomeItem	"Le Mégagrimoire était enterré quelque part dans les ténèbres hantées, au-delà du dangereux précipice, sous Mingi Taw."					
+			adventureUI/megatomeItem	Nous étions résolus à trouver le Mégagrimoire & à revenir en vie.					
+LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	Le bûcheron confirma à 100 % qu'il possédait l'unique clé ouvrant la porte du mur de pierre.					
+			AdventureUI/keyItem	C'était vraiment une très belle clé.					
+				Nous étions fin prêts à cliquer & maintenir sur le chemin proche pour avancer avancer avancer.					
+LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Le bûcheron connu sous le nom de Logfella était simplement en train d'attendre ici notre retour avec le Mégagrimoire.					
+LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Le bûcheron connu sous le nom de Logfella avait choisi de se reposer sous un abri de pierre près du dangereux précipice.					
+				Logfella semblait tout savoir à propos de l'horrible arc-en-ciel & des glyphes proches représentant l'épée pointée vers le ciel.					
+				"Et pourtant Logfella n'était d'aucune aide pour découvrir ce qu'il fallait faire ensuite, ce qui - pour être parfaitement honnête - nous mit de mauvais poil."					
+LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		Le bûcheron avait vu une espèce de monstre effrayant & il pensait qu'il valait mieux nous laisser nous en occuper.			26	010.jpg	Q1B00
+LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Nous avions récupéré le Mégagrimoire & Logfella était 100 % prêt à partir - partir retrouver la sécurité de son foyer.					
+				Nous sentîmes l'arrivée d'un orage & une petite chanson naquit dans nos cœurs.					
+LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		"À la lumière des éclairs de la tempête qui approchait, Logfella admit que ça commençait sérieusement à lui filer la frousse."					
+				Logfella était-il en train d'essayer de nous faire péter un plomb ? #yes #no #maybe					
+				"Dans tous les cas, il était probablement sans danger de simplement se mettre à l'abri un moment."					
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Nous avons le Mégagrimoire & nous sommes les plus forts. #gotmegatome			40	011.jpg	81C1E
+GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
+ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
+ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
+	The Archetype			"MESDAMES & MESSIEURS, pourquoi ne pas cliquer sur ces deux petits esprits de la forêt afin que je puisse en savoir un peu plus sur votre installation stéréo ?"					
+	The Archetype			Nos recherches ont montré que les réseaux sociaux joueront un rôle positif important dans votre partie de S:S&S EP.					
+				"Remarque : la possibilité de diffuser vos découvertes est entièrement optionnelle dans S:S&S EP, et est prévue pour être utilisée avec modération."					
+				Nous vous sommes extrêmement reconnaissants d'avoir bien voulu participer à ce traitement expérimental contre la dépression aiguë.					
+				Vous allez trouver cette première session sur S:S&S EP assez simple. Il vous faudra normalement entre 15 et 30 minutes pour la terminer.					
+				Prêts à commencer ? Cliquez sur le bouton & c'est parti.					
+ARCHETYPE_FOUNDATION	The Archetype			Parlons un peu de l'état & du cadre requis pour obtenir une expérience positive avec le très psychoactif Superbrothers: Sword & Sworcery EP.					
+				"L'""état"" fait référence à l'état mental & à la structure de la personnalité que vous apportez à l'expérience - vos pensées, humeurs et/ou attentes."					
+				Nous avons découvert qu'un individu détendu et curieux a plus de chance d'avoir une expérience plaisante avec S:S&S EP.					
+				"Le ""cadre"" inclut le confort, la sécurité et la température de la pièce ou de l'environnement extérieur où l'expérience a lieu."					
+				"Le ""cadre"" inclut également l'aspect social. Nous avons découvert que les réseaux sociaux jouent un rôle positif significatif."					
+				"Le troisième aspect du ""cadre"" est le culturel - les notions de réalité & de normalité dominantes. Nous éviterons cette discussion pour le moment."					
+				"S:S&S EP en lui-même ne produit pas l'expérience transcendantale, il est simplement prévu pour libérer le système nerveux des schémas habituels."					
+				"La conscience développée, le potentiel inexploité & sans limite de l'esprit, c'est ce que, chez Superbrothers, nous nommons la ""sworcellerie""."					
+				La chanson de sworcellerie peut être appréhendée comme une technique psionique & elle vous permet de percevoir une autre réalité contenue à l'intérieur de celle que vous connaissez déjà.					
+				"Pour arrêter la chanson de sworcellerie à n'importe quel moment, double-cliquez simplement sur l'aura de sworcellerie qui entoure la Scythe."					
+				"Une fois que vous avez commencé à chanter une chanson de sworcellerie, cliquez & maintenez le curseur sur l'aura de sworcellerie & glissez-le pour regarder autour de vous."					
+				"Pour chanter une chanson de sworcellerie à n'importe quel moment, cliquez & maintenez le curseur sur la Scythe pendant quelques instants & l'aura de sworcellerie apparaîtra."					
+				"Comme vous pouvez le voir, le Mégagrimoire rassemble & collecte les transmissions de pensée linguistique. Défilez vers le bas pour voir ce que j'ai pensé avant."					
+ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Très bien joué - vous avez appris la chanson de Sworcellerie & maintenant l'insondable pouvoir du mégagrimoire est vôtre."""			47	012.jpg	31E2F
+			adventureUI/megatomeItem	"""Le mégagrimoire intercepte les transmissions de pensée linguistique & il contient tout ce dont vous avez besoin pour terminer votre triste errance."""					
+			adventureUI/megatomeItem	Je pense à une chose maintenant... pourquoi ne pas ouvrir le mégagrimoire & regarder ce que j'ai à l'esprit ?					
+				"""Cherchez un triangle blanc dans le coin supérieur droit... cliquez dessus & utilisez le mégagrimoire pour voir ce qui est dissimulé."""					
+LOGFELLA_STORM	The Scythian			Le bûcheron connu sous le nom de Logfella avait abandonné sa coupe du bois à cause de l'effrayante tempête. #wetboots					
+			adventureUI/megatomeItem	Logfella nous rappela que la tempête était apparue juste après que nous ayons rapporté le mégagrimoire des profondeurs de Mingi Taw.					
+				Était-ce une manière pas si subtile que ça pour Logfella de dire que nous devions essayer de faire quelque chose pour calmer la tempête ? #yes #no #maybe					
+GIRL_STORM	The Scythian			La jeune fille aux cheveux sombres connue sous le nom de la Fille avait pressenti l'arrivée des malheurs. #woe					
+			gourd/gourd	"Même après l'arrivée de la tempête, la Fille avait vu les bulles sonores des esprits de la forêt qui se cachaient dans les bois tout proches."					
+			gourd/gourd	Elle demanda si les trois esprits de la forêt ne pourraient pas aider à calmer la tempête ? #yes					
+			gourd/gourd	Elle nous demanda de rechercher les bulles sonores qui bouillonnaient dans le profond étang à l'extérieur de la hutte.					
+			gourd/gourd	La Fille parla d'un esprit situé dans une prairie proche & d'un autre esprit dans un nichoir qui servait d'abri pour trois oiseaux chanteurs trempés par la pluie.					
+			gourd/gourd	La Fille nous dit de chercher les bulles sonores de ces trois esprits de la forêt & de les envoyer vers le ciel avec la chanson de Sworcellerie.					
+ARCHETYPE_SWORCERY	The Archetype			"""C'est le moment d'apprendre la chanson de Sworcellerie - une technique de développement de la conscience qui révèle une dimension mystique musicale."""					
+			gourd/gourd	"""Restez calme & suivez mes instructions pour réveiller l'esprit de la forêt qui fait doucement des bulles dans les eaux froides de ce profond étang."""					
+ARCHETYPE_TADPOLES	The Archetype			"Il était 100 % évident que cet homme bizarrement vêtu attendait quelque chose de nous, mais nous ne savions pas quoi."					
+			gourd/gourd	"""Avez-vous vu les bulles sonores dans le profond étang ? Un esprit de la forêt dort tranquillement ici & vous devez le réveiller."""					
+			gourd/gourd	"""Vous pouvez chanter une chanson de Sworcellerie à n'importe quel moment en cliquant & en maintenant sur la faux. Vous percevrez une autre réalité, contenue à l'intérieur de celle que vous connaissez déjà."""					
+			gourd/gourd	"""Guidez les deux petites choses qui nagent vers l'esprit endormi & envoyez-le ensuite vers le ciel avec trois touches de Sworcellerie."""			49	013.jpg	61D3A
+GIRL_LOSTKEY	The Scythian			La Fille s'abritait de la pluie en restant sous le large toit en bois du puits.					
+				Elle avait quitté la douceur du foyer de la hutte car Logfella était apparemment énervé à propos de quelque chose.					
+INFO_BIRDEYESCULPTURE	The Scythian			Nous aperçûmes une sculpture représentant un oiseau en colère qui se dressait au-dessus de la prairie. #subtlereference			6	014.jpg	F1D48
+INFO_MEADOWSHEEP	The Scythian			Nous aperçûmes quelques moutons sans intérêt qui traînaient dans la prairie. #worthlesssheep					
+INFO_CABINSHEEP	The Scythian			Un autre mouton sans intérêt - pourquoi continuons-nous à le regarder ? #worthlesssheep					
+INFO_MEADOWSUN	The Scythian			Nous nous souvenons très clairement du superbe soleil qui brillait en cette journée de début d'été.					
+INFO_MEADOWGATE	The Scythian			Il y avait dans la prairie une solide porte en fer bloquant l'accès à une grotte caverneuse.					
+INFO_MEADOWGATEACTIVE	The Scythian			Il y avait une porte en fer dans la prairie & nous avions le sentiment que nous pourrions peut-être la lever d'une façon ou d'une autre.					
+INFO_MEADOWGATETRIGONACTIVE	The Scythian			Nous aperçûmes un genre de trigone doré au-dessus de la porte en fer - peut-être qu'il réagira à notre chanson de Sworcellerie ?					
+INFO_MEADOWGATETRIGON	The Scythian			Nous aperçûmes quelque chose au-dessus de la porte en fer.					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			La porte fermée à clé dans le mur de pierre empêche de prendre la vieille route vers Mingi Taw & il semblerait que la clé soit perdue dans le monde des rêves.					
+INFO_LOOMINGBIRDSCULPTURES	The Scythian			Nous aperçûmes une sculpture représentant un oiseau en colère qui se dressait au-dessus de la prairie. #subtlereference					
+INFO_MEADOWSUNSTICK	The Scythian			Nous aperçûmes un bâton de forme étrange dominant la prairie.					
+INFO_CABINWELL	The Scythian			Nous aperçûmes un puits solidement bâti avec un large toit en bois.					
+INFO_UNWELLWELL	The Scythian			Le puits a l'air louche. #unwell #well					
+INFO_WELLNESS	The Scythian			Tout est bien qui finit bien. #unwell #well #wellness					
+INFO_WELLWHITESTAG	The Scythian			LONGUE VIE À LA NOUVELLE CHAIR					
+ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
+INFO_CABINCHIMNEY	The Scythian			Nous aperçûmes une solide hutte en pierre au toit de chaume qui se tenait près d'un profond étang.					
+INFO_CABINWOODPILE	The Scythian			"Nous aperçûmes un tas de bois de chauffage fendu, rien d'exceptionnel."					
+INFO_SPUME	The Scythian			Nous vîmes les petites bulles sonores d'un esprit de la forêt endormi. À présent... comment le réveiller ?					
+INFO_NESTBOX	The Scythian			"Nous aperçûmes un étrange nichoir avec l'inscription ""Tweetez & vous s'rez retweeté""."			13	015.jpg	B1C5F
+INFO_NESTBOXWEATHERED	The Scythian			"Nous aperçûmes un nichoir délabré qui, d'une certaine manière, faisait penser à un visage effrayant."					
+INFO_FLAGPOLELOGBRIDGE	The Scythian			Un sinistre mât orné d'un ensemble de crânes était fixé à un tronc sur la vieille route.					
+INFO_GOLDTRIGONALTAR	The Scythian			"Au-delà de la grotte caverneuse de la prairie, nous trouvâmes un bosquet isolé avec une collection d'étranges structures en pierre."					
+			Archetype/trifecta	... Était-ce le bosquet du trigone ? #trigongrove			93	016.jpg	B1D6J
+			triangle/Triangle	"Alors que nous nous tenions à côté de la structure en pierre, nous pensâmes au trigone doré & sentîmes notre épée remuer dans son fourreau."					
+INFO_DARKTRIGONALTAR	The Scythian			Il y avait une autre structure en pierre dans le bosquet du trigone. Elle était usée & érodée. #darkmoontrigon					
+				Nous nous demandâmes ce qui se passerait si nous frappions la structure en pierre avec notre épée.					
+INFO_BRIGHTTRIGONALTAR	The Scythian			"Il y avait une autre structure en pierre dans le bosquet du Trigone, avec un glyphe circulaire qui faisait référence à la Lune Claire. #BrightMoonTrigon"					
+				Nous nous demandâmes ce qui se passerait si nous frappions la structure en pierre avec notre épée.					
+INFO_STONEHEAD	The Scythian			"Au-dessus du dangereux précipice, taillée dans la pierre, il y avait une gigantesque sculpture d'une tête familière. Elle avait la bouche ouverte."			24	017.jpg	61B76
+INFO_STONEHEADSHUT	The Scythian			"Au-dessus du dangereux précipice, taillée dans la pierre, il y avait une gigantesque sculpture d'une tête familière."					
+INFO_STONEHEADFLAGPOLE	The Scythian			"Au-dessus d'une gigantesque sculpture taillée dans la pierre se tenait un sinistre mât orné d'un ensemble de crânes, ou quelque chose du genre."					
+INFO_CHASMSTONESHELTER	The Scythian			D'un côté du dangereux précipice se tenait une espèce de grand dolmen. Il protégeait deux sièges en pierre qui semblaient confortables.			25	018.jpg	O1C8M
+INFO_SKULLPOLE	The Scythian			Un sinistre mât orné d'un crâne aux bois de cerf était fixé à un pont branlant.					
+INFO_TRIFECTASYMBOL	The Scythian			"Au-dessus de l'entrée creusée dans la pierre qui conduisait au temple de la montagne, nous aperçûmes des pictogrammes représentant le trigone trifecta."					
+INFO_MOUNTAINGATE	The Scythian			"À l'intérieur du temple de la montagne, nous aperçûmes une lourde porte en fer & nous vîmes derrière le sommet nuageux de Mingi Taw."					
+INFO_MOUNTAINGATETRIGON	The Scythian			"À l'intérieur du temple de la montagne, au-dessus d'un grand couloir, nous aperçûmes trois étranges formes triangulaires."					
+INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			"À l'intérieur du temple de la montagne, au-dessus d'un grand couloir, nous aperçûmes l'icône du trigone trifecta."					
+INFO_CABINRECORD	The Scythian			"À l'intérieur de la hutte, nous aperçûmes quelque chose ressemblant à un petit cercle au-dessus du foyer. #theballadofthespacebabies"			46	019.jpg	P1D99
+INFO_CABINHEARTH	The Scythian			"À l'intérieur de la hutte, le foyer crépitait doucement en diffusant une chaleur réconfortante."					
+INFO_CABINSEAT	The Scythian			"À l'intérieur de la hutte se trouvaient deux gros sièges en bois, un de chaque côté du foyer."					
+INFO_GOGOLITHICMASS	The Scythian			Nous aperçûmes un crâne aux bois de cerf flottant dans les profondeurs de Mingi Taw.					
+INFO_MEGATOMBTRIFECTA	The Scythian			Nous aperçûmes un pictogramme représentant le trigone trifecta dans les profondeurs de Mingi Taw.					
+INFO_ROCKSHOWGIRL	The Scythian			Nous aperçûmes la fille aux cheveux sombres au concert de rock & nous nous rappelâmes qu'elle avait dit que le feu marchait avec moi.					
+INFO_ROCKSHOWSKOLOTOI	The Scythian			Nous aperçûmes au concert de rock un de ces squelettes qui dansait à un rythme effrayant.					
+INFO_ROCKSHOWJIM	The Scythian			La vedette du concert de rock n'était personne d'autre que le mystérieux musicien connu sous le nom de Jim Guthrie.			160	020.jpg	T2G03
+INFO_ROCKSHOWBOOR	The Scythian			"Nous aperçûmes le vieil ours mal léché au concert de rock, en train de remuer ses choses de nudiste."			121	021.jpg	E2G15
+INFO_ROCKSHOWCROWD	The Scythian			Il y avait beaucoup de monde au concert de rock.					
+INFO_ROCKSHOWARCHETYPE	The Scythian			"Au concert de rock, nous aperçûmes celui connu sous le nom de l'archétype & nous nous demandons encore ce qu'il avait à voir avec tout ça."					
+INFO_TRIGONGROVESKULLSTICK	The Scythian			Un sinistre mât orné d'un crâne aux bois de cerf reliait cet endroit au spectre immortel qui rôde dans les profondeurs de Mingi Taw.					
+GRAVE_TRIGONGROVE	The Scythian			Nous aperçûmes une intrigante tombe solitaire dans le bosquet du trigone au-delà de la grotte de la prairie.					
+GRAVE_TRIGONGROVEGHOST	The Scythian			"Dans le bosquet du trigone, au-delà de la grotte de la prairie, nous nous approchâmes d'une tombe solitaire & rencontrâmes un fantôme lumineux."					
+				"Pour être honnête, le fantôme lumineux du bosquet du trigone nous fit d'abord une peur bleue."			96	022.jpg	T2B2H
+			adventureUI/megatomeItem	Il reconnut nos vêtements de scythe & vit que nous possédions le mégagrimoire. Il demanda si nous comprenions ses écrits ésotériques.					
+				Il nous murmura le nom du spectre immortel que nous avions réveillé dans les profondeurs de Mingi Taw : la messe gogolitique.			166	023.jpg	O2B39
+				Nous connaissions le terrible nom grâce aux vieilles histoires & nous sentîmes notre sang se glacer.					
+				"""Jusqu'à maintenant, j'avais le sentiment que la messe gogolitique vous voyait un peu comme une touriste."""					
+			triangle/Triangle	"""Maintenant que vous avez appris la chanson de sworcellerie & maîtrisé le trigone doré, vous vous apercevrez que chacun de vos pas est hanté."""					
+				"Nous ne pouvions dire si le fantôme lumineux nous encourageait ou s'il voulait nous faire peur, ou quelque chose du genre."					
+				Nous dîmes au fantôme que nous allions utiliser le mégagrimoire sur Mingi Taw & délester la messe gogolitique de son immortalité.					
+			Archetype/trifecta	"Nous le questionnâmes sur le trigone trifecta & sur l'emplacement des deux trigones restants, mais son irritante réponse n'était pas très claire."					
+				"""Les deux trigones restants existent seulement dans les rêves des montagnards."""			43	024.jpg	8.2E+46
+				"""Trouver les deux trigones restants n'est pas tant une question de 'où' que de 'quand' & de 'comment'."""					
+				Le fantôme lumineux n'avait parlé que d'inepties inutiles.					
+GRAVE_LOGBRIDGE	The Scythian			Nous aperçûmes plusieurs tombes derrière un buisson sur le bord de la vieille route & nous nous demandâmes ce que ça signifiait.					
+GRAVE_LOGBRIDGEGHOST	The Scythian			Nous approchâmes d'une série de tombes derrière un buisson sur le bord de la vieille route & nous rencontrâmes des fantômes qui semblaient amicaux.			116	025.jpg	62B55
+				Le fantôme lumineux qui parla était un personnage célèbre des vieilles légendes dont la grande prestance imposait le respect. #andre					
+			Archetype/trifecta	"""L'année dernière, peu avant Noël, j'ai rassemblé un groupe & nous partîmes pour assembler le trigone trifecta."""					
+				"""Nous entendîmes parler du portail vers l'infini du sommet de Mingi Taw & nous pensâmes que ça devait être sympa à voir."""					
+			triangle/Triangle	"""Bref, nous dominâmes le trigone doré & nous enquêtâmes sur le bosquet du trigone avant de chercher le trigone de la lune claire."""					
+				"""La recherche du trigone de la lune claire ne se passa pas aussi bien... Pour être honnête, ce fut notre perte."""					
+				"""Nous comprîmes lentement la signification des cycles lunaires & leur influence sur les esprits qui sommeillent dans les royaumes des ombres."""					
+				"""C'est quand nous nous installâmes ici & commencâmes à surveiller les humeurs de la lune que nous apprîmes quand, où et comment être."""			7	026.jpg	Q2D6P
+				"""Nous mourûmes d'ennui en attendant que les humeurs de la lune changent."""					
+				"""Bon d'accord, en fait nous mourûmes à cause d'une dispute que nous eûmes à cause de l'ennui."""					
+				"""Je ne souhaite pas m'étendre là-dessus pour l'instant, si vous n'y voyez pas d'inconvénient."""					
+				"""D'accord, voici ce qui s'est passé. Un membre de notre groupe était un tricheur & nous l'avons pris la main dans le sac."""					
+				"""Un combat éclata & le tricheur s'enfuit par la vieille route en direction du dangereux précipice."""					
+				"""Et ensuite... nous nous demandions quoi faire lorsque tout d'un coup la messe gogolitique apparut... Gloups !"""			113	027.jpg	62B75
+GRAVE_CHASM	The Scythian			Nous aperçûmes la tombe solitaire au bord du dangereux précipice & nous nous demandâmes ce que ça signifiait.					
+GRAVE_CHASMGHOST	The Scythian			"Auprès du dangereux précipice, nous approchâmes de la tombe solitaire du tricheur & nous rencontrâmes un vieux fantôme lumineux."					
+			Archetype/trifecta	"""L'année dernière avant Noël, André le Grand rassembla un groupe & nous partîmes assembler le trigone trifecta."""					
+				"""Les autres membres du groupe sont enterrés derrière un buisson sur le bord de la vieille route, près du tronc servant de pont."""					
+			triangle/Triangle	"""Nous parvinmes facilement à trouver & maîtriser le trigone doré, mais nous fûmes bloqués après."""					
+				"""Nous cherchâmes le trigone de la lune claire, et nous décidâmes de rester là & de regarder le ciel, attendant que les humeurs de la lune changent."""					
+				"""C'était super ennuyant ! Je n'allais pas rester là des jours et des jours à attendre que la lune claire apparaisse."""					
+				"""Je laissai ces rigolos attendre inutilement tandis que j'examinai plus en détails cette histoire de lune."""					
+				Le vieux fantôme lumineux dit que nous avions triché en quittant S:S&S EP et en modifiant la date et l'heure de l'ordinateur.					
+				"Le fantôme expliqua à quel point c'était maladroit de notre part, mais il dit que cela permettait de modifier les phases de la lune !"					
+				"""Le truc, c'est que j'ai sérieusement la frousse quand on triche & que j'en meurs de honte."""					
+GRAVE_HOLLOW	The Scythian			Nous aperçûmes une tombe solitaire dans un gigantesque arbre creux & nous nous interrogâmes à son sujet.					
+GRAVE_HOLLOWGHOST	The Scythian			Nous nous approchâmes d'une tombe solitaire dans un gigantesque arbre creux & un impressionnant fantôme apparut. Il parla de choses folles.			117	028.jpg	E2A80
+				"""Surveillez les humeurs de la lune & vous apprendrez quand, où et comment vous devez être."""					
+				"""Je voulais aussi vous faire savoir que je n'ai pas délibérément essayé de vous faire peur en prenant cette apparence-là."""					
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Nous nous approchâmes d'une tombe solitaire dans un gigantesque arbre creux & un impressionnant fantôme apparut. Il parla de choses folles.			117	028.jpg	E2A80
+				"""Cherchez les esprits de la forêt sur les chemins situés derrière vous, yeux & oreilles grands ouverts pour trouver leurs bulles sonores."""					
+				"""Envoyez les cinq esprits de la forêt vers le ciel pour créer un miracle qui attirera le trigone que vous recherchez."""					
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Nous nous approchâmes d'une tombe solitaire dans un gigantesque arbre creux & un impressionnant fantôme apparut. Il nous parla.			117	028.jpg	E2A80
+				"""Cherchez un signal des esprits de la forêt & chantez une chanson de sworcellerie pour révéler un trigone caché."""					
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Nous nous approchâmes d'une tombe solitaire dans un gigantesque arbre creux & un impressionnant fantôme apparut. Il nous parla.			117	028.jpg	E2A80
+				"""Donc la chanson du trigone est terminée pour l'instant. Je me demande si je l'entendrai à nouveau ?"""					
+LOGFELLA_LOSTKEY	The Scythian			Le malheureux bûcheron connu sous le nom de Logfella était énervé et inquiet à propos de quelque chose.					
+			AdventureUI/keyItem	Apparemment Logfella avait perdu la clé de la porte dans le mur de pierre qui bloque la vieille route de Mingi Taw.					
+				"Nous râlions car nous n'avions plus d'objet à aller chercher, pas vrai ?"					
+				"Logfella nous dit qu'il était assis ici, à côté du feu, lorsqu'il tomba dans un profond sommeil."					
+			AdventureUI/keyItem	Logfella dit qu'il pensait avoir perdu sa clé dans l'obscurité du royaume des rêves.					
+				"Nous avions entendu parler des étranges rêves des montagnards aux cheveux sombres du Caucase, donc cela ne nous surprit pas."					
+				Logfella nous invita à réchauffer nos bottes auprès du feu & à rêver avec lui.			63	029.jpg	U2C92
+ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			"Nous concevons le fait d'être éveillé & la psycho-cosmologie mytho-poétique des rêves comme des états différents, cependant ils interagissent de curieuse façon."					
+				"Le seuil de la liminalité est un lieu à mi-chemin entre l'état éveillé & le monde des rêves, où contrôler sa pensée est impossible."			56	030.jpg	13A0A
+				Trouvez un endroit chaud qui vous permette de dormir pour découvrir le seuil de la liminalité.					
+ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	"Et si vous alliez vous asseoir à côté du foyer, dans la hutte, & franchissiez le seuil liminal pour trouver la clé perdue de Logfella ?"			55	031.jpg	23C1X
+GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		"Whaou, Logfella est énervé à propos de quelque chose... Je me demande ce qui se passe ? Je vais juste sortir & le laisser un petit peu seul."					
+				J'ai vu la Scythe chanter une Chanson de Sworcellerie & envoyer trois esprits de la forêt vers le ciel - je me demande s'ils aideront à apaiser la tempête ?					
+LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			J'espère vraiment que la Scythe arpenteuse-de-rêve pourra retrouver ma clé... Je l'ai perdu sur la rive sablonneuse d'un lac tranquille.			62	032.jpg	U3A20
+LOGFELLA_LOSTKEYTHOUGHTS	Logfella			"Oh malheur, si seulement il ne pleuvait pas dehors... Si seulement mes bottes n'étaient pas si trempées... Je voudrais pouvoir retourner couper du bois."					
+				Oh couilles - où est partie ma clé !? Je suis tellement inquiet & honteux que maintenant je panique totalement !					
+LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Le bûcheron était super soulagé de voir que nous avions réussi à retrouver sa clé perdue dans l'obscurité du royaume des rêves.					
+				Le bûcheron connu sous le nom de Logfella demanda comment nous étions devenus si gentils & il nous questionna sur notre triste errance.					
+				"Nous racontâmes au bûcheron comment, il y a longtemps, nous étions venus des steppes au côté de nos frères & sœurs scythes - aucun ne connaissait la peur."					
+				Nous expliquâmes à Logfella pourquoi nous voyageâmes jusqu'à ces montagnes sauvages & comment nous fûmes guidés par le doigt d'un dieu bien connu.					
+			adventureUI/megatomeItem	Nous expliquâmes à Logfella ce que nous suspicions à propos de la signification des écrits ésotériques du Mégagrimoire.					
+			gourd/gourd	Nous eûmes l'intuition que nous aurions besoin de réveiller quelques esprits de la forêt supplémentaires pour apaiser la tempête.			104	033.jpg	W3D3G
+			triangle/Triangle	"Dans un murmure, nous parlâmes de notre intention de trouver & d'apprivoiser une géométrie cosmique appelée le Trigone Doré."					
+				Il était 100 % clair que le bûcheron connu sous le nom de Logfella avait arrêté d'écouter depuis longtemps.					
+			AdventureUI/keyItem	Nous en conclûmes que nous pouvions juste prendre la clé & partir faire un tour sur la vieille route derrière le mur de pierre.					
+LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Nous demandâmes au bûcheron si nous pouvions prendre la clé & il dit qu'il n'y avait aucun problème.					
+GIRL_FOUNDKEY	The Scythian			"Nous rencontrâmes la fille aux cheveux sombres, trempée par la pluie. Elle se tenait au bord du chemin."					
+			gourd/gourd	"Elle avait entendu le léger bruit des bulles des esprits de la forêt au-delà du mur de pierre, sur la vieille route de Mingi Taw."					
+			gourd/gourd	Elle parla de troncs d'arbres immenses situés de chaque côté d'une puissante rivière.					
+			gourd/gourd	Elle parla d'un léger arc-en-ciel au bord du dangereux précipice.					
+			adventureUI/megatomeItem	... Puis elle devint apeurée & nous dit de consulter le Mégagrimoire si nous nous perdions ou ne savions plus quoi faire.					
+LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Je suis entièrement pour que la Scythe prenne la clé si cela signifie qu'elle va calmer la tempête.					
+				J'ai dû m'assoupir à un moment pendant l'histoire super épique de la Scythe. J'ai vraiment une très faible résistance aux longues explications.					
+				Je demandai à la Scythe sans-attache de me parler de sa triste errance... elle commença à parler des steppes & du doigt d'un Dieu.					
+GIRL_FOUNDKEYTHOUGHTS	Girl			Un ou deux esprits de la forêt supplémentaires envoyés vers le ciel calmeront la tempête sans fin... et ce sera ensuite le temps des miracles ! #miracles			129	034.jpg	33A44
+GIRL_SUPERMOTHERTREE	Girl			"Lorsque j'arpente mes rêves, tout est à la fois tranquille et excitant quand la lune est claire... et quand la lune est sombre, les bois sont sauvages."					
+				Je vois toujours les mêmes endroits & les mêmes choses dans mes rêves. Seules les humeurs de la lune changent ça.					
+				"Depuis que la tempête s'est calmée je fais chaque nuit un rêve identique, où je me promène dans les bois peu avant l'aube."					
+ARCHETYPE_TREEHINT	The Archetype			Rappelez-vous qu'ingérer des champignons de la forêt peut apporter quelques connaissances transversales sur les phénomènes cryptozoologiques & autres.					
+				Cherchez les bulles sonores des esprits de la forêt & fouillez dans les environs.					
+				"Lorsque vous avez commencé une chanson de sworcellerie, vous pouvez faire glisser la souris - avec douceur - sur le bord de l'écran pour regarder aux alentours (ou utiliser les flèches du clavier)."					
+ARCHETYPE_MUSHROOMHINT	The Archetype			Il a été prouvé que les champignons divinatoires peuvent jouer un rôle significatif dans le développement de la psyché humaine.					
+				"L'archéologie nous apprend que les shamans utilisent depuis très longtemps les champignons pour leurs communions avec le divin, la divination et la médecine."					
+				"Au niveau physiologique, vous pourrez remarquer une sensation de bien-être & des perceptions renforcées, une diminution du stress & une perte d'appétit."					
+				Les champignons de la forêt peuvent vous donner quelques indications transversales concernant la localisation des esprits de la forêt & sur ce qu'il faut faire avec eux.			60	035.jpg	53A5Y
+ARCHETYPE_TRIGONGROVE	The Archetype			Pouvez-vous le sentir ? Commencez-vous à comprendre ? Est-ce que les écrits & les marques ésotériques du Mégagrimoire prennent un nouveau sens ?					
+				"Ce rayon traverse le monde des vivants & le monde des morts, vous pourriez croiser un ou deux fantôme pour faire la conversation durant vos voyages."					
+				Je viens juste d'être informé que vous aviez activé le premier rayon dans le Bosquet du Trigone.					
+GIRL_CABINSHEEP	The Scythian			Nous questionnâmes la fille à propos des moutons qui traînaient autour de la hutte & elle dit qu'ils avaient été effrayés quelque temps auparavant.					
+			gourd/gourd	Nous dîmes à la fille que nous avions envoyé cinq esprits de la forêt vers le ciel & elle nous dit que c'était peut-être un temps de miracle qui commençait.					
+				Nous pensâmes que nous devrions peut-être enquêter dans la prairie où les moutons avaient l'habitude d'aller.					
+LOGFELLA_CABINSHEEP	The Scythian			Logfella avait le sentiment que le temps des miracles avait commencé & il demanda si quelque chose d'extraordinaire allait se produire.			79	036.jpg	V3G62
+GIRL_CABINSHEEPTHOUGHTS	Girl			Qu'est-ce qui... la pluie s'est arrêtée ! La tempête commencerait enfin à se calmer ? Je l'espère vraiment.					
+				Toute cette histoire de tempête était vraiment en train de me déprimer. C'était tellement sinistre.					
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... J'en ai les poils qui se hérissent... quelque chose est en train d'arriver... est-ce que la tempête commence à se calmer ?					
+				"Vous savez, chaque fois que j'ai besoin de rassembler mes forces, je m'assieds juste ici, à côté du foyer pour réchauffer mes bottes."					
+DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Wouaf Wouaf Wouaf Wouaf Wouaf Wouaf Wouaf Wouaf. #stillbarking #miracles			84	037.jpg	V3C7I
+ARCHETYPE_MEADOWHINT	The Archetype			"Une fois que le soleil sera aligné, vous pourrez acquérir les capacités miraculeuses de Jaffee, le grand sorcier de l'IA."					
+				Sentez-vous cette vibration bizarre ? C'est un temps de miracle ! Chantez une Chanson de Sworcellerie & levez les yeux vers les oiseaux en colère.			76	038.jpg	A3G84
+ARCHETYPE_MEADOWHINTTWO	The Archetype			Cherchez dans les cieux une quelconque explication bancale sur le fonctionnement de ce miracle de la prairie & regardez ensuite le Trigone Doré.					
+ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... la façon dont vous avez géré la rencontre avec le cannibale à tête d'ours est intéressante.			120	039.jpg	O3G9D
+				"Non non, tout va bien, c'est juste intéressant. Je n'avais jamais vu quelqu'un faire ce que vous avez fait. C'est exceptionnel, mais n'en soyez pas effrayée."					
+				"Bien, en route. Il y a plein d'autres choses à apprécier dans l'expérience S:S&S EP, en particulier sur la face B."					
+ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			"Pour dompter le Trigone Doré vous devez apprendre à survivre aux trois mouvements de son étrange chanson, en combinant l'attaque & la défense."					
+				Il est absolument essentiel que vous cliquiez & mainteniez le bouton du bouclier dès que vous le pouvez afin de recouvrer les forces que vous avez perdues.					
+				"Donc je vois que vous avez invoqué le Trigone Doré & avez essayé de le maîtriser ? J'ai quelques petites choses à vous dire que vous trouverez utiles, je pense."					
+ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Renvoyez les projectiles psionique du Trigone avec votre épée & tenez-vous prêt pour esquiver ses lasers.			83	040.jpg	3.4E+02
+				La logique inconcevable & imprévisible du Trigone Doré a collecté les âmes de ceux qui l'ont affronté auparavant... ils manquaient de ténacité & de courage.					
+ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			"Le Trigone Doré doit être vaincu, il n'y pas d'autre option."					
+				"Dans la troisième phase, vous devez renvoyer les projectiles en forme de petits triangles avec votre épée & esquiver les attaques laser. "					
+				"Dans la seconde phase, vous devez attendre les attaques lasers & cliquer sur le bouton du bouclier au bon moment pour esquiver."					
+				"Dans la première phase, vous devez utiliser votre épée pour renvoyer les boules d'énergie."					
+ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Vous avez sans doute remarqué que le Trigone de la Lune Claire faisait pleuvoir la mort... attendez le bon moment & et cliquez sur le bouclier pour esquiver.			144	041.jpg	8.4E+12
+ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			La phase finale du Trigone de la Lune Claire vous demandera de frapper les projectiles avec votre épée & d'esquiver les attaques laser.					
+ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Vous avez peut-être fait la connaissance de l'attaque en arc-en-ciel du Trigone de la Lune Sombre - frappez cet arc-en-ciel aussi vite & fort que vous pouvez.					
+ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			Le Trigone de la Lune Sombre utilise de petits projectiles triangulaires dans sa phase finale - frappez-les & vous survivrez.					
+ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Donc vous avez réveillé le spectre immortel qui dormait dans les profondeurs de Mingi Taw - houlà !					
+				"À cause de ça, un effrayant orage apparaît & les personnes adorables qui vivent dans la hutte en pierre sont un peu désespérées."					
+			adventureUI/megatomeItem	Le côté positif est que vous avez trouvé l'épais volume connu sous le nom de Mégagrimoire - nous discuterons de sa surprenante utilité dans notre prochaine session.					
+				Nos recherches montrent qu'une exposition prolongée à la psycho-cosmologie mytho-poétique de S:S&S EP peut avoir divers effets secondaires.					
+				"Donc, maintenant que vous avez terminé la première session, que pensez-vous de faire une petite pause ? Je serai juste ici dès que vous serez prêt pour la deuxième session."					
+ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
+				C'est super de vous revoir. Êtes-vous prêt à commencer la deuxième session de S:S&S EP ?					
+			adventureUI/megatomeItem	"Très bien, donc où en étions-nous ? Ah oui, je me souviens. Vous aviez trouvé un imposant livre appelé le Mégagrimoire."					
+				"Vous avez réveillé le spectre immortel qui rôde toujours dans les profondeurs de Mingi Taw. Un grossier personnage, pas vrai ?"			204	042.jpg	24B2J
+				C'est une époque de malheur - un orage inquiétant a recouvert le ciel & les charmantes personnes qui vivent dans la hutte sont épouvantées.					
+				"Calmer cette tempête va demander une certaine habitude des pouvoirs psioniques, de la cryptozoologie & des miracles..."					
+			adventureUI/megatomeItem	1. Le contact avec un sworcier actionnera le Mégagrimoire et révélera les pensées des créatures vivantes & d'autres composants ésotériques.					
+			gourd/gourd	"2. Des étranges esprits de la forêt - swources de sworcellerie - dorment dans les étangs, les bois & les prairies. Cherchez leurs petites bulles sonores."					
+			triangle/Triangle	"3. Un sworcier qui peut localiser, invoquer & apprivoiser la géométrie cosmique du Trigone Doré aura la capacité de faire des miracles."					
+				Vous êtes perdu ? Excellent. Restez calme & en avant.			210	043.jpg	A4C31
+ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	Bravo ! Vous avez trouvé & maîtrisé la géométrie cosmique du Trigone Doré.			86	044.jpg	24E4H
+				"La sinistre tempête s'est miraculeusement calmée & un glorieux soleil est revenu sur le royaume, c'est vraiment génial !"					
+				"Ces actes héroïques se reflètent positivement sur votre perception, votre intuition & votre persévérance - jusqu'à présent vous vous en sortez extrêmement bien."					
+				"Remarque : Si vous choisissez de continuer l'expérience S:S&S EP, les qualités susmentionnées seront mises à l'épreuve & évaluées."					
+				"Dans tous les cas, nous allons prendre une autre petite pause, n'est-ce pas ? Comme toujours, je serai juste là lorsque vous serez prêt à commencer la troisième session."					
+ARCHETYPE_TRIFECTAINTRO	The Archetype								
+				Commencer la troisième session. Remarque : Cette session prend normalement un mois lunaire à terminer.					
+			triangle/Triangle	Donc vous avez maîtrisé le Trigone Doré & la tempête s'est miraculeusement calmée ? Mes félicitations pour ça.					
+			adventureUI/megatomeItem	Consulter le Mégagrimoire & étudier son fonctionnement devrait vous égarer ou vous embrouiller.					
+				Un spectre immortel rôde toujours dans les profondeurs de Mingi Taw.					
+			Archetype/trifecta	Réfléchissez à la géométrie cosmique du Trigone Trifecta.					
+			MoonCrescent/moonCrescent	Observez l'humeur de la lune.			118	045.jpg	Y4E5Q
+				Nos recherches ont montré que les réseaux sociaux peuvent jouer un rôle dans ce que vous retirerez de cette étape de l'expérience S:S&S EP.					
+				Soyez averti que dorénavant nous surveillerons votre progrès dans un silence relatif.					
+ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Donc vous avez maîtrisé les deux trigones restants & avez rassemblé le Trigone Trifecta ?			165	046.jpg	P4B6A
+			Archetype/trifecta	Vous êtes vraiment spécial & c'est pour ça que je vous apprécie tant.					
+				C'était très brave & généreux de proposer de faire de la Scythe une martyre au sommet de Mingi Taw.					
+				"Sérieusement, nous vous en devons une."					
+				Tout ce qu'il vous reste à faire est d'emmener la Scythe vers le sommet & voir le tourbillon infini.					
+				Courage - la fin est proche !					
+ARCHETYPE_GHOULINTRO	The Archetype								
+				"Bien, nous y voilà. Cette brève session achèvera le traitement S:S&S EP."					
+				La triste errance de la Scythe est pratiquement terminée.					
+				"Malheureusement, le corps & la psyché de la Scythe ont été très affaiblis par la sworcellerie - elle est à la porte de la mort."			162	047.jpg	J4F7B
+			Archetype/trifecta	Il ne reste plus qu'à découvrir les secrets du bosquet du Trigone & à ramener le Mégagrimoire au tourbillon infini au sommet de Mingi Taw.					
+				Cliquez sur le bouton si vous êtes prêt à assister aux terribles tourments de la martyre.					
+END	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini.					
+END_CHEAT	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #cheat					
+END_CHEAT_NOBOOR	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #cheat #noboor					
+END_CHEAT_PSYCHO	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #cheat #psycho					
+END_CHEAT_LOVE	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #cheat #love			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #moongrotto #psycho			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #moongrotto #love			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #honest #psycho			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #honest #love			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #honest #noboor			178	053.jpg	75G3V
+GIRL_GHOULTHOUGHTS	Girl			Est-ce que la Scythe sait qu'il est possible d'arrêter la Messe Gogolitique en touchant son crâne avec la Sworcellerie ? Sans doute que non.					
+				"J'espère vraiment que la Scythe sait cliquer & maintenir sur le chemin pour avancer, avancer très vite, sinon elle sera cuite."					
+				Où suis-je ? Qu'est-ce que s'est passé ? La dernière chose dont je me souvienne est que j'étais dans mon rêve... je marchais dans les bois quand je vis une étrange lumière rose.					
+LOGFELLA_GHOULTHOUGHTS	Logfella			"La Scythe parle en permanence de sa triste errance, dont le but serait d'ouvrir un portail vers l'infini sur les sommets de Mingi Taw."					
+				"Tout est devenu complètement fou depuis l'arrivée de la Scythe, il y a de nombreux mois."					
+LOGFELLA_GHOUL	The Scythian			"Nous nous réveillâmes difficilement d'un très lourd sommeil auprès du bosquet, avec le bûcheron connu sous le nom de Logfella à nos côtés."			88	054.jpg	J5D44
+				Logfella nous raconta comment la fille avait disparu la nuit dernière.					
+				Le bûcheron savait que nous touchions au but & que nous devions retourner à Mingi Taw pour terminer notre triste errance.					
+LOGFELLA_TRIGONGROVETIPS	The Scythian			Le bûcheron connu sous le nom de Logfella n'avait jamais vu le bosquet du Trigone auparavant & il nous questionna à son propos.					
+LOGFELLA_TRIFECTATIPS	The Scythian			Le bûcheron connu sous le nom de Logfella était extrêmement inquiet pour la fille disparue.					
+				Nous dîmes à Logfella que nous savions où elle pouvait être & que nous allions rapidement remettre les choses en ordre.					
+				Il regarda le piédestal & il nous remercia par avance pour toutes ces choses de martyre.					
+URSULA_AVATAR			Ursula/idleSEhandsonhip						
+DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
+AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Ces deux personnes prétendent faire partie des créateurs de ce monde bizarre.			159	055.jpg	A5G55
+AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Ces deux rigolos prétendent faire partie des créateurs de ce monde bizarre.			159	055.jpg	A5G55
+GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Nous réveillâmes un esprit de la forêt endormi dans la terre riche d'une prairie où paissaient quatre paires de moutons sans intérêt.			52	056.jpg	15B63
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Nous chantâmes une chanson de sworcellerie & réveillâmes un esprit de la forêt endormi dans les eaux froides d'un profond étang - très étrange !			50	057.jpg	G5F78
+GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Nous réveillâmes un esprit de la forêt endormi dans un étrange nichoir entouré de trois oiseaux chanteurs trempés par la pluie.					
+GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	"Nous réveillâmes un esprit de la forêt endormi près d'un banal pont fait d'un tronc, où quatre paires d'arbres dominaient une rivière."					
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Nous réveillâmes un esprit de la forêt endormi entre deux horribles arcs-en-ciel au bord du dangereux précipice.					
+GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La lune sombre régnait & nous réveillâmes un esprit de la forêt entouré par cinq chutes d'eau.					
+GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La lune sombre régnait & nous réveillâmes un esprit de la forêt dans les broussailles au sommet d'un rocher escarpé.					
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La lune claire brillait & nous réveillâmes un esprit de la forêt dans un bosquet reculé où Jim Guthrie avait l'habitude de traîner.			132	058.jpg	G5F8U
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La lune claire brillait & nous réveillâmes un esprit de la forêt en effrayant une mère canard dans les eaux calmes d'un lac.					
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La lune claire brillait & nous réveillâmes un esprit de la forêt là où les reflets sur le lac étaient quelque peu surprenants.			127	059.jpg	65D98
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La lune claire brillait & nous réveillâmes un esprit de la forêt qui dormait dans le lac sous le regard d'un trio de hiboux.					
+GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Nous eûmes le sentiment bizarre que c'était peut-être - juste peut-être - le temps des miracles. #miracles					
+GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La lune sombre régnait & nous réveillâmes un esprit de la forêt entouré de trois petites chutes d'eau.					
+GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La lune sombre régnait & nous réveillâmes un esprit de la forêt entouré par quatre petits arbres ronds dans le plus sombre des bois.					
+GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La lune sombre régnait & nous réveillâmes un esprit de la forêt dans les broussailles situées au bord d'un lac.					
+GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La lune claire brillait & nous réveillâmes un esprit de la forêt qui se cachait dans les racines d'un arbre gigantesque.					
+GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Nous eûmes le sentiment bizarre que c'était peut-être un temps de miracles - où étaient mes miracles ? #miracles			77	060.jpg	86D06
+GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Wouaf Wouaf Wouaf Wouaf Wouaf Wouaf. #barking			135	061.jpg	M6F1I
+				Wouaf Wouaf Wouaf. #justbarking					
+				"À certains moments aboyer tout le temps me fatiguait, mais un chien doit faire ce qu'un chien doit faire ce qu'un chien doit faire faire."					
+				Wouaf Sniff Wouaf. #mixingitup					
+				Wouaf Wouaf Wouaf Wouaf Wouaf Wouaf.					
+GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		"Le comportement de la Scythe est assez étrange, comme si elle était contrôlée par une force invisible."					
+				J'aimerais bien en savoir plus à propos de la captivante & épique histoire de la Scythe. Je parie que ça donnerait du sens à tout le reste.					
+GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		J'espère vraiment que la Scythe travaille sur cette histoire d'esprit de la forêt.					
+				"La tempête est vraiment en train de me déprimer, je souhaiterais que le jeu vidéo existe... quoi que ça puisse être."					
+GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tout a été tellement dingue depuis l'arrivée de la Scythe.			3	062.jpg	36E2Z
+GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Toute cette histoire de tempête était vraiment en train de me déprimer. C'était tellement sinistre.					
+				La pluie a commencé à s'arrêter & le ciel semble se dégager... est-ce le temps des miracles ? Je l'espère vraiment. J'adore les miracles.					
+				Whaou... quoi ? Les moutons dans la prairie sont effrayés. Je me demande ce qui se passe encore ? Est-ce que ça pourrait être... le Trigone Doré ?					
+GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Wouaf Wouaf Wouaf. 					
+				"Parfois quand il fait trop sombre pour arriver à voir, je mange un petit quelque chose & je regarde ce qui n'est même pas là."					
+				Wouaf Wouaf Wouaf Wouaf Wouaf.					
+GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		"J'ai cette chanson dans la tête... une petite chanson à la fois gaie & triste, qui me remplit d'une appréhension extrêmement bizarre."					
+GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Je sais que vous cherchez à éviter votre destin de martyre mais sachez ceci : le temps est une force et il va forcement reprendre son cours.					
+				Wouaf Wouaf Wouaf. Sniff.					
+GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		"Il y a aussi les noms inconnus, mais ils s'apprennent facilement."					
+				Il y a deux types d'inconnus - les inconnus connus & les inconnus inconnus.			32	063.jpg	L6E31
+				Wouaf Wouaf Wouaf. 					
+GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mes bûches connaissent tellement de secrets... des secrets concernant les esprits de la forêt & les îles impossibles. C'est dommage que je ne parle pas le langage des bûches.					
+				"D'après mon expérience, il y a des moments où les hiboux ne sont pas ce qu'ils semblent être & d'autres moments où ce sont juste des hiboux."			126	064.jpg	86A47
+GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		"Peut-être avez-vous entendu parler d'une île impossible sous une lune claire & brillante, vous avez sans doute vu ça sur internet ?"			134	065.jpg	H6A5I
+				"Nous surveillons discrètement vos actes & nous voulions vous faire remarquer que plus vous hésiterez, plus la fête sera courte."					
+				"Donc il semblerait que vous ayez fait des progrès significatifs dans votre recherche du Trigone de la Lune Claire, très bien joué."					
+GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Les esprits de la forêt sont-ils des enfants de la Terre ou sont-ils des visiteurs solitaires venus du tourbillon infini ?					
+				"Pour être honnête, les esprits de la forêt me font peur. Je veux dire... que sont-ils ? D'où viennent-ils ?"					
+GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		"Lorsque que les esprits auront été envoyés vers le ciel & que le temps des miracles arrivera, vous devrez rejoindre l'arbre gigantesque."					
+				Je sais ce que vous savez que je sais & je veux que vous sachiez que vous avez 100 % raison.			109	066.jpg	F6D6H
+				Wouaf Wouaf Wouaf Sniff Wouaf Wouaf Wouaf.					
+GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Seule la fin de votre triste errance ramènera la tranquillité.					
+				Seul le Trigone Trifecta vous dévoilera les secrets du Bosquet du Trigone.					
+				Le tourbillon infini des hauteurs de Mingi Taw vous attend.					
+				Wouaf Wouaf Wouaf.					
+GCLUE_WATERFALLS	Girl			"Aviez-vous remarqué que parfois les mots sont un vrai vacarme, mais que d'autres fois ce vacarme fait le plus beau des sons ?"			132	058.jpg	G5F8U
+GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Les montagnards du Caucase racontent beaucoup de bêtises.					
+				"Certains disent qu'ici, dans le Caucase, il y a une forêt qui a autant besoin du feu que le feu a besoin de la forêt."					
+YELLOWTRIGON_COLLECTED	The Scythian			Nous avons le Trigone doré. Nous sommes vraiment géniaux.			85	067.jpg	36G7U
+PINKTRIGON_COLLECTED	The Scythian			"Envers et contre tous, nous avons le Trigone de la Lune Claire."			155	068.jpg	56F8U
+BLUETRIGON_COLLECTED	The Scythian			"Envers et contre tous, nous avons le Trigone de la Lune Sombre."			112	069.jpg	T6G94
+GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		"Il semblerait que tous les esprits de la Lune Sombre aient été envoyés vers le ciel, donc c'est à nouveau le temps des miracles. J'adore les miracles !"					
+JIM_HINT1_OFF	The Scythian			"Dans un bosquet isolé, nous rencontrâmes un mystérieux musicien assis près d'un feu crépitant."					
+JIM_PINKDAWN	The Scythian			"Dans un bosquet isolé, nous rencontrâmes une mystérieuse personne assise près d'un feu crépitant. #jimguthrie"					
+JIM_BRIGHTMOON	The Scythian			"Alors que la lune claire brillait, nous rencontrâmes un mystérieux musicien assis près d'un feu crépitant. Il se présenta sous le nom de Jim Guthrie."			128	070.jpg	07G00
+JIM_POSTSWORCERY	The Scythian			Le mystérieux musicien connu sous le nom de Jim Guthrie avait assisté à notre sworcellerie & il n'avait aucun problème avec ça.					
+JIM_POSTGOURD	The Scythian			"Le mystérieux musicien connu sous le nom de Jim Guthrie dit qu'il pouvait nous jouer une petite chanson, si nous voulions bien l'écouter."					
+				Jim nous invita à nous asseoir près du feu.					
+JIM_POSTSONG	The Scythian			"Jim Guthrie nous apprit qu'on ne pouvait pas ignorer les mauvaises pensées, ni ignorer la morsure d'un dragon."					
+			Archetype/trifecta	"Il nous parla du concert de rock où il allait jouer d'ici une quinzaine de jours, de l'autre côté du lac."					
+JIM_LOGFELLATHOUGHTS	Logfella			La chanson nous semblait familière... où l'avions-nous entendue ? #1000songs					
+				J'eus soudainement cet horrible petit air dans la tête. #andwegotolder					
+LOGFELLA_JIMTHOUGHTS	Logfella			J'ai cette petite chanson dans la tête depuis longtemps... juste quelques notes qui se répètent encore et encore. Je me demande ce que ça signifie ?					
+ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Faire se croiser les frontières de la liminalité en toute sécurité est simple - cherchez des endroits familiers & la chaleur du foyer.					
+				"Si vous arriviez à maîtriser votre niveau de conscience, vous auriez une certaine emprise sur le rêve... plutôt que de le combattre, de lui résister & de le maudire."					
+				"Si vous êtes consciente de rêver, vous vous apercevrez que vous êtes ce que vous avez imaginé être... mais s'identifier au rêve, c'est être ensorcelé."					
+				"Même dans un espace onirique bien connu, il y a de nouveaux endroits à explorer & de nouvelles connexions à considérer... si vous continuez de croire."					
+GIRL_MOONGROTTOCOMMENT	Girl			J'ai l'impression que le cœur du cosmos a peut-être raté un battement & que maintenant tout est quelque peu... détraqué.					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			Il y a un long chemin de 0 à 1 & si un alien disait bonjour ce serait un signal codé dans la stéréo. Euh... quoi ?					
+GIRL_HUGETREETHOUGHTS	Girl			"Bien sûr, je n'ai parlé à personne de ces rêves de déesse et d'arbres, parce qu'on dirait sans doute que je suis une hippie ou quelque chose dans le genre."					
+				"À cet endroit, je vois un gigantesque arbre creux... c'est une déesse morte depuis longtemps, des siècles avant l'apparition de l'homme."					
+				"Il y a un endroit que je visite à chaque fois que je rêve, une assemblée d'arbres au cœur du monde."					
+LOGFELLA_HUGETREETHOUGHTS	Logfella			"J'aime voir les mêmes arbres changer en fonctions des saisons & j'aime m'arrêter et simplement écouter... pour penser - ou ne pas penser, selon le cas."					
+				"Je ne passe pas tellement de temps à arpenter mes rêves, mais lorsque je le fais j'ai tendance à simplement revisiter mes endroits favoris pour voir ce qui a changé."					
+MIRACLE1_MOUNTAINMEADOW	The Scythian			"Nous fîmes un miracle apaiseur de tempête dans une prairie ensoleillée, selon la manière du sorcier fou Al Jaffee."					
+MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			"Nous restâmes confuse & perplexe dans une prairie inondée de lumière, avec un horrible mal de crâne."					
+LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			"Nous nous réveillâmes difficilement d'un lourd sommeil, sans nous souvenir clairement de ce qui s'était passé."					
+			triangle/Triangle	Nous nous souvînmes du miracle de la prairie & de notre rencontre avec le Trigone Doré... 					
+			triangle/Triangle	... Quels nouveaux pouvoirs avions-nous acquis ?					
+			triangle/Triangle	"Logfella était étonné de voir à quel point notre combat contre le Trigone semblait extraordinaire & fou, d'après la description que nous lui en fîmes."			81	071.jpg	R7C14
+			triangle/Triangle	Logfella demanda de quelle manière le Trigone Doré pouvait être relié aux sombres mystères au-delà de la Porte de Fer de la prairie.					
+				"Logfella ne cherchait pas les sombres mystères, il choisit donc de retourner chez lui & de couper du bois. #woodchopping"					
+LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Le bûcheron connu sous le nom de Logfella était super heureux que la tempête se soit calmée & il était super ravi de couper du bois à nouveau.					
+				Il nous demanda si nous savions quelque chose sur la Porte de Fer bloquant la grotte caverneuse de la prairie... Qu'est-ce que ça pouvait bien être ?					
+LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Étrange... Je vois un rayon doré dans le ciel au-dessus du bois derrière la prairie... Quelqu'un aurait appris les secrets du Bosquet du Trigone ?			89	072.jpg	67F24
+LOGFELLA_URSULAMEADOW	Logfella			"Je suis très inquiet pour la Scythe, elle a l'air vraiment mal."					
+SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			Le bûcheron & la fille nous fixaient alors que nous revenions à nous.					
+				"Nous remarquâmes que la prairie était intacte, notre adversaire mystique était à l'évidence parti."					
+GIRL_YELLOWTRIGONCOLLECTED	The Scythian			La fille écouta en silence l'étrange récit de notre rencontre avec le Trigone Doré.					
+			triangle/Triangle	Elle s'interrogea sur les secrets du Bosquet du Trigone au-delà de la grotte caverneuse... Étaient-ils liés ?					
+GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Je m'inquiète vraiment pour la Scythe... elle avait disparut pendant des jours après que la tempête se soit calmée. Je suis sûre qu'elle va bien.					
+GIRL_URSULAMEADOW_OFF	Girl			"Whaou, donc la Scythe a réussi à passer de l'autre côté de la prairie ? Incroyable."					
+DOGFELLA_GETDARKTRIGON	The Scythian			"Après avoir activé un autre rayon dans le bosquet, nous nous aperçûmes d'une chose étrange concernant le chien connu sous le nom de Dogfella."					
+			Archetype/trifecta	Il semblait que nous pouvions subitement comprendre Dogfella - il devenait urgent de trouver le Trigone de la Lune Sombre & d'assembler le Trigone Trifecta.					
+DOGFELLA_GETBRIGHTTRIGON	The Scythian			"Après avoir activé un autre rayon dans le bosquet, nous nous aperçûmes d'une chose étrange concernant le chien connu sous le nom de Dogfella."					
+			Archetype/trifecta	Il semblait que nous pouvions subitement comprendre Dogfella - il devenait urgent de trouver le Trigone de la Lune Claire & d'assembler le Trigone Trifecta.					
+DOGFELLA_THREETRIGONS	The Scythian			"Après avoir activé un autre rayon dans le bosquet, nous nous aperçûmes d'une chose étrange concernant le chien connu sous le nom de Dogfella."					
+			Archetype/trifecta	Il semblait que nous pouvions subitement comprendre Dogfella - il devenait urgent d'activer le troisième rayon céleste & d'ouvrir un portail vers l'infini.					
+DOGFELLA_TRUTHBOMB	Dogfella			Wouaf Wouaf Wouaf.					
+				Wouaf Wouaf Sniff Wouaf.					
+				Le tourbillon infini du cosmos attend celle qui transporte le Mégagrimoire au sommet de Mingi Taw.					
+				Wouaf Wouaf Wouaf Wouaf Wouaf.					
+				Wouaf Wouaf Wouaf.					
+GIRL_AFTERYELLOWBEAM	The Scythian			La fille aux cheveux sombres était assise sur une pierre là où le bûcheron coupait du bois.					
+			Archetype/trifecta	Nous la questionnâmes sur les secrets du Bosquet du Trigone & sur les rêves étranges des montagnards du Caucase.					
+				Elle nous raconta que les rêves de son peuple conservaient de nombreux mystères & qu'ils reflétaient les humeurs de la lune d'une étrange façon.					
+				La fille nous dit de nous asseoir près du foyer dans la hutte en pierre à chaque fois que nous voudrions arpenter les rêves ou recouvrer nos forces.					
+			Archetype/trifecta	"Nous eûmes le sentiment que les deux Trigones restants pouvaient être perdus dans les rêves, ou quelque chose comme ça."					
+LOGFELLA_AFTERYELLOWBEAM	The Scythian			Le bûcheron connu sous le nom de Logfella était retourné à sa découpe du bois & il semblait s'y consacrer pleinement.					
+			triangle/Triangle	Logfella avait vu le rayon dans le ciel derrière la prairie & nous l'interrogeâmes sur les secrets du Bosquet du Trigone.					
+				Il parla d'une vieille histoire que son peuple racontait habituellement aux enfants pour les effrayer.					
+			Archetype/trifecta	"Logfella parla d'un groupe venu de Scythie il y a plusieurs mois de ça, qui cherchait le Trigone Trifecta dans ces montagnes oubliées."					
+			gourd/gourd	Le groupe avait appris à trouver les esprits de la forêt & à les envoyer vers le ciel... Et ils cherchèrent ensuite un lieu propice à la réalisation d'un miracle.					
+			Archetype/trifecta	"Le groupe espérait activer les trois rayons célestes dans le Bosquet du Trigone, mais ils ne savaient pas où - ou 'quand' - les Trigones étaient."					
+				Le groupe erra longtemps sans but sur la vieille route conduisant à Mingi Taw... Ils en eurent finalement assez & ils s'arrêtèrent.					
+				"Ensuite, le groupe fut soudainement tué par un spectre immortel sur le bord de la vieille route. Depuis ce jour, des tombes marquent cet endroit."					
+				"Nous dîmes à Logfella que c'était une jolie histoire, mais qu'elle ne nous avait pas effrayé plus que ça."					
+GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
+ARCHETYPE_MOONGROTTO	The Archetype			Je vois que vous avez réussi à changer l'humeur de la lune dans cette grotte - je me demande combien de temps ce paradoxe temporel va durer ?					
+MIRACLE2_ISLAND	The Scythian			"Alors que la lune claire brillait, nous avons fait un miracle lunaire très bizarre sur une île impossible située au milieu d'un lac tranquille."			136	073.jpg	W7A3K
+MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			"Nous avons le Trigone de la Lune Claire, pour la gloire & la revanche. #TrigoneDompté"			155	068.jpg	56F8U
+MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			"Nous fûmes tentés de simplement arrêter tout ce qui concernait cette triste errance, mais il y avait quelque chose de très attirant dans le fait de finir martyr."					
+				"Bon, ce n'était sans doute pas si important au final. Ce n'est pas comme si entrer dans le Tourbillon Infini nécessitait un examen physique."					
+				Nous eûmes la nette impression que toute cette marche onirique & la maîtrise du Trigone commençaient à prendre leur dû.					
+				"Après que la lumière & le bruit se soient arrêtés, nous nous retrouvâmes sur le bord du lac avec un terrible mal de crâne & un nez ensanglanté."					
+GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Nous parlâmes à la fille de notre rencontre onirique avec le Trigone de la Lune Claire & de notre intention de ré-assembler le Trigone Trifecta.					
+				La fille dit que notre rencontre onirique semblait vraiment cool & qu'elle regrettait de ne pas avoir été là. #mensonges					
+				Elle nous demanda si nous étions repassés au bosquet du Trigone... peut-être que nous pouvions activer un autre rayon céleste ?					
+LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Le bûcheron pouvait voir que notre marche onirique & notre travail sur les miracles avaient beaucoup affecté notre santé.					
+				Logfella semblait suspecter que notre triste errance n'allait pas bien se terminer.					
+				Logfella nous rappela de nous asseoir près du foyer dans la hutte & de faire une pause aussi souvent que nécessaire afin de reprendre des forces.					
+ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nos données de recherche montrent une grande corrélation entre les progrès des participants à S:S&S EP & leur capacité à être géniaux.			45	074.jpg	87A43
+				Je vois que vous avez réussi à trouver & à rapporter le Trigone de la Lune Claire - c'est une excellente nouvelle.					
+MIRACLE3_HUGETREE	The Scythian			"Alors que la Lune Sombre régnait, nous avons fait un miracle électrique au milieu d'une assemblée d'arbres."					
+MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			"Aussi... transporter le Mégagrimoire un peu partout est une sorte de souffrance, c'est vraiment un livre encombrant à plusieurs titres."					
+				Nous nous sentions de plus en plus mal... cela avait sans doute quelque chose à voir avec tous ces rayons lasers cosmiques.					
+				"Après que la lumière & le bruit se soient arrêtés, nous nous retrouvâmes trempée par la pluie & gelée à côté d'une assemblée d'arbres."					
+GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Nous parlâmes à la fille de notre rencontre onirique avec le Trigone de la Lune Sombre & de notre intention de ré-assembler le Trigone Trifecta.					
+				Nous lui racontâmes comment nous avions anéanti le Trigone de la Lune Sombre et ses attaques en arc-en-ciel & elle trouva tout ça 'cool'.					
+				Elle n'avait pas l'air de vraiment écouter nos folles histoires.					
+LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			Le bûcheron pouvait voir que notre marche onirique & notre travail sur les miracles avaient beaucoup affecté notre santé.					
+			Archetype/trifecta	Logfella nous demanda si nous étions repassé au bosquet du Trigone avec Dogfella... peut-être que nous pouvions activer un autre rayon céleste ?					
+ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			"Maintenant, la question est... que faire ensuite ? Rappelez-vous que les réseaux sociaux jouent un rôle dans ce que vous allez retirer de cette expérience."					
+				"Malgré le manque d'informations utiles, vous avez réussi à vaincre le Trigone de la Lune Sombre."					
+				Je viens juste d'être informé que vous aviez récupéré le Trigone de la Lune Sombre - ceci est une excellente nouvelle.					
+LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Le bûcheron ne reconnaissait pas la clé que nous avions trouvée & il n'avait aucune idée de ce qu'elle pouvait ouvrir.					
+			AdventureUI/keyItem	... ?					
+GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	La fille vit la clé que nous avions trouvée & elle nous encouragea à garder les yeux ouverts pour trouver une porte verrouillée.					
+				Elle n'avait pas d'autre idée mais nous nous rappelâmes avoir vu quelque chose sur la vieille route conduisant à Mingi Taw.					
+ARCHETYPE_GROTTOPARADOX	The Archetype								
+				Une fois que les humeurs de la lune ont été modifiées dans la Grotte de la Lune le 					
+ARCHETYPE_KILLBOOR	The Archetype			"Je pense qu'à présent vous vous demandez ce qu'ouvre cette clé ? Pour être honnête, je n'en ai aucune idée."			119	075.jpg	87C5S
+				"Pas que je veuille insinuer que vous êtes une violente sociopathe... ha ha... Je suis sûr que vous aviez vos raisons, pas vrai ? #thegrizzledboor"					
+				Je devrais mentionner que le Vieil Ours Mal Léché fut introduit dans S:S&S EP pour pousser les participants à se définir comme de violents sociopathes.					
+				Je viens juste d'être informé que le Vieil Ours Mal Léché avait été tué... vous avez quelque chose à voir avec ça ? #slaughter					
+ARCHETYPE_SPAREBOOR	The Archetype			"Je pense qu'à présent vous vous demandez ce qu'ouvre cette clé ? Pour être honnête, je n'en ai aucune idée."			119	075.jpg	87C5S
+				"Donc ouais, c'est génial & nous vous adorons pour ça."					
+				Le Vieil Ours Mal Léché fut introduit dans S:S&S EP pour permettre aux participants de se définir comme des personnes compatissantes et raisonnables.					
+				Je viens juste d'être informé que le Vieil Ours Mal Léché avait pu partir indemne. C'est une nouvelle réconfortante.					
+LOGFELLA_FOUNDATION	Logfella			...					
+				...					
+				...					
+SCYTHIAN_FOUNDATION	The Scythian			Nous réveillâmes un esprit de la forêt dans un profond étang bordé de lys près d'une hutte en pierre. Nous ne sommes pas certain de ce que ça signifie.					
+				"Avec une tempête sans fin au-dessus de nous, nous avons appris à chanter une Chanson de Sworcellerie & à réveiller un esprit de la forêt endormi."					
+				Attends... pourquoi est-ce que je fais référence à moi-même à la première personne ? Je croyais que notre histoire était racontée à la deuxième personne ?					
+				"Mes pensées sont-elles ordonnées chronologiquement, dans l'ordre dans lequel je les ai pensées ? Donc ceci doit être ce que j'ai pensé il y a quelques secondes ?"					
+				Donc ceci est le Mégagrimoire ? Il absorbe les 'transmissions de pensée linguistique' ? Suis-je en train de lire mes pensées en même temps que je les pense ? Hmm...					
+GIRL_FOUNDATION	Girl			...					
+				...					
+				...					
+DOGFELLA_FOUNDATION	Dogfella			...					
+				...					
+				...					
+LOGFELLA_DARKMOON	The Scythian			"Le bûcheron parla de sa marche onirique dans les bois peu avant l'aube, sous un ciel noir & nuageux."					
+				Il parla d'une lumière rose clignotante & d'une étrange chanson pleine d'émanations inquiétantes en provenance des bois sans nom derrière la prairie.					
+				Nous supposâmes que Logfella était en train de parler du concert de rock de la Lune Sombre.					
+GIRL_DARKMOON	The Scythian			"La fille parla de sa marche onirique dans les bois peu avant l'aube, sous un ciel noir & nuageux."					
+				Elle raconta comment elle avait trouvé refuge dans un gigantesque arbre creux pour se protéger de l'orage.					
+				Nous vîmes très bien de quel gigantesque arbre creux elle parlait.					
+ARCHETYPE_DARKMOON	The Archetype			Attention : la Lune Sombre règne.			94	076.jpg	I7F69
+LOGFELLA_CRESCENTWAX	The Scythian			"Le bûcheron parla de sa marche onirique dans les bois peu avant l'aube, sous une lune en forme de croissant."					
+				"Il parla d'une créature qu'il avait rencontrée, quelqu'un ou quelque chose d'étrange & de nu. Était-ce un ours ? Un homme ? Ou... le vieil ours mal léché ?"			57	077.jpg	I7G7U
+GIRL_CRESCENTWAX	The Scythian			La fille était excitée - aujourd'hui commençait un nouveau mois lunaire ! Elle attendait avec impatience les longues journées passées assise sur des pierres.					
+ARCHETYPE_CRESCENTWAX	The Archetype			"Le croissant de lune argenté est apparu, indiquant le début d'un nouveau cycle lunaire de 28 jours."			118	045.jpg	Y4E5Q
+LOGFELLA_HALFWAX	The Scythian			"Le bûcheron reconnu que oui, en effet, il avait coupé une bonne quantité de bois de chauffage ces temps-ci."					
+				"Il parla des hivers & des chutes de neige qu'il y avait ici, dans les montagnes du Caucase qui s'élèvent au-dessus de steppes de Scythie."					
+				Le bûcheron avait l'intention d'avoir assez de nourriture & de bois de chauffage pour survivre aux longs mois d'hiver à venir.					
+GIRL_HALFWAX	The Scythian			"Dans mon rêve de cette nuit, je marchais dans les bois & j'avais très envie d'un muffin, mais il n'y en avait pas."			108	078.jpg	07D87
+ARCHETYPE_HALFWAX	The Archetype			Des folkloristes un peu fous ont dit qu'il n'y avait pas de relation entre la folie & les humeurs de la lune.					
+LOGFELLA_ALMOSTWAX	The Scythian			Le bûcheron dit qu'il n'avait pas l'habitude de réfléchir autant à propos de la Messe Gogolitique & des montagnes sauvages de Mingi Taw.					
+				"Néanmoins, il dit que ces derniers temps la présence spectrale de la Messe Gogolitique avait commencé à le hanter."					
+				Le bûcheron dit qu'il était effrayé lorsque la Lune Claire se levait dans le ciel & lorsque la Lune Sombre régnait.					
+GIRL_ALMOSTWAX	The Scythian			La fille avait remarqué que la Lune était de plus en plus pleine... elle se demanda combien de temps il restait avant que la Lune Claire ne se lève.					
+ARCHETYPE_ALMOSTWAX	The Archetype			La lune est de plus en plus pleine chaque jour qui passe... dans quelques jours ce sera la Lune Claire... et quoi d'autre ?			165	046.jpg	P4B6A
+LOGFELLA_BRIGHTMOON	The Scythian			Le bûcheron admit que son chien devenait un peu fou à chaque fois que la Lune Claire se levait.			135	061.jpg	M6F1I
+GIRL_BRIGHTMOON	The Scythian			"La fille parla de sa marche onirique dans les bois peu avant l'aube, avec la Lune Claire qui se levait dans le ciel au-dessus d'elle."					
+				Elle parla de l'air frais du matin & d'une île impossible au milieu d'un lac tranquille.					
+ARCHETYPE_BRIGHTMOON	The Archetype			Sortez & allez voir - la Lune Claire qui se lève dans le ciel est une vraie merveille !			95	079.jpg	07D95
+LOGFELLA_ALMOSTWANE	The Scythian			"Le bûcheron avait une faible résistance aux longues explications & il reconnut qu'elles l'endormaient. Néanmoins, il savait beaucoup de choses."					
+				Le bûcheron connaissait tout sur Mingi Taw & pourquoi elle était connue sous le nom de Royaume des Nuages.					
+				"Il savait que Mingi Taw était la plus grande des montagnes du monde connu, plus grande encore que le Mont Olympe où les dieux achéens demeurent."					
+				"Il savait aussi que le sommet de Mingi Taw, en permanence dissimulé par les nuages, était connu pour être le portail vers le tourbillon infini."					
+				Le bûcheron n'avait jamais osé explorer les versants hantés de Mingi Taw & il ne le voulait pas.					
+GIRL_ALMOSTWANE	The Scythian			La fille se demanda pourquoi tant de champignons poussaient immédiatement avant & après la Lune Claire... quelle pouvait en être la raison ?					
+ARCHETYPE_ALMOSTWANE	The Archetype			La lune est légèrement moins brillante qu'elle ne l'était hier & le cycle lunaire va bientôt recommencer.					
+LOGFELLA_HALFWANE	The Scythian			"Le bûcheron avait une faible résistance aux longues explications & il reconnut qu'elles l'endormaient. Néanmoins, il savait beaucoup de choses."					
+				"Le bûcheron expliqua qu'en Scythie & en Perse, Mingi Taw était connue sous le nom de la Montagne Éternelle."					
+				"Le bûcheron raconta comment, à l'âge des héros, une race oubliée depuis longtemps avait creusé ce temple dans la pierre vivante sous Mingi Taw."					
+				Le bûcheron parla des corridors souterrains & des grandes cavernes creusés dans la pierre vivante sous Mingi Taw.					
+				"D'après le bûcheron, ces grandes cavernes furent creusées il y bien longtemps pour garder le Mégagrimoire en sécurité."					
+GIRL_HALFWANE	The Scythian			La fille dit qu'elle était allée marcher au-delà du mur de pierre & qu'elle avait senti l'horrible présence de la Messe Gogolitique.			30	080.jpg	V8B04
+ARCHETYPE_HALFWANE	The Archetype			Le cycle lunaire ralentit & la Lune Sombre est dans moins d'une semaine.					
+LOGFELLA_CRESCENTWANE	The Scythian			"Le bûcheron avait une faible résistance aux longues explications & il reconnut qu'elles l'endormaient. Néanmoins, il savait beaucoup de choses."					
+				"Le bûcheron savait tout à propos de la Messe Gogolitique, le spectre immortel qui rôde dans les profondeurs de Mingi Taw."					
+				"Logfella parla du tourbillon infini au-delà de notre compréhension d'où était venu le Mégagrimoire, à l'âge de pierre dont peu se souviennent."					
+				Il parla d'une race immortelle venue de l'espace qui initia l'humanité à une forme primitive de transmission de pensée linguistique.					
+				"Ces immortels bénirent l'humanité en lui apportant la civilisation & la maudirent en même temps, car toute civilisation est inévitablement vouée à disparaître."					
+				Les Scythes cherchèrent à corriger cet insidieux problème propre aux civilisations & ils enlevèrent le Mégagrimoire à ses protecteurs immortels.					
+				"Les immortels ont subsisté dans l'obscurité depuis lors, perdant peu à peu leurs pouvoirs jusqu'à devenir le spectre connu sous le nom de la Messe Gogolitique."					
+				Le bûcheron aurait probablement continué longtemps avec ces inepties si nous ne l'avions pas respectueusement arrêté.					
+GIRL_CRESCENTWANE	The Scythian			La fille remarqua que la Lune devenait de plus en plus petite. Elle dit qu'elle serait bientôt partie & que la Lune Sombre régnerait ensuite.					
+ARCHETYPE_CRESCENTWANE	The Archetype			Le cycle lunaire est pratiquement terminé. La Lune Sombre sera bientôt là.					
+DARKMOONLOOMS_ARCHETYPE	The Archetype			"La Lune Sombre se lève, la fin du cycle lunaire est proche."					
+DARKMOONBEGINS_ARCHETYPE	The Archetype			Attention : voici la Lune Sombre !			94	076.jpg	I7F69
+DARKMOON_GIRLTHOUGHTS	Girl			"Au cours de ma marche onirique, j'ai vu une assemblée d'arbres détruits par la foudre & j'ai senti la présence d'une chose extrêmement sacrée."					
+DARKMOON_LOGFELLATHOUGHTS	Logfella			"La nuit dernière, j'ai entendu une musique lancinante qui semblait venir des bûches situées derrière ma hutte. Qu'est-ce que ça pouvait être ?"					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			"Wouaf Wouaf Wouaf - lorsque je dors, je ne vois que les petites bulles sonores des esprits de la forêt."					
+AMPHITHEATRE_OUTRO	The Scythian			Nous avons rassemblé le Trigone Trifecta & nous sommes héroïques.			164	081.jpg	48G1Q
+RABBITS_3MURDERS	The Scythian			Nous avons inexplicablement assassiné 3 lapins sans défense.					
+RABBITS_7MURDERS	The Scythian			Nous avons inexplicablement assassiné 7 lapins sans défense - serait-ce la preuve d'un esprit dérangé ?					
+RABBITS_13MURDERS	The Scythian			Nous avons inexplicablement assassiné 13 lapins sans défense.					
+RABBITS_17MURDERS	The Scythian			Nous avons inexplicablement assassiné 17 lapins sans défense. Rien ne nous arrête.					
+RABBITS_23MURDERS	The Scythian			Nous avons inexplicablement assassiné 23 lapins sans défense.					
+RABBITS_37MURDERS	The Scythian			Nous avons inexplicablement assassiné 37 lapins sans défense. Nous sommes curieux de voir ce qui arrivera si nous continuons cette folie meurtrière.					
+RABBITS_53MURDERS	The Scythian			Nous avons inexplicablement assassiné 53 lapins sans défense. Nous souffrons clairement d'un trouble obsessionnel compulsif.					
+RABBITS_91MURDERS	The Scythian			Nous avons inexplicablement assassiné 91 lapins sans défense.					
+RABBITS_107MURDERS	The Scythian			Nous avons inexplicablement assassiné 107 lapins sans défense. Peut-être que nos pulsions meurtrières se calmeraient si nous arrêtions de compter ?					
+ARCHETYPE_CREDITS	The Archetype								
+				S:S&S EP est un projet collaboratif de type jeu vidéo réalisé à Toronto. Restez en contact ou suivez-nous sur swordandsworcery.com					
+			Logos/superbrothers	Concept original par l'organisation artistique et de design connue sous le nom de Superbrothers Inc. sur superbrothers.ca					
+				Chansons et certains sons du compositeur et rockstar bien-aimé Jim Guthrie sur jimguthrie.org					
+			Logos/capy	Ingénierie et miracles réalisés par le studio indépendant de jeu vidéo Capy sur capybaragames.com					
+			Logos/eightfour	"Localisation japonaise, marketing, relations publiques et amour assurés par 8-4, Ltd. TOUT LE PERSONNEL 8-4.jp"					
+				* * * ÉQUIPE DE S:S&S EP * * *					
+				"Concept, art, design, direction et écriture par des représentants de Superbrothers Inc."					
+				"Design, leadership de projet, soutien indéfectible et bien plus encore par Kris Piotrowski, directeur créatif chez Capy."					
+				"Systèmes, architecture technique, interface utilisateur, moteur et bien plus encore par Jon Maur, programmeur technique principal sur S:S&S EP chez Capy."					
+				"Scripting, combat et travail miraculeux par Frankie Leung, programmeur principal de gameplay sur S:S&S EP chez Capy."					
+				"Inspiration, chansons, sons, âme et bien plus encore, gracieuseté de Jim Guthrie, compositeur, héros folklorique et rockstar-at-large."					
+				* * * AUSSI * * *					
+				"La voix de Logfella par Robert Ashley, créateur de l'émission de radio A Life Well Wasted sur www.alifewellwasted.com"					
+				La voix de The Scythian par la photographe Robyn Cumming sur robyncumming.com					
+				La voix de The Archetype par l'artiste et cinéaste Clive Holden sur cliveholden.com					
+				Les sons cosmiques de The Moon Grotto par Scientific American sur scntfc.com					
+				* * * SOUTIEN DE CAPY * * *					
+				"Producteur exécutif, héros du peuple, leadership et stratégie assurés par Nathan Vella, président de Capy."					
+				"Producteur PC, assistance technique audio, intégration FMOD et nombreux beaux sons par Sean ""Uber"" Lohrisch, co-fondateur de Capy."					
+				"Assistance administrative et commerciale par Matt ""Juggalord"" Repetski, co-fondateur de Capy."					
+				"Assurance qualité et héros des tests intensifs par Christian ""Sea Dawg"" Meyer chez Capy."					
+				Programmation principale du port sur ordinateur de bureau et prise en charge du 1080p par nul autre qu'Hubert Wong.					
+				"Support de programmation PC/Mac/Linux supplémentaire, expertise Steam et divers travaux de poids par Drew Grainge"					
+				"Certains actifs artistiques et sourires résolus fournis par Vic ""Meow"" Nguyen de Super TIME Force."					
+				Assurance qualité supplémentaire assurée par l'unique Aaron Eves.					
+				"Support de QA PC supplémentaire de la part de Phil Sandhop, Crystal Edwards et Sebastian Andersson de GameInstinct."					
+				"Gratitude à Xavier Xaden Xen, Joseppe Theodore Blocco et Hank Hudson."					
+				Cookies et autres délices fournis par Thea Gaerlan.					
+				* * * SOUTIEN DE SUPERBROTHERS * * *					
+				"Liaison, communication, assurance qualité, inspiration, patience infinie et soutien moral continu assurés par Jori Baldwin."					
+				"Assistance commerciale, soutien financier et soutien moral constant par Mack C. Adams."					
+				"Un grand merci à Sheila Precious, David Adams, Sarah Adams et Cimarron Corpe pour avoir maintenu le cap dans les mers agitées."					
+				Un grand merci à Jim Guthrie pour s'embarquer dans cette aventure folle vers l'inconnu.					
+				Avec des sons supplémentaires d'un million de dollars gracieuseté de Timothy Muirhead.					
+				* * * SOUTIEN DE 8-4 * * *					
+				Traduction japonaise par le maître des mots RYUTA YAZAWA.					
+				"Édition japonaise, conseils essentiels et soutien continu par MASAHIRO YUKI chez Grasshopper Manufacture www.ghm.jp"					
+				Design de logo japonais bad-ass gracieuseté de POLYGRAPH sur www.polygraph.jp					
+				Magie japonaise du site web par Jonathan Lumb sur www.jonnyram.com					
+				"Et enfin, gratitude pour le soutien et l'amitié au Japon: @suda_51, Tomoaki Takahashi, @eightbear, et les artistes remix @baiyon, @akirayamaoka, Michiru Yamane, @macotom3 et Decasségui Hip"					
+				* * * DOMINION DU CANADA * * *					
+			Logos/omdc	Ce projet a été rendu possible grâce au soutien financier de la Société de développement de l'industrie des médias de l'Ontario (OMDC).					
+				"* * * NOUS VOUS AIMONS, AIMONS, AIMONS * * *"					
+				"Un grand merci à Brandon Boyer, Mathew Kumar et Jason DeGroot pour avoir aligné les étoiles."					
+				"Beaucoup d'amour pour les incroyables communautés de jeux vidéo DIY de Toronto et les charmantes personnes de The Hand Eye Society, TOJam & Gamercamp."					
+				À la famille et aux amis: nous vous aimons et nous avons hâte de vous revoir. Comment ça va depuis la dernière fois ?					
+				"À tous ceux qui ont soutenu et encouragé ce projet: merci infiniment pour votre patience, votre curiosité et votre confiance !"					
+				* * * PROCESSUS * * *					
+				"Pixel artwork créé entièrement avec Promotion par Cosmigo, avec d'autres éléments visuels créés avec Illustrator et Photoshop par Adobe."					
+				Les sons et les chansons ont été créés à l'aide de MTV Music Generator par Codemasters pour PSOne et/ou Garageband et Logic Studio par Apple.					
+			Logos/FMOD	Les sons et les chansons ont été intégrés au projet à l'aide de FMOD par Firelight Technologies.					
+				Dolby et le symbole en double-D sont des marques de commerce de Dolby Laboratories.					
+				Une solution audio PC contenant Dolby® Digital Live est requise pour l'audio Dolby Digital.					
+				"DTS® et DTS Digital Surround® sont des marques déposées de DTS, Inc."					
+				Le code a été programmé en C++ et en script Lua avec tolua++. Les cartes et les éléments du monde ont été créés avec des outils propriétaires chez Capy.					
+				Les calculs de phase lunaire et les algorithmes astronomiques ont été réalisés grâce à voidware.com/moon_phase.htm					
+				"Les API utilisées pour la réalisation de S:S&S EP incluent twitcurl, tinyxml, libpng/zlib, SDL, cmake et minizip."					
+				Une version très précoce a été soumise au Festival international du jeu indépendant le 1er novembre 2009.					
+				S:S&S EP a été annoncé le 1er décembre 2009.					
+				"Début 2010, il a été annoncé que le projet avait remporté le prix 'Achievement in Art' de l'IGF Mobile, ce qui était super génial."					
+				La première démonstration publique en direct de S:S&S EP a eu lieu lors d'un événement social de Hand Eye Society à Toronto le 14 février 2010.					
+				La première version jouable de S:S&S EP a été présentée aux participants et aux amis lors de la GDC 2010 à San Francisco du 9 au 13 mars 2010.					
+				La première séquence de jeu non éditée de la version GDC est apparue simultanément en ligne et a fait sensation.					
+				"Moins de discussions, plus de rock : La langue maternelle des jeux vidéo a été publiée en ligne sur Boing Boing en mars 2010 et vous pouvez la rechercher sur Google."					
+				"Le projet ""est resté dans l'ombre"" pendant quelques mois alors que nous, vous savez, faisions réellement le jeu vidéo. Clic clic clic clic."					
+				'The Intoxication of Mythology' a été présenté par un représentant de Superbrothers le 22 septembre 2010 lors du Fantastic Arcade à Austin.					
+				"'Aiming for Audiovisual Alchemy' a été présenté par Jim Guthrie, Kris Piotrowski et un représentant de Superbrothers à Gamercamp à Toronto."					
+				Il a fallu un peu plus de temps pour réellement le terminer.					
+				Un nouveau clip intitulé 'Audience Calibration Procedure' a été publié le jeudi 24 février 2011 pour lancer les choses.					
+				"S:S&S EP a finalement été rendu disponible pour iPad autour de l'équinoxe de printemps en 2011, peu avant la fin du monde."					
+				"Nous avons organisé MIDSUMMER ROCKSHOWCASE au TIFF Lightbox à Toronto, avec des performances live de Jim Guthrie sur du matériel S&S - c'était génial !"					
+				"S:S&S EP a finalement été lancé pour iPhone et iPod Touch, et il y a eu beaucoup de joie."					
+				"Dans les mois qui ont suivi le lancement, certains d'entre nous se sont mariés, d'autres ont rompu et nous avons tous un peu avancé."					
+				Jim Guthrie a été invité à créer la bande originale du film documentaire Indie Game: The Movie.					
+				"Capy est déjà profondément impliqué dans la création de la prochaine série de jeux vidéo, dont le déconcertant SUPER T.I.M.E. FORCE."					
+				"Le personnel de Superbrothers Inc prend du temps pour rêver de nouveaux rêves, monte sur le TELETEX pour rester en contact."					
+				"S:S&S EP a été l'un des ""Top 10 des jeux vidéo de 2011"" selon le magazine Time, aux côtés d'efforts AAA tels que Dark Souls et Skyrim - wow !"					
+				La bande originale de Jim Guthrie a été reconnue comme 'La meilleure musique de jeu vidéo de 2011' par Kirk Hamilton chez Kotaku.					
+				"La #sworcery Twitterstorm de S:S&S EP lors du lancement a été 'l'un des plus grands événements Internet de 2011', selon Co.Design & Syzygy."					
+				"S:S&S EP a remporté un prix du Game Developer's Choice Award lors de la GDC 2012, surpassant des efforts AAA... ce qui était incroyablement génial."					
+				"Jim Guthrie a sorti un nouvel album intitulé 'The Children of the Clone', présentant des chefs-d'œuvre perdus dans l'univers de S:S&S EP."					
+				"Après cela, l'histoire devient un peu floue, alors rendez-vous sur swordandsworcery.com pour en savoir plus !"					
+				"Ce fut une aventure incroyablement positive, nous espérons que vous continuerez à creuser."					
+				N'oubliez pas de vous connecter au BULLETIN TELETEX sur superbrothers.ca pour les dernières nouvelles de l'équipe de Superbrothers Inc.					
+				* * * TWEETEZ-LES ? * * *					
+				"S:S&S EP est une expérience audacieuse dans le cinéma d'entrée-sortie, quoi que cela soit censé signifier."					
+				S:S&S EP est une approche novatrice du jeu d'aventure à l'ancienne avec une emphase sur le style audiovisuel.					
+				"S:S&S EP est inspiré du travail des créateurs de jeux vidéo pionniers Shigeru Miyamoto, Jordan Mechner, Eric Chahi et Fumito Ueda."					
+				S:S&S EP est un rêve fiévreux de famicom.			38	082.jpg	28B24
+				S:S&S EP a été créé avec en tête la mythopoétique psychocosmologie des récits d'épées et de sorcellerie de Robert E. Howard.					
+				S:S&S EP est un lien vers le passé.			167	083.jpg	18E3V
+				"S:S&S EP est un premier effort, donc oui, c'est un peu expérimental."					
+				Le concept esthétique de S:S&S EP est 'l'aventure vidéoludique archétypale'.					
+				S:S&S EP fait allusion de manière oblique à Carl G. Jung et à son fascinant 'Livre Rouge' un peu partout.					
+				"S:S&S EP est une petite chose astucieuse que je ne comprends pas vraiment, mais que je pense que tout le monde devrait jouer sur leur appareil à écran tactile ou leur PC."					
+				"S:S&S EP est un haïku de jeu vidéo brut sur la vie, l'amour et la mort."					
+				S:S&S EP est un choix judicieux de mythes et de rêves.					
+				S:S&S EP a été créé en pensant à un large public cultivé.					
+				"À l'origine, S:S&S EP devait s'appeler 'Poopsock'. C'est en fait vrai."					
+				* * * C’EST FINI. * * *					
+				Que va-t-il se passer après tout ça ? Et qu'est-ce que c'est que cette transmission délirante ? Que nous réserve le futur ?					
+				"Si vous aimez acheter des photos, des vêtements, des enregistrements, des jeux vidéos ou autres, cherchez-nous sur internet !"					
+				"Si vous avez apprécié le style de divertissement audiovisuel proposé par S:S&S EP, n'hésitez pas à le dire au monde entier !"					
+				"Nous sommes amis cosmiques pour la vie maintenant, d'accord ?"			87	084.jpg	L8A48
