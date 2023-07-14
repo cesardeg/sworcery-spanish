@@ -18,9 +18,9 @@ locale_name=$(validate_locale "$locale")
 
 # Choose the appropriate files.txt based on the locale
 if [[ "$locale" == "ru" ]]; then
-  files_txt="${script_dir}/cyrillic_files.txt"
+  files_txt="${script_dir}/files/desk_cyrillic.txt"
 else
-  files_txt="${script_dir}/latin_files.txt"
+  files_txt="${script_dir}/files/desk_latin.txt"
 fi
 
 # Determine the fonts and locales folders based on the locale
@@ -48,6 +48,12 @@ while IFS= read -r file; do
 
   if [[ $file == fonts/* ]]; then
     source_path="${fonts_folder}/${file_path}"
+    # Check if the destination file contains "ipad" in its name
+    if [[ $file == *"ipad"* ]]; then
+      # Replace "ipad" with "4x" in the source file name
+      source_file_name="${file_path/ipad/4x}"
+      source_path="${fonts_folder}/${source_file_name}"
+    fi
   elif [[ $file == locales/* ]]; then
     source_path="${locales_folder}/${file_path}"
   fi

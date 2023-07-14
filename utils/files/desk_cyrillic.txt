@@ -1,7 +1,6 @@
 locales/dialog.tsv
 locales/strings.tsv
 
-fonts/conduit_itc.fnt
 fonts/conduit_itc_ipad.fnt
 fonts/conduit_itc_ipad_0.png
 

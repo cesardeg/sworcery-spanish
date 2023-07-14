@@ -1,7 +1,6 @@
 locales/dialog.tsv
 locales/strings.tsv
 
-fonts/conduit_itc.fnt
 fonts/conduit_itc_4x.fnt
 fonts/conduit_itc_4x_0.png
 

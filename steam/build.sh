@@ -33,16 +33,16 @@ mkdir -p "$res_dir"
 # Copy the sworcery.dat file to the res directory
 cp "$sworcery_dat_path" "$res_dir"
 
-# # Run the unpack.sh script
-# "${script_dir}/unpack.sh" "$res_dir"
+# Run the unpack.sh script
+"${script_dir}/unpack.sh" "$res_dir"
 
 # Run the copy_files.sh script
 "${script_dir}/../utils/copy_files.sh" "$res_dir" "$locale"
 
-# # Run the repack.sh script
-# "${script_dir}/repack.sh" "$res_dir"
+# Run the repack.sh script
+"${script_dir}/repack.sh" "$res_dir"
 
-# # Run the build-cat.py script
-# "${script_dir}/build-cat.py" "$res_dir"
+# Run the build-cat.py script
+"${script_dir}/build-cat.py" "$res_dir"
 
 echo "Localization build completed for locale: $locale"
