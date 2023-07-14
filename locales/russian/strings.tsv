@@ -1,0 +1,122 @@
+id	English
+GAME_NAME	Superbrothers: Sword & Sworcery EP
+GAME_MOTTO	СМЕЛЫЙ ЭКСПЕРИМЕНТ В ИНТЕРАКТИВНОМ КИНО
+GAME_NAME_SHORT	S:S&SEP
+WITH_SONGS	МУЗЫКА И ЗВУКИ
+JIM_GUTHRIE	ДЖИМА ГАТРИ
+FOR_DEMO	ТОЛЬКО ДЛЯ ДЕМОНСТРАЦИИ
+END_DEMO	Так заканчивается демо
+SIDE_A	СТОРОНА А
+SIDE_B	СТОРОНА Б
+ROTATE	АКТИВИРОВАТЬ?
+INVENTORY_ROTATE	ПОВЕРНУТЬ?
+LOOK	СМОТРИ
+LISTEN	СЛУШАЙ
+TOUCH	ЩЁЛКАЙ 2 РАЗА
+DREAM	МЕЧТАЙ
+TOUCH_ARROW_LEFT	< <ЩЁЛКНИ
+TOUCH_ARROW_RIGHT	ЩЁЛКНИ> >
+GUIDE_ARROW_LEFT	< <ВЕДИ
+GUIDE_ARROW_RIGHT	ВЕДИ> >
+OBSERVE	ОСМОТРИСЬ
+INVESTIGATE	ОБСЛЕДУЙ
+SHAKE	ТРЯСТИ?
+REFLECT	ОТРАЖАЙ
+BELIEVE	ПОВЕРЬ
+BEWARE	БЕРЕГИСЬ
+FOLLOW	СЛЕДОВАТЬ?
+ROTATE_UNSHEATHE	< < ОБНАЖИ СВОЙ МЕЧ
+GO_HOME	ВЕРНУТЬСЯ ДОМОЙ?
+START_ARROW_RIGHT	НАЧНИ > > >
+TRESPASS	ПРОХОДИ
+AVOID	УКЛОНЯЙСЯ
+CONSIDER	ЗАДУМАЙСЯ
+PERSEVERE	УПОРСТВУЙ
+START_OVER	НАЧАТЬ ЗАНОВО?
+PROMPT_YES	ДА
+PROMPT_NO	НЕТ
+PROMPT_OK	ОК
+PROMPT_CANCEL	ОТМЕНА
+PROMPT_SUBMIT	ОТПРАВИТЬ
+PROMPT_DELETE_SAVE	ХОТИТЕ УДАЛИТЬ СОХРАНЕНИЕ?
+FULLSCREEN	ПОЛНЫЙ ЭКРАН
+FULLSCREEN_YES	ДА
+FULLSCREEN_NO	НЕТ
+VOLUME	ГРОМКОСТЬ
+SETTINGS	ОПЦИИ
+CLEAR_DATA	УДАЛИТЬ ДАННЫЕ
+KEEP_CHANGES	СОХРАНИТЬ ИЗМЕНЕНИЯ?
+KEEP_CHANGES_AUTO	СОХРАНИТЬ ИЗМЕНЕНИЯ? АВТО-ОТМЕНА ПРОИЗОЙДЁТ ЧЕРЕЗ
+GAME_RESTART_REQUIRED	ЧТОБЫ ИЗМЕНЕНИЯ ВСТУПИЛИ В СИЛУ, НЕОБХОДИМО ПЕРЕЗАПУСТИТЬ ИГРУ
+TWITTER_BROADCAST	МОЖЕТЕ ПЕРЕДАТЬ ЭТО В TWITTER
+TWITTER_SETTINGS	TWITTER
+TWITTER_TWEET	TВИТНУТЬ?
+TWITTER_SIGN_IN	ВОЙТИ В TWITTER
+TWITTER_USERNAME	ИМЯ ПОЛЬЗОВАТЕЛЯ
+TWITTER_PASSWORD	ПАРОЛЬ
+TWITTER_NEVERMIND	НАЗАД
+TWITTER_TWEETING	ТВИТ...
+TWITTER_SIGNING_IN	ВХОД...
+TWITTER_SUCCESS	УСПЕХ!
+TWITTER_FAILED	НЕУДАЧА
+TWITTER_WRONG_LOGIN	НЕПРАВИЛЬНОЕ ИМЯ ПОЛЬЗОВАТЕЛЯ ИЛИ ПАРОЛЬ
+TWITTER_CONNECT_FAIL	НЕТ СОЕДИНЕНИЯ
+TWITTER_SIGN_IN_ONLY	ВОЙТИ
+TWITTER_SIGN_OUT_ONLY	ВЫЙТИ
+TWITTER_SIGNED_IN	ВЫ ВОШЛИ В TWITTER
+TWITTER_SIGNED_OUT	ВЫ НЕ ВОШЛИ В TWITTER
+TWITTER_FILL_OUT	ПОЖАЛУЙСТА, ЗАПОЛНИТЕ ВСЕ ПОЛЯ
+EPITAPH	В МЕОТИЙСКИХ БОЛОТАХ БОЛЬШЕ НЕ ОСТАЛОСЬ СЕКРЕТОВ
+FIGHT	ДРАТЬСЯ?
+DARKMOON_COUNT_9	НОВОЛУНИЕ ЧЕРЕЗ 9 ДНЕЙ
+DARKMOON	НОВОЛУНИЕ
+BRIGHTMOON	ПОЛНОЛУНИЕ
+DARKMOON_BEFORE_NUM	ДО НОВОЛУНИЯ 
+DARKMOON_AFTER_1	ДЕНЬ
+DARKMOON_AFTER_MORE	ДНЯ(-ЕЙ)
+BRIGHTMOON_BEFORE_NUM	ДО ПОЛНОЛУНИЯ 
+BRIGHTMOON_AFTER_1	ДЕНЬ
+BRIGHTMOON_AFTER_MORE	ДНЯ(-ЕЙ)
+TIME_PARADOX	* ВРЕМЕННОЙ ПАРАДОКС *
+ERRAND_END	ВЫ ИСПОЛНИЛИ ВАШЕ ПЕЧАЛЬНОЕ ПРЕДНАЗНАЧЕНИЕ.
+BEWARE_BOOR	БЕРЕГИСЬ КОСОЛАПОГО ХАМА
+MOVE_CONTROLS	УДЕРЖИВАЙ КНОПКУ ДЛЯ ДВИЖЕНИЯ
+STOP_CONTROLS	ЩЁЛКАЙ 2 РАЗА ДЛЯ ОСТАНОВКИ?
+STOP_CONTROLS_ARROW	< < ЩЁЛКНУТЬ 2 РАЗА ДЛЯ ОСТАНОВКИ?
+SLAY	УБИТЬ?
+ZOOM_CONTROLS	< < <  ПРИБЛИЗИТЬ? > > >
+LOOK_CONTROLS	ЩЁЛКНИ, УДЕРЖИВАЙ КНОПКУ И ВЕДИ ПО ЧАРОБЕЙСКОЙ АУРЕ
+LOOK_CONTROLS_2	ЩЁЛКНИ И ДВИГАЙ МЫШЬЮ, ЧТОБЫ ОСМОТРЕТЬСЯ
+TONGUE_TEXT	Обнажи свой скифский меч, подыми его над головой, коснувшись радуги, и уверуй
+TOUCH_HOLD	ЩЁЛКНИ И УДЕРЖИВАЙ
+TOUCH_HOLD_ARROW_LEFT	< < ЩЁЛКНИ И УДЕРЖИВАЙ
+TOUCH_HOLD_ARROW_RIGHT	ЩЁЛКНИ И УДЕРЖИВАЙ > >
+TIP_TAP_QUESTION	ЩЁЛНУТЬ 2 РАЗА?
+TIP_TAP_ARROW_LEFT	< < ЩЁЛКАЙ 2 РАЗА
+TIP_TAP_ARROW_LEFT_Q	< < ЩЁЛКНУТЬ 2 РАЗА?
+TIP_TAP_ARROW_RIGHT	ЩЁЛКАЙ 2 РАЗА > >
+RUB	ПОТРИ
+QUIT	ВЫХ.
+TAP_ARROW_LEFT	< < ЩЁЛКНИ
+MOON_TIME_1	только что
+MOON_TIME_2	совсем недавно
+MOON_TIME_3	недавно
+MOON_TIME_4	на днях
+MOON_TIME_5	много лун назад
+MOON_TIME_6	давным-давно
+COSMIC_FRIENDS	ТЕПЕРЬ МЫ КОСМИЧЕСКИЕ ДРУЗЬЯ НАВСЕГДА... OK?
+The Scythian	Скифка
+Girl	Девушка
+Logfella	Чурбан
+Dogfella	Дружок
+The Archetype	Архетип
+EXIT	ВЫХОД
+RESOLUTION	РАЗРЕШЕНИЕ
+RESET	СБРОС
+PROMPT_CONFIRM_QUIT	ВЫЙТИ В ГЛАВНОЕ МЕНЮ?
+APPLY	ИСП	
+BACK	НАЗАД	
+PROMPT_CONFIRM_EXITGAME	ХОТИТЕ ВЫЙТИ ИЗ ИГРЫ?	
+HASHTAG_SWORCERY	#sworcery
+DIGIT_STRING	"0123456789"
+HOLD_SHIELD_TO_HEAL	ДЛЯ ЛЕЧЕНИЯ, ДЕРЖИТЕ ЩИТ

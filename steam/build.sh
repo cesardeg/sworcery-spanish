@@ -21,17 +21,11 @@ fi
 # Set locale argument
 locale=${2:-"es"}
 
-locale_dir=""
-case "$locale" in
-  "es") locale_dir="spanish";;
-  "fr") locale_dir="french";;
-  "it") locale_dir="italian";;
-  "pt") locale_dir="portuguese";;
-  *) echo "Invalid locale. Valid locales are: es, fr, it, pt"; exit 1;;
-esac
+source "${script_dir}/../utils/validate_locale.sh"
+validate_locale "$locale"
 
 # Set the res dir based on the script directory and locale
-res_dir="${script_dir}/../build/steam/$locale_dir"
+res_dir="${script_dir}/../build/steam/$locale"
 
 # Create the res directory if it doesn't exist
 mkdir -p "$res_dir"
@@ -39,25 +33,16 @@ mkdir -p "$res_dir"
 # Copy the sworcery.dat file to the res directory
 cp "$sworcery_dat_path" "$res_dir"
 
-# Run the unpack.sh script
-"${script_dir}/unpack.sh" "$res_dir"
+# # Run the unpack.sh script
+# "${script_dir}/unpack.sh" "$res_dir"
 
-# Copy files from locales/${locale_dir}/ to build/locales
-locales_files=$(grep -E '^locales/' "${script_dir}/files.txt" | sed 's/^locales\///')
-while IFS= read -r file; do
-  cp "${script_dir}/../locales/${locale_dir}/$file" "${res_dir}/locales/"
-done <<< "$locales_files"
+# Run the copy_files.sh script
+"${script_dir}/../utils/copy_files.sh" "$res_dir" "$locale"
 
-# Copy files from fonts/patched/ to build/fonts
-fonts_files=$(grep -E '^fonts/' "${script_dir}/files.txt" | sed 's/^fonts\///')
-while IFS= read -r file; do
-  cp "${script_dir}/../fonts/patched/$file" "${res_dir}/fonts/"
-done <<< "$fonts_files"
+# # Run the repack.sh script
+# "${script_dir}/repack.sh" "$res_dir"
 
-# Run the repack.sh script
-"${script_dir}/repack.sh" "$res_dir"
-
-# Run the build-cat.py script
-"${script_dir}/build-cat.py" "$res_dir"
+# # Run the build-cat.py script
+# "${script_dir}/build-cat.py" "$res_dir"
 
 echo "Localization build completed for locale: $locale"
