@@ -55,7 +55,6 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 				Prêts à commencer ? Cliquez sur le bouton & c'est parti.					
 ARCHETYPE_FOUNDATION	The Archetype			"S:S&S EP en lui-même ne produit pas l'expérience transcendantale, il est simplement prévu pour libérer le système nerveux des schémas habituels."					
 				"Le troisième aspect du ""cadre"" est le culturel - les notions de réalité & de normalité dominantes. Nous éviterons cette discussion pour le moment."					
-				"Le ""cadre"" inclut également l'aspect social. Nous avons découvert que les réseaux sociaux jouent un rôle positif significatif."					
 				"Le ""cadre"" inclut le confort, la sécurité et la température de la pièce ou de l'environnement extérieur où l'expérience a lieu."					
 				Nous avons découvert qu'un individu détendu et curieux a plus de chance d'avoir une expérience plaisante avec S:S&S EP.					
 				"L'""état"" fait référence à l'état mental & à la structure de la personnalité que vous apportez à l'expérience - vos pensées, humeurs et/ou attentes."					
@@ -106,7 +105,7 @@ ARCHETYPE_UNWELLWELLOUTRO	The Archetype
 INFO_CABINCHIMNEY	The Scythian			Nous aperçûmes une solide hutte en pierre au toit de chaume qui se tenait près d'un profond étang.					
 INFO_CABINWOODPILE	The Scythian			"Nous aperçûmes un tas de bois de chauffage fendu, rien d'exceptionnel."					
 INFO_SPUME	The Scythian			Nous vîmes les petites bulles sonores d'un esprit de la forêt endormi. À présent... comment le réveiller ?					
-INFO_NESTBOX	The Scythian			"Nous aperçûmes un étrange nichoir avec l'inscription ""Tweetez & vous s'rez retweeté""."			13	015.jpg	B1C5F
+INFO_NESTBOX	The Scythian			Nous aperçûmes un étrange nichoir, désormais foyer d'une ruche misérable.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			"Nous aperçûmes un nichoir délabré qui, d'une certaine manière, faisait penser à un visage effrayant."					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Un sinistre mât orné d'un ensemble de crânes était fixé à un tronc sur la vieille route.					
 INFO_GOLDTRIGONALTAR	The Scythian			"Au-delà de la grotte caverneuse de la prairie, nous trouvâmes un bosquet isolé avec une collection d'étranges structures en pierre."					

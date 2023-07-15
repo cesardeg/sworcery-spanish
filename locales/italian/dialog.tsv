@@ -55,7 +55,6 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 				Pronti per iniziare? Premete play & andiamo!					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP non provoca un'esperienza trascendentale, desidera semplicemente liberare il sistema nervoso dai classici schemi.					
 				"Il terzo aspetto del ""Setting"" è quello culturale - prevalentemente nozioni di realtà & normalità. Per ora eviteremo questo argomento."					
-				"Il ""Setting"" comprende anche l'aspetto sociale. Abbiamo scoperto che il supporto ai social networks gioca un significativo ruolo positivo."					
 				"Il ""Setting"" comprende il comfort, la sicurezza & il calore della stanza o dell'ambiente esterno dove avverrà l'esperienza."					
 				Abbiamo scoperto che un individuo rilassato, curioso è più incline ad avere un'esperienza soddisfacente con S:S&S EP.					
 				"Il ""Set"" si riferisce allo stato mentale & caratteriale con cui ci si approccia all'esperienza - pensieri, sensazioni e/o aspettative."					
@@ -106,7 +105,7 @@ ARCHETYPE_UNWELLWELLOUTRO	The Archetype
 INFO_CABINCHIMNEY	The Scythian			Notammo una robusta baita di pietra con un tetto di paglia che sorgeva accanto a uno stagno dalle acque profonde.					
 INFO_CABINWOODPILE	The Scythian			Notammo una pila di legna tagliata, niente di importante.					
 INFO_SPUME	The Scythian			Localizzammo le dolci spume sonore di un folletto silvano dormiente. Ora... come fare per evocarlo?					
-INFO_NESTBOX	The Scythian			Notammo un nido artificiale dall'aspetto curioso con un'iscrizione che diceva 'Tweetta & sarai ri-tweettato'.			13	015.jpg	B1C5F
+INFO_NESTBOX	The Scythian			Notammo un nido artificiale dall'aspetto curioso, ora dimora di un'infausta arnia.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Notammo un nido dall'aspetto consunto che somigliava in modo raccapricciante a una specie di faccia.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A cavallo di un ponte di legno sull'antica strada si ergeva una lugubre asta adornata da robusti teschi.					
 INFO_GOLDTRIGONALTAR	The Scythian			Oltre la caverna cavernosa nel prato ci imbattemmo in un boschetto isolato con una serie di strane strutture petrose.					
