@@ -1,7 +1,17 @@
 locales/dialog.tsv
 locales/strings.tsv
+fonts/conduit_itc.fnt
+fonts/conduit_itc_0.png
+fonts/conduit_itc_2x.fnt
+fonts/conduit_itc_2x_0.png
 fonts/conduit_itc_4x.fnt
 fonts/conduit_itc_4x_0.png
+fonts/arial_narrow_2x.fnt
+fonts/arial_narrow_bold_2x.fnt
+fonts/arial_narrow_tiny_2x.fnt
+fonts/arial_narrow_2x_0.png
+fonts/arial_narrow_bold_2x_0.png
+fonts/arial_narrow_tiny_2x_0.png
 fonts/arial_narrow_4x.fnt
 fonts/arial_narrow_bold_4x.fnt
 fonts/arial_narrow_tiny_4x.fnt

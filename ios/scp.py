@@ -20,9 +20,6 @@ password = 'alpine'
 # Script directory
 script_dir = os.path.dirname(os.path.realpath(__file__))
 
-# Local file paths for fonts and locales
-fonts_dir = os.path.join(script_dir, "..", "fonts", "patched")
-locales_dir = os.path.join(script_dir, "..", "locales")
 
 # Destination paths on the iPhone for fonts and locales
 fonts_dest = "/var/containers/Bundle/Application/{uuid}/SwordAndSworcery-Uni.app/fonts/"
@@ -39,9 +36,15 @@ elif locale == "it":
     language_dir = "italian"
 elif locale == "pt":
     language_dir = "portuguese"
+elif locale == "ru":
+    language_dir = "russian"
 else:
-    print("Invalid locale. Valid locales are: es, fr, it, pt")
+    print("Invalid locale. Valid locales are: es, fr, it, pt, ru")
     exit(1)
+
+# Local file paths for fonts and locales
+fonts_dir = os.path.join(script_dir, "..", "fonts")
+locales_dir = os.path.join(script_dir, "..", "locales", language_dir)
 
 # Create an SSH client instance
 client = paramiko.SSHClient()
@@ -74,15 +77,35 @@ try:
         exit(1)
 
     # Copy font files to the iPhone
-    for file in ["conduit_itc.fnt", "conduit_itc_2x.fnt", "conduit_itc_4x.fnt"]:
-        local_file_path = os.path.join(fonts_dir, file)
+    fonts = [
+        ["cyrillic" if locale == "ru" else "patched", "conduit_itc.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "conduit_itc.png"],
+        ["cyrillic" if locale == "ru" else "patched", "conduit_itc_2x.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "conduit_itc_2x_0.png"],
+        ["cyrillic" if locale == "ru" else "patched", "conduit_itc_4x.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "conduit_itc_4x_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_2x.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold_2x.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny_2x.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_2x_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold_2x_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny_2x_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_4x.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold_4x.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny_4x.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_4x_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold_4x_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny_4x_0.png"]
+    ]
+    for [folder, file] in fonts:
+        local_file_path = os.path.join(fonts_dir, folder, file)
         remote_file_path = fonts_dest.format(uuid=app_folder_path) + file
         sftp.put(local_file_path, remote_file_path)
         print(f"Successful copy: {file}")
 
     # Copy locale files to the iPhone
     for file in ["strings.tsv", "dialog.tsv"]:
-        local_file_path = os.path.join(locales_dir, language_dir, file)
+        local_file_path = os.path.join(locales_dir, file)
         remote_file_path = locales_dest.format(uuid=app_folder_path) + file
         sftp.put(local_file_path, remote_file_path)
         print(f"Successful copy: {file}")
