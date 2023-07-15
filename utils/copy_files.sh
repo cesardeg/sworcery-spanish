@@ -9,18 +9,24 @@ destination_dir=$1
 # Set the locale argument to "es" if not provided
 locale=${2:-"es"}
 
-# Source the validate_locale.sh script
+# Set the locale argument to "es" if not provided
+platform=${3:-"desk"}
+
+# Source the validates_*.sh scripts
 source "${script_dir}/validate_locale.sh"
+source "${script_dir}/validate_platform.sh"
 
 # Validate the locale
 locale_name=$(validate_locale "$locale")
 
+# Validate the platform
+validate_platform "$platform"
 
 # Choose the appropriate files.txt based on the locale
 if [[ "$locale" == "ru" ]]; then
-  files_txt="${script_dir}/files/desk_cyrillic.txt"
+  files_txt="${script_dir}/files/${platform}_cyrillic.txt"
 else
-  files_txt="${script_dir}/files/desk_latin.txt"
+  files_txt="${script_dir}/files/${platform}_latin.txt"
 fi
 
 # Determine the fonts and locales folders based on the locale

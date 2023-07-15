@@ -7,6 +7,12 @@ if [ $# -lt 1 ]; then
   exit 1
 fi
 
+# Get the locale from the second argument
+locale=${2:-"es"}
+
+source "${script_dir}/../utils/validate_locale.sh"
+validate_locale "$locale"
+
 # Get the IPA file path or directory
 ipa_path=$1
 
@@ -25,21 +31,8 @@ if [ ${#ipa_files[@]} -eq 0 ]; then
   exit 1
 fi
 
-# Get the locale from the second argument
-locale=${2:-"es"}
-
-# Map the locale to the language directory
-language_dir=""
-case "$locale" in
-  "es") language_dir="spanish";;
-  "fr") language_dir="french";;
-  "it") language_dir="italian";;
-  "pt") language_dir="portuguese";;
-  *) echo "Invalid locale. Valid locales are: es, fr, it, pt"; exit 1;;
-esac
-
 # Define the resource directory (res_dir)
-res_dir="${script_dir}/../build/ios/${language_dir}"
+res_dir="${script_dir}/../build/ios/${locale}"
 
 # Create the resource directory if it doesn't exist
 mkdir -p "$res_dir"
@@ -59,17 +52,11 @@ for ipa_file in "${ipa_files[@]}"; do
     echo "No .app folder found inside the IPA file. Skipping IPA file: $ipa_file"
     continue
   fi
-  
-  # Copy or replace the font files in the corresponding directory
-  cp "${script_dir}/../fonts/patched/conduit_itc.fnt" "$app_folder/fonts/conduit_itc.fnt"
-  cp "${script_dir}/../fonts/patched/conduit_itc_2x.fnt" "$app_folder/fonts/conduit_itc_2x.fnt"
-  cp "${script_dir}/../fonts/patched/conduit_itc_4x.fnt" "$app_folder/fonts/conduit_itc_4x.fnt"
 
-  # Copy the locale files to the corresponding directory
-  cp "${script_dir}/../locales/${language_dir}/dialog.tsv" "$app_folder/locales/dialog.tsv"
-  cp "${script_dir}/../locales/${language_dir}/strings.tsv" "$app_folder/locales/strings.tsv"
+  # Run the copy_files.sh script
+  "${script_dir}/../utils/copy_files.sh" "$app_folder" "$locale" "mobile"
 
-    # Modify the Info.plist using Python and plistlib
+  # Modify the Info.plist using Python and plistlib
   python3 "$script_dir/patch_info_plist.py" "$app_folder/Info.plist"
   
   # Zip the modified contents back into an IPA file

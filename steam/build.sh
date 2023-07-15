@@ -34,15 +34,32 @@ mkdir -p "$res_dir"
 cp "$sworcery_dat_path" "$res_dir"
 
 # Run the unpack.sh script
-"${script_dir}/unpack.sh" "$res_dir"
+# "${script_dir}/unpack.sh" "$res_dir" "$locale"
 
 # Run the copy_files.sh script
-"${script_dir}/../utils/copy_files.sh" "$res_dir" "$locale"
+"${script_dir}/../utils/copy_files.sh" "$res_dir" "$locale" "desk"
+
+if [ $? -ne 0 ]; then
+  echo "Error: Copy files script failed."
+  exit 1
+fi
 
 # Run the repack.sh script
-"${script_dir}/repack.sh" "$res_dir"
+"${script_dir}/repack.sh" "$res_dir" "$locale"
+
+if [ $? -ne 0 ]; then
+  echo "Error: Repack .dat failed."
+  exit 1
+fi
+
 
 # Run the build-cat.py script
 "${script_dir}/build-cat.py" "$res_dir"
 
-echo "Localization build completed for locale: $locale"
+if [ $? -ne 0 ]; then
+  echo "Error: Copy files script failed."
+  exit 1
+else
+  echo "Localization build completed for locale: $locale"
+fi
+
