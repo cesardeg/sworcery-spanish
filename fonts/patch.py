@@ -11,19 +11,26 @@ def copy_attributes(source, target_file, id_range_start, id_range_end, new_id_ra
     for char_element in chars_element.findall('char'):
         char_id = int(char_element.get('id'))
         
-        if id_range_start <= char_id <= id_range_end:
-            target_char_element = chars_element.find(f'char[@id="{char_id - id_range_start + new_id_range_start}"]')
-            
-            for attr, value in char_element.attrib.items():
-                if attr != 'id':
-                    target_char_element.set(attr, value)
+        if not (id_range_start <= char_id <= id_range_end):
+            continue
+        
+        target_char_id = char_id - id_range_start + new_id_range_start
+        target_char_element = chars_element.find(f'char[@id="{target_char_id}"]')
+        
+        if target_char_element is None:
+            continue
+        
+        for attr, value in char_element.attrib.items():
+            if attr == 'id':
+                continue
+            target_char_element.set(attr, value)
 
     tree = ET.ElementTree(root)
     tree.write(target_file, xml_declaration=True)
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print("Debe proporcionar los argumentos: source_file, target_file")
+        print("You should provide the arguments: source_file, target_file")
         exit(1)
 
     source_file = sys.argv[1]
