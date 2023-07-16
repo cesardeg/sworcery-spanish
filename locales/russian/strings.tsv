@@ -48,6 +48,10 @@ CLEAR_DATA	УДАЛИТЬ ДАННЫЕ
 KEEP_CHANGES	СОХРАНИТЬ ИЗМЕНЕНИЯ?
 KEEP_CHANGES_AUTO	СОХРАНИТЬ ИЗМЕНЕНИЯ? АВТО-ОТМЕНА ПРОИЗОЙДЁТ ЧЕРЕЗ
 GAME_RESTART_REQUIRED	ЧТОБЫ ИЗМЕНЕНИЯ ВСТУПИЛИ В СИЛУ, НЕОБХОДИМО ПЕРЕЗАПУСТИТЬ ИГРУ
+TWITTER_SELECT_BUTTON	ВЫБРАТЬ
+TWITTER_SELECT_MSG	"ПОЖАЛУЙСТА, ВЫБЕРИТЕ УЧЕТНУЮ ЗАПИСЬ TWITTER"
+TWITTER_NO_ACCOUNTS	Настройте Twitter на вашем устройстве
+TWITTER_REQUESTING	ЗАПРОС ДОСТУПА...
 TWITTER_BROADCAST	МОЖЕТЕ ПЕРЕДАТЬ ЭТО В TWITTER
 TWITTER_SETTINGS	TWITTER
 TWITTER_TWEET	TВИТНУТЬ?
@@ -114,9 +118,11 @@ EXIT	ВЫХОД
 RESOLUTION	РАЗРЕШЕНИЕ
 RESET	СБРОС
 PROMPT_CONFIRM_QUIT	ВЫЙТИ В ГЛАВНОЕ МЕНЮ?
-APPLY	ИСП	
-BACK	НАЗАД	
-PROMPT_CONFIRM_EXITGAME	ХОТИТЕ ВЫЙТИ ИЗ ИГРЫ?	
+APPLY	ИСП
+BACK	НАЗАД
+PROMPT_CONFIRM_EXITGAME	ХОТИТЕ ВЫЙТИ ИЗ ИГРЫ?
 HASHTAG_SWORCERY	#sworcery
 DIGIT_STRING	"0123456789"
 HOLD_SHIELD_TO_HEAL	ДЛЯ ЛЕЧЕНИЯ, ДЕРЖИТЕ ЩИТ
+EXIT_TITLE	Выйти из #sworcery?
+EXIT_PROMPT	Вы действительно хотите выйти?
