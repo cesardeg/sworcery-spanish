@@ -4,9 +4,15 @@ fonts/conduit_itc.fnt
 fonts/conduit_itc_0.png
 fonts/conduit_itc_ipad.fnt
 fonts/conduit_itc_ipad_0.png
+fonts/arial_narrow.fnt
+fonts/arial_narrow_0.png
+fonts/arial_narrow_bold.fnt
+fonts/arial_narrow_bold_0.png
+fonts/arial_narrow_tiny.fnt
 fonts/arial_narrow_ipad.fnt
-fonts/arial_narrow_bold_ipad.fnt
-fonts/arial_narrow_tiny_ipad.fnt
 fonts/arial_narrow_ipad_0.png
+fonts/arial_narrow_bold_ipad.fnt
 fonts/arial_narrow_bold_ipad_0.png
+fonts/arial_narrow_tiny_0.png
+fonts/arial_narrow_tiny_ipad.fnt
 fonts/arial_narrow_tiny_ipad_0.png

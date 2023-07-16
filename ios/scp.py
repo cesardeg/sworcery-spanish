@@ -78,23 +78,29 @@ try:
 
     # Copy font files to the iPhone
     fonts = [
-        ["cyrillic" if locale == "ru" else "patched", "conduit_itc.fnt"],
-        ["cyrillic" if locale == "ru" else "original", "conduit_itc.png"],
-        ["cyrillic" if locale == "ru" else "patched", "conduit_itc_2x.fnt"],
+        ["cyrillic" if locale == "ru" else "patched",  "conduit_itc.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "conduit_itc_0.png"],
+        ["cyrillic" if locale == "ru" else "patched",  "conduit_itc_2x.fnt"],
         ["cyrillic" if locale == "ru" else "original", "conduit_itc_2x_0.png"],
-        ["cyrillic" if locale == "ru" else "patched", "conduit_itc_4x.fnt"],
+        ["cyrillic" if locale == "ru" else "patched",  "conduit_itc_4x.fnt"],
         ["cyrillic" if locale == "ru" else "original", "conduit_itc_4x_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny.fnt"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny_0.png"],
         ["cyrillic" if locale == "ru" else "original", "arial_narrow_2x.fnt"],
-        ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold_2x.fnt"],
-        ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny_2x.fnt"],
         ["cyrillic" if locale == "ru" else "original", "arial_narrow_2x_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold_2x.fnt"],
         ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold_2x_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny_2x.fnt"],
         ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny_2x_0.png"],
         ["cyrillic" if locale == "ru" else "original", "arial_narrow_4x.fnt"],
-        ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold_4x.fnt"],
-        ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny_4x.fnt"],
         ["cyrillic" if locale == "ru" else "original", "arial_narrow_4x_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold_4x.fnt"],
         ["cyrillic" if locale == "ru" else "original", "arial_narrow_bold_4x_0.png"],
+        ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny_4x.fnt"],
         ["cyrillic" if locale == "ru" else "original", "arial_narrow_tiny_4x_0.png"]
     ]
     for [folder, file] in fonts:

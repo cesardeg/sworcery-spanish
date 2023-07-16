@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <font>
-  <info face="Liberation Sans Narrow" size="40" bold="0" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="1,1" outline="0"/>
-  <common lineHeight="40" base="33" scaleW="512" scaleH="512" pages="1" packed="0" alphaChnl="1" redChnl="0" greenChnl="0" blueChnl="0"/>
+  <info face="Liberation Sans Narrow" size="-40" bold="0" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="1,1" outline="0"/>
+  <common lineHeight="45" base="37" scaleW="512" scaleH="512" pages="1" packed="0" alphaChnl="1" redChnl="0" greenChnl="0" blueChnl="0"/>
   <pages>
-    <page id="0" file="arial_narrow_tiny_4x_0.png" />
+    <page id="0" file="arial_narrow_tiny_ipad_0.png" />
   </pages>
   <chars count="312">
     <char id="32" x="188" y="117" width="3" height="1" xoffset="-1" yoffset="39" xadvance="8" page="0" chnl="15" />
