@@ -1,5 +1,5 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
-GIRL_TONGUES	Girl			Em um prado banhado pelo sol, longe das estepes devastadas pela guerra da Cítia, conhecemos uma garota de cabelos escuros. #helloworld			72	001.jpg	Z0E1Q
+GIRL_TONGUES	Girl			Em uma campina banhado pelo sol, longe das estepes devastadas pela guerra da Cítia, conhecemos uma garota de cabelos escuros. #helloworld			72	001.jpg	Z0E1Q
 				Os montanheses do Cáucaso a conheciam como Selene e ela parecia agradável. #obviously					
 SIGN_TADPOL	The Scythian			"""Nas chamas dos sonhos, a lua desvela segredos profundos, enquanto o coração se aquece no lar da alma."" #letsmeetindreams"					
 SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria e Pérsia, esses são todos reinos dos homens. Mingi Taw é o Reino das Nuvens."""					
@@ -76,7 +76,7 @@ GIRL_STORM	The Scythian			A garota de cabelo escuro conhecida como Selene estava
 			gourd/gourd	Desde o início da tempestade, Selene havia estado observando as melódicas espumas dos Espíritos Florestais que dormiam nas florestas próximas.					
 			gourd/gourd	Ela se perguntou se os três Espíritos Florestais poderiam ajudar a dissipar a tempestade. #yes					
 			gourd/gourd	Ela nos pediu para investigar as melódicas espumas que borbulhavam na lagoa profunda em frente à cabana.					
-			gourd/gourd	Selene mencionou um espírito em um prado próximo e outro em um ninho, onde três pássaros cantores estavam encharcados pela chuva..					
+			gourd/gourd	Selene mencionou um espírito em uma campina próxima e outro em um ninho, onde três pássaros cantores estavam encharcados pela chuva..					
 			gourd/gourd	Selene nos disse para procurar as melódicas espumas desses três Espíritos Florestais e enviá-las ao céu usando a Canção da Espadância.					
 ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Espadância, uma técnica de expansão da consciência que revela uma dimensão musical mística."""					
 			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o Espírito Florestal que dorme nas águas frescas da lagoa profunda."""					
@@ -86,17 +86,17 @@ ARCHETYPE_TADPOLES	The Archetype			Era evidente que o homem estranhamente vestid
 			gourd/gourd	"""Guie as duas pequenas criaturas nadando em direção ao local onde o espírito dorme e envie-as ao céu com três toques de Espadância."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Selene se abrigava da chuva sob o amplo telhado de madeira do poço.					
 				Ela abandonou o conforto do fogo na cabana porque, aparentemente, Troncadeiro estava divagando sobre algo.					
-INFO_BIRDEYESCULPTURE	The Scythian			Avistamos a escultura de um pássaro zangado sobressaindo no prado. #subtlereference			6	014.jpg	F1D48
-INFO_MEADOWSHEEP	The Scythian			Observamos algumas ovelhas insignificantes preguiçando no prado. #worthlesssheep					
+INFO_BIRDEYESCULPTURE	The Scythian			Avistamos a escultura de um pássaro zangado sobressaindo na campina. #subtlereference			6	014.jpg	F1D48
+INFO_MEADOWSHEEP	The Scythian			Observamos algumas ovelhas insignificantes preguiçando na campina. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			Outra ovelha insignificante, por que continuamos olhando para elas? #worthlesssheep					
 INFO_MEADOWSUN	The Scythian			Podemos nos lembrar vividamente de como o sol parecia impressionante naquele primeiro dia de primavera.					
-INFO_MEADOWGATE	The Scythian			No prado havia um portão de ferro inamovível que bloqueava uma caverna cavernosa.					
-INFO_MEADOWGATEACTIVE	The Scythian			No prado havia um portão de ferro e tínhamos a sensação de que talvez pudéssemos abri-lo de alguma forma.					
+INFO_MEADOWGATE	The Scythian			Na campina havia um portão de ferro inamovível que bloqueava uma caverna cavernosa.					
+INFO_MEADOWGATEACTIVE	The Scythian			Na campina havia um portão de ferro e tínhamos a sensação de que talvez pudéssemos abri-lo de alguma forma.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Descobrimos um troço com a forma do Trigono Dourado sobre o portão de ferro. Será que reagiria à nossa Canção da Espadância?					
 INFO_MEADOWGATETRIGON	The Scythian			Descobrimos um troço sobre o portão de ferro.					
 INFO_LOCKEDDOORSTONEWALL	The Scythian			Uma porta fechada no muro de pedra bloqueava o antigo caminho para Mingi Taw, e aparentemente, a chave estava perdida nos sonhos.					
-INFO_LOOMINGBIRDSCULPTURES	The Scythian			Avistamos a escultura de um pássaro zangado sobressaindo no prado. #subtlereference					
-INFO_MEADOWSUNSTICK	The Scythian			Avistamos um báculo estranho observando o prado.					
+INFO_LOOMINGBIRDSCULPTURES	The Scythian			Avistamos a escultura de um pássaro zangado sobressaindo na campina. #subtlereference					
+INFO_MEADOWSUNSTICK	The Scythian			Avistamos um báculo estranho observando a campina.					
 INFO_CABINWELL	The Scythian			Descobrimos um poço solidamente construído com um amplo telhado de madeira.					
 INFO_UNWELLWELL	The Scythian			O poço soltou um soluço. #unwell #well					
 INFO_WELLNESS	The Scythian			Tudo está bem quando termina bem. #unwell #well #welfare					
@@ -108,7 +108,7 @@ INFO_SPUME	The Scythian			Encontramos as sutis e melódicas espumas de um Espír
 INFO_NESTBOX	The Scythian			Encontramos um ninho curioso que agora abrigava uma colmeia infeliz.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Encontramos um ninho desgastado que parecia um rosto assustador.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, havia um mastro sinistro adornado com caveiras.					
-INFO_GOLDTRIGONALTAR	The Scythian			Além da caverna cavernosa no prado, encontramos um conjunto estranho de estruturas de pedra em uma clareira isolada.					
+INFO_GOLDTRIGONALTAR	The Scythian			Além da caverna cavernosa na campina, encontramos um conjunto estranho de estruturas de pedra em uma clareira isolada.					
 			Archetype/trifecta	... Era esta a Clareira Trigonal? #trigongrove			93	016.jpg	B1D6J
 			triangle/Triangle	Enquanto estávamos junto à primeira estrutura de pedra, pensamos no Trigono Dourado e sentimos nossa espada vibrar na bainha.					
 INFO_DARKTRIGONALTAR	The Scythian			Na Clareira Trigonal, encontramos outra estrutura de pedra desgastada e coberta de musgo. #darkmoontrigon					
@@ -136,8 +136,8 @@ INFO_ROCKSHOWBOOR	The Scythian			No show de rock, vimos o Grosso Rabugento balan
 INFO_ROCKSHOWCROWD	The Scythian			No show de rock, havia uma multidão considerável de damas e cavalheiros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			No show de rock, vimos o sujeito conhecido como O Arquétipo e nos perguntamos o que ele estava tramando com tudo isso.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Um poste sinistro adornado com uma caveira com guampas conecta este lugar ao espectro imortal que espreita sob Mingi Taw.					
-GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigonal, além da caverna cavernosa no prado, avistamos uma tumba solitária que despertou nossa curiosidade.					
-GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da caverna cavernosa no prado, encontramos uma tumba solitária onde um fantasma radiante nos recebeu.					
+GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigonal, além da caverna cavernosa na campina, avistamos uma tumba solitária que despertou nossa curiosidade.					
+GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da caverna cavernosa na campina, encontramos uma tumba solitária onde um fantasma radiante nos recebeu.					
 				No início, o fantasma radiante da Clareira Trigonal nos assustou, se formos honestos.			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Ele reconheceu nossa vestimenta citiana e viu que tínhamos O Megatomo. Ele se perguntou se compreendíamos as marcas esotéricas em seu interior.					
 				Num sussurro, ele pronunciou o nome do espectro imortal que havíamos despertado na escuridão sob Mingi Taw: A Massa Gogolítica.			166	023.jpg	O2B39
@@ -195,9 +195,9 @@ LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro est
 				Já tínhamos ouvido falar dos estranhos sonhos dos montanheses de cabelo escuro do Cáucaso, então isso fazia total sentido para nós.					
 				Troncadeiro nos convidou para aquecer nossas botas junto ao fogo e sonhar com ele.			63	029.jpg	U2C92
 ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicologia mítica dos sonhos como estados separados, mas interagem de forma curiosa.					
-				O limiar da liminalidade é um espaço entre a vigília e os sonhos onde o pensamento direcionado é impossível.			56	030.jpg	13A0A
-				Procure um lugar acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminalidade.					
-ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto ao fogo na cabana e atravessar o limiar da liminalidade para encontrar a chave perdida de Troncadeiro?			55	031.jpg	23C1X
+				O limiar da liminaridade é um espaço entre a vigília e os sonhos onde o pensamento direcionado é impossível.			56	030.jpg	13A0A
+				Procure um lugar acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminaridade.					
+ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto ao fogo na cabana e atravessar o limiar da liminaridade para encontrar a chave perdida de Troncadeiro?			55	031.jpg	23C1X
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Au, Troncadeiro está muito abalado por algo... Me pergunto o que está acontecendo. Prefiro sair um momento e deixá-lo sozinho.					
 				Vi a Citiana cantar a Canção de Espadância e enviar três Espíritos Florestais ao céu. Me pergunto se eles ajudarão a dissipar a tempestade.					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que a Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um lago sereno.			62	032.jpg	U3A20
@@ -237,7 +237,7 @@ ARCHETYPE_TRIGONGROVE	The Archetype			Você está sentindo? Você está começan
 				Fui informado de que você ativou o primeiro feixe ascendente na Clareira Trigonal.					
 GIRL_CABINSHEEP	The Scythian			Perguntamos a Selene sobre as ovelhas insignificantes que estavam pastando na cabana e ela nos disse que elas se assustaram há um tempo.					
 			gourd/gourd	Contamos a Selene que enviamos cinco Espíritos Florestais ao céu e ela nos disse que talvez a época dos milagres esteja chegando.					
-				Pensamos em investigar o prado onde as ovelhas costumavam pastar.					
+				Pensamos em investigar a campina onde as ovelhas costumavam pastar.					
 LOGFELLA_CABINSHEEP	The Scythian			Troncadeiro tinha a sensação de que a época dos milagres tinha chegado e se perguntava se algo impressionante estava prestes a acontecer.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Mas o quê... A chuva parou! Será que a tempestade está começando a se dissipar? Tomara.					
 				Essa tempestade toda estava me afetando muito. Estava tudo tão sombrio!					
@@ -246,7 +246,7 @@ LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Me arrepiei... Com certeza algo es
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Au Au Au Au Au Au Au Au. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Uma vez que o sol estiver alinhado, você receberá as habilidades miraculosas de dobra do grande mago Al Jaffee.					
 				Você sente essa sensação peculiar? É a época dos milagres! Entoe a Canção de Espadância e observe os pássaros zangados surgindo imponentes.			76	038.jpg	A3G84
-ARCHETYPE_MEADOWHINTTWO	The Archetype			Olhe para o céu em busca de uma visão oblíqua sobre o funcionamento deste milagre do prado e admire o Trigono Dourado.					
+ARCHETYPE_MEADOWHINTTWO	The Archetype			Olhe para o céu em busca de uma visão oblíqua sobre o funcionamento deste milagre da campina e admire o Trigono Dourado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interessante a maneira como você lidou com o encontro com o canibal de cabeça de urso.			120	039.jpg	O3G9D
 				Não, não se preocupe, está tudo bem, é apenas interessante. Eu nunca tinha visto alguém fazer o que você fez. É excepcional, mas não se alarme.					
 				Bem, vamos continuar. Ainda há muitas coisas para você aproveitar em sua experiência com S:S&S EP, especialmente no Lado B.					
@@ -275,7 +275,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				São tempos de angústia, uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão infelizes.					
 				Desfazer a tempestade exigirá algum conhecimento em psionia, criptozoologia e milagres...					
 			adventureUI/megatomeItem	1. O toque de um espadancista liberará O Megatomo, revelando os pensamentos não expressos das criaturas vivas e outros materiais esotéricos.					
-			gourd/gourd	2. Estranhos Espíritos Florestais, fontes de Espadância, dormem em lagos, florestas e prados. Procure por suas sutis e melódicas espumas.					
+			gourd/gourd	2. Estranhos Espíritos Florestais, fontes de Espadância, dormem em lagos, florestas e campinas. Procure por suas sutis e melódicas espumas.					
 			triangle/Triangle	3. O espadancista que puder localizar, convocar e domar a geometria cósmica do Trigono Dourado possuirá a habilidade de realizar milagres.					
 				Confuso? Excelente. Mantenha a calma e siga em frente.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	Bravo! Você localizou e dominou a geometria cósmica do Trigono Dourado.			86	044.jpg	24E4H
@@ -330,7 +330,7 @@ URSULA_AVATAR			Ursula/idleSEhandsonhip
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Esses dois caras afirmavam ser parte dos criadores deste mundo estranho.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Os dois malucos afirmavam ser parte dos criadores deste mundo estranho.			159	055.jpg	A5G55
-GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um Espírito Florestal na terra fértil de um prado habitado por quatro pares de ovelhas insignificantes.			52	056.jpg	15B63
+GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um Espírito Florestal na terra fértil de uma campina habitada por quatro pares de ovelhas insignificantes.			52	056.jpg	15B63
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Cantamos a Canção da Espadamância e despertamos um Espírito Florestal das águas frescas de uma lagoa profunda, que estranho!			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um Espírito Florestal em um ninho curioso cercado por três pássaros cantores encharcados pela chuva.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um Espírito Florestal junto a uma sólida ponte de troncos, onde quatro pares de árvores se erguem sobre um rio.					
@@ -359,7 +359,7 @@ GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que a Citiana 
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido completamente louco desde que a Citiana apareceu.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Essa tempestade realmente me afetou muito. Tudo tem sido tão sombrio!					
 				A chuva começou a diminuir e o céu parece estar clareando... Será que é a época dos milagres? Espero que sim, eu definitivamente amo milagres.					
-				Au... O quê? As ovelhas no prado estão assustadas... Eu me pergunto o que está acontecendo, poderia ser... O Trigono Dourado?					
+				Au... O quê? As ovelhas na campina estão assustadas... Eu me pergunto o que está acontecendo, poderia ser... O Trigono Dourado?					
 GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Au Au Au.					
 				Às vezes, quando as coisas estão muito sombrias para mim, eu como algo e vejo até mesmo o que não está lá.					
 				Au Au Au Au Au.					
@@ -401,7 +401,7 @@ JIM_POSTSONG	The Scythian			Jim Guthrie nos ensinou que não se pode negar pensa
 JIM_LOGFELLATHOUGHTS	Logfella			A música soa tão familiar... Onde eu a ouvi antes?					
 				De repente, eu tenho essa melodia incrivelmente legal na minha cabeça. #andwegotolder					
 LOGFELLA_JIMTHOUGHTS	Logfella			Eu tive essa pequena música na minha cabeça por anos... apenas algumas notas que se repetem uma e outra vez. Eu me pergunto o que isso significa.					
-ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar com segurança o limiar da liminalidade é simples: procure por lugares familiares e pelo calor do lar.					
+ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar com segurança o limiar da liminaridade é simples: procure por lugares familiares e pelo calor do lar.					
 				Se você conseguir estabilizar sua lucidez, poderá co-criar com ela... em vez de lutar, resistir e amaldiçoá-la.					
 				Quando você está lúcido em um sonho, percebe quem imaginou ser... mas se identificar com o sonho é se deixar encantar.					
 				Mesmo em um sonho conhecido, há novos lugares para explorar e novas conexões para considerar... se você continuar acreditando.					
@@ -412,24 +412,24 @@ GIRL_HUGETREETHOUGHTS	Girl			É claro, eu nunca falo com as pessoas sobre esses 
 				Em meu sonho, há um lugar especial para onde sempre vou, um Parlamento de árvores no coração do mundo.					
 LOGFELLA_HUGETREETHOUGHTS	Logfella			Adoro ver as mesmas florestas com climas diferentes e adoro simplesmente parar e ouvir... e pensar ou não pensar, dependendo da situação.					
 				Não passo muito tempo caminhando nos meus sonhos, mas quando o faço, geralmente volto aos meus lugares favoritos para ver o que mudou.					
-MIRACLE1_MOUNTAINMEADOW	The Scythian			Realizamos um milagre dissipador de tempestades em um prado banhado pelo sol, ao estilo do louco mago Al Jaffee.					
-MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Sentimos confusão e desorientação em um prado ensolarado, com uma daquelas dores de cabeça realmente intensas.					
+MIRACLE1_MOUNTAINMEADOW	The Scythian			Realizamos um milagre dissipador de tempestades em uma campina banhada pelo sol, ao estilo do louco mago Al Jaffee.					
+MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Sentimos confusão e desorientação em uma campina ensolarada, com uma daquelas dores de cabeça realmente intensas.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Acordamos atordoados de um sono profundo, sem uma lembrança clara do que aconteceu.					
-			triangle/Triangle	Lembramos do milagre no prado e nosso encontro com o Trigono Dourado...					
+			triangle/Triangle	Lembramos do milagre na campina e nosso encontro com o Trigono Dourado...					
 			triangle/Triangle	...Quais novos poderes nos foram concedidos?					
 			triangle/Triangle	Troncadeiro ficou totalmente impressionado com o quão incrível e estranha a luta contra o Trigono Dourado soava.			81	071.jpg	R7C14
-			triangle/Triangle	Troncadeiro se perguntou se talvez o Trigono Dourado pudesse estar relacionado aos mistérios sombrios além do portão de ferro no prado...					
+			triangle/Triangle	Troncadeiro se perguntou se talvez o Trigono Dourado pudesse estar relacionado aos mistérios sombrios além do portão de ferro na campina...					
 				Troncadeiro não gostava de mistérios sombrios, então decidiu ir para casa e cortar lenha. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			O lenhador conhecido como Troncadeiro estava muito feliz por a tempestade ter se dissipado e estava animado para voltar a cortar lenha.					
-				Ele nos perguntou se sabíamos alguma coisa sobre o portão de ferro que bloqueava a caverna no prado... O que era aquilo?					
-LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Estranho... Vejo um feixe ascendente dourado na floresta atrás do prado... Alguém descobriu os segredos da Clareira Trigonal?			89	072.jpg	67F24
+				Ele nos perguntou se sabíamos alguma coisa sobre o portão de ferro que bloqueava a caverna na campina... O que era aquilo?					
+LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Estranho... Vejo um feixe ascendente dourado na floresta atrás da campina... Alguém descobriu os segredos da Clareira Trigonal?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			Estou realmente preocupado com a Citiana, ela parece estar muito abalada.					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			O lenhador e sua filha nos observaram enquanto recuperávamos a consciência.					
-				Percebemos que o prado continuava o mesmo, que todas as evidências do nosso encontro místico haviam desaparecido.					
+				Percebemos que a campina continuava o mesmo, que todas as evidências do nosso encontro místico haviam desaparecido.					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Selene ouviu em silêncio nossa estranha história sobre nosso encontro com o Trigono Dourado.					
-			triangle/Triangle	Ela se perguntou sobre os segredos da Clareira Trigonal além da caverna no prado... Poderia haver alguma conexão?					
+			triangle/Triangle	Ela se perguntou sobre os segredos da Clareira Trigonal além da caverna na campina... Poderia haver alguma conexão?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estou realmente preocupada com a Citiana... ela desapareceu por dias depois que a tempestade se dissipou. Espero sinceramente que ela esteja bem.					
-GIRL_URSULAMEADOW_OFF	Girl			Au, então a Citiana estava desacordada no prado? Que loucura.					
+GIRL_URSULAMEADOW_OFF	Girl			Au, então a Citiana estava desacordada na campina? Que loucura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Depois de ativar outro feixe ascendente na Clareira Trigonal, notamos algo peculiar no cachorro chamado Cãotrapaça.					
 			Archetype/trifecta	De repente, parecia que entendíamos o que Cãotrapaça estava dizendo, nos instigou a buscar o Trigono da Lua Sombría e completar a Tríade Trigonal.					
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Depois de ativar outro feixe ascendente na Clareira Trigonal, notamos algo peculiar no cachorro chamado Cãotrapaça.					
@@ -447,7 +447,7 @@ GIRL_AFTERYELLOWBEAM	The Scythian			Selene sentou-se em uma rocha perto do local
 				Selene nos convidou para nos sentarmos junto ao fogo na cabana de pedra sempre que quiséssemos, seja para explorar os sonhos ou recuperar as forças.					
 			Archetype/trifecta	Temos a sensação de que os dois Trigones restantes podem estar perdidos nos sonhos, ou algo assim.					
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			O lenhador conhecido como Troncadeiro voltou para cortar lenha e parecia realmente concentrado.					
-			triangle/Triangle	Troncadeiro viu o feixe ascendente na floresta atrás do prado, então perguntamos a ele sobre os segredos da Floresta Trigonal.					
+			triangle/Triangle	Troncadeiro viu o feixe ascendente na floresta atrás da campina, então perguntamos a ele sobre os segredos da Floresta Trigonal.					
 				Ele nos contou uma antiga história que seu povo costumava contar para assustar as crianças.					
 			Archetype/trifecta	Troncadeiro falou sobre uma expedição de cítios que chegou há muitas luas a estas montanhas esquecidas em busca da Tríade Trigonal.					
 			gourd/gourd	"""A expedição havia aprendido a buscar os Espíritos Florestais e enviá-los ao céu... e depois procuraram um lugar para realizar um milagre."""					
@@ -512,7 +512,7 @@ DOGFELLA_FOUNDATION	Dogfella			...
 				...					
 				...					
 LOGFELLA_DARKMOON	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta na hora antes do amanhecer, sob um céu escuro e tempestuoso.					
-				Ele mencionou uma luz rosa perturbadora e uma música misteriosa que surgiam da floresta sem nome atrás do prado.					
+				Ele mencionou uma luz rosa perturbadora e uma música misteriosa que surgiam da floresta sem nome atrás da campina.					
 				Supomos que Troncadeiro provavelmente estava se referindo ao show de rock da Lua Sombría.					
 GIRL_DARKMOON	The Scythian			Selene falou sobre caminhadas oníricas pela floresta na hora antes do amanhecer, sob um céu escuro e tempestuoso.					
 				Ela comentou como se abrigou da tempestade em uma árvore oca de proporções titânicas.					
@@ -678,4 +678,4 @@ ARCHETYPE_CREDITS	The Archetype
 				Se você quiser encomendar impressões, roupas, discos, videogames ou qualquer outra coisa, nos procure na internet!					
 				Se você gosta do estilo de entretenimento Audiovisual oferecido por S:S&S EP, por favor, ajude a divulgar!					
 				A partir de agora, seremos amigos cósmicos para sempre, valeu?			87	084.jpg	L8A48
-				Tradução para o português por @cesardeg :P.					
+				Tradução para o português por @cesardeg y @willnacimento.					
