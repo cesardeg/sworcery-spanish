@@ -53,6 +53,13 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
 				¿Tienes auriculares? ¿Estás listo para comenzar? Presiona 'jugar' y ¡empecemos!					
+ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
+	The Archetype			Damas y caballeros, ¿Qué tal si presionan sobre estos dos pequeños Espíritus Silvanos para apreciar su sistema de sonido estéreo?					
+	The Archetype			Desde nuestro experimento anterior en 2011, hemos comprobado que las redes sociales tienen un impacto perjudicial en la sociedad.					
+				En esta ocasión, promovemos el aislamiento y la reflexión llena de arrepentimiento.					
+				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
+				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
+				¿Tienes auriculares? ¿Estás listo para comenzar? Presiona 'jugar' y ¡empecemos!					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no busca ofrecer una experiencia trascendental, sino liberar el sistema nervioso de los patrones habituales.					
 				Otro aspecto de la 'configuración' es el contexto cultural y las ideas predominantes sobre la realidad y la normalidad. Por ahora, evitaremos discutir esto.					
 				La 'configuración' incluye la comodidad, seguridad y calidez del espacio en el que tendrás la experiencia.					
@@ -105,8 +112,8 @@ ARCHETYPE_UNWELLWELLOUTRO	The Archetype
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con un techo de paja al lado de un estanque profundo.					
 INFO_CABINWOODPILE	The Scythian			Descubrimos una pila de leña, pero no es para tanto.					
 INFO_SPUME	The Scythian			Encontramos las sutiles y melodiosas brumas de un espíritu silvano adormecido. Y ahora... ¿cómo lo despertamos?					
-INFO_NESTBOX	The Scythian			Encontramos una pajarera curiosa que ahora albergaba una colmena desafortunada.			13	015.jpg	B1C5F
-INFO_NESTBOXWEATHERED	The Scythian			Encontramos una pajarera desgastada que parecía una cara espeluznante.					
+INFO_NESTBOX	The Scythian			Encontramos una curiosa pajarera que ahora albergaba una colmena miserable.			13	015.jpg	B1C5F
+INFO_NESTBOXWEATHERED	The Scythian			Encontramos una desgastada pajarera que parecía una cara espeluznante.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se alzaba un mástil siniestro adornado con calaveras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cueva cavernosa en el prado, encontramos un conjunto extraño de estructuras de piedra en un claro oculto.					
 			Archetype/trifecta	... ¿Era esta la Arboleda Trigonal? #trigongrove			93	016.jpg	B1D6J
@@ -332,7 +339,7 @@ AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos tipos afirma
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Los dos chiflados afirmaban ser parte de los creadores de este mundo estrafalario.			159	055.jpg	A5G55
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en la tierra fértil de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Cantamos la Canción de Espadamancia y despertamos a un espíritu silvano de las frescas aguas de un estanque profundo, ¡Qué raro!			50	057.jpg	G5F78
-GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en una pajarera curiosa rodeada de tres pájaros cantores empapados por la lluvia.					
+GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en una curiosa pajarera rodeada de tres pájaros cantores empapados por la lluvia.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano junto a un sólido puente de troncos donde cuatro pares de árboles se elevan sobre un río.					
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano entre dos arcoíris repugnantes al lado del Precipicio Peligroso.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	La Luna Sombría reina y despertamos a un espíritu silvano rodeado por cinco cascadas.					

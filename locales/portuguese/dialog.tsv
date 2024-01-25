@@ -4,14 +4,14 @@ GIRL_TONGUES	Girl			Em uma campina banhada pelo sol, longe das estepes devastada
 SIGN_TADPOL	The Scythian			"""Lar é onde está o coração."" #letsmeetindreams"					
 SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria e Pérsia, esses são todos reinos dos homens. Mingi Tau é o Reino das Nuvens."""					
 SIGN_CHASM	The Scythian			Na beira do Precipício Perigoso, havia uma pedra esculpida com o glifo de uma espada apontando para o céu sob as cores do arco-íris.					
-				Nós, os cítios, detestamos os arco-íris. #loathsomerainbows			21	002.jpg	40C27
+				Os cítios detestamos os arco-íris. #loathsomerainbows			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			Em uma passagem lateral que se afastava do antigo caminho, encontramos uma pedra esculpida com uma série de glifos indecifráveis.					
 				No meio dos glifos indecifráveis, reconhecemos uma série de glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			Em uma passagem lateral que se afastava do antigo caminho, encontramos uma pedra esculpida com uma série de glifos lunares anteriormente indecifráveis.					
-				Os glifos falavam de um lugar secreto nas proximidades '...Lá onde se pode alterar o humor da lua'.					
+				Os glifos falavam de um lugar secreto nas proximidades «onde se pode alterar o humor da lua».					
 				A Gruta da Lua...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			À margem do antigo caminho, havia uma pedra esculpida com um par de glifos em forma de espada e escudo. #hinthint			16	004.jpg	T0C4X
-SIGN_ANTECHAMBERLEFT	The Scythian			Em um corredor subterrâneo, encontramos uma estátua sinistra, mas não nos preocupamos muito com ela. #lore			29	005.jpg	V0B53
+SIGN_ANTECHAMBERLEFT	The Scythian			Numa passagem subterrânea, descobrimos uma estátua ominosa, mas não demos muita atenção. #lore			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta íngreme de Mingi Tau, uma tumba solitária marcava o final de um caminho de cascalho.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta íngreme de Mingi Tau, uma tumba solitária marcava o final de um caminho de cascalho.					
 INFO_RIDGESKULLPOLE	The Scythian			Na crista recortada que leva ao topo de Mingi Tau, havia um poste sinistro adornado com uma caveira com guampas.					
@@ -32,7 +32,7 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Tínhamos cruz
 			adventureUI/megatomeItem	Decidimos procurar O Megatomo e depois escapar com vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	O lenhador confirmou que ele era o único com a chave da porta fechada na parede de pedra.					
 			AdventureUI/keyItem	Era uma chave realmente bonita.					
-				Estávamos totalmente preparados para manter pressionado o caminho para avançar.					
+				Estávamos totalmente preparados para manter pressionado o caminho à frente e avançar.					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	O lenhador conhecido como Troncadeiro nos esperaria aqui até voltarmos com O Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		O lenhador conhecido como Troncadeiro escolheu relaxar em um abrigo de pedra perto do Precipício Perigoso.					
 				Troncadeiro parecia saber tudo sobre o repugnante arco-íris e o glifo que representava uma espada apontando para o céu.					
@@ -47,6 +47,13 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos O Megatomo e somos
 GIRL_AVATAR			AdventureUI/dudeDAughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
+	The Archetype			Senhoras e senhores, que tal pressionarmos esses dois pequenos Espíritos Florestais para apreciar seu sistema de som estéreo?					
+	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto prejudicial na sociedade.					
+				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
+				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
+				Você encontrará que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
+				Você tem fones de ouvido? Está pronto para começar? Pressione 'jogar' e vamos lá!					
+ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Senhoras e senhores, que tal pressionarmos esses dois pequenos Espíritos Florestais para apreciar seu sistema de som estéreo?					
 	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto prejudicial na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
@@ -476,7 +483,7 @@ MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Além disso... carregar o Megato
 				Sentimo-nos um pouco mal... provavelmente tem algo a ver com todos esses raios laser cósmicos.					
 				Quando a luz e o som diminuíram, nos encontramos encharcados pela chuva fria no meio de um Parlamento de árvores.					
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Falamos com Samae sobre nosso encontro onírico com o Trígono da Lua Sombria e nossas intenções de reconstruir a Tríade Trigonal.					
-				Contamos a ela como neutralizamos o repugnante ataque arco-íris do Trígono da Lua Sombria e ela ficou impressionada.					
+				Contamos como neutralizamos o odioso ataque arco-íris do Trígono da Lua Sombria e ela simplesmente disse «legal».					
 				Parecia não se importar em ouvir nossas histórias extravagantes.					
 LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			O lenhador pôde ver que nossas caminhadas oníricas e a realização de milagres tiveram um grande custo em nossa saúde física.					
 			Archetype/trifecta	Troncadeiro nos perguntou se visitamos Cachorreiro no Bosque Trigonal... Talvez possamos ativar outro feixe ascendente?					
