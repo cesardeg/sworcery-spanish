@@ -6,9 +6,9 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 |--------------------------|-----------------------------|----------------------------|
 | The Scythian             | La Escita                   | A Citiana                  |
 | The Archetype            | El Arquetipo                | O Arquétipo                |
-| Logfella                 | Troncucho                   | Troncadeiro                |
-| Dogfella                 | Chucho                      | Cãotrapaça                 |
-| Girl                     | Leyla                       | Selene                     |
+| Logfella                 | Troncales                   | Troncadeiro                |
+| Dogfella                 | Perrales                      | Cachorreiro                 |
+| Girl                     | Samae                       | Samae                     |
 | The Grizzled Boor        | Tosco Pardo                 | Grosso Rabugento           |
 | The Gogolithic Mass      | La Masa Gogolítica          | A Massa Gogolítica         |
 | Sylvan sprite            | Espíritu silvano            | Espírito florestal         |
